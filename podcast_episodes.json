@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:59:25.310Z",
+  "updatedAt": "2026-08-12T03:39:37.730Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -10,7 +10,8 @@
       "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2ygrc.mp3",
       "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
       "durationSeconds": 399,
-      "datePublished": 1786007460
+      "datePublished": 1786007460,
+      "transcript": null
     },
     {
       "feedId": 60308,
@@ -21,7 +22,8 @@
       "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1q8ns.mp3",
       "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
       "durationSeconds": 397,
-      "datePublished": 1785420840
+      "datePublished": 1785420840,
+      "transcript": null
     },
     {
       "feedId": 980370,
@@ -32,7 +34,8 @@
       "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b3a301549db32d42f0931/media.mp3",
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
       "durationSeconds": 997,
-      "datePublished": 1786460719
+      "datePublished": 1786460719,
+      "transcript": null
     },
     {
       "feedId": 980370,
@@ -43,7 +46,8 @@
       "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3",
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
       "durationSeconds": 735,
-      "datePublished": 1786374070
+      "datePublished": 1786374070,
+      "transcript": null
     },
     {
       "feedId": 827592,
@@ -54,7 +58,765 @@
       "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/751b5230-fe86-434d-80dd-b4a20165416c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
       "imageUrl": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
       "durationSeconds": 3269,
-      "datePublished": 1786438800
+      "datePublished": 1786438800,
+      "transcript": [
+        {
+          "startSeconds": 1,
+          "text": "Speaker 1: Welcome to Stuff You Should Know a production of iHeartRadio. Hey, and welcome to the podcast. I'm Josh, and there's Chuck and Jerry's here too, machine Gun Jerry Rowland and this is Stuff you Should Know about Bonnie and Clyde. A true crime edition but also a folk hero edition."
+        },
+        {
+          "startSeconds": 25,
+          "text": "Speaker 2: That's right, and it's given me an opportunity to get that Bonnie and Clyde song stuck in my head all day, which is great because I've never heard that song, Bonnie and Clyde. Bonnie and Clyde, I think you're just making that up now, it's for real. I think it was Serge Gainsbourg, but I know the Luna version."
+        },
+        {
+          "startSeconds": 47,
+          "text": "Speaker 1: I came across that mention of that, so yeah, it was Serge Gainsburg and Brigie Bardot."
+        },
+        {
+          "startSeconds": 53,
+          "text": "Speaker 2: Yeah, but Luna covered it. And speaking of Luna leader, Dean Wareham's brother Anthony as a listener, So hello Anthony."
+        },
+        {
+          "startSeconds": 62,
+          "text": "Speaker 1: Wow, we finally got to Anthony."
+        },
+        {
+          "startSeconds": 65,
+          "text": "Speaker 2: I tried to buy Dean's guitar off of Instagram a few weeks ago. How did he go, Well, he put his guitar up and it's the one that's on the cover of his book Black Postcards. And he's used in the studio and on tour. And I was like, huh, let me just see how much he wants and he said, I missed it by a day, so it stinks."
+        },
+        {
+          "startSeconds": 85,
+          "text": "Speaker 1: Well, maybe Anthony can pull some strings for you."
+        },
+        {
+          "startSeconds": 87,
+          "text": "Speaker 2: Yeah, like steal a guitar from Dean and just send it my way."
+        },
+        {
+          "startSeconds": 90,
+          "text": "Speaker 1: Yeah. And if Anthony did that, he'd be a lot like Clyde Barrow or Bonnie Parker."
+        },
+        {
+          "startSeconds": 96,
+          "text": "Speaker 2: Yeah. Man, these guys like to steal stuff."
+        },
+        {
+          "startSeconds": 99,
+          "text": "Speaker 1: So yeah, I did you see the PBS documentary, the American Experience documentary on him. No, just it, it's worth watching. I haven't seen the movie. So you put the two of us together, we have a full comprehension, right."
+        },
+        {
+          "startSeconds": 110,
+          "text": "Speaker 2: That's how it works."
+        },
+        {
+          "startSeconds": 112,
+          "text": "Speaker 1: But they kind of they basically got across that they stole, or Clyde stole just literally a way of life, like he stole cars to get around, he stole money to buy food with, like he that's just how he lived. And they make the point. And I think Lvia Olivia helped us with this. I she kind of makes the point too, like these were the options that were open to them, especially Clyde because he was raised dirt poor during the depression, and like a lot of people were poor during the depression. So if you were dirt poor during the Depression, you were really really poor. And that's the life that that Clyde Barrow was born into."
+        },
+        {
+          "startSeconds": 152,
+          "text": "Speaker 2: Yeah for sure, and you know, not to excuse crime, but that was just his background and not to you know, they've been glorified over the years, but kind of reading through this, it was like, oh, man, they like just would murder people at will, again usually to get out of a scrape, but still just like killing people left and right, just you know, to not get caught."
+        },
+        {
+          "startSeconds": 174,
+          "text": "Speaker 1: Yeah, particularly cops. And there's some disputes over there's a pair of patrol men that were killed, and it's disputed whether Bonnie was one of the gunmen or not. There's some other crimes that they have had attributed to them that may or may not have been there doing, but there are definitely there's a the path behind them was littered with dead cops that they definitely murdered. They were known to like if a cop came up to him, even if they had no idea who they were and were trying to help, they just opened fire and killed the guy. Like that was definitely their mo typically with cops though, and this isn't like justify it, but this was also the era where the cops would just open fire on you too. There wasn't like I put your hands up kind of stuff. It was like, you're an outlaw. I'm going to start shooting at you first, ask questions later."
+        },
+        {
+          "startSeconds": 227,
+          "text": "Speaker 2: Yeah, not like these days where cops and ice never just kill people, right, bad joke? Yeah, all right, well, and you know it. And maybe I'll make this point later too. But and again it doesn't justify it. But after Clyde's prison stent early on, like he was to me like clearly killing people, so he would never ever have to go back to prison, right you know."
+        },
+        {
+          "startSeconds": 256,
+          "text": "Speaker 1: Yeah, and you can kind of get that after you hear about his time in prison and how much he hated it."
+        },
+        {
+          "startSeconds": 261,
+          "text": "Speaker 2: Yeah, so let's get going and talk about Clyde first. I know it's Bonnie and Clyde, but we're going Clyde and Bonnie initially."
+        },
+        {
+          "startSeconds": 268,
+          "text": "Speaker 1: Ooh."
+        },
+        {
+          "startSeconds": 269,
+          "text": "Speaker 2: He was born in Texas in nineteen oh nine, in Teleco And you know, when he was a kid, he I don't think this necessarily means he was set for a life of crime. So a lot of kids played gangster play outlaw and that's but that's what he did. And in the twenties they moved to a very very very poor neighborhood in West Dallas and we're homeless as a family for a while. And his brother Buck Barrow and Clyde started you know, early on, like stealing food, like you mentioned, stealing turkeys, and then that graduated to robbery and car theft and stuff like that, to the point where he was eventually arrested for the first time when he was seventeen for car theft."
+        },
+        {
+          "startSeconds": 309,
+          "text": "Speaker 1: Yeah. This was not him boosting a car, which was basically how he got every other car. He actually went and rented a car and then a girlfriend and then didn't take it back."
+        },
+        {
+          "startSeconds": 320,
+          "text": "Speaker 2: Yeah, that's stealing, though, you know, no, it definitely ok."
+        },
+        {
+          "startSeconds": 323,
+          "text": "Speaker 1: Death by taking I think, But I think also you can implicate the car rental place for renting a car to a seventeen year old."
+        },
+        {
+          "startSeconds": 330,
+          "text": "Speaker 2: Yeah. I was also quite frankly surprised to learn that they had car rental services in nineteen twenty six."
+        },
+        {
+          "startSeconds": 335,
+          "text": "Speaker 1: Yeah, although it was probably just some dude in town who'd let you take his car for ten."
+        },
+        {
+          "startSeconds": 340,
+          "text": "Speaker 2: Bucks or something, but you got to be thirteen."
+        },
+        {
+          "startSeconds": 343,
+          "text": "Speaker 1: Right, So yeah, that was his first brush with the law, and that was certainly far from his last. And that's Clyde. His middle name was Chestnut, by the way, which I thought was pretty cool, very cute. Bonnie's middle name was Elizabeth. Her name was Bonnie Elizabeth Parker. She was born into different circumstances than Clyde. Her mom was a seamstress, her dad was a bricklayer, but she was born in Rowena, Texas, and after her father died, the family had very little means of supporting themselves, and her mom was I think her mom's name was Emma. She was basically left to raise three very little kids on her own. So they ended up in the same area roughly where Clyde and his family were. Basically, I saw it put that they were both from the same side of the tracks, despite Bonnie's mom raising her and her siblings to be respectable and up to feel that they were above their circumstances rather than you know, part of their circumstances for sure."
+        },
+        {
+          "startSeconds": 407,
+          "text": "Speaker 2: So you know, this was the early nineteen hundred, so a lot of times you would find kids dropping out of school or getting married at very young ages, and that's what happened with Bonnie. At fifteen, she married a guy named Roy Thornton who was a criminal, so that kind of gave her a taste of that lifestyle. They weren't together too long, I think about four years, even though they never officially legally got divorced, and finally hooked up with Clyde in nineteen thirty when he was twenty and she was nineteen. And it wasn't long after they got together that Clyde went to prison for car theft and burglary again just sort of doing the same fairly low stakes crimes at the time, and she got him out of jail. She smuggled in a gun and helped him escape basically with two other inmates. They were all three recaptured though, and that's when he got his kind of really tough stint in prison."
+        },
+        {
+          "startSeconds": 465,
+          "text": "Speaker 1: Yeah, they send him to fourteen years hard labor on the East of Prison farm, which was a notorious farm in the Texas pedals system where you would just get beaten for no reason by the guards who were just completely beyond the law. And he was also he had been taken remember he's still pretty young at this time. He was basically claimed by another inmate who raped him repeatedly and beat him repeatedly, and he essentially was like, this is my life now for at least the next fourteen years. And there he finally was tired enough of it that he smuggled a galvanized pipe into the cells with him and he walked to the showers, knowing that this guy was going to follow him, and the guy did, and Clyde suddenly turns on him and beat him over the head until he was dead with the lead pipe. And I think one thing that really kind of gets across, like how Clyde was. He was kind of a likable person throughout his life, but especially at this time. Another inmate who already had a life sentence he was never getting out, he took the blame so that Clyde wouldn't basically ruin his future for killing the man who'd been raping him."
+        },
+        {
+          "startSeconds": 538,
+          "text": "Speaker 2: Yeah. I mean, hey, it's a pretty stand up thing to do for that guy in prison."
+        },
+        {
+          "startSeconds": 545,
+          "text": "Speaker 1: It totally is. It's like I donated a kid need to a stranger. Oh yeah, well I took a murder rap so a kid wouldn't who was doling out his own justice wouldn't ruin his life."
+        },
+        {
+          "startSeconds": 554,
+          "text": "Speaker 2: Yeah, So you know that's what I was referencing when it You know, it seems that Clyde did everything, including killing cops, that he could to stay out of jail. Again again, not excusing to killing a police, just kind of kind of lay down the reality of being assaulted in prison like that."
+        },
+        {
+          "startSeconds": 570,
+          "text": "Speaker 1: I think you're explaining his mindset. That's legitimate."
+        },
+        {
+          "startSeconds": 573,
+          "text": "Speaker 2: Yeah, okay, So one of the other things. I don't think Clyde was ever accused of being like the smartest guy in the world, because at one point he cut off two of his toes to avoid the hard labor part of the hard labor prison, and less than a week later he was freed when in his mother petitioned for parole. So I didn't time that one out quite right."
+        },
+        {
+          "startSeconds": 598,
+          "text": "Speaker 1: No, he was also, I guess, not known as the luckiest guy around too. Yeah, he spent so he spent less than two years in prison. But in that time he changed like fundamentally before, like you said, fairly light stuff, boosting cars, stealing truckloads of turkeys, that kind of stuff. But there was another guy that he was in the prison with who said that before his very eyes he saw Clyde change from a schoolboy to a Rattlesnake, and even Bonnie. Later on, in a poem that she wrote she used to write poetry, she mentioned that that Clyde was basically a victim of unfair institutionalization. Basically that that's what that's why he was the way he was."
+        },
+        {
+          "startSeconds": 644,
+          "text": "Speaker 2: I gotta say, every time you say boosted a car, it makes you sound super street."
+        },
+        {
+          "startSeconds": 649,
+          "text": "Speaker 1: It sound like a fifties greaser in the seventies."
+        },
+        {
+          "startSeconds": 653,
+          "text": "Speaker 2: Yeah, instead of stealing a car, Like I'm not cool, I don't say boosting a car."
+        },
+        {
+          "startSeconds": 657,
+          "text": "Speaker 1: I guess you could say stealing. Yeah, I was gonna say, I don't know any other way to put it. But I mean, I guess it's just because I'm from the streets."
+        },
+        {
+          "startSeconds": 663,
+          "text": "Speaker 3: You know."
+        },
+        {
+          "startSeconds": 663,
+          "text": "Speaker 2: It's about to say, you're like, oh wait, there's a word for boosting a car, stealing steel. Yeah, they don't teach that on the street. So I don't blame you. So Clyde was released, like we said, when his mother petitioned for that release, and he went right back to robbing, you know, gas stations, convenience store stuff like that. He had his first sort of partner in crime. His name was Ralph Foltz, and Bonnie was kind of joined up with them as the first version of the Barrow Gang, just the three of them, even though like you know, parents on both sides were like, Bonnie, you can't join up with this criminal gang, Like please, don't do it, and she's like, I love my man."
+        },
+        {
+          "startSeconds": 706,
+          "text": "Speaker 1: Yeah, she said, I like the bad boys for sure."
+        },
+        {
+          "startSeconds": 709,
+          "text": "Speaker 2: Yeah."
+        },
+        {
+          "startSeconds": 709,
+          "text": "Speaker 1: But you know, one of the reasons why we still know about Bonnie and Clyde not just because they became celebrities, but also because they were just totally in love with one another."
+        },
+        {
+          "startSeconds": 721,
+          "text": "Speaker 3: Yeah."
+        },
+        {
+          "startSeconds": 721,
+          "text": "Speaker 1: Like basically every single outlaw romance or love story that you've ever seen, and the movies are on TV, is in one way or another based on Bonnie and Clyde. Oh yeah, that's my theory. Yeah. I should probably say this is not you know, something from an academic journal I read, but."
+        },
+        {
+          "startSeconds": 742,
+          "text": "Speaker 2: A white paper, as Emily would say."
+        },
+        {
+          "startSeconds": 744,
+          "text": "Speaker 1: Yeah, exactly right, it's it's something I'm working on."
+        },
+        {
+          "startSeconds": 748,
+          "text": "Speaker 2: Emily."
+        },
+        {
+          "startSeconds": 748,
+          "text": "Speaker 1: Emily's got one for everything, doesn't she."
+        },
+        {
+          "startSeconds": 750,
+          "text": "Speaker 2: Oh yeah, when I like, you know, when she'll just sort of make a claim or something else and not to its challenger, I'll just be like, are you sure about that or something, and She'll be like, well, I don't have a white paper. On it all right, I know that's the time."
+        },
+        {
+          "startSeconds": 762,
+          "text": "Speaker 1: To back off, Thank you, Emily."
+        },
+        {
+          "startSeconds": 765,
+          "text": "Speaker 2: So in April of thirty two, and you know, we should point out this is over just a couple of years that all of derrib shenanigans took place. Yeah, so we're gonna be spitting out dates kind of Fast and Furious. But in April of speaking of boosting cars of thirty two, did you get that one?"
+        },
+        {
+          "startSeconds": 783,
+          "text": "Speaker 1: Hm?"
+        },
+        {
+          "startSeconds": 783,
+          "text": "Speaker 2: Hmmm, Fast and Furious?"
+        },
+        {
+          "startSeconds": 785,
+          "text": "Speaker 1: Oh oh, did they boost cars? I thought they There were extensive, lengthy scenes of them negotiating at car dealerships. Actually they're purchasing."
+        },
+        {
+          "startSeconds": 794,
+          "text": "Speaker 2: I think saw you got to sell me this car? It's about family. I only know that line about family as a reference because I've only seen one of that. I think I saw that very first movie, did you. I'm not familiar with the Fast and the Furious verse, But were they even Carthy's I think they were right."
+        },
+        {
+          "startSeconds": 813,
+          "text": "Speaker 1: I probably, I mean they were definitely. I get the impression that they were on the wrong side of the law, the right side."
+        },
+        {
+          "startSeconds": 819,
+          "text": "Speaker 2: Of Justice's man, that's the log line. Did you you didn't see any of those? No, not even the first one. No, you say that like you have that I know I'm starvage movies before."
+        },
+        {
+          "startSeconds": 830,
+          "text": "Speaker 1: Sorry, but it's also the highest grossing movie franchise in the world ever."
+        },
+        {
+          "startSeconds": 835,
+          "text": "Speaker 2: Well it's because there's thirty seven of them."
+        },
+        {
+          "startSeconds": 838,
+          "text": "Speaker 1: I mean, that's definitely part of it. But also people prettily like car movies."
+        },
+        {
+          "startSeconds": 842,
+          "text": "Speaker 2: They do, they're supposed to be good, all right. So back to after pointing out my dumb pun. April of thirty two, Bonnie and Ralph Fultz, who was the guy who he initially hooked up with and then gang they were arrested trying to rob a hardware store and she got out, was never indicted at least, and Ralph was convicted, and while she was sort of being investigated for indictment, Clyde and his other boys are still out there again. Robin banks, Robin stores, gas stations, all pretty And this is one reason they got away with it for so long is they never did like these huge things. They were kind of in small towns Robin, you know, kind of backwater grocery stores and stuff."
+        },
+        {
+          "startSeconds": 882,
+          "text": "Speaker 1: It's key."
+        },
+        {
+          "startSeconds": 883,
+          "text": "Speaker 2: But it was at one of these robberies where the first murder happens when a store owner and one of the only non cops, a guy named John Butcher, was killed."
+        },
+        {
+          "startSeconds": 894,
+          "text": "Speaker 1: Yeah, and it's also not clear whether it was Clyde that did it. Yeah, I don't think anyone thinks it was Bonnie. I'm yeah, she was in jail, I think, like you said at the time, Yeah, definitely wasn't her. There was. He was with an associate named Raymond Hamilton, and Raymond Hamilton and Floyd Hamilton would kind of come in and out of the Barrow gang, and I got the impression that, like Clyde was definitely one of the more stand up gangsters, of the people in his gang, that he ran with some shady, shady dudes that were way more murderous than him, and that it was just basically him being pragmatic, like he just had a small pool of people who he knew could help him rob a store at any given time, so he had to kind of hang out with these shady people. I get the impression the otherwise wouldn't have necessarily."
+        },
+        {
+          "startSeconds": 943,
+          "text": "Speaker 2: Yeah, I sort of do too. Yeah. So that was in April of the first murder. The second murder was in August of that year when Clyde and Raymond and another you know guy that they was sort of in and out of the gang killed an undershare if I guess, which is sort of like a deputy named Eugene Moore in Stringtown, Oklahoma, and then went back to Dallas around Christmas and Clyde talked to a kid, basically a sixteen year old named w D. Jones into joining up with the gang. And on Christmas Day, which was the next day, they killed another guy named Doyle Johnson while stealing his car, and Clyde was like, all right, kid, like, you got to stay with us now otherwise like they're going to get you for this murder."
+        },
+        {
+          "startSeconds": 990,
+          "text": "Speaker 1: Yeah, and w D being sixteen at the time, was like, oh God, I have no choice. I have to turn to a life of crime now. I'm in too deep. As Phil Collins would later saye so he did. He stuck around and he and Bonnie and Clyde were essentially the first cohesive Bonnie and Clyde gang, Yeah, because they stuck together for quite a while."
+        },
+        {
+          "startSeconds": 1015,
+          "text": "Speaker 2: A member."
+        },
+        {
+          "startSeconds": 1016,
+          "text": "Speaker 1: She did a lot of stuff. Everything we're talking about here, every signify thing, which is usually the murder of a cop. They're in between those, there's handfuls and handfuls of robberies and you know, shootouts and stuff like that that they engaged and they were on the run and on the move and under the gun. Yeah, every moment from the start to their death. Over the course of this two something years, they were just constantly in action. Even when they took a vacation, as we'll see in Joplin, Missouri, they ended up in a shootout."
+        },
+        {
+          "startSeconds": 1050,
+          "text": "Speaker 2: Yeah, there was a lot of gunplay. I mean that was at Christmas when the second murder happened. In January, there was another murder and this was just a sort of an unlucky circumstance when they walked into an ambush, but it wasn't for them, it was for a different target, but it was an ambush nonetheless. So they killed the deputy sheriff named Malcolm Davis. And for the next couple of months, basically early thirty three through the spring, it was Zora, Arkansas, Oklahoma, stealing boosting cars how to say it, right, Yeah, boosting cars. And you know, if you've ever seen the very famous photos that looks like, hey, this looks sort of like a photo shoot of these criminals, that's kind of exactly what it was. It was during this time that w D took these photos of them, these very famous photos. One of which I'm sure you saw this one online. Somebody did a really good job colorizing the one where he's kind of lifted Bonnie up and like colorized and retouched to where it looks like a modern photo. There's like a lot of clarity because otherwise they're sort of grainy black and white. But yeah, you get your with this color photo. You get a really good look at like who they were, and they they you know, Fade Dunaway and Warren Batty played them for a reason, like they were both like pretty attractive people."
+        },
+        {
+          "startSeconds": 1136,
+          "text": "Speaker 1: Yeah, and I didn't know this, but Bonnie was really Dnkham's. Like she was under what is that she was under five feet tall and weighed eighty five pounds."
+        },
+        {
+          "startSeconds": 1146,
+          "text": "Speaker 2: That's a Dnkham's."
+        },
+        {
+          "startSeconds": 1147,
+          "text": "Speaker 1: Yeah, that's a dnkham Never heard of that. I guess it's it's mine. Oh okay, like being white papered. It's on archive right now."
+        },
+        {
+          "startSeconds": 1158,
+          "text": "Speaker 2: Well you means it to a small person, do you say, come here, little Dinkams? Is that where it comes from?"
+        },
+        {
+          "startSeconds": 1161,
+          "text": "Speaker 1: Yeah? Drives her crazy, She's like, put me down, all right?"
+        },
+        {
+          "startSeconds": 1166,
+          "text": "Speaker 2: Yeah, she was a Dnkhams. That's why he was just sort of holding her up with one arm."
+        },
+        {
+          "startSeconds": 1169,
+          "text": "Speaker 1: I guess yeah. And also it would come in handy later when she injures her leg, right, because she had to be carried quite a bit. But so around this time those photos, like you said, they'll they'll come back in again. But around this time, I guess in March. This is January when they started shooting at the cops again. December and January art shooting at the cops again, right, so this is this is March. And when Clyde's brother Buck shows up, and Buck had been in pre remember he basically taught his little brother Clyde how to be a criminal, but not a murderous criminal. Clyde learned that on his own, remember, Yeah. And Buck's wife Blanche came along. So now they had a two couple gang with a fifth wheel in WD Blanche and Buck and Bonnie and Clyde in poor little w D, who again is like sixteen, maybe seventeen by now, and after like this at least a year of just constant crime, they're like, let's take a vacation in Joplin, Missouri, Missouri, right, that's how they say it. Yeah, And they were there for thirteen days before the cops got called on them because they were basically being noisy drunks in a neighborhood, and the neighbors were like, these are probably bootleggers because this is you know, I guess it's after prohibition, shortly after prohibition, but still, these bootleg operations were so successful. I'm sure they just didn't go away immediately."
+        },
+        {
+          "startSeconds": 1262,
+          "text": "Speaker 2: Yeah, they're like, whoever's at this airbnb is really dragging the neighborhood down."
+        },
+        {
+          "startSeconds": 1267,
+          "text": "Speaker 1: Yeah, that's exactly right."
+        },
+        {
+          "startSeconds": 1269,
+          "text": "Speaker 2: So they did call the cops and another gunfight. You know, the cops come up and, like you said, this is just a time where people are just opening fire all over the place, and they killed two cops, Harry McGinnis and Wes Harryman, and the gang got out of there and wd his nickname was Little Forty. He was shot in the side and recovered and they somehow, with those old cars in the nineteen thirties, drove about six hundred miles overnight to Shamrock, Texas."
+        },
+        {
+          "startSeconds": 1299,
+          "text": "Speaker 1: It's a long drive, yeah, because Clyde was a professional getaway driver. He was really good at stealing cars and he was really good at driving cars fast."
+        },
+        {
+          "startSeconds": 1309,
+          "text": "Speaker 2: Yeah, should we take a break, Yes, I."
+        },
+        {
+          "startSeconds": 1313,
+          "text": "Speaker 1: Think that's a great idea."
+        },
+        {
+          "startSeconds": 1314,
+          "text": "Speaker 2: Chuck, all right, we'll be right back with more on B and C."
+        },
+        {
+          "startSeconds": 1330,
+          "text": "Speaker 3: Burning Stoffy jaw Sh shows Soffi."
+        },
+        {
+          "startSeconds": 1338,
+          "text": "Speaker 2: S all right, So we're back with Bonnie and Clyde. They are starting to get a little bit of press at this point, and the newspapers show up at the hide out in Joplin, Missouri, at the Airbnb once they found out what was going on. They found you know, guns, they found this poem that Bonnie had written, which we'll get to in a second little more detail. They found that undeveloped film, so you can imagine they developed that film of these like soon to be infamous photos of Bonnie with a cigar and all this stuff, and it was front page stuff, and like everybody was all of a sudden, like really kind of captured by the allure of these gangsters."
+        },
+        {
+          "startSeconds": 1383,
+          "text": "Speaker 1: Yeah, because not only are they like doing you know, news paper article worthy crimes, getting away from the cops, killing cops. Now there's photos that they can run alongside of them. So everybody starts getting in on the act, not just the press, but also true crime magazines, newsreels. Like they became famous overnight, Like they were already local legends in Texas after those photos started getting published on the wire. That was when they just really became icons."
+        },
+        {
+          "startSeconds": 1415,
+          "text": "Speaker 2: Yeah, I mean attractive young lovers. They're having a good time because in these photos they're like goofing off and having fun, so obviously just something that's going to capture the public's attention. They published that poem that you referenced earlier. This was called the Story of Suicide sal and I read the poem. I'm sure you did too. She wrote this in jail when she was briefly in jail in nineteen thirty two. And you know, it's an okay poem. It's not the greatest thing in the world. But when I was reading it, I was like, I wonder if anyone's ever put this to song. I was like, surely someone has, and I went online. I was like, oh, yeah, there it is. And I went and played it and I was listening to it and it was this woman and it was like a country sort of version. I was like, wait a minute. I was like this, I bet this is not real. And I looked of course it was freaking Ai from like February of this year, like all completely fake, and I was just it left a really nasty taste in my mouth."
+        },
+        {
+          "startSeconds": 1472,
+          "text": "Speaker 1: I'm sure, and well it should man, Yeah, you got duped by AI. Somebody said, AI make a song out of this Bonnie Parker poem in the in the in the the style of Juice Newton."
+        },
+        {
+          "startSeconds": 1488,
+          "text": "Speaker 2: It was more like, I don't know, I can't think of a country singer like."
+        },
+        {
+          "startSeconds": 1492,
+          "text": "Speaker 1: New country stuff like country pops."
+        },
+        {
+          "startSeconds": 1494,
+          "text": "Speaker 3: Yeah."
+        },
+        {
+          "startSeconds": 1494,
+          "text": "Speaker 2: I mean it wasn't poppy. It sounded country. But the way the woman's the fake woman's voice, I don't we want to call her a woman. The computer voice mm was just super sort of modern Nashville polished. Yeah."
+        },
+        {
+          "startSeconds": 1507,
+          "text": "Speaker 1: Yeah, I hope AI, when they take over, don't come back and punish us for saying things derogatory things like we've said about them over the years."
+        },
+        {
+          "startSeconds": 1516,
+          "text": "Speaker 2: Remember, Yeah, I remember the guy on the train in Canada that I overheard talking about AI. Was on the ride from uh yeah, uh Ottawa to Toronto."
+        },
+        {
+          "startSeconds": 1526,
+          "text": "Speaker 1: Yeah, but I don't remember what he said."
+        },
+        {
+          "startSeconds": 1528,
+          "text": "Speaker 2: He said, he's talking about AI. He's like, some people don't like it, some people do like it. He's like, I mean I can't wait for AI to get here, like it was coming to dinner. I was like, oh, it is here, my friend, Yeah."
+        },
+        {
+          "startSeconds": 1540,
+          "text": "Speaker 1: Sweet, sweet to get off the more often."
+        },
+        {
+          "startSeconds": 1542,
+          "text": "Speaker 2: Yeah, I tell you what, he knew a lot about NHL hockey though."
+        },
+        {
+          "startSeconds": 1545,
+          "text": "Speaker 1: I'll bet this, like basically every Canadian does. Yeah, one thing about that poem too, So in it she uses a bunch of like slang, like like underworld slang basically yeah, but it's still a serviceable poem, especially for a twenty two year old who dropped out of school at fifteen. And I think that that's like a really good back of the envelope sketch of Bonnie's personality. She was very bright, she excelled in school, but she dropped out at fifteen, and she was fascinated with the underworld and like outlaw stuff so much so that she started living that life because she found a guy who was living in that life and she decided to be with them, you know, So that was that's her basically encapsulated."
+        },
+        {
+          "startSeconds": 1592,
+          "text": "Speaker 2: Yeah, I totally agree. So there the public again is enthralled at this point. They're in like the true detective mysteries magazines and stuff like that. In nineteen you mentioned that Clyde loved cars and like loved to boost them and also drive them, and he loved Fords, and he wrote a letter in nineteen thirty four supposedly. I don't think they verified it from him, but it certainly sounds like it was to me. Wrote a letter to Henry Ford and he said. Part of the letter says, while I still have got breath in my lungs, I will tell you what a dandy carr you make. I have drove forwards exclusively when I could get away with one for sustained speed and freedom from trouble. To Ford has got every other car skin. There's your ad. And even if my business hasn't been strictly legal, it don't hurt anything to tell you what a fine car you got in the V eight and judging from you know, we later got poems from Clyde as well, and there are a lot of misspellings and stuff. And I said he wasn't, you know, the brightest bulb because of his upbringing, of course, but it sounds to me pretty legit."
+        },
+        {
+          "startSeconds": 1658,
+          "text": "Speaker 1: Yeah, yeah, I think at least Henry Ford was like, it's legit enough to have his secretary Kraft to thank you letter to sounds back pretty funny, yeah, And you said that that like they were, you know, they become popularizing true crime magazines in part as like folk heroes, Like I said, at the outset, And one of the reasons why is they're committing these crimes at the height of the depression or the depth of the depression. Yeah, and people were rooting for people who did things like rob banks because the banks were the villains at the time. They were foreclosing on like hard working, honest people, and so if you robbed a bank, you kind of automatically became a folk hero. And people like Bonnie and Clyde so much that those true crime magazines basically attributed scores of bank robberies to them that they never did."
+        },
+        {
+          "startSeconds": 1707,
+          "text": "Speaker 2: Yeah, for sure."
+        },
+        {
+          "startSeconds": 1708,
+          "text": "Speaker 1: Apparently they were popular enough that banks would if they got robbed, they'd be like, yeah, Bonnie and Clyde just robbed us, just to have that brush with celebrity, even if it wasn't them."
+        },
+        {
+          "startSeconds": 1719,
+          "text": "Speaker 2: Yeah, I mean, get it in the paper for sure. They also, you know, they did kill a lot of cops, but they also let a lot go by way of kind of taking them with them, which is technically kidnapping. Sometimes cops sometimes civilians that would they would kidnap and then just drop them off in the middle of nowhere, basically so they didn't have to kill them, which you know, that was a better choice, I guess. And they were also like, you know, this is a time where you get away with crime a lot easier and come and go as a lot easier, just because of communications and the way things worked. And they would, you know, they'd go home and like visit their families and stuff and not get caught, Like they didn't have their famili's homes staked out at this point."
+        },
+        {
+          "startSeconds": 1762,
+          "text": "Speaker 1: No, But they were also really safe about it. They were very smart, Like they write a message in a coke bottle and just throw it out of the car as they were driving past at their mom's house or whatever. Like they were smart. They assumed the phones were tapped and all that stuff. But if you're an outlaw that are well known around those parts, just show up at home is still pretty pretty risky, oh for sure. So after Joplin, after the little vak in Joplin that ended on a shootout with the cops and the death of two cops, they kept moving. They got back on the road and they were in a car wreck actually at one point like a couple months later, and they it was a bad crash. The Clyde was going really fast. They rolled the car and Bonnie got third degree burns on her leg. I saw from one account that she was burned because the car caught on fire. Another account said that it was acid from the battery. Either way, she had third degree burns down to her bones and no options about going and getting actual medical treatment. So she had. She was in a lot of pain and limped and hopped and was carried in some cases for the rest of her life."
+        },
+        {
+          "startSeconds": 1835,
+          "text": "Speaker 2: Why does it surprise me that cars had batteries? Then?"
+        },
+        {
+          "startSeconds": 1839,
+          "text": "Speaker 1: I think that was actually very new, and that was one of the reasons Clyde was able to steal so many cars is because you could hot wire them. Now, oh okay, I think that was super new."
+        },
+        {
+          "startSeconds": 1850,
+          "text": "Speaker 2: All right, which is probably what it leaked all over Bunny."
+        },
+        {
+          "startSeconds": 1854,
+          "text": "Speaker 1: Yeah."
+        },
+        {
+          "startSeconds": 1854,
+          "text": "Speaker 2: I guess they didn't have the caps."
+        },
+        {
+          "startSeconds": 1856,
+          "text": "Speaker 1: No, They're like, just don't tip it over, don't roll your car over, and everything should be fine, all."
+        },
+        {
+          "startSeconds": 1862,
+          "text": "Speaker 2: Right, So good driver, except when he's crashing cars. Later they wrapped. I think that was in June of thirty three, they robbed a store in Alma, Texas, another gunfight with two cops, and they killed another cop, Marshall Henry D. Humphrey escaped again in July. They were not at that Airbnb, but they went to a different one in Missouri, another guesthouse, and the owner and I never had heard of this, but it makes sense if you, apparently back then, if you would back a car, and they called that like gangster style because you want to get out of there quick, and that was sort of a just a red flag. So he noticed that they backed their car in the other thing he noticed to me a bigger tell is they taped newspapers over the windows, and they paid for their meals with coins. And it turns out some vending machines nearby had been robbed. So this was all just like. The guy was like, well, maybe I should call the cops. So they did. The cops came out. Guess what happened. Another gunfight. Guess what happened. They escaped again, but this time Buck Barrow his brother was wounded pretty badly and Blanche was too. Blant's got charge of glass in her eyes, I'm guessing temporarily blinding her considering the jobs she had later in life."
+        },
+        {
+          "startSeconds": 1938,
+          "text": "Speaker 1: She was blinded in at least one eye, so I don't know if it was permanent or not. Either. I didn't see that anywhere. Yeah, so they actually made it. They escaped from this gunfight with the cops in Missouri, and they made it all the way to Iowa, and they found like a park and were hanging laying low in this park, trying to keep Buck alive and I guess tending to Blanch as well. And again they backed their car in gangster style, and that caught people's attention. They also left the car running when they went to town to buy supply."
+        },
+        {
+          "startSeconds": 1972,
+          "text": "Speaker 2: Extra gangster for sure."
+        },
+        {
+          "startSeconds": 1975,
+          "text": "Speaker 1: Either there, you just got places to be, you know. But I guess people were jumpy back then. Yeah, the cops showed up at the park. Somebody followed them or said, these people are staying at the park right now, fifty cops show up. Another gun fight happens. This is like a day or so, I think, after the first one, and Blanche and Buck buckets hit again and He's like, I can't make it any further, you guys go on. Blanche stays with Buck and they both get arrested. Bonnie Clyde and w D make their escape and they actually get away. W D finally says like that's enough for me. I'm done. He did the whole Blackjack dealers like I'm out thing. Yeah, and he went home to Texas."
+        },
+        {
+          "startSeconds": 2014,
+          "text": "Speaker 2: Yeah, so he goes home to Texas while Buck is arrested, I think five days later he dies. So a big brother is now gone, Blanche's husband, and when w D goes home, he's arrested in pretty short order, I think in November. And he told the cops like, yeah, I was in the Barrow gang, but he said he was forced into it, and because of that fact and because he was a kid, they were fairly lenient on him. They sentenced ht to six years in prison."
+        },
+        {
+          "startSeconds": 2043,
+          "text": "Speaker 1: Yeah. So yeah, I think WD kind of got the least of it to anybody because also at this time, like there are other people that they're kind of coming up against doing some crimes with here there, they're going in and out of prison, Yeah, pretty pretty frequently. And as a matter of fact, because he was shorthanded, he actually Clyde stage a prison break. Remember the old Eastham prison farm that Clyde had learned to hate, and it had changed Clyde essentially right. Well, he had people on the inside and he and a guy named Jimmy Mullins busted these guys out. They busted out Henry Methvin, Joe Palmer, guy named Hilton Biby and Raymond Hamilton remember him from the earlier section. He had been captured and sent to prison, and so they busted him out because Clyde needed more help because now WD was gone and so was."
+        },
+        {
+          "startSeconds": 2100,
+          "text": "Speaker 2: Buck Yes, and killed two guards in the process here, So that's two more down. I mean, the bodies are stacking up at this point."
+        },
+        {
+          "startSeconds": 2108,
+          "text": "Speaker 1: Well, one of those guards I think may have been purposely killed because he was known as such a brutal guard. He would leave his post just to go beat inmates. Yeah, so it's probably not coincidence that he was one of the two that were killed during this."
+        },
+        {
+          "startSeconds": 2123,
+          "text": "Speaker 2: Get one on the way out, all right, So the gang is still on the run, and it feels like it feels like the noose is tightening a little bit. Like the original gangs now has partly died and been in prison, so it's been splintered. Yeah, but they're soldiering on with new people. And in April of thirty four, Bonnie Clyde and Henry Methvin were in and he was one of the guys they boosted from prison. Yeah can you say."
+        },
+        {
+          "startSeconds": 2151,
+          "text": "Speaker 1: That too, Yeah, you can boost somebody from prison."
+        },
+        {
+          "startSeconds": 2153,
+          "text": "Speaker 2: Sure, okay, what about when you just give somebody a boost, like an emotional support? Where does that fit in?"
+        },
+        {
+          "startSeconds": 2160,
+          "text": "Speaker 1: That is see, I guess that would be Clark and somebody."
+        },
+        {
+          "startSeconds": 2165,
+          "text": "Speaker 2: Yeah, Clark made some good feelings. Yeah, so, uh, where was I Henry Methin? They all went to grape Vine, Texas At this point a couple of highway cops, highway patrolmen saw thought they were stranded motorists and stopped to help them out, and they killed them. So two more cops dead. And then five days after that they killed another cop in Oklahoma and kidnapped a police chief. So things are getting really pretty intense at this point."
+        },
+        {
+          "startSeconds": 2193,
+          "text": "Speaker 1: Yeah, I mean three cops in two days, I think, Yeah, that's or three cops and yeah, three days something like that. That's crazy. So this was like, yeah, you kind of get the impression that things are starting to move really really fast at this point. Right Raymond Hamilton, he was recaptured I think by like a month or so after, but he'd already been involved in the murders of these cops and like a bunch of other robberies and stuff. So remember he had been busted out. So when he was recaptured not only was he being re sentenced for escaping prison, but also for all the crimes, including murder, that he committed in the short like month or two that he was out. Yeah, he was sentenced to the Texas State Pen in Huntsville and placed on death row there. Yeah, he also escaped there too, but he was recaptured again. Do you know, heart, it's got to be to escape from death row?"
+        },
+        {
+          "startSeconds": 2249,
+          "text": "Speaker 3: Uh?"
+        },
+        {
+          "startSeconds": 2251,
+          "text": "Speaker 2: How hard?"
+        },
+        {
+          "startSeconds": 2253,
+          "text": "Speaker 1: Really hard?"
+        },
+        {
+          "startSeconds": 2254,
+          "text": "Speaker 2: Okay."
+        },
+        {
+          "startSeconds": 2255,
+          "text": "Speaker 1: But he had already actually split ways with Bonnie and Clyde when they finally recaptured him and sent him to Huntsville, and they had had a falling out."
+        },
+        {
+          "startSeconds": 2265,
+          "text": "Speaker 2: Yeah. They ended up sending a letter to Hamilton in prison, yeah, saying like, you know, you stole from us and you're a coward. So yeah, it was a pretty bad breakup."
+        },
+        {
+          "startSeconds": 2277,
+          "text": "Speaker 1: It was. There was no love lost."
+        },
+        {
+          "startSeconds": 2280,
+          "text": "Speaker 2: Should we break up this episode?"
+        },
+        {
+          "startSeconds": 2281,
+          "text": "Speaker 1: Oh? Good call?"
+        },
+        {
+          "startSeconds": 2283,
+          "text": "Speaker 2: All right, we'll be back to finish up on Bonnie and Clyde, right if you did."
+        },
+        {
+          "startSeconds": 2301,
+          "text": "Speaker 3: Softly jawh sh."
+        },
+        {
+          "startSeconds": 2306,
+          "text": "Speaker 1: Soft okay, Chuck. So you had said a little while ago that one of the reasons they were able to be so successful is because they were there was a there were a handful of reasons one. They typically kept their targets pretty small. They were small towns, often mama pop groceries, maybe like a gas station something like that. Every once in a while a bank. But remember like all of their crimes were exaggerated, so they were supposedly two of the greatest bank that ever lived, even though they'd only done a couple of banks. So by making their takes pretty small, I think the biggest take was like eighteen hundred, which is less than fifty grand today. That was far and away the biggest take. Sometimes they'd make enough money just to buy some groceries or something like that. They kept themselves small. They made themselves small targets. What made them huge targets was killing cops, you know, like that definitely catches the attention of other cops. And there was another Texas outlet named Willis Newton who said killing that first cop, Eugene Moore, was their true undoing, and then all the cops after that just made them even bigger targets. But one of the other reasons they were able to still get away even after killing all those cops is because those cops and the different jurisdictions were not coordinating in any way."
+        },
+        {
+          "startSeconds": 2388,
+          "text": "Speaker 2: No, I mean that didn't happen back then. It's not like they were being stubborn. That was just not a thing that had really come along yet, like working interstate with one another or even inter county. Probably, yeah, BI wasn't quite a thing yet. The Bureau of Investigation was and all they could. They did start investigating them the I guess the BI in December of thirty two, and did get a warrant in May of thirty three, but it was only over interstate moving of the stolen cars. But they did get involved with the local cops and start sort of providing information, providing support to like the local cops and the state agencies as you know, part of the eventual dragnet. And it seems like the cops in Texas and Louisiana are the ones who really sort of got together finally to zero in on them and focus on these guys. And when the Texas Rangers come on the scene, that means things are really serious. And that's what happened after that that second prison break. The Texas Rangers got together. This guy came out of retirement, Captain Frank not Hammer, but Hamer. I guess he probably he'd probably called himself the Hammer, and he was like, I'm coming out of retirement to get these guys and had a posse of six rangers and he's like, I've killed fifty three dudes in my law enforcement career. So it was really on at this point."
+        },
+        {
+          "startSeconds": 2469,
+          "text": "Speaker 1: It was he coordinated with a guy named Henderson Jordan, who was sheriff in a parish in Louisiana, Bienville Parish. And the reason he's significant is because Henry Methvin. Remember, he was one of the guys that got busted out with Raymond Hamilton and some of the other guys and joined the gang. Methavin was now a part of the gang. He lived, his family lived in Bienville Parish, and supposedly Henderson Jordan, the sheriff, had been approached by Methvin's family, who were alarmed that he was wanted by the cops and with Bonnie and Clyde's notorious outlaws, and they said, look, we can get our son to cooperate. He was basically Daryl and Red Dawn essentially. Yeah, right, that's Daryl's dad's car, it's the mayor's car. So his family is like, we'll get him to cooperate. But you got to give him Clement and see, but we'll get you Bonnie and Clyde if you make sure our boy doesn't get the chair for all this stuff. And so Frank Hamer and Henderson Jordan are like, let's make this happen. This was ultimately the downfall. Trusting Henry Methvin was what brought them to their end."
+        },
+        {
+          "startSeconds": 2538,
+          "text": "Speaker 2: You know, I'm still mad at Darryl after all these years."
+        },
+        {
+          "startSeconds": 2542,
+          "text": "Speaker 1: I know."
+        },
+        {
+          "startSeconds": 2542,
+          "text": "Speaker 2: The second you said Darryl from Red Dawn, I was just like, oh, that."
+        },
+        {
+          "startSeconds": 2545,
+          "text": "Speaker 1: Guy they picked, like a perfect actor for that guy really suited that part."
+        },
+        {
+          "startSeconds": 2550,
+          "text": "Speaker 2: Yeah, he was one of the bad socials in The Outsiders too."
+        },
+        {
+          "startSeconds": 2554,
+          "text": "Speaker 1: Oh I didn't know that, so that fits. Did you know that Si Hinton was a teenage girl? Wouldn't you write the Outsiders?"
+        },
+        {
+          "startSeconds": 2560,
+          "text": "Speaker 2: I had no idea."
+        },
+        {
+          "startSeconds": 2561,
+          "text": "Speaker 1: It's crazy."
+        },
+        {
+          "startSeconds": 2563,
+          "text": "Speaker 2: So they kind of figured out their route basically, and that Bonnie and Clyde were driving a lot to that Methven home in Louisiana on Highway one point fifty four. So in May of nineteen thirty four, they were like, all right, we really need to get this done. And this is where the famous ambush happens. There, you know, are different, like kind of disputing accounts of exactly how it went down, but it seems like they got Methan's dad's car out on the road and parked it there with a wheel removed, so they would be like, oh, that's your dad's car, Like, it looks like he needs help, so they would pull over. They had those six Texas Rangers. They had automatic rifles, and as soon as that Bonnie and Clyde car showed up, they just started firing. They're like, we've seen enough of these guys work to not let them open the doors, not try and arrest them or whatever, because they're going to be shooting at us. So they just basically shot the crud out of this car and to great effect. I mean, they murdered the cred out of them."
+        },
+        {
+          "startSeconds": 2626,
+          "text": "Speaker 1: They did, they got them."
+        },
+        {
+          "startSeconds": 2628,
+          "text": "Speaker 2: Yeah, Bonnie was shot twenty six times, Clyde was shot seventeen times. Further, Resharts says that it may have been as many as fifty times. They were kids, you know, they were twenty three and twenty four years old, and it was pretty gruesome and the people in the press went wild over this ambush."
+        },
+        {
+          "startSeconds": 2647,
+          "text": "Speaker 1: Yeah, they towed the car with the bodies inside."
+        },
+        {
+          "startSeconds": 2650,
+          "text": "Speaker 2: It was crazy."
+        },
+        {
+          "startSeconds": 2652,
+          "text": "Speaker 1: Yeah too. Well, they also laid in wait and executed them without giving them any chance to give themselves up. So at this point, basically anything's on the table, right. Yeah, So they towed the death car, and I guess it essentially immediately became like a tourist attraction. They sent them both back to Dallas for burial, and both of the funeral homes where they were they were each in a different funeral home because Bonnie's mom, Emma was like you, in death, they can't have anything to do with one another. I couldn't talk her out of being with them while she was alive, but I'm calling the shots now that she's dead, and I don't want her anywhere near him. Yeah, both of their funerals were thronged with onlookers. But even before that, while their bodies were just basically hanging out in the public, all these basically souvenir seekers were trying to like cut off their body parts and stuff."
+        },
+        {
+          "startSeconds": 2704,
+          "text": "Speaker 2: Right, Oh yeah, just like looting what they could to get a piece of the car, maybe to get a like a blood soaked handkerchief or something like that. And yeah, supposedly some guy tried to cut off Clyde's ear Their death photos are you know, you can look those up if you have a strong stomach. They're pretty nasty, and their funerals attracted like thousands of people to come and see the burials of Bonnie and Clyde. After they died. There was sort of a lot that went on. There was a book initially from Bonnie's mother and Clyde's sister. They got together and wrote a book called Fugitives, colon the story of Clyde Barrow and Bonnie Parker. They started publishing more poems from Bonnie and Clyde. One from Bonnie called The Trail's End or the Story of Bonnie and Clyde, and then another one that I mentioned earlier that Clyde had written sort of as respect and both of them they're kind of still talking about like, hey, we didn't do all these crimes, were not as bad as everyone makes us out to be. That kind of thing and key though in one of these Bonnie had requested, at least in the poem, someday they'll go down together day meaning them, and they'll bury them side by side. So that seemed like that would have been her wish that she did not."
+        },
+        {
+          "startSeconds": 2780,
+          "text": "Speaker 1: Get no because her mom said, heck no, I read his nephew and her niece maybe great niece have been like trying to trying to draw up support to bury them, rebury them together, but it hasn't gotten anywhere."
+        },
+        {
+          "startSeconds": 2797,
+          "text": "Speaker 2: Yeah, So, as you know, I said, a lot happened. Basically what happened from this point forward is the cops were like, it's not good enough just to get like Bonnie and Clyde, Like, we got them, but we need to just dragnet the whole operation. And so all of their friends and family that were ever aiding in a betting or anything like that were rounded up. I think Dallas police got twenty four family. Everybody was found guilty and you know, not very long prison sentences. I think the max was like a couple of years. But they wanted to get everyone who ever touched part of this gang and put them away."
+        },
+        {
+          "startSeconds": 2834,
+          "text": "Speaker 1: Yeah, and I mean, yeah, two years for just basically being friends with Bonnie and Clyde. That's a lot."
+        },
+        {
+          "startSeconds": 2839,
+          "text": "Speaker 3: You know."
+        },
+        {
+          "startSeconds": 2841,
+          "text": "Speaker 2: Raymond Hamilton aiding in a bedding is like, yeah, we were just friends, right, right, Like they might have stayed at my house and I might have given him food and."
+        },
+        {
+          "startSeconds": 2848,
+          "text": "Speaker 1: Right and give them the cops, but like ammunition, and that's what friends do. Raymond Hamilton and Joe Palmer, they were both executed in Huntsville at the prison in Huntsville on May tenth, nineteen thirty five. And Henry Methvin, he was so there was this. I said, there was a disputed murder of one of the patrol men. That farmer who supposedly witnessed this, said that he saw Bonnie like go over and execute the cop at point blank range, blowing his head off with the shotgun and making some greasily tasteless remark about it. She supposedly wasn't."
+        },
+        {
+          "startSeconds": 2881,
+          "text": "Speaker 2: Even I'm about to head out or something that would."
+        },
+        {
+          "startSeconds": 2883,
+          "text": "Speaker 1: Have been good. No, something like a look of there his head bounced like a rubber ball or something like that. Right, So the kind of thing where you're like, wow, she's really despicable. And of course everybody printed it because this farmer said he saw it."
+        },
+        {
+          "startSeconds": 2896,
+          "text": "Speaker 2: Right."
+        },
+        {
+          "startSeconds": 2897,
+          "text": "Speaker 1: What historians now believe is that it was actually Henry Methvin who actually did the killing, and the reason why he wasn't implicated was because his family's plan to bring in Bonnie and Clyde was already in motion. So now the authorities had to cover up his murder of a cop before he could turn in Bonnie and Clyde, so that it was attributed to her and almost certainly wasn't her."
+        },
+        {
+          "startSeconds": 2923,
+          "text": "Speaker 2: Yeah, Methan was eventually paroled in forty two and died six years after that. And the story is he was hit by a train. He was either drunk and got hit by a train or maybe he was shoved into a train and murdered, but no one was ever tapped for that. As far as Blanche, she was Bucks, you know, Clyde's sister in law and Buck's wife who was blinded in one eye. She served six years, was proled in thirty nine and wrote her book, My Life with Bonnie and Clyde No Colin's and went back to Dallas and you know, lived a life there, worked as a taxi dispatcher and a beautician, cared for her dad, got married again. The death car eventually, you know, it would end up at Buffalo Bill's resorting casino in prem Nevada. I think that's where it is now, But for a while it was you know a lot of this stuff, like the guns and the cars, like everyone wanted a piece of this. I think everyone knew it was going to be worth a lot of money, so various family members had to sue various institutions to get this stuff back. And in the case of the guns, Clyde's mom was like, I want those guns back because Clyde had never been convicted of the murders, like he was just shot in cold blood, So I want those guns back. And I think the car, like the original car owner Ruth Warren, was like, Hey, that was my car to begin with. Yeah, the cops can't keep that thing, so she sooned to get it back and got it back."
+        },
+        {
+          "startSeconds": 3010,
+          "text": "Speaker 1: Yeah, And before it ended up at the Prim Valley Casino resort, it was a traveling amusement at like circuses and carnivals and state fairs and stuff."
+        },
+        {
+          "startSeconds": 3021,
+          "text": "Speaker 2: That's right."
+        },
+        {
+          "startSeconds": 3022,
+          "text": "Speaker 1: I don't know entirely that we would just know and everybody would be walking around knowing that there was such a couple as Bonnie and Clyde were it not for that nineteen sixty seven movie starring Fade Unaway and Warren Beatty. I never saw the movie, so it's not like my understanding of them comes directly from it, but all the people it informed, I think it brought them back up into the popular culture again and they never really left since then."
+        },
+        {
+          "startSeconds": 3052,
+          "text": "Speaker 2: It's a good movie. The great Arthur Penn was the director who had another Stuff you Should Know connection, and that he directed The Miracle Work as well."
+        },
+        {
+          "startSeconds": 3061,
+          "text": "Speaker 1: Oh okay, yeah, that's he's basically a friend of the podcast."
+        },
+        {
+          "startSeconds": 3064,
+          "text": "Speaker 2: Then yeah, two Stuff you Should Know movies. A good movie though, but it was the year after the Hayes Code ended, you know, the movie Codes that tried to rein in sex and violence, and so there was a lot of sex and violence in this movie and glamorization of crime and stuff like that. And that ambush scene is like a sort of a legendary film scene because it shows it all and it's pretty gory. But it was a It was a big, big movie, and I think a lot of gangster movies kind of started coming around in its wake because it was so popular."
+        },
+        {
+          "startSeconds": 3092,
+          "text": "Speaker 1: Yeah, it was huge in the UK apparently, and it set the stage for other bloody movies to come, everything from The Wild Bunch two years later, to Pulp Fiction, which was originally written by Eleanor Roosevelt, to basically every violent movie you've ever seen. Bonnie and Clyde essentially set the stage for that that's right."
+        },
+        {
+          "startSeconds": 3114,
+          "text": "Speaker 2: I'll tell you what. If I'm ever near prim Nevada, I'm gonna go over to Buffalo Bill's Resort and Casino to check that car out."
+        },
+        {
+          "startSeconds": 3121,
+          "text": "Speaker 1: Uh, I'd like to see that and his death shirt too."
+        },
+        {
+          "startSeconds": 3125,
+          "text": "Speaker 2: Yeah they got a shirt."
+        },
+        {
+          "startSeconds": 3126,
+          "text": "Speaker 1: Yeah, it's crazy. I mean it's full of holes."
+        },
+        {
+          "startSeconds": 3130,
+          "text": "Speaker 2: Yeah, and not in a bad plot sort of way."
+        },
+        {
+          "startSeconds": 3136,
+          "text": "Speaker 1: Boy, you're pulling all those ingers today, aren't you? That little shorty for w D or a little forty?"
+        },
+        {
+          "startSeconds": 3142,
+          "text": "Speaker 2: Oh? Yeah? Did you catch that one?"
+        },
+        {
+          "startSeconds": 3144,
+          "text": "Speaker 1: Yeah? I was killing Uh you got any other little zingers?"
+        },
+        {
+          "startSeconds": 3148,
+          "text": "Speaker 2: I got no other zingers?"
+        },
+        {
+          "startSeconds": 3149,
+          "text": "Speaker 1: Okay, Well, then that means this is the end of the road for Bonnie and Clyde as far as stuff you should know goes. And I think that means it's time for listener mail."
+        },
+        {
+          "startSeconds": 3159,
+          "text": "Speaker 2: That's right, and uh, we did not plan this everyone, but here's the listener mail. Hey guys, I wanted to share a moment from the Eleanor Roosevelt episode that gets a gold star for Josh. I have a long history of Josh like moments where I will add in an absurd, impossible fact when talked to my wife, such as a local construction site being a dining with your pets restaurant or coming or a Lava Fields in the California Desert being a huge disposal site for used asphalt. And my wife, over twenty five years of marriage, has become very canny about my quote unquote facts, and it's very difficult to fooler anymore. However, when Josh said in her writings Eleanor Roosevelt wrote an initial treatment that became the script of pulp Fiction, I saw my wife process that fact for about ten seconds with narrow eyes and complete confusion, followed by a loud no. So thank you Josh for that magic moment, and thank you both for all you do. Very long time listener, I started listening when there were only about one hundred back episode, so one hundred episodes in and that is from Sam and Lisa."
+        },
+        {
+          "startSeconds": 3216,
+          "text": "Speaker 1: Nice. Thanks Sam, And yeah that wasn't planned. How what a coincidence? Huh."
+        },
+        {
+          "startSeconds": 3220,
+          "text": "Speaker 2: As soon as you said it, I was like, oh, boo ah, I'm just going to be so excited."
+        },
+        {
+          "startSeconds": 3224,
+          "text": "Speaker 1: And I was and I still will be, probably for hours after this, Sam and Lisa, Right, that's right. Sam and Lisa, thanks for the email. Thanks for listening to us for so long too, And if you want to be like Sam and Lisa and send us an email. You can do that too. There's nothing stopping you except no access to the internet. If you have access to the internet, you can send us that email to Stuff podcast at iHeartRadio dot Stuff You Should Know is a production of iHeartRadio."
+        },
+        {
+          "startSeconds": 3256,
+          "text": "Speaker 2: For more podcasts Myheartradio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
+        }
+      ]
     },
     {
       "feedId": 827592,
@@ -65,7 +827,889 @@
       "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d26685-cb0c-496e-91f3-b49e00d9b585/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
       "imageUrl": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
       "durationSeconds": 2584,
-      "datePublished": 1786179900
+      "datePublished": 1786179900,
+      "transcript": [
+        {
+          "startSeconds": 0,
+          "text": "Speaker 1: Okay, everyone, buckle up for the thrilling conclusion of Iran Contra Shady in the Eighties, Part two."
+        },
+        {
+          "startSeconds": 13,
+          "text": "Speaker 2: Welcome to Stuff You Should Know, a production of iHeartRadio."
+        },
+        {
+          "startSeconds": 23,
+          "text": "Speaker 1: Hey, and welcome to the podcast. I'm Josh Clark. There's Charles t w Tuck, Brian, there's Jerry over there. And this is Stuff you Should Know. Iran Contra Part two, starting now go."
+        },
+        {
+          "startSeconds": 34,
+          "text": "Speaker 2: Maybe we should do a quick catch up. Okay, well we're still going. You act to like I just went to sleep."
+        },
+        {
+          "startSeconds": 41,
+          "text": "Speaker 1: No, it's true."
+        },
+        {
+          "startSeconds": 43,
+          "text": "Speaker 2: So what's going on here is the United States is Congress has decided that we cannot fund the Contras to fight the Sandinistas in Nicaragua. Shut off funding. So the Reagan administration makes a deep covert push to continue doing so right through a bunch of fun and shady ways."
+        },
+        {
+          "startSeconds": 67,
+          "text": "Speaker 1: Right, they're fundraising, they're directly arming the Contras, they're training them, doing all sorts of crazy stuff."
+        },
+        {
+          "startSeconds": 74,
+          "text": "Speaker 2: Yes, but if you know that this is about Iran Contra and you're like, what about Iran? What's going on here? I haven't heard anything about Iran?"
+        },
+        {
+          "startSeconds": 82,
+          "text": "Speaker 1: Keep your socks on."
+        },
+        {
+          "startSeconds": 83,
+          "text": "Speaker 2: Well, here we go. This is where Iran enters."
+        },
+        {
+          "startSeconds": 86,
+          "text": "Speaker 1: The picture, right, you can take your socks off, all right, go are your socks on?"
+        },
+        {
+          "startSeconds": 92,
+          "text": "Speaker 2: I've got on little footy socks."
+        },
+        {
+          "startSeconds": 93,
+          "text": "Speaker 1: Yeah, I do too cool. Oh, Jerry does too sweet. It's the way to go."
+        },
+        {
+          "startSeconds": 99,
+          "text": "Speaker 2: Jerry has those true footies where you can't even see him at all. I can see you mind peak out just a little, which I'm not a huge fan of."
+        },
+        {
+          "startSeconds": 106,
+          "text": "Speaker 1: Well, check out my mind."
+        },
+        {
+          "startSeconds": 107,
+          "text": "Speaker 2: Yeah, noms, no sms."
+        },
+        {
+          "startSeconds": 110,
+          "text": "Speaker 1: Okay, enter Iran. We really that was a great intro and it just went away."
+        },
+        {
+          "startSeconds": 116,
+          "text": "Speaker 2: That's right."
+        },
+        {
+          "startSeconds": 117,
+          "text": "Speaker 1: So on the other side of the world from Nicker, there was another foreign policy disaster simmering that Reagan had going, and it was in the form of Iran, and specifically, it wasn't even the form of run. It was in the form of a problem that America had doesn't really have much these days, but definitely did in the seventies and eighties where Americans would be taken hostage around the world, but specifically, almost exclusively by Lebanese terrorists who were, if not working on behalf of Iran, were definitely sponsored by Iran. And regardless of who was president, the fact that there were hostages being held by another country and there wasn't anything we could do about it. That was a real blemish on the presidency. It was not a very proud thing to think about for America. But that was a reality for a while there."
+        },
+        {
+          "startSeconds": 170,
+          "text": "Speaker 2: Yeah, so we ran at the time. This is the early eighties. This is just a few years removed from the Iranian Revolution of nineteen seventy nine, and this is where we talked about it before. Go look up photos of Iran in the mid seventies pre revolution, right, and it looks like London in the swinging sixties and seventies. Yeah, very kind of hit place to be. Iranian revolution happens. Fundamentalists take control of the government that was previously the Shaw of Iran, who was friendly to the West, sure, friendly to America generally, and the Iatola Komeni."
+        },
+        {
+          "startSeconds": 206,
+          "text": "Speaker 1: Kohmani I've always heard Kohmane."
+        },
+        {
+          "startSeconds": 208,
+          "text": "Speaker 2: Kohmani installed the Islamic theocracy and bad things started happening pretty quickly."
+        },
+        {
+          "startSeconds": 215,
+          "text": "Speaker 1: But yeah, there was a It was about as quick a turn about face politically and socially as you could imagine."
+        },
+        {
+          "startSeconds": 223,
+          "text": "Speaker 2: Yeah, for a whole country, yeah, yeah, but not everyone in the country, as we'll learn, Like the whole country didn't just change overnight."
+        },
+        {
+          "startSeconds": 230,
+          "text": "Speaker 1: No, but the the Islamic theocracy was in power, sure, very much. So. One of the things that happened was they were not very fond of America or Americans, and the American embassy was famously stormed and sixty six Americans working there were taken hostage and held for more than a year."
+        },
+        {
+          "startSeconds": 249,
+          "text": "Speaker 2: Man. That was like, this is stuff I really remember."
+        },
+        {
+          "startSeconds": 253,
+          "text": "Speaker 1: Like four hundred and forty days or."
+        },
+        {
+          "startSeconds": 255,
+          "text": "Speaker 2: Something, four hundred and forty four days, man, the Iranian hostage crisis. I remember this as a nine year old very clearly."
+        },
+        {
+          "startSeconds": 263,
+          "text": "Speaker 1: Really, Oh yeah, I have no recollection."
+        },
+        {
+          "startSeconds": 266,
+          "text": "Speaker 2: Yeah, it was a big deal, yellow ribbons, and it was on the news constantly."
+        },
+        {
+          "startSeconds": 269,
+          "text": "Speaker 1: I remember entering the room and being like, what does this have to do with Rainbow Bright turn this newscast?"
+        },
+        {
+          "startSeconds": 275,
+          "text": "Speaker 2: I even remember. So what happened was Jimmy Carter did not get these hostages free during his his I was about to say rain, but that was sort of the opposite Jimmy Carter was during his administration is iron fisted rain."
+        },
+        {
+          "startSeconds": 292,
+          "text": "Speaker 1: The days of terror."
+        },
+        {
+          "startSeconds": 295,
+          "text": "Speaker 2: But within a few days, and that may have cast some election, but within a few days of our hours, even of Reagan's inauguration, the hostages were freed, and I remember as a nine year old hearing kids parroting their parents' conversations like it was really Carter that had him freed all the work he did up until then, and then other kids saying, are you kidding me? As soon as Reagan got in a office, they knew that they were toast and that Reagan wasn't going to be a patsy like Carter. And I was like, what's a patsy? Who are these dudes? No, but I remember very distinctly, it's weird, like on the playground hearing the stuff that's funny, Yeah, like a little nine year olds."
+        },
+        {
+          "startSeconds": 333,
+          "text": "Speaker 1: I definitely didn't hear this when I was a kid, but I remember hearing later on as a grown up, still in the rainbow bright, that it was Reagan's campaign was somehow in touch with aaran yeah, and that they brokeered. This also got them to wait to release the hostages until after Reagan was in office. Well, the timing was not."
+        },
+        {
+          "startSeconds": 357,
+          "text": "Speaker 2: At all hours after his inauguration. There's no accident."
+        },
+        {
+          "startSeconds": 359,
+          "text": "Speaker 1: It's a little fishy, you know what I mean. But whether it was that's funny, I'm sure somebody's parents were like, yeah, it's because they were so scared of Reagan, they knew that they better release these guys. That's totally not the case because there were other hostages taken by other by actual Lebanese terrorists who were probably sponsored by Iran, and that were they were held throughout Reagan's presidency."
+        },
+        {
+          "startSeconds": 381,
+          "text": "Speaker 2: Yeah, and that's sort of a big part of this. The second half of the story was the fact that that was very embarrassing for Reagan. He didn't like hostages being held on his watch."
+        },
+        {
+          "startSeconds": 391,
+          "text": "Speaker 1: No, but he had campaigned against negotiating with terrorists under any circumstances. So he's stuck now, Yeah, because he's basically saying, if you get taken hostage, I mean, you're on your own. Well, we'll use our rhetoric and whatever we can to influence you being released, but we're not going to negotiate for your release. That's just the way it is."
+        },
+        {
+          "startSeconds": 410,
+          "text": "Speaker 2: And that's a longstanding American policy, right, and it makes sense because if you negotiate with terrorists, then that's just going to need to more kidnappings. Yeah, because they know that you're open for business."
+        },
+        {
+          "startSeconds": 422,
+          "text": "Speaker 1: Like anywhere in the world. Yeah, there was a kidnapping of twa Flight eight forty seven, very very famous one, you know, the picture of like the pilot leaning out of the cop sure and the guys in the picture with the gun behind him. That was eight forty seven, right, And that was I mean, that was I remember that one that was That was probably nine then, and that was just scary because they were flying all over the place. You had no idea what was going to happen. People were being beaten on the plane. When Navy guy was beaten in shot and throw his body thrown out on the tarmac."
+        },
+        {
+          "startSeconds": 454,
+          "text": "Speaker 2: Yeah. The eighties, like it seems comparatively tame now in a lot of way as compared to the things that used to go on. Tank McDonald's hi jackings and kidnappings and hostages. It's like it was the eighties were nuts."
+        },
+        {
+          "startSeconds": 465,
+          "text": "Speaker 1: They were nuts."
+        },
+        {
+          "startSeconds": 466,
+          "text": "Speaker 2: But pac Man, right, you know, pac Man fevers, pac Man rapping Rodney it was crazy."
+        },
+        {
+          "startSeconds": 473,
+          "text": "Speaker 1: Right, rapping Like is that Rodney Piper."
+        },
+        {
+          "startSeconds": 477,
+          "text": "Speaker 2: No rapping Rodney Dangerfield his big hit?"
+        },
+        {
+          "startSeconds": 479,
+          "text": "Speaker 1: Oh yeah, yeah, no respect. What about what about the Ichy Shuffle? That was a little crazy?"
+        },
+        {
+          "startSeconds": 486,
+          "text": "Speaker 2: Was that eighties?"
+        },
+        {
+          "startSeconds": 487,
+          "text": "Speaker 1: Sure? Late eighties, I guess so, okay, I got one for you."
+        },
+        {
+          "startSeconds": 490,
+          "text": "Speaker 2: Okay."
+        },
+        {
+          "startSeconds": 490,
+          "text": "Speaker 1: The Bears, what was their thing?"
+        },
+        {
+          "startSeconds": 493,
+          "text": "Speaker 2: Oh? The Super Bowl Shuffle?"
+        },
+        {
+          "startSeconds": 494,
+          "text": "Speaker 1: Super Bowl Shuffle right, Yeah, that was pretty eighties. I think they were eighty four."
+        },
+        {
+          "startSeconds": 499,
+          "text": "Speaker 2: Yeah, we're putting you know, my band every year plays for sure one gig at Decatur's Porch Best, and every year we try to do a theme, and this year we're doing eighties sort of new wave. Nice and I jokingly suggested pac Man Fever the Raping Rodney."
+        },
+        {
+          "startSeconds": 513,
+          "text": "Speaker 1: But oh, you guys gonna do it?"
+        },
+        {
+          "startSeconds": 514,
+          "text": "Speaker 2: No, those songs are terrible."
+        },
+        {
+          "startSeconds": 516,
+          "text": "Speaker 1: Do you have a synth player playing with you?"
+        },
+        {
+          "startSeconds": 518,
+          "text": "Speaker 2: I bought Emily a keyboard and she's learning."
+        },
+        {
+          "startSeconds": 520,
+          "text": "Speaker 1: Awesome. Yeah, she's gonna be like wait, hold on, huh, that's cool man."
+        },
+        {
+          "startSeconds": 525,
+          "text": "Speaker 2: Now she's practicing."
+        },
+        {
+          "startSeconds": 526,
+          "text": "Speaker 1: I've heard her do that, and."
+        },
+        {
+          "startSeconds": 528,
+          "text": "Speaker 2: She played piano when she was a kid, so it's not the biggest stretch."
+        },
+        {
+          "startSeconds": 531,
+          "text": "Speaker 1: I've heard that one that her do. That one Blondie song that she just brought the house to."
+        },
+        {
+          "startSeconds": 535,
+          "text": "Speaker 2: Yeah, we might one way or another. Yes, we might bring that back because that's eighties. Yeah, or was that?"
+        },
+        {
+          "startSeconds": 541,
+          "text": "Speaker 1: It was so close on the custom I seriously doubt anybody's going to throw a beer can at you for it."
+        },
+        {
+          "startSeconds": 546,
+          "text": "Speaker 2: Anyway, Porch Best, everyone, I'll publicize it in October. Nice, So Reagan's hands are tied in every way possible because he can't on he can't negotiate with Terris. The only option is to send in a covert Delta Force."
+        },
+        {
+          "startSeconds": 563,
+          "text": "Speaker 1: Team, which they Carter tried that, and yeah, work."
+        },
+        {
+          "startSeconds": 565,
+          "text": "Speaker 2: Doesn't always work. You could lose your own men. And I think that's what happened in Carter's case, right, yeah. Sure, So what he can do though, without anyone knowing, is totally negotiate with Terras."
+        },
+        {
+          "startSeconds": 576,
+          "text": "Speaker 1: Yeah, just as long as the American public doesn't no, sure, yeah, And that's what happened. And he followed that Reagan playbook where it's like, okay, I said this, well, if I just changed this one little part, right, it makes it all fine. That's right, again, as long as the American public doesn't know. So while Reagan said America will never negotiate with with hostages, they didn't say Israel will never nego terrorists for hostages, right, Yeah, So actually Israel had a long standing policy of negotiating with terrorists. They would they would kidnap people from the other side, and then they'd be like, all right, i'll give you five guys. I've only got two. Let me kidnap a few people, Okay, Now, I have five like there would be negotiations for hostage exchanges all the time between Israel and Palestine. Right, They just knew what they were doing. So they said, okay, well, if Israel goes to Iran and says, hey, you know this American over there, why don't you get them released. We can help you out with some stuff. What do you think about this?"
+        },
+        {
+          "startSeconds": 636,
+          "text": "Speaker 2: Yeah, So earlier when I mentioned the fact that Iran as whole cloth did not change overnight as a country. The government did, but there were still some plenty of people there that were a little more moderate in their views, and the Reagan administration had a channel to them. So he was talking to them, these more moderate factions and making a little headway. And they were like, by the way, we'll totally give you these hostages if you give us arms."
+        },
+        {
+          "startSeconds": 666,
+          "text": "Speaker 1: Yeah, because Iran was fighting the Iran Iraq War at least half of it."
+        },
+        {
+          "startSeconds": 671,
+          "text": "Speaker 2: Yeah. And this is just where stuff is just totally crazy, because we were we were funding both sides."
+        },
+        {
+          "startSeconds": 677,
+          "text": "Speaker 1: At the very least, we were advising both sides."
+        },
+        {
+          "startSeconds": 679,
+          "text": "Speaker 2: Well, I mean we directly gave money. Oh yeah, no, you're right, We sold them weapons and we provided training and intelligence. Right, And this was this wasn't secret. This was like a real deal thing."
+        },
+        {
+          "startSeconds": 691,
+          "text": "Speaker 1: We were publicly supporting Iraq, but then we were secretly arming Iran."
+        },
+        {
+          "startSeconds": 696,
+          "text": "Speaker 2: Yeah. I think what they never proved beyond a doubt was that we went to Saddam Hussein and said, hey, why don't you go in there and overthrow Iran?"
+        },
+        {
+          "startSeconds": 707,
+          "text": "Speaker 1: Oh?"
+        },
+        {
+          "startSeconds": 707,
+          "text": "Speaker 2: Really yeah, that was never I don't think that was ever. There was a lot of circumstantial evidence that that was the case, but never, like the smoking gun, that we actually encouraged Saddam Hussein to do so. But it's just, man, when you look at how all this played out over the years, it's just maddening."
+        },
+        {
+          "startSeconds": 724,
+          "text": "Speaker 1: Yeah, you know, yeah, it's a s show."
+        },
+        {
+          "startSeconds": 727,
+          "text": "Speaker 2: Yeah. So Iraq and Iran are fighting, we're supplying both, playing both sides of the coin, right, uh, And we offered arms to Iran And who are you gonna call?"
+        },
+        {
+          "startSeconds": 739,
+          "text": "Speaker 1: Is real?"
+        },
+        {
+          "startSeconds": 739,
+          "text": "Speaker 2: Not ghostbusters?"
+        },
+        {
+          "startSeconds": 740,
+          "text": "Speaker 1: Oh Gorbanaphar?"
+        },
+        {
+          "startSeconds": 742,
+          "text": "Speaker 2: Well you're gonna call Ali North?"
+        },
+        {
+          "startSeconds": 743,
+          "text": "Speaker 1: Oh yeah, okay, yeah, I would have gotten there eventually. Yeah, because okay, so remember Oly North is this total novice when it comes to covert operations bymore. Yeah, yeah, he's been running the Nicaragua op for years now. Yeah, just doing a bang up job of it. So they're like, well, sure, we'll have him do this incredibly illegal, super sensitive arms sailed to Iran too, Why don't you come on over here, Ali and all. He said, well, okay, that's fine, but I need to go get the lay of the land. And he actually traveled to Iran with a fake passport under an assumed name William P. Good with a knee and when he went, it was it was dangerous enough that William Casey, supposedly Oliver North later testified, gave him cyanide pills so that he could take his own life rather than be tortured by the Iranians. If this were in fact like some sort of setup."
+        },
+        {
+          "startSeconds": 795,
+          "text": "Speaker 2: Again right out of a movie, yeah."
+        },
+        {
+          "startSeconds": 797,
+          "text": "Speaker 1: But Oliver North went to Iran with cyanide pills."
+        },
+        {
+          "startSeconds": 800,
+          "text": "Speaker 2: And a fake passport Billy Good."
+        },
+        {
+          "startSeconds": 802,
+          "text": "Speaker 1: Yeah, so everything went great, though it did. He didn't need the cyanide pills after all."
+        },
+        {
+          "startSeconds": 807,
+          "text": "Speaker 2: He did not. He dealt with, like you mentioned earlier, this Iranian businessman named Gorbanifar. And this guy was ten shades of shady, so much so that the CIA wouldn't even deal with them now."
+        },
+        {
+          "startSeconds": 821,
+          "text": "Speaker 1: They issued a burn notice on him in nineteen."
+        },
+        {
+          "startSeconds": 823,
+          "text": "Speaker 2: Eighty three, which is I don't even know what that is. That means just TV he's dead to us."
+        },
+        {
+          "startSeconds": 828,
+          "text": "Speaker 1: It's basically stay away, okay, it's putting him on blast to all the other intelligence agencies in the world."
+        },
+        {
+          "startSeconds": 834,
+          "text": "Speaker 2: Gotcha PERSONA grade."
+        },
+        {
+          "startSeconds": 835,
+          "text": "Speaker 1: I won't even deal with this guy. And so Alie North is like, yeah, I'll deal with this guy."
+        },
+        {
+          "startSeconds": 840,
+          "text": "Speaker 2: All right. So with his help, Oliver North set up a deal where and it's so simple to look at, like, Israel, you give them your missiles and then we'll just replace those missiles for you with our missiles."
+        },
+        {
+          "startSeconds": 855,
+          "text": "Speaker 1: Yep."
+        },
+        {
+          "startSeconds": 855,
+          "text": "Speaker 2: So we're not given the missiles you are."
+        },
+        {
+          "startSeconds": 857,
+          "text": "Speaker 1: And because no American explicitly said to Iran, hey, we're doing this so that you guys will get these hostages released, it wasn't in arms for hostages deal, and so Reagan's vowed and never negotiate with terrorists remained intact."
+        },
+        {
+          "startSeconds": 873,
+          "text": "Speaker 2: That's right. Five hundred and eight tow tow missiles What does that stand for?"
+        },
+        {
+          "startSeconds": 880,
+          "text": "Speaker 1: Two blaunched optically tracked wireless guided missile, which is like it's like the tube launched. There's a tube and it can be mounted on the ground, mounted on a jeep. It's super portable. But they are they'll blow some stuff up."
+        },
+        {
+          "startSeconds": 894,
+          "text": "Speaker 2: I think I've seen these you have. So five hundred and eight of these made it from Israel to Iran, and then in very short order, a couple of days later, one of the hostages, Benjamin we Are, minister who was held by Lebanes's Terrists for sixteen months, was released. So it worked."
+        },
+        {
+          "startSeconds": 911,
+          "text": "Speaker 1: It did work, Azah. It was a big deal around the White House too, but they said, let's try it again, but this time it seems a little messy to get Israel involved. Let's just do this ourselves. Alie, you think you can handle this, and he said, sure, me and Gerbonifor have this. So rather than Israel giving arms to Iran, Richard Seacord got brought in, just like with Nicaragua. And again this isn't like years after Nicaragua. Nicaragua's at full bore in full swamp, but it's still going yet, and Olie North is running both operations simultaneously. And so the news setup was the Department of Defense would sell the CIA missiles for thirty seven hundred bucks a pop. The CIA would sell them to Richard Seacord at cost, and then Seacord would sell them to Garbaniphar for ten grand apiece, and then Gorbanifhar would go sell them to Iran for whatever he charged Iran. Can you imagine, I can't. I guarantee it was more than the ten grand. Yeah, and this happened multiple times over the course of a little over a year. America secretly transferred two thousand missiles and missile parts to Iran in eight shipments."
+        },
+        {
+          "startSeconds": 986,
+          "text": "Speaker 2: Yeah. For the release of hostages."
+        },
+        {
+          "startSeconds": 988,
+          "text": "Speaker 1: Yeah. Ultimately there were three hostages that got released out of seven that had been taken hostage total."
+        },
+        {
+          "startSeconds": 994,
+          "text": "Speaker 2: Yeah, And didn't he say ultimately there were three more hostages taken, so they netted out at zero at zero."
+        },
+        {
+          "startSeconds": 1001,
+          "text": "Speaker 1: Yeah, So but that was the whole Iran operation."
+        },
+        {
+          "startSeconds": 1006,
+          "text": "Speaker 2: Yeah, but here's the deals. This price markup means that that shell company and those Swiss bank accounts were making a lot of money, and so much so that I think one of them had three million dollars made an interest alone. So at some point someone's like, hey, this is a money making operation. Now, why don't we tie a little bow on all this and use some of that money to fund the contrast, Because you guys are doing both of these things and you need money. Congress won't give it to you. Forget the fundraising omelets. We'll just use the money from these illegal arm sales to fund the Contras."
+        },
+        {
+          "startSeconds": 1045,
+          "text": "Speaker 1: Yeah, and that's exactly what happened. So to put in playing terms, America illegally and secretly sold missiles to Iran, used the proceeds from those missile sales to secretly and illegally fund the Contras to help them overthrow their government down in Nicaragua. That's what the Reagan administration did."
+        },
+        {
+          "startSeconds": 1065,
+          "text": "Speaker 2: That's right."
+        },
+        {
+          "startSeconds": 1065,
+          "text": "Speaker 1: That's why it's called Iran Contra. That's where they came together. There was a diversion of funds."
+        },
+        {
+          "startSeconds": 1070,
+          "text": "Speaker 2: Yeah, and the I think it was a by nineteen eighty six, Congress finally got back on board because of this drum beat from Reagan over the years of how much we need to really do this officially, And keep in mind, Congress still didn't know any of this is going on right secretly. And then Congress said, all right, we'll give you a hundred million dollars to aid this cause."
+        },
+        {
+          "startSeconds": 1093,
+          "text": "Speaker 1: And you're going to say, how take a dog."
+        },
+        {
+          "startSeconds": 1095,
+          "text": "Speaker 2: You would think that was the end of all the covert stuff."
+        },
+        {
+          "startSeconds": 1098,
+          "text": "Speaker 1: It wasn't, though, No, No, it's still continued on. But now it was legitimized and had even better funding. But that was not the end of the whole thing. Like everybody didn't just get to walk away and say that was close, because the whole thing started to come apart. Actually, and I say that we take an ad break and come back and talk about it. Great after this."
+        },
+        {
+          "startSeconds": 1119,
+          "text": "Speaker 3: Well, now we're on the road, driving in your truck. Want to learn a thing or two from Josh Amuck?"
+        },
+        {
+          "startSeconds": 1127,
+          "text": "Speaker 1: Stuff you should know? Should all right? Okay, Chuck. So nineteen eighty six Congress is back on board. I think it's worth pointing out that that's exactly four years after the Democrats took control of the House in nineteen eighty two. So I wonder if the Republicans took control back in eighty six, and that's why the funding got turned back onto the Contress."
+        },
+        {
+          "startSeconds": 1162,
+          "text": "Speaker 2: Me solve this?"
+        },
+        {
+          "startSeconds": 1163,
+          "text": "Speaker 1: I like to speculate instead, So this."
+        },
+        {
+          "startSeconds": 1167,
+          "text": "Speaker 2: All might have Who knows if this ever would have even been found out had it not been for the sharpshooting of a young Sandinistan soldier named Jose Fernando Canales Almann Nice in October fifth, nineteen eighty six. It was a cargo plane, as he won twenty three called the provider flying seventy Soviet Kalishnikovs, one hundred thousand rounds of AMMO, rocket grenades and other supplies. And this is one of those things where you said they would fly over and kick him out the back of the plane. Sure, this is one of those runs."
+        },
+        {
+          "startSeconds": 1203,
+          "text": "Speaker 1: Yeah. The problem with this particular run, though, is that they did this at twenty five hundred feet in broad daylight."
+        },
+        {
+          "startSeconds": 1209,
+          "text": "Speaker 2: They got a little lazy o tad bit or maybe cocky."
+        },
+        {
+          "startSeconds": 1212,
+          "text": "Speaker 1: I don't even know if it's that. I think it was more like this was just work. It was an everyday job by this time. They've been doing it for years. Yeah, you know, and the operation was just humming along so nicely that it was almost an autopilot."
+        },
+        {
+          "startSeconds": 1225,
+          "text": "Speaker 2: Yeah."
+        },
+        {
+          "startSeconds": 1226,
+          "text": "Speaker 1: So yeah, they did this one supply drop on October fifth, nineteen eighty six, in broad daylight."
+        },
+        {
+          "startSeconds": 1231,
+          "text": "Speaker 2: And there were four crew aboard. William J. Cooper, Wallace buzz Sawyer, Freddy Vilchis, and a guy named Eugene Hassenfuss who and again this sliding doors thing. Hassenfuss is the only guy who had a parachute. He borrowed it from his brother, a skydiver, because you know, he thought it might be smart to take a parachute, right no one else had parachutes. Had he not had a parachute, this may have turned out differently."
+        },
+        {
+          "startSeconds": 1256,
+          "text": "Speaker 1: It may have. For sure he was the only one that survived this plane crash because he was the only one who borrowed the parachute from his brother and he jumped out, landed, made it safely into the jungle. And I think he actually survived and evaded the Sandinistas for maybe a day or something like that before he was captured. And when he was captured, they led him out of the jungle like with a rope around his neck, just about as big of a prisoner as you can imagine. Super publicized. There are billboards of him being led around by Santainistas and they started asking him questions and he was like, what do you want to know?"
+        },
+        {
+          "startSeconds": 1294,
+          "text": "Speaker 2: He say, like a canary, He really did."
+        },
+        {
+          "startSeconds": 1296,
+          "text": "Speaker 1: He said, this is my tenth supply mission. I presume that the CIA is running this. I don't know, And he would know this would be something that he would he could legitimately guess at at least because he had actually worked on CIA air drops over Vietnam or Cambodia for Air America back in the Vietnam War."
+        },
+        {
+          "startSeconds": 1319,
+          "text": "Speaker 2: Yeah, but he wasn't like, like he sings like a canary because he's not very high up on the totem pole. Like his job was to get up there and shove this stuff out of the back of the plane, right for three grand a month."
+        },
+        {
+          "startSeconds": 1330,
+          "text": "Speaker 1: Right, He wasn't even a CIA operator. He's just a former Marine who had a background working with Air America years before. But by this time, by the time he joins on doing this for the Contras, he was like working as a construction worker part time in Wisconsin right home. So this is like pretty good money, I think. Yeah, he was getting seven grand in today's dollars a month for basically kicking AK forty seven crates out the back of a plane over Nicaragua."
+        },
+        {
+          "startSeconds": 1360,
+          "text": "Speaker 2: Yeah, so he's not the kind of guy that's going to take the fall right for anyone. So he's singing like a canary."
+        },
+        {
+          "startSeconds": 1366,
+          "text": "Speaker 1: Even if he had kept his mouth shut, it wouldn't have mattered what it sounds like."
+        },
+        {
+          "startSeconds": 1369,
+          "text": "Speaker 2: Right, Yeah, Because all the other guys, including Hassenfuss, had their wallets on the plane, They had all their employee ID cards and in fact, I don't even we mentioned in episode one the company that was set up to do these drops was set up called Southern Air Transport out of I guess Miami. So they all had their Southern Air Transport IT cards, which was the CIA front."
+        },
+        {
+          "startSeconds": 1396,
+          "text": "Speaker 1: Like everybody knew Southern Transport was a CIA front, so they might as well have had like CIA Junior badges or something right, or."
+        },
+        {
+          "startSeconds": 1403,
+          "text": "Speaker 2: Like Michael Keaton and out of Sight when he has the big FBI T shirt."
+        },
+        {
+          "startSeconds": 1408,
+          "text": "Speaker 1: I haven't seen that one?"
+        },
+        {
+          "startSeconds": 1409,
+          "text": "Speaker 2: Oh, you haven't seen out of Sight? No? Is that the one where he's George Clooney and Jennifer Lopez."
+        },
+        {
+          "startSeconds": 1414,
+          "text": "Speaker 1: Is he a bad guy in it?"
+        },
+        {
+          "startSeconds": 1415,
+          "text": "Speaker 2: No, he's a good guy, but he walks in. He plays Ray Nicolette who played same character, and Jackie Brown FBI guy. Okay, but it's funny because he walks in with an FBI T shirt on, and Dennis Farina as Jennifer Lopez's dad, and he's a former CUP and he goes, hey, Ray, let me ask it. He got one that says undercover."
+        },
+        {
+          "startSeconds": 1434,
+          "text": "Speaker 1: Dennis Farina man class ad."
+        },
+        {
+          "startSeconds": 1436,
+          "text": "Speaker 2: I mean he got to see out of Sight. That's a classic. All right, I'll check it out like one of the better men."
+        },
+        {
+          "startSeconds": 1439,
+          "text": "Speaker 1: I mean, I know the movie. You're talking about avoid it like the plague."
+        },
+        {
+          "startSeconds": 1443,
+          "text": "Speaker 2: It's so good, Okay, you would love it, all right, So Southern air Transport caa front. There's also a log book that connected this flight and all the other flights. And then Hassenfuss in his wallet had a business card to Robert w Owen, this is a big one who was working with Oliver North in Washington."
+        },
+        {
+          "startSeconds": 1462,
+          "text": "Speaker 1: Right, which so that provided a direct line between Oliver North and some guys who were kicking Kalashnikov's out of the back of a plane over Nicaragua. So that was a really big deal that when this guy got captured and you know, told the Santonistas as much as he knew, because the Sandinistas were like, attention, world, Yeah, listen to what we just found out. The CIA has totally been funding these Countra rebels who are trying to overthrow this sovereign government, and we think you guys should know about it."
+        },
+        {
+          "startSeconds": 1493,
+          "text": "Speaker 2: Yeah, And it was it wasn't like you could totally discount that even though it was from the Sandinistans like and the American media were like what I'm sure Congress was like wait a minute, right, this reeks of like something that had been happening that we tried to shut down."
+        },
+        {
+          "startSeconds": 1510,
+          "text": "Speaker 1: Yeah, because remember, even if the CIA was brief in Congress, it was either Bill Casey or Dewey Clarridge, and they were doing a really obtuse job of this keeping Congress at arms length. So anytime something like this came out, almost none of Congress knew the full extent of this, and it was always in flagrant violation of whatever Congress wanted or whatever Congress had agreed to."
+        },
+        {
+          "startSeconds": 1535,
+          "text": "Speaker 2: Yeah, and this wasn't like this was sort of the straw that broke it all open, or that broke the camel's back."
+        },
+        {
+          "startSeconds": 1541,
+          "text": "Speaker 1: Broke the camel's back wide open. Oh god, that's correct, or camel."
+        },
+        {
+          "startSeconds": 1546,
+          "text": "Speaker 2: Things have been unraveling for a bit. There was a party in nineteen eighty five in Virginia thrown thrown by Soldier of Fortune magazine. Can you imagine? No, what's that party?"
+        },
+        {
+          "startSeconds": 1558,
+          "text": "Speaker 1: Like? I don't want to know, I can't imagine. I used to read Soldier of Fortune when I was in my ninja training as like a ten year old boy, and even then I was like this, this magazine makes my stomach hurt."
+        },
+        {
+          "startSeconds": 1569,
+          "text": "Speaker 2: And it's in nineteen eighty five, Like, can you imagine the amount of like blow being secretly done in the bathroom at that party."
+        },
+        {
+          "startSeconds": 1576,
+          "text": "Speaker 1: Sure, but also they were making snuff movies in the living room, and there's no telling what was going on. As a soldier of Fortune, we can tell you at the very least, there was a lot of boasting going on openly about this contra operation. And again this is the time when people don't know about this stuff."
+        },
+        {
+          "startSeconds": 1592,
+          "text": "Speaker 2: Yeah, but you know what happens is like you get enough people in enough years, and people start talking, people start bragging. Yeah, and all of a sudden, you have a couple of gen and Tonics at a Soldier of Fortune party. Sure, and you're like, hey, guess what, and that that's what happened."
+        },
+        {
+          "startSeconds": 1608,
+          "text": "Speaker 1: Somebody goes what yeah, there you go here it comes."
+        },
+        {
+          "startSeconds": 1611,
+          "text": "Speaker 2: Yeah, and they drop the you know, they drop the bomb that what's been going on. A concerned citizen hears this. I guess he must have been mistakenly invited the soldier."
+        },
+        {
+          "startSeconds": 1621,
+          "text": "Speaker 1: I don't know how that guy got invited, or they just happened to talk to the wrong guy or whatever, but probably that he was like, I am really fearful of my life for saying something about this, but I feel like somebody should know. So he went to a lawyer, a human rights lawyer named David Shean, and he said, you go tell everybody you put your life on the line."
+        },
+        {
+          "startSeconds": 1641,
+          "text": "Speaker 2: And he did. He submitted an affidavit to federal court, started doing interviews, talking to journalists, drumming up support. White House was like, we don't know what you're talking about. You're a crazy man, Like this is all made up. And finally it took a Lebanese newspaper, Al Shira, that reported on this deal, this arms for hostage deal, like in a legitimate newspaper."
+        },
+        {
+          "startSeconds": 1666,
+          "text": "Speaker 1: Right, so now both stories have been blown open. You've got Eugene Hassenfu was captured and the contra operation is blown open, and now Al Shira is reporting on the Iran arms for hostage deal. And really, crazily enough, these two separate arms of this one scandal came out within a month of each other, which is it's bizarre, but that's what happened. And now it was like there's it's on the table. The America media knows about it, Congress knows about it. Heads are about to roll."
+        },
+        {
+          "startSeconds": 1699,
+          "text": "Speaker 2: All right, we'll take our final break and we'll come back and talk about the aftermath of Iran condra."
+        },
+        {
+          "startSeconds": 1706,
+          "text": "Speaker 3: Well, now we're on the road, driving in your truck. I want to learn a thing or two from Josh."
+        },
+        {
+          "startSeconds": 1713,
+          "text": "Speaker 2: Chuck."
+        },
+        {
+          "startSeconds": 1714,
+          "text": "Speaker 3: It's stuff you should know, all right."
+        },
+        {
+          "startSeconds": 1731,
+          "text": "Speaker 1: All right, Chuck, you promised that after your math."
+        },
+        {
+          "startSeconds": 1733,
+          "text": "Speaker 2: Let's hear it, all right, So everything is exposed. Oliver North was no longer in business doing his thing."
+        },
+        {
+          "startSeconds": 1746,
+          "text": "Speaker 1: No, he shut down shop real quick, he."
+        },
+        {
+          "startSeconds": 1748,
+          "text": "Speaker 2: Did, but not before. Very famously, he and his very eighties haired secretary, Fawn Hall. I forgot. I looked at was like, Fawn Hall. I looked her up, and as soon as I saw it, I was like, right, yeah, Fawn Hall, sure you can forget that hair. She could barely walk through a door."
+        },
+        {
+          "startSeconds": 1765,
+          "text": "Speaker 1: No, it was ginormous, for sure."
+        },
+        {
+          "startSeconds": 1768,
+          "text": "Speaker 2: It's so great. I would be fearful around a shreddervour her, but she was not fearful at all. She and Oliver North spent a day they could. They call it a shredding party. I mean, we will never know the full truth behind this because of all the evidence that they shredded."
+        },
+        {
+          "startSeconds": 1785,
+          "text": "Speaker 1: Yep, as far as anyone knows, Oliver North decided on his own to shred every document he had on it. That's right, and yeah, that's that's it. It's it's now it's the official narrative that has been written into the history book, which you can just guarantee is not anywhere near the full story, right."
+        },
+        {
+          "startSeconds": 1805,
+          "text": "Speaker 2: So it all comes out. The Reagan administration start looking around and they're like, well, who who's going to be the patsy for this one? And Oliver North could not escape it, but they're like, he's small potatoes, he'll go down."
+        },
+        {
+          "startSeconds": 1820,
+          "text": "Speaker 1: Well, I think he was even willing to take the fall, like he knew he was going to be the fall guy and was like, okay, that's part of the job."
+        },
+        {
+          "startSeconds": 1825,
+          "text": "Speaker 2: Right, But they knew that it had to the American public, and certainly Congress wasn't going to be satisfied with just Oliver North, right, So who did they land on?"
+        },
+        {
+          "startSeconds": 1834,
+          "text": "Speaker 1: So the official line became this Poindexter and I guess McFarlane would have started it. Became fully aware of just how badly Reagan wanted to help the Contras and said I'm going to do something about this, and tapped Allie North and said we need to help the Contras out. Go help him out, figure it out. And North went off and basically went rogue on his own and set up this whole operation, created this entire network with Seacord decided to do the Iranian arms deal all this stuff basically on his."
+        },
+        {
+          "startSeconds": 1868,
+          "text": "Speaker 2: Own, right, like Reagan and Bush knew nothing about."
+        },
+        {
+          "startSeconds": 1870,
+          "text": "Speaker 1: It, nothing about it, and that the buck stopped at Poindexter. Ultimately it didn't go any further. William Casey being CIA, he was basically out of the loop. That was the official story they came out with, right, and America when you're kidding, right, this is a joke."
+        },
+        {
+          "startSeconds": 1887,
+          "text": "Speaker 2: Yeah, I mean I remember these hearings even as a little kid, like watching these and then watching the news coverage of it, and like we mentioned all over North strolling in there with his dress uniform and you know, by all accounts being a pretty stand up guy, like he didn't rat anyone out."
+        },
+        {
+          "startSeconds": 1903,
+          "text": "Speaker 1: He didn't. But he also he was like, there's there's no way the president didn't know about this. He said, I don't have any direct evidence that the president did know about it, but it's my understanding that the president was fully aware of what was going on."
+        },
+        {
+          "startSeconds": 1917,
+          "text": "Speaker 2: Yeah, what was the deal with this missile supply shipment? Though, That's the one thing didn't quite get."
+        },
+        {
+          "startSeconds": 1920,
+          "text": "Speaker 1: So there was North got rid of all the documents that he could, right, well, North didn't have any control over CIA documents, and at that first missile resupply where they were resupplying Israel, he had a CIA. He basically said, Hey, CIA, do you know anybody I can use to ship these things. I've got an emergency here. I need to get these to Israel fast. And the CIA, being the CIA is still a bureaucracy, they had to document this event. So there was a document out there now and right that he couldn't get his hands on, that he couldn't shred. And so this led to Reagan taking responsibility for saying, okay, I was aware of this Iran missile deal by backdating an order to William Casey saying I order you not to tell Congress about this, even though you're supposed to. So Reagan basically said, on paper, I know about this Iran, this one missile transfer to Iran. Had no idea about the contrasts, right, okay. And at first they started off denying everything."
+        },
+        {
+          "startSeconds": 1987,
+          "text": "Speaker 2: Oh yeah, like after this, I'll share a story that we talked about. He went on television, Reagan did and denied everything."
+        },
+        {
+          "startSeconds": 1994,
+          "text": "Speaker 1: He said, all this is just total bs, yeah exactly. Now let's stop talking about it."
+        },
+        {
+          "startSeconds": 1999,
+          "text": "Speaker 2: Everybody ten days after that, Reagan had another press conference where he talked about the Iran operation and he acknowledged it, but said, what we're really doing here is just trying to sort of send a signal to Iran that where we want friendlier relations. Right, there were not arms for hostage exactly."
+        },
+        {
+          "startSeconds": 2017,
+          "text": "Speaker 1: And then so that was ten days after the first denial, right, and then four months after that, because the reporting would not stop, he basically said, Okay, yeah, whatever it started out as, I admit that it devolved into an arms for hostage deal. Which even that, even that admission, which is the closest he ever came to admitting, you know, responsibility for it. Yeah, even that's his total b us and fantasy. It was from the outset in arms for hostages deal. Right, The whole thing was set up to get hostages released, and that was it. So there was there was no other way to put it. Yeah, but that's he denied that to his dying day."
+        },
+        {
+          "startSeconds": 2053,
+          "text": "Speaker 2: As far as fallout, Poindexter resign Oliver North was fired, Casey died in a hospital not too long after this whole thing like was exposed, I mean like weeks. Yeah, so the press was all over the president. He appointed the Tower Commission. Yeah, the look into this."
+        },
+        {
+          "startSeconds": 2073,
+          "text": "Speaker 1: The president appointed a commission to investigate, Yeah, the president's own administration's wrongdoing."
+        },
+        {
+          "startSeconds": 2080,
+          "text": "Speaker 2: That's right. And it was determined that Reagan's disengagement from the management of his White House created condition conditions such that it was possible that he did not know about this."
+        },
+        {
+          "startSeconds": 2093,
+          "text": "Speaker 1: Which is the absolute best official finding he could have hoped for, because it basically says rang it didn't. He had a rogue guy working for him, a true believer, a patriot. But Reagan didn't know about this, and yeah, he should have. He should have had a closer watch on his executive branch, but he didn't. What are you going to do? Let's get mister t in here for a photo op with Nancy."
+        },
+        {
+          "startSeconds": 2116,
+          "text": "Speaker 2: There was a criminal investigation, and what they were really honing in on was the eighteen million dollars in profits that were made and what happened to that money where it went. Fourteen people were charged. Oliver North was tried and found guilty on three counts. One of the counts was for getting a sixteen thousand dollars security system installed in his home courtesy of Seacord. With that money."
+        },
+        {
+          "startSeconds": 2144,
+          "text": "Speaker 1: There was a rumor that there was a bounty on his head from terrorists, and she hooked him up. Right Now, that was a big problem for North, because North's whole bag was I was following orders that I assume we're coming from the president ultimately, and I was doing it out of my patriotic duty and a sense of, you know, as a true believer that we need to get rid of communism. And the American public loved it. They were like, great, make this man a saint. Congress started to love it too, and he got off. But that was a real problem because it's saying, well, you took this gift from funds from this illicit arms sales."
+        },
+        {
+          "startSeconds": 2183,
+          "text": "Speaker 2: Right, But it was a gift of a security system to help protect his family, So it's not like, you know, it was a gift of ten pounds a blow."
+        },
+        {
+          "startSeconds": 2190,
+          "text": "Speaker 1: And Nicaraguans sex worker from the Santa and Eastern government exactly."
+        },
+        {
+          "startSeconds": 2195,
+          "text": "Speaker 2: Seacord was convicted of one count of lying to Congress and the investigators. He basically denied that North received any funds from any of this. So it's still kind of hinged on that security system, I guess."
+        },
+        {
+          "startSeconds": 2209,
+          "text": "Speaker 1: And so everybody went to jail forever after that point."
+        },
+        {
+          "startSeconds": 2213,
+          "text": "Speaker 2: Right, No, that's not true at all. Hakeem got two years probation, a five thousand dollars fine."
+        },
+        {
+          "startSeconds": 2218,
+          "text": "Speaker 1: Secord got two years probation."
+        },
+        {
+          "startSeconds": 2221,
+          "text": "Speaker 2: Is that what he got? Two years probation."
+        },
+        {
+          "startSeconds": 2223,
+          "text": "Speaker 1: So the two guys who were actually running the company that ran this whole thing each got two years probation."
+        },
+        {
+          "startSeconds": 2228,
+          "text": "Speaker 2: North's conviction was overturned on a technicality, and President Bush, the senior Bush, on Christmas Eve, this was Christmas Eve as he was leaving office, right, yep, he issued six pardons basically let everyone off the hook, including Casper Weinberger who hadn't even gone to trial yet."
+        },
+        {
+          "startSeconds": 2247,
+          "text": "Speaker 1: No, and neither had Duyne Clarridge. Dewey Clarridge was going to stay on trial too. Both of them received preemptive pardons. And a lot of people are like, that was about the shadiest set of pardons anyone's ever issued, because there's a lot of people out there who say Bush really walked away from this scot free, But there is no way he wasn't even more involved in this than Reagan was."
+        },
+        {
+          "startSeconds": 2269,
+          "text": "Speaker 2: Yeah, I mean George Bush withheld subpoena his subpoena diary entries that basically indicated that he had full knowledge of this the entire time. Eventually, in nineteen ninety two, Independent Counselor Lawrence Walsh asked for these again, and Bush like said, I asked you for these diary entries. And Bush was like, I didn't you did. I didn't fully understand. It was inadvertent, like you asked me for a lot of stuff. I didn't know you asked me for the diary entries. And Walsh was really upset and he said, the Iran contra cover up has now been completed. And George Bush as a president who has such a contempt for honesty and arrogant disregard for the rule of law."
+        },
+        {
+          "startSeconds": 2313,
+          "text": "Speaker 1: Yeah, and I mean the forestalling that the Reagan White House and then later on the Bush White House did in allowing these investigations to go forward and trying to keep Congress at arm's length after everything came out. It worked because there were articles of impeachment introduced in the House against Ronald Reagan, and they managed to stave them off to where it was like, while he's leaving office, anyway, forget about it. This investigation took years and years and years, and then finally when Bush pardoned everybody that was it, there was nothing else to do. Everybody who was involved was implication was off Scott free. And then the fact that Oliver North had shredded all those documents, they were all lost to history, like the actual truth is lost to history."
+        },
+        {
+          "startSeconds": 2358,
+          "text": "Speaker 2: Yeah. Reagan, his reputation took a hit, a temporary hit for a while there. He went from sixty three percent in the span of a couple of months to forty three to forty seven percent depending on which poe you looked at on his approval rating. And he would get it back though, despite in the nineteen ninety deposition, the very very famous deposition where Ronald Reagan said I don't remember or I don't recall eighty eight times. That was very big deal. It was all over the news. Yeah, it was almost as famous, or just as famous as Bill Clinton's very famous. It depends what your definition of is is right exactly, But Reagan bounded."
+        },
+        {
+          "startSeconds": 2400,
+          "text": "Speaker 1: He did, man to the most popular presidency since FDR. Right."
+        },
+        {
+          "startSeconds": 2405,
+          "text": "Speaker 2: Yeah. Upon his exit, his approval rating had bounced all the way back up to the early sixties."
+        },
+        {
+          "startSeconds": 2411,
+          "text": "Speaker 1: Mister t famously carried him out of the White House on his shoulders on his last day in office. Oh man, so that's a wrong Contra. Man, what a story. Heck of a story. Where's this movie? I don't know. Hopefully we'll get some rights to it after this episode."
+        },
+        {
+          "startSeconds": 2426,
+          "text": "Speaker 2: I want to play Fawn Hall."
+        },
+        {
+          "startSeconds": 2428,
+          "text": "Speaker 1: Welso that's great."
+        },
+        {
+          "startSeconds": 2430,
+          "text": "Speaker 2: You get Jerry to play Fawn Hall."
+        },
+        {
+          "startSeconds": 2431,
+          "text": "Speaker 1: That'd be great. Jerry Well. In the meantime, while we find a suitable wig for Jerry, you can find out more about Iran Contra by going and reading contemporary articles on it. I'm telling you it's really awesome. And since I said that it's time for listener mail, I'm."
+        },
+        {
+          "startSeconds": 2449,
+          "text": "Speaker 2: Gonna call this follow up on the moonlanding thing. Hey, guys, in my opinion, the Apollo missions and moonlandings are the most significant events in the history of life on Earth. On the question why the Command Module and Lunar Lander were launched separated, I think the reason was to allow the Command Module to be ejected in case of an emergency. The very top of the Apollo stack was the launch escape system, like an ejector seat on steroids. I imagine they had to keep things as light and nimble as possible for the l S to be effective. I don't think you mentioned something that's really significant. The Apollo eight mission was the very first time humans went to the Moon. On top of being the first time we broke free of Earth's gravity. Like eleven, the stakes were incredibly high. They had to first insert the correct trajectory to make it to the Moon, then do a burn to enter the orbit around the Moon, then perform another burn to break free of the Moon's gravity and head back toward Earth. If any piece was not in place, those astronauts would have spent the rest of their lives either orbiting the Sun or orbiting the Moon. Apollo eight also gave us the Earth Rise photo."
+        },
+        {
+          "startSeconds": 2511,
+          "text": "Speaker 1: Oh yeah, yeah, I've been hearing a lot about Apollo eight lately too, So this person is hats off to you."
+        },
+        {
+          "startSeconds": 2520,
+          "text": "Speaker 2: Level was on both Apollo eight and Apollo thirteen. You travel to the Moon twice but never had the opportunity to land."
+        },
+        {
+          "startSeconds": 2526,
+          "text": "Speaker 1: That is so sad."
+        },
+        {
+          "startSeconds": 2527,
+          "text": "Speaker 2: Signed a space geek Noah Alloi."
+        },
+        {
+          "startSeconds": 2530,
+          "text": "Speaker 1: Nice work, Noah Alloi Alloi LOOI great name too. Thanks a lot for getting in touch with us. We love space geeks. We love to put you guys in headlocks and rub your heads with our knuckles until you go stop."
+        },
+        {
+          "startSeconds": 2543,
+          "text": "Speaker 2: It's called a noggie right here on Earth."
+        },
+        {
+          "startSeconds": 2545,
+          "text": "Speaker 1: That's right. If you want a noggy from me and Chuck, send us a space geeky or any kind of geeky thing. We love that kind of stuff. If you can go on to stuff youshould know dot com and follow our social links and you can send us a good old fashioned email, wrap it up, spank it on the bottom, and send it off to stuff Podcasts at iHeartRadio dot com."
+        },
+        {
+          "startSeconds": 2567,
+          "text": "Speaker 3: Stuff you Should Know is a production of iHeartRadio. For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
+        },
+        {
+          "startSeconds": 2580,
+          "text": "Speaker 1: E"
+        }
+      ]
     },
     {
       "feedId": 311840,
@@ -76,7 +1720,8 @@
       "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
       "imageUrl": "https://image.simplecastcdn.com/images/f4d14e45-d237-4192-b860-870b125ba8b1/5cdf6df8-bbf8-4a48-8dd8-20c165877200/3000x3000/bipcorepodcastart3000x3000.jpg?aid=rss_feed",
       "durationSeconds": 2057,
-      "datePublished": 1786492800
+      "datePublished": 1786492800,
+      "transcript": null
     },
     {
       "feedId": 311840,
@@ -87,7 +1732,8 @@
       "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4",
       "imageUrl": "https://image.simplecastcdn.com/images/2be48404-a43c-4fa8-a32c-760a3216272e/fab1584e-8ea9-4efa-9650-5e595861b2cd/3000x3000/image.jpg?aid=rss_feed",
       "durationSeconds": 4019,
-      "datePublished": 1786096800
+      "datePublished": 1786096800,
+      "transcript": null
     }
   ]
 }
