@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:30:07.925Z",
+  "updatedAt": "2026-08-12T19:49:34.991Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -28,6 +28,18 @@
     {
       "feedId": 980370,
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 58908315927,
+      "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
+      "description": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
+      "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
+      "durationSeconds": 1117,
+      "datePublished": 1786546800,
+      "transcript": null
+    },
+    {
+      "feedId": 980370,
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 58859040764,
       "title": "How satellites and AI can protect the planet | Robbie Schingler",
       "description": "Space technologist Robbie Schingler cofounded a satellite company that images the whole planet every day, making visible changes on Earth. He shows how pairing that data with AI creates a \"planetary intelligence\" we can use to spot emerging threats we might not have seen otherwise. Now he asks: Can we close the gap between seeing a crisis coming and actually stopping it? Hosted on Acast. See acast.com/privacy for more information.",
@@ -38,16 +50,257 @@
       "transcript": null
     },
     {
-      "feedId": 980370,
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 58807189977,
-      "title": "How citizens (not politicians) are building the future | Jon Alexander",
-      "description": "Citizen strategist Jon Alexander spent a decade gathering stories of democracy in action — and found that most change doesn't come from politicians or institutions. He shares examples from across the globe of ordinary people working together to improve their lives and communities, showing why the key to fixing things may already be in your own hands. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3",
-      "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
-      "durationSeconds": 735,
-      "datePublished": 1786374070,
-      "transcript": null
+      "feedId": 827592,
+      "podcastTitle": "Stuff You Should Know",
+      "episodeId": 58902159602,
+      "title": "Short Stuff: Nero and His Fiddle",
+      "description": "Did Nero play his fiddle while Rome burned during the Great Fire of 64 CE? Absolutely not. Find out how we know when Chuck and Josh bust a two thousand year-old myth. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/image.jpg?t=1786478934&size=Large",
+      "durationSeconds": 733,
+      "datePublished": 1786525200,
+      "transcript": [
+        {
+          "startSeconds": 4,
+          "text": "Speaker 1: Hey him, Welcome to short stuff Josh, Chuck, Jerry sitting in for Dave. And this makes this an official short stuff. We have the quorum. Let's go."
+        },
+        {
+          "startSeconds": 13,
+          "text": "Speaker 2: That's right. Do you recognize this article?"
+        },
+        {
+          "startSeconds": 16,
+          "text": "Speaker 1: No? Who wrote it? Did I write? Did you write?"
+        },
+        {
+          "startSeconds": 19,
+          "text": "Speaker 3: Yeah?"
+        },
+        {
+          "startSeconds": 19,
+          "text": "Speaker 2: You wrote it?"
+        },
+        {
+          "startSeconds": 20,
+          "text": "Speaker 1: Did I really?"
+        },
+        {
+          "startSeconds": 21,
+          "text": "Speaker 2: Uh?"
+        },
+        {
+          "startSeconds": 21,
+          "text": "Speaker 1: Huh wow? I was like, this is pretty good."
+        },
+        {
+          "startSeconds": 24,
+          "text": "Speaker 2: I took your name off of it because I was hoping you wouldn't remember this one."
+        },
+        {
+          "startSeconds": 27,
+          "text": "Speaker 1: That's awesome. Yeah, this is not a bad article at all. That's great. Thank you for that, because uh yeah, I like this. I was like, I like the cut of this writer's Jim. Yeah."
+        },
+        {
+          "startSeconds": 38,
+          "text": "Speaker 3: So this is from the old house stuffworks dot com days and this is about the And I was surprised we hadn't done a shorty on this."
+        },
+        {
+          "startSeconds": 44,
+          "text": "Speaker 2: I was."
+        },
+        {
+          "startSeconds": 44,
+          "text": "Speaker 3: I was like, surely we have the story of Nero fiddling while Rome burned. And when I looked it up, there you were, buddy."
+        },
+        {
+          "startSeconds": 53,
+          "text": "Speaker 1: Yeah. I actually searched for an episode too, because it just sounds like we've definitely talked about it at some point, but it just had to have been a part of a larger episode. So let's dig in because I feel like everybody, thanks to my article, has heard that Nero fiddled while Rome burned, and it turns out that that is probably a piece of ancient propaganda that survived almost two thousand years."
+        },
+        {
+          "startSeconds": 80,
+          "text": "Speaker 3: At this point, I feel like you have a little extra wind beneath your wings."
+        },
+        {
+          "startSeconds": 83,
+          "text": "Speaker 2: Nowner, you know this is yours."
+        },
+        {
+          "startSeconds": 85,
+          "text": "Speaker 1: I've never felt more alive than i'd do right now."
+        },
+        {
+          "startSeconds": 88,
+          "text": "Speaker 3: Yeah, we're talking obviously about the Great Fire of Rome. For six days and seven nights, that's when Rome saw and this is eight sixty four, I saw seventy percent of its city destroyed and only four of its fourteen districts intact afterward."
+        },
+        {
+          "startSeconds": 103,
+          "text": "Speaker 1: Wow."
+        },
+        {
+          "startSeconds": 104,
+          "text": "Speaker 3: And the Roman historian Tacitus wrote that out of the about half the people of the million people, which would be by my count, five hundred thousand were rendered without a home because of this great fire."
+        },
+        {
+          "startSeconds": 118,
+          "text": "Speaker 1: I knew that. So this being a massive tragedy which two thousand years, I feel like we can add a joker to you at this point, but sure that it was such a huge tragedy and it was just so out of nowhere. And of course people just have an innate need to blame, to find cause, assign blame. People love doing that even back in the day. And also people back in the day were as susceptible to rumors and urban legends as we are today, and those things started up really quickly. One of the main ones was that somehow the government was involved in this."
+        },
+        {
+          "startSeconds": 159,
+          "text": "Speaker 3: Yeah, for sure, Like, hey, we saw people, we saw men fanning the flames, and when confronted, they said that they were under orders to do so, or you know, maybe somebody actually started this fire on purpose. In Nero, the Emperor Nero was kind of the prime suspect."
+        },
+        {
+          "startSeconds": 177,
+          "text": "Speaker 1: It seems like, yeah, he ordered it, that he set the fire, or some people. He had to rebuild Rome, I mean, you had to rebuild it after so many of the districts were just totally leveled, and he was like, let's build this in I don't know, Nero style, which is surprisingly close to the craftsman style of the nineteen twenties."
+        },
+        {
+          "startSeconds": 198,
+          "text": "Speaker 2: Oh really no. I was like, that's very surprising. But they're gonna say art Deco."
+        },
+        {
+          "startSeconds": 204,
+          "text": "Speaker 1: I was going to at first, and I was like, not, let me come up with something else, right, I should have just said art Deco would have gotten better. Laugh. But he rebuilt it in a manner that he liked. I mean, he was in charge at the time. And people were like, that's why Rome burnt, because this guy wanted to rebuild it more in his image."
+        },
+        {
+          "startSeconds": 223,
+          "text": "Speaker 2: Yeah, exactly."
+        },
+        {
+          "startSeconds": 224,
+          "text": "Speaker 3: So that rumor was going around, and through that rumor, okay, came the story that while the Great Fire was burning, Nero played his fiddle and just sort of watched it happen."
+        },
+        {
+          "startSeconds": 236,
+          "text": "Speaker 2: Should we take a break right there?"
+        },
+        {
+          "startSeconds": 238,
+          "text": "Speaker 1: We should, because I mean, what's coming up next is just eyepopping."
+        },
+        {
+          "startSeconds": 242,
+          "text": "Speaker 3: That's right, more goodness from Josh Clark of fifteen years ago right after this."
+        },
+        {
+          "startSeconds": 267,
+          "text": "Speaker 1: So Nero's like, wait a minute, wait, I wasn't fiddling. We'll find out why. That's definitive in a second. Why are you blaming me? And they're like, we're just blaming you. You got to accept that. He's like, I don't. I'm going to find a scapegoat myself. I'll trot them out publicly and then you can just stop blaming me. And he looked around. He's like, these Christians are new, I'm going to persecute them. And this actually became the first persecution of Christians in history. This was sixty four CE, and I mean Christianity was so new that there was still original apostles around who ended up being executed in this persecution."
+        },
+        {
+          "startSeconds": 307,
+          "text": "Speaker 2: Yeah, Paul, who was the other one."
+        },
+        {
+          "startSeconds": 309,
+          "text": "Speaker 1: Paul and Peter. Paul was beheaded and Peter was crucified upside down."
+        },
+        {
+          "startSeconds": 316,
+          "text": "Speaker 3: Yeah, So like torturous, brutal executions are happening because Nero is looking for a scapegoat because he was blamed for this fire. You know, when you said before we're going to talk about why it's definitive that he definitely didn't fiddle, it's because there was no fiddle at the time. Music historians basically agreed that the vile class of instruments, which is like a violin, didn't come around to the eleventh century, so about fifteen hundred years later, So there literally were no fiddles at the time."
+        },
+        {
+          "startSeconds": 347,
+          "text": "Speaker 1: No, but he did play something called the scythara, yeah, which is like a laptop harp. The top is like for strumming, the bottom is for plucking. You've probably seen something like it before. But he was really into it, so much so that when Rome conquered some new land, he would schedule music festivals in these new lands, and he would schedule them at times that he could go and compete. He would compete, and the Senate was not happy about this. They're like, you're competing against commoners, you're the emperor. And apparently Nero actually was more like than we think he was today, especially among the lower classes of Rome, because he didn't behave nearly as superior toward them as other elites in Rome had and did."
+        },
+        {
+          "startSeconds": 396,
+          "text": "Speaker 3: Oh okay, well, you know one thing he definitely did was in the immediate aftermath of the fire, he did a lot. Actually, he took a lot of measures to provide for the citizenry. He was at his place in Antium on the outskirts of Rome when it broke out. He immediately rushed back to the fire. Tacitus, that historian that I mentioned, was a boy at the time during the blaze, and he provided accounts of like hey, Nero helped coordinate the firefighting himself on the first night. He opened up public buildings for housing, He opened up his own gardens for temporary shelter. Yeah, he imported grain from other cities close by that I guess he sold, but sold like super cheap."
+        },
+        {
+          "startSeconds": 439,
+          "text": "Speaker 1: Yeah, he still sold it, though I thought that was a little hinky, Yeah for sure. But yeah, so he was a lot of the residents of Rome liked him, and Tacitus tells us like he did actually swing into action, and yet he still managed to bear the blame throughout this, like his persecution of Christians did not work. And apparently, like we said, the fiddling thing was not It's not possible that he fiddled. It is possible he was playing the sthara, but because of his responsiveness, it seems like that's probably not the case. So because this was probably largely created by the Senate, like the I think they were working hard to keep the blame on Nero."
+        },
+        {
+          "startSeconds": 483,
+          "text": "Speaker 3: Right."
+        },
+        {
+          "startSeconds": 485,
+          "text": "Speaker 1: There's a nineteen forties historian from the University of North Carolina named Mary Francis Giles Go tar heels, Yeah, and yes, if you're a tar heel, you can be proud of Mary Francis Gilds because she was one of those rare people who managed to see something that everybody knows in a different light, at a different angle. And she's like, you know, fiddling doesn't just mean playing a violin. It can also mean just kind of doing something like with your fingers, like ineffectually, like you're wasting time and energy, you're just fiddling around. Maybe that's what they originally meant."
+        },
+        {
+          "startSeconds": 520,
+          "text": "Speaker 2: I don't know why I never thought of that."
+        },
+        {
+          "startSeconds": 522,
+          "text": "Speaker 1: I definitely hadn't either. Even after writing this, it didn't even look familiar."
+        },
+        {
+          "startSeconds": 528,
+          "text": "Speaker 3: Yeah, she was like, you know, maybe he's just fiddling, as in, like doing something sort of useless. At the time, it sounds like that didn't happen either, But yeah, maybe they viewed it inadequate at the time, like what he was doing. Maybe the truth wasn't getting around that he was actually kind of helping, right."
+        },
+        {
+          "startSeconds": 546,
+          "text": "Speaker 1: And that actually fits with the idea that this was propaganda that the Senate was basically saying Nero's responses were not nearly enough. He was just basically messing around."
+        },
+        {
+          "startSeconds": 557,
+          "text": "Speaker 2: Yeah, for sure."
+        },
+        {
+          "startSeconds": 558,
+          "text": "Speaker 3: But you know, if you're like, man Nero got a bad rap, there's a brilliant writer who took that into consideration. But probably I don't know, fifteen years ago ish and said, hey, don't feel so bad for Nero because Nero ascended to the throne because his mom killed his uncle, and then Nero had his mom killed. Yeah, and then of course the persecution of the Christians, you know, hanging people by their feet and decapitating them, Like, don't feel bad for this guy."
+        },
+        {
+          "startSeconds": 590,
+          "text": "Speaker 2: Now."
+        },
+        {
+          "startSeconds": 591,
+          "text": "Speaker 1: There was also dumb Nascio Abestius, which is sicking wild animals on people for executions."
+        },
+        {
+          "startSeconds": 598,
+          "text": "Speaker 2: Yeah, no good."
+        },
+        {
+          "startSeconds": 600,
+          "text": "Speaker 1: So Nero essentially was on his heels after that great fire. Again, remember, the Senate didn't like him, like him that much. I can't stress that enough. And so the army, which he had been on really good terms with for a while, was like, we're not going to work for you any longer. So there's a potential coup brewing. The Senate declared him a public enemy, which is not something you want levied against you as an emperor. It meant that he was probably going to be executed. So he pushed a dagger into his throat about four years after the fire came and."
+        },
+        {
+          "startSeconds": 634,
+          "text": "Speaker 2: Went, yeah, he said, I sense a cupbrew. That was it. I don't know if you talk like that."
+        },
+        {
+          "startSeconds": 642,
+          "text": "Speaker 3: You know, I'm watching the show right now and it's."
+        },
+        {
+          "startSeconds": 647,
+          "text": "Speaker 2: Oh, Star City, have you heard of this?"
+        },
+        {
+          "startSeconds": 651,
+          "text": "Speaker 3: Star City is a show that is I can't remember the name of the first show, but there was a show about the Space Race, and there was an American version for All Mankind is what that was called from the American perspective, and Star City is the Space Race from the Soviet perspective."
+        },
+        {
+          "startSeconds": 670,
+          "text": "Speaker 2: And it's really good. I think you would like it."
+        },
+        {
+          "startSeconds": 671,
+          "text": "Speaker 3: But they cast all British actors and are doing British accents sort of like they used to just do for all movies back in the day. And it's just I got to wrap my head around every single episode when all these Brits are talking. I try to hear it in like with a Russian accent in my head, and it just kind of drives me nuts."
+        },
+        {
+          "startSeconds": 691,
+          "text": "Speaker 1: Yeah. Yeah, I can get used to that kind of thing, but I think it's also something that if you once you focus in on it, you just can't get past."
+        },
+        {
+          "startSeconds": 700,
+          "text": "Speaker 3: I don't know why in twenty twenty six they just didn't say, like, you know, do a Russian accent."
+        },
+        {
+          "startSeconds": 704,
+          "text": "Speaker 1: I know it's appropriations or Russians. It's very strange, but I guess that's it for the short Stuff, right, That's right, Okay, well everybody. Short Stuff is out."
+        },
+        {
+          "startSeconds": 717,
+          "text": "Speaker 3: Stuff you should know is a production of Iheartrating."
+        },
+        {
+          "startSeconds": 720,
+          "text": "Speaker 2: For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
+        }
+      ]
     },
     {
       "feedId": 827592,
@@ -815,899 +1068,6 @@
         {
           "startSeconds": 3256,
           "text": "Speaker 2: For more podcasts Myheartradio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
-        }
-      ]
-    },
-    {
-      "feedId": 827592,
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 58708821336,
-      "title": "Selects: Iran-Contra Affair: Shady in the 80s, Part 2",
-      "description": "As the operation expands it also begins to unravel. Word starts to leak out of the illegal stuff the Reagan administration was up to, Congress and the press investigate and people start to point fingers. Spoiler alert – they all got off scot free. Find out how it all wraps up in part 2 of this classic story. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d26685-cb0c-496e-91f3-b49e00d9b585/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
-      "durationSeconds": 2584,
-      "datePublished": 1786179900,
-      "transcript": [
-        {
-          "startSeconds": 0,
-          "text": "Speaker 1: Okay, everyone, buckle up for the thrilling conclusion of Iran Contra Shady in the Eighties, Part two."
-        },
-        {
-          "startSeconds": 13,
-          "text": "Speaker 2: Welcome to Stuff You Should Know, a production of iHeartRadio."
-        },
-        {
-          "startSeconds": 23,
-          "text": "Speaker 1: Hey, and welcome to the podcast. I'm Josh Clark. There's Charles t w Tuck, Brian, there's Jerry over there. And this is Stuff you Should Know. Iran Contra Part two, starting now go."
-        },
-        {
-          "startSeconds": 34,
-          "text": "Speaker 2: Maybe we should do a quick catch up. Okay, well we're still going. You act to like I just went to sleep."
-        },
-        {
-          "startSeconds": 41,
-          "text": "Speaker 1: No, it's true."
-        },
-        {
-          "startSeconds": 43,
-          "text": "Speaker 2: So what's going on here is the United States is Congress has decided that we cannot fund the Contras to fight the Sandinistas in Nicaragua. Shut off funding. So the Reagan administration makes a deep covert push to continue doing so right through a bunch of fun and shady ways."
-        },
-        {
-          "startSeconds": 67,
-          "text": "Speaker 1: Right, they're fundraising, they're directly arming the Contras, they're training them, doing all sorts of crazy stuff."
-        },
-        {
-          "startSeconds": 74,
-          "text": "Speaker 2: Yes, but if you know that this is about Iran Contra and you're like, what about Iran? What's going on here? I haven't heard anything about Iran?"
-        },
-        {
-          "startSeconds": 82,
-          "text": "Speaker 1: Keep your socks on."
-        },
-        {
-          "startSeconds": 83,
-          "text": "Speaker 2: Well, here we go. This is where Iran enters."
-        },
-        {
-          "startSeconds": 86,
-          "text": "Speaker 1: The picture, right, you can take your socks off, all right, go are your socks on?"
-        },
-        {
-          "startSeconds": 92,
-          "text": "Speaker 2: I've got on little footy socks."
-        },
-        {
-          "startSeconds": 93,
-          "text": "Speaker 1: Yeah, I do too cool. Oh, Jerry does too sweet. It's the way to go."
-        },
-        {
-          "startSeconds": 99,
-          "text": "Speaker 2: Jerry has those true footies where you can't even see him at all. I can see you mind peak out just a little, which I'm not a huge fan of."
-        },
-        {
-          "startSeconds": 106,
-          "text": "Speaker 1: Well, check out my mind."
-        },
-        {
-          "startSeconds": 107,
-          "text": "Speaker 2: Yeah, noms, no sms."
-        },
-        {
-          "startSeconds": 110,
-          "text": "Speaker 1: Okay, enter Iran. We really that was a great intro and it just went away."
-        },
-        {
-          "startSeconds": 116,
-          "text": "Speaker 2: That's right."
-        },
-        {
-          "startSeconds": 117,
-          "text": "Speaker 1: So on the other side of the world from Nicker, there was another foreign policy disaster simmering that Reagan had going, and it was in the form of Iran, and specifically, it wasn't even the form of run. It was in the form of a problem that America had doesn't really have much these days, but definitely did in the seventies and eighties where Americans would be taken hostage around the world, but specifically, almost exclusively by Lebanese terrorists who were, if not working on behalf of Iran, were definitely sponsored by Iran. And regardless of who was president, the fact that there were hostages being held by another country and there wasn't anything we could do about it. That was a real blemish on the presidency. It was not a very proud thing to think about for America. But that was a reality for a while there."
-        },
-        {
-          "startSeconds": 170,
-          "text": "Speaker 2: Yeah, so we ran at the time. This is the early eighties. This is just a few years removed from the Iranian Revolution of nineteen seventy nine, and this is where we talked about it before. Go look up photos of Iran in the mid seventies pre revolution, right, and it looks like London in the swinging sixties and seventies. Yeah, very kind of hit place to be. Iranian revolution happens. Fundamentalists take control of the government that was previously the Shaw of Iran, who was friendly to the West, sure, friendly to America generally, and the Iatola Komeni."
-        },
-        {
-          "startSeconds": 206,
-          "text": "Speaker 1: Kohmani I've always heard Kohmane."
-        },
-        {
-          "startSeconds": 208,
-          "text": "Speaker 2: Kohmani installed the Islamic theocracy and bad things started happening pretty quickly."
-        },
-        {
-          "startSeconds": 215,
-          "text": "Speaker 1: But yeah, there was a It was about as quick a turn about face politically and socially as you could imagine."
-        },
-        {
-          "startSeconds": 223,
-          "text": "Speaker 2: Yeah, for a whole country, yeah, yeah, but not everyone in the country, as we'll learn, Like the whole country didn't just change overnight."
-        },
-        {
-          "startSeconds": 230,
-          "text": "Speaker 1: No, but the the Islamic theocracy was in power, sure, very much. So. One of the things that happened was they were not very fond of America or Americans, and the American embassy was famously stormed and sixty six Americans working there were taken hostage and held for more than a year."
-        },
-        {
-          "startSeconds": 249,
-          "text": "Speaker 2: Man. That was like, this is stuff I really remember."
-        },
-        {
-          "startSeconds": 253,
-          "text": "Speaker 1: Like four hundred and forty days or."
-        },
-        {
-          "startSeconds": 255,
-          "text": "Speaker 2: Something, four hundred and forty four days, man, the Iranian hostage crisis. I remember this as a nine year old very clearly."
-        },
-        {
-          "startSeconds": 263,
-          "text": "Speaker 1: Really, Oh yeah, I have no recollection."
-        },
-        {
-          "startSeconds": 266,
-          "text": "Speaker 2: Yeah, it was a big deal, yellow ribbons, and it was on the news constantly."
-        },
-        {
-          "startSeconds": 269,
-          "text": "Speaker 1: I remember entering the room and being like, what does this have to do with Rainbow Bright turn this newscast?"
-        },
-        {
-          "startSeconds": 275,
-          "text": "Speaker 2: I even remember. So what happened was Jimmy Carter did not get these hostages free during his his I was about to say rain, but that was sort of the opposite Jimmy Carter was during his administration is iron fisted rain."
-        },
-        {
-          "startSeconds": 292,
-          "text": "Speaker 1: The days of terror."
-        },
-        {
-          "startSeconds": 295,
-          "text": "Speaker 2: But within a few days, and that may have cast some election, but within a few days of our hours, even of Reagan's inauguration, the hostages were freed, and I remember as a nine year old hearing kids parroting their parents' conversations like it was really Carter that had him freed all the work he did up until then, and then other kids saying, are you kidding me? As soon as Reagan got in a office, they knew that they were toast and that Reagan wasn't going to be a patsy like Carter. And I was like, what's a patsy? Who are these dudes? No, but I remember very distinctly, it's weird, like on the playground hearing the stuff that's funny, Yeah, like a little nine year olds."
-        },
-        {
-          "startSeconds": 333,
-          "text": "Speaker 1: I definitely didn't hear this when I was a kid, but I remember hearing later on as a grown up, still in the rainbow bright, that it was Reagan's campaign was somehow in touch with aaran yeah, and that they brokeered. This also got them to wait to release the hostages until after Reagan was in office. Well, the timing was not."
-        },
-        {
-          "startSeconds": 357,
-          "text": "Speaker 2: At all hours after his inauguration. There's no accident."
-        },
-        {
-          "startSeconds": 359,
-          "text": "Speaker 1: It's a little fishy, you know what I mean. But whether it was that's funny, I'm sure somebody's parents were like, yeah, it's because they were so scared of Reagan, they knew that they better release these guys. That's totally not the case because there were other hostages taken by other by actual Lebanese terrorists who were probably sponsored by Iran, and that were they were held throughout Reagan's presidency."
-        },
-        {
-          "startSeconds": 381,
-          "text": "Speaker 2: Yeah, and that's sort of a big part of this. The second half of the story was the fact that that was very embarrassing for Reagan. He didn't like hostages being held on his watch."
-        },
-        {
-          "startSeconds": 391,
-          "text": "Speaker 1: No, but he had campaigned against negotiating with terrorists under any circumstances. So he's stuck now, Yeah, because he's basically saying, if you get taken hostage, I mean, you're on your own. Well, we'll use our rhetoric and whatever we can to influence you being released, but we're not going to negotiate for your release. That's just the way it is."
-        },
-        {
-          "startSeconds": 410,
-          "text": "Speaker 2: And that's a longstanding American policy, right, and it makes sense because if you negotiate with terrorists, then that's just going to need to more kidnappings. Yeah, because they know that you're open for business."
-        },
-        {
-          "startSeconds": 422,
-          "text": "Speaker 1: Like anywhere in the world. Yeah, there was a kidnapping of twa Flight eight forty seven, very very famous one, you know, the picture of like the pilot leaning out of the cop sure and the guys in the picture with the gun behind him. That was eight forty seven, right, And that was I mean, that was I remember that one that was That was probably nine then, and that was just scary because they were flying all over the place. You had no idea what was going to happen. People were being beaten on the plane. When Navy guy was beaten in shot and throw his body thrown out on the tarmac."
-        },
-        {
-          "startSeconds": 454,
-          "text": "Speaker 2: Yeah. The eighties, like it seems comparatively tame now in a lot of way as compared to the things that used to go on. Tank McDonald's hi jackings and kidnappings and hostages. It's like it was the eighties were nuts."
-        },
-        {
-          "startSeconds": 465,
-          "text": "Speaker 1: They were nuts."
-        },
-        {
-          "startSeconds": 466,
-          "text": "Speaker 2: But pac Man, right, you know, pac Man fevers, pac Man rapping Rodney it was crazy."
-        },
-        {
-          "startSeconds": 473,
-          "text": "Speaker 1: Right, rapping Like is that Rodney Piper."
-        },
-        {
-          "startSeconds": 477,
-          "text": "Speaker 2: No rapping Rodney Dangerfield his big hit?"
-        },
-        {
-          "startSeconds": 479,
-          "text": "Speaker 1: Oh yeah, yeah, no respect. What about what about the Ichy Shuffle? That was a little crazy?"
-        },
-        {
-          "startSeconds": 486,
-          "text": "Speaker 2: Was that eighties?"
-        },
-        {
-          "startSeconds": 487,
-          "text": "Speaker 1: Sure? Late eighties, I guess so, okay, I got one for you."
-        },
-        {
-          "startSeconds": 490,
-          "text": "Speaker 2: Okay."
-        },
-        {
-          "startSeconds": 490,
-          "text": "Speaker 1: The Bears, what was their thing?"
-        },
-        {
-          "startSeconds": 493,
-          "text": "Speaker 2: Oh? The Super Bowl Shuffle?"
-        },
-        {
-          "startSeconds": 494,
-          "text": "Speaker 1: Super Bowl Shuffle right, Yeah, that was pretty eighties. I think they were eighty four."
-        },
-        {
-          "startSeconds": 499,
-          "text": "Speaker 2: Yeah, we're putting you know, my band every year plays for sure one gig at Decatur's Porch Best, and every year we try to do a theme, and this year we're doing eighties sort of new wave. Nice and I jokingly suggested pac Man Fever the Raping Rodney."
-        },
-        {
-          "startSeconds": 513,
-          "text": "Speaker 1: But oh, you guys gonna do it?"
-        },
-        {
-          "startSeconds": 514,
-          "text": "Speaker 2: No, those songs are terrible."
-        },
-        {
-          "startSeconds": 516,
-          "text": "Speaker 1: Do you have a synth player playing with you?"
-        },
-        {
-          "startSeconds": 518,
-          "text": "Speaker 2: I bought Emily a keyboard and she's learning."
-        },
-        {
-          "startSeconds": 520,
-          "text": "Speaker 1: Awesome. Yeah, she's gonna be like wait, hold on, huh, that's cool man."
-        },
-        {
-          "startSeconds": 525,
-          "text": "Speaker 2: Now she's practicing."
-        },
-        {
-          "startSeconds": 526,
-          "text": "Speaker 1: I've heard her do that, and."
-        },
-        {
-          "startSeconds": 528,
-          "text": "Speaker 2: She played piano when she was a kid, so it's not the biggest stretch."
-        },
-        {
-          "startSeconds": 531,
-          "text": "Speaker 1: I've heard that one that her do. That one Blondie song that she just brought the house to."
-        },
-        {
-          "startSeconds": 535,
-          "text": "Speaker 2: Yeah, we might one way or another. Yes, we might bring that back because that's eighties. Yeah, or was that?"
-        },
-        {
-          "startSeconds": 541,
-          "text": "Speaker 1: It was so close on the custom I seriously doubt anybody's going to throw a beer can at you for it."
-        },
-        {
-          "startSeconds": 546,
-          "text": "Speaker 2: Anyway, Porch Best, everyone, I'll publicize it in October. Nice, So Reagan's hands are tied in every way possible because he can't on he can't negotiate with Terris. The only option is to send in a covert Delta Force."
-        },
-        {
-          "startSeconds": 563,
-          "text": "Speaker 1: Team, which they Carter tried that, and yeah, work."
-        },
-        {
-          "startSeconds": 565,
-          "text": "Speaker 2: Doesn't always work. You could lose your own men. And I think that's what happened in Carter's case, right, yeah. Sure, So what he can do though, without anyone knowing, is totally negotiate with Terras."
-        },
-        {
-          "startSeconds": 576,
-          "text": "Speaker 1: Yeah, just as long as the American public doesn't no, sure, yeah, And that's what happened. And he followed that Reagan playbook where it's like, okay, I said this, well, if I just changed this one little part, right, it makes it all fine. That's right, again, as long as the American public doesn't know. So while Reagan said America will never negotiate with with hostages, they didn't say Israel will never nego terrorists for hostages, right, Yeah, So actually Israel had a long standing policy of negotiating with terrorists. They would they would kidnap people from the other side, and then they'd be like, all right, i'll give you five guys. I've only got two. Let me kidnap a few people, Okay, Now, I have five like there would be negotiations for hostage exchanges all the time between Israel and Palestine. Right, They just knew what they were doing. So they said, okay, well, if Israel goes to Iran and says, hey, you know this American over there, why don't you get them released. We can help you out with some stuff. What do you think about this?"
-        },
-        {
-          "startSeconds": 636,
-          "text": "Speaker 2: Yeah, So earlier when I mentioned the fact that Iran as whole cloth did not change overnight as a country. The government did, but there were still some plenty of people there that were a little more moderate in their views, and the Reagan administration had a channel to them. So he was talking to them, these more moderate factions and making a little headway. And they were like, by the way, we'll totally give you these hostages if you give us arms."
-        },
-        {
-          "startSeconds": 666,
-          "text": "Speaker 1: Yeah, because Iran was fighting the Iran Iraq War at least half of it."
-        },
-        {
-          "startSeconds": 671,
-          "text": "Speaker 2: Yeah. And this is just where stuff is just totally crazy, because we were we were funding both sides."
-        },
-        {
-          "startSeconds": 677,
-          "text": "Speaker 1: At the very least, we were advising both sides."
-        },
-        {
-          "startSeconds": 679,
-          "text": "Speaker 2: Well, I mean we directly gave money. Oh yeah, no, you're right, We sold them weapons and we provided training and intelligence. Right, And this was this wasn't secret. This was like a real deal thing."
-        },
-        {
-          "startSeconds": 691,
-          "text": "Speaker 1: We were publicly supporting Iraq, but then we were secretly arming Iran."
-        },
-        {
-          "startSeconds": 696,
-          "text": "Speaker 2: Yeah. I think what they never proved beyond a doubt was that we went to Saddam Hussein and said, hey, why don't you go in there and overthrow Iran?"
-        },
-        {
-          "startSeconds": 707,
-          "text": "Speaker 1: Oh?"
-        },
-        {
-          "startSeconds": 707,
-          "text": "Speaker 2: Really yeah, that was never I don't think that was ever. There was a lot of circumstantial evidence that that was the case, but never, like the smoking gun, that we actually encouraged Saddam Hussein to do so. But it's just, man, when you look at how all this played out over the years, it's just maddening."
-        },
-        {
-          "startSeconds": 724,
-          "text": "Speaker 1: Yeah, you know, yeah, it's a s show."
-        },
-        {
-          "startSeconds": 727,
-          "text": "Speaker 2: Yeah. So Iraq and Iran are fighting, we're supplying both, playing both sides of the coin, right, uh, And we offered arms to Iran And who are you gonna call?"
-        },
-        {
-          "startSeconds": 739,
-          "text": "Speaker 1: Is real?"
-        },
-        {
-          "startSeconds": 739,
-          "text": "Speaker 2: Not ghostbusters?"
-        },
-        {
-          "startSeconds": 740,
-          "text": "Speaker 1: Oh Gorbanaphar?"
-        },
-        {
-          "startSeconds": 742,
-          "text": "Speaker 2: Well you're gonna call Ali North?"
-        },
-        {
-          "startSeconds": 743,
-          "text": "Speaker 1: Oh yeah, okay, yeah, I would have gotten there eventually. Yeah, because okay, so remember Oly North is this total novice when it comes to covert operations bymore. Yeah, yeah, he's been running the Nicaragua op for years now. Yeah, just doing a bang up job of it. So they're like, well, sure, we'll have him do this incredibly illegal, super sensitive arms sailed to Iran too, Why don't you come on over here, Ali and all. He said, well, okay, that's fine, but I need to go get the lay of the land. And he actually traveled to Iran with a fake passport under an assumed name William P. Good with a knee and when he went, it was it was dangerous enough that William Casey, supposedly Oliver North later testified, gave him cyanide pills so that he could take his own life rather than be tortured by the Iranians. If this were in fact like some sort of setup."
-        },
-        {
-          "startSeconds": 795,
-          "text": "Speaker 2: Again right out of a movie, yeah."
-        },
-        {
-          "startSeconds": 797,
-          "text": "Speaker 1: But Oliver North went to Iran with cyanide pills."
-        },
-        {
-          "startSeconds": 800,
-          "text": "Speaker 2: And a fake passport Billy Good."
-        },
-        {
-          "startSeconds": 802,
-          "text": "Speaker 1: Yeah, so everything went great, though it did. He didn't need the cyanide pills after all."
-        },
-        {
-          "startSeconds": 807,
-          "text": "Speaker 2: He did not. He dealt with, like you mentioned earlier, this Iranian businessman named Gorbanifar. And this guy was ten shades of shady, so much so that the CIA wouldn't even deal with them now."
-        },
-        {
-          "startSeconds": 821,
-          "text": "Speaker 1: They issued a burn notice on him in nineteen."
-        },
-        {
-          "startSeconds": 823,
-          "text": "Speaker 2: Eighty three, which is I don't even know what that is. That means just TV he's dead to us."
-        },
-        {
-          "startSeconds": 828,
-          "text": "Speaker 1: It's basically stay away, okay, it's putting him on blast to all the other intelligence agencies in the world."
-        },
-        {
-          "startSeconds": 834,
-          "text": "Speaker 2: Gotcha PERSONA grade."
-        },
-        {
-          "startSeconds": 835,
-          "text": "Speaker 1: I won't even deal with this guy. And so Alie North is like, yeah, I'll deal with this guy."
-        },
-        {
-          "startSeconds": 840,
-          "text": "Speaker 2: All right. So with his help, Oliver North set up a deal where and it's so simple to look at, like, Israel, you give them your missiles and then we'll just replace those missiles for you with our missiles."
-        },
-        {
-          "startSeconds": 855,
-          "text": "Speaker 1: Yep."
-        },
-        {
-          "startSeconds": 855,
-          "text": "Speaker 2: So we're not given the missiles you are."
-        },
-        {
-          "startSeconds": 857,
-          "text": "Speaker 1: And because no American explicitly said to Iran, hey, we're doing this so that you guys will get these hostages released, it wasn't in arms for hostages deal, and so Reagan's vowed and never negotiate with terrorists remained intact."
-        },
-        {
-          "startSeconds": 873,
-          "text": "Speaker 2: That's right. Five hundred and eight tow tow missiles What does that stand for?"
-        },
-        {
-          "startSeconds": 880,
-          "text": "Speaker 1: Two blaunched optically tracked wireless guided missile, which is like it's like the tube launched. There's a tube and it can be mounted on the ground, mounted on a jeep. It's super portable. But they are they'll blow some stuff up."
-        },
-        {
-          "startSeconds": 894,
-          "text": "Speaker 2: I think I've seen these you have. So five hundred and eight of these made it from Israel to Iran, and then in very short order, a couple of days later, one of the hostages, Benjamin we Are, minister who was held by Lebanes's Terrists for sixteen months, was released. So it worked."
-        },
-        {
-          "startSeconds": 911,
-          "text": "Speaker 1: It did work, Azah. It was a big deal around the White House too, but they said, let's try it again, but this time it seems a little messy to get Israel involved. Let's just do this ourselves. Alie, you think you can handle this, and he said, sure, me and Gerbonifor have this. So rather than Israel giving arms to Iran, Richard Seacord got brought in, just like with Nicaragua. And again this isn't like years after Nicaragua. Nicaragua's at full bore in full swamp, but it's still going yet, and Olie North is running both operations simultaneously. And so the news setup was the Department of Defense would sell the CIA missiles for thirty seven hundred bucks a pop. The CIA would sell them to Richard Seacord at cost, and then Seacord would sell them to Garbaniphar for ten grand apiece, and then Gorbanifhar would go sell them to Iran for whatever he charged Iran. Can you imagine, I can't. I guarantee it was more than the ten grand. Yeah, and this happened multiple times over the course of a little over a year. America secretly transferred two thousand missiles and missile parts to Iran in eight shipments."
-        },
-        {
-          "startSeconds": 986,
-          "text": "Speaker 2: Yeah. For the release of hostages."
-        },
-        {
-          "startSeconds": 988,
-          "text": "Speaker 1: Yeah. Ultimately there were three hostages that got released out of seven that had been taken hostage total."
-        },
-        {
-          "startSeconds": 994,
-          "text": "Speaker 2: Yeah, And didn't he say ultimately there were three more hostages taken, so they netted out at zero at zero."
-        },
-        {
-          "startSeconds": 1001,
-          "text": "Speaker 1: Yeah, So but that was the whole Iran operation."
-        },
-        {
-          "startSeconds": 1006,
-          "text": "Speaker 2: Yeah, but here's the deals. This price markup means that that shell company and those Swiss bank accounts were making a lot of money, and so much so that I think one of them had three million dollars made an interest alone. So at some point someone's like, hey, this is a money making operation. Now, why don't we tie a little bow on all this and use some of that money to fund the contrast, Because you guys are doing both of these things and you need money. Congress won't give it to you. Forget the fundraising omelets. We'll just use the money from these illegal arm sales to fund the Contras."
-        },
-        {
-          "startSeconds": 1045,
-          "text": "Speaker 1: Yeah, and that's exactly what happened. So to put in playing terms, America illegally and secretly sold missiles to Iran, used the proceeds from those missile sales to secretly and illegally fund the Contras to help them overthrow their government down in Nicaragua. That's what the Reagan administration did."
-        },
-        {
-          "startSeconds": 1065,
-          "text": "Speaker 2: That's right."
-        },
-        {
-          "startSeconds": 1065,
-          "text": "Speaker 1: That's why it's called Iran Contra. That's where they came together. There was a diversion of funds."
-        },
-        {
-          "startSeconds": 1070,
-          "text": "Speaker 2: Yeah, and the I think it was a by nineteen eighty six, Congress finally got back on board because of this drum beat from Reagan over the years of how much we need to really do this officially, And keep in mind, Congress still didn't know any of this is going on right secretly. And then Congress said, all right, we'll give you a hundred million dollars to aid this cause."
-        },
-        {
-          "startSeconds": 1093,
-          "text": "Speaker 1: And you're going to say, how take a dog."
-        },
-        {
-          "startSeconds": 1095,
-          "text": "Speaker 2: You would think that was the end of all the covert stuff."
-        },
-        {
-          "startSeconds": 1098,
-          "text": "Speaker 1: It wasn't, though, No, No, it's still continued on. But now it was legitimized and had even better funding. But that was not the end of the whole thing. Like everybody didn't just get to walk away and say that was close, because the whole thing started to come apart. Actually, and I say that we take an ad break and come back and talk about it. Great after this."
-        },
-        {
-          "startSeconds": 1119,
-          "text": "Speaker 3: Well, now we're on the road, driving in your truck. Want to learn a thing or two from Josh Amuck?"
-        },
-        {
-          "startSeconds": 1127,
-          "text": "Speaker 1: Stuff you should know? Should all right? Okay, Chuck. So nineteen eighty six Congress is back on board. I think it's worth pointing out that that's exactly four years after the Democrats took control of the House in nineteen eighty two. So I wonder if the Republicans took control back in eighty six, and that's why the funding got turned back onto the Contress."
-        },
-        {
-          "startSeconds": 1162,
-          "text": "Speaker 2: Me solve this?"
-        },
-        {
-          "startSeconds": 1163,
-          "text": "Speaker 1: I like to speculate instead, So this."
-        },
-        {
-          "startSeconds": 1167,
-          "text": "Speaker 2: All might have Who knows if this ever would have even been found out had it not been for the sharpshooting of a young Sandinistan soldier named Jose Fernando Canales Almann Nice in October fifth, nineteen eighty six. It was a cargo plane, as he won twenty three called the provider flying seventy Soviet Kalishnikovs, one hundred thousand rounds of AMMO, rocket grenades and other supplies. And this is one of those things where you said they would fly over and kick him out the back of the plane. Sure, this is one of those runs."
-        },
-        {
-          "startSeconds": 1203,
-          "text": "Speaker 1: Yeah. The problem with this particular run, though, is that they did this at twenty five hundred feet in broad daylight."
-        },
-        {
-          "startSeconds": 1209,
-          "text": "Speaker 2: They got a little lazy o tad bit or maybe cocky."
-        },
-        {
-          "startSeconds": 1212,
-          "text": "Speaker 1: I don't even know if it's that. I think it was more like this was just work. It was an everyday job by this time. They've been doing it for years. Yeah, you know, and the operation was just humming along so nicely that it was almost an autopilot."
-        },
-        {
-          "startSeconds": 1225,
-          "text": "Speaker 2: Yeah."
-        },
-        {
-          "startSeconds": 1226,
-          "text": "Speaker 1: So yeah, they did this one supply drop on October fifth, nineteen eighty six, in broad daylight."
-        },
-        {
-          "startSeconds": 1231,
-          "text": "Speaker 2: And there were four crew aboard. William J. Cooper, Wallace buzz Sawyer, Freddy Vilchis, and a guy named Eugene Hassenfuss who and again this sliding doors thing. Hassenfuss is the only guy who had a parachute. He borrowed it from his brother, a skydiver, because you know, he thought it might be smart to take a parachute, right no one else had parachutes. Had he not had a parachute, this may have turned out differently."
-        },
-        {
-          "startSeconds": 1256,
-          "text": "Speaker 1: It may have. For sure he was the only one that survived this plane crash because he was the only one who borrowed the parachute from his brother and he jumped out, landed, made it safely into the jungle. And I think he actually survived and evaded the Sandinistas for maybe a day or something like that before he was captured. And when he was captured, they led him out of the jungle like with a rope around his neck, just about as big of a prisoner as you can imagine. Super publicized. There are billboards of him being led around by Santainistas and they started asking him questions and he was like, what do you want to know?"
-        },
-        {
-          "startSeconds": 1294,
-          "text": "Speaker 2: He say, like a canary, He really did."
-        },
-        {
-          "startSeconds": 1296,
-          "text": "Speaker 1: He said, this is my tenth supply mission. I presume that the CIA is running this. I don't know, And he would know this would be something that he would he could legitimately guess at at least because he had actually worked on CIA air drops over Vietnam or Cambodia for Air America back in the Vietnam War."
-        },
-        {
-          "startSeconds": 1319,
-          "text": "Speaker 2: Yeah, but he wasn't like, like he sings like a canary because he's not very high up on the totem pole. Like his job was to get up there and shove this stuff out of the back of the plane, right for three grand a month."
-        },
-        {
-          "startSeconds": 1330,
-          "text": "Speaker 1: Right, He wasn't even a CIA operator. He's just a former Marine who had a background working with Air America years before. But by this time, by the time he joins on doing this for the Contras, he was like working as a construction worker part time in Wisconsin right home. So this is like pretty good money, I think. Yeah, he was getting seven grand in today's dollars a month for basically kicking AK forty seven crates out the back of a plane over Nicaragua."
-        },
-        {
-          "startSeconds": 1360,
-          "text": "Speaker 2: Yeah, so he's not the kind of guy that's going to take the fall right for anyone. So he's singing like a canary."
-        },
-        {
-          "startSeconds": 1366,
-          "text": "Speaker 1: Even if he had kept his mouth shut, it wouldn't have mattered what it sounds like."
-        },
-        {
-          "startSeconds": 1369,
-          "text": "Speaker 2: Right, Yeah, Because all the other guys, including Hassenfuss, had their wallets on the plane, They had all their employee ID cards and in fact, I don't even we mentioned in episode one the company that was set up to do these drops was set up called Southern Air Transport out of I guess Miami. So they all had their Southern Air Transport IT cards, which was the CIA front."
-        },
-        {
-          "startSeconds": 1396,
-          "text": "Speaker 1: Like everybody knew Southern Transport was a CIA front, so they might as well have had like CIA Junior badges or something right, or."
-        },
-        {
-          "startSeconds": 1403,
-          "text": "Speaker 2: Like Michael Keaton and out of Sight when he has the big FBI T shirt."
-        },
-        {
-          "startSeconds": 1408,
-          "text": "Speaker 1: I haven't seen that one?"
-        },
-        {
-          "startSeconds": 1409,
-          "text": "Speaker 2: Oh, you haven't seen out of Sight? No? Is that the one where he's George Clooney and Jennifer Lopez."
-        },
-        {
-          "startSeconds": 1414,
-          "text": "Speaker 1: Is he a bad guy in it?"
-        },
-        {
-          "startSeconds": 1415,
-          "text": "Speaker 2: No, he's a good guy, but he walks in. He plays Ray Nicolette who played same character, and Jackie Brown FBI guy. Okay, but it's funny because he walks in with an FBI T shirt on, and Dennis Farina as Jennifer Lopez's dad, and he's a former CUP and he goes, hey, Ray, let me ask it. He got one that says undercover."
-        },
-        {
-          "startSeconds": 1434,
-          "text": "Speaker 1: Dennis Farina man class ad."
-        },
-        {
-          "startSeconds": 1436,
-          "text": "Speaker 2: I mean he got to see out of Sight. That's a classic. All right, I'll check it out like one of the better men."
-        },
-        {
-          "startSeconds": 1439,
-          "text": "Speaker 1: I mean, I know the movie. You're talking about avoid it like the plague."
-        },
-        {
-          "startSeconds": 1443,
-          "text": "Speaker 2: It's so good, Okay, you would love it, all right, So Southern air Transport caa front. There's also a log book that connected this flight and all the other flights. And then Hassenfuss in his wallet had a business card to Robert w Owen, this is a big one who was working with Oliver North in Washington."
-        },
-        {
-          "startSeconds": 1462,
-          "text": "Speaker 1: Right, which so that provided a direct line between Oliver North and some guys who were kicking Kalashnikov's out of the back of a plane over Nicaragua. So that was a really big deal that when this guy got captured and you know, told the Santonistas as much as he knew, because the Sandinistas were like, attention, world, Yeah, listen to what we just found out. The CIA has totally been funding these Countra rebels who are trying to overthrow this sovereign government, and we think you guys should know about it."
-        },
-        {
-          "startSeconds": 1493,
-          "text": "Speaker 2: Yeah, And it was it wasn't like you could totally discount that even though it was from the Sandinistans like and the American media were like what I'm sure Congress was like wait a minute, right, this reeks of like something that had been happening that we tried to shut down."
-        },
-        {
-          "startSeconds": 1510,
-          "text": "Speaker 1: Yeah, because remember, even if the CIA was brief in Congress, it was either Bill Casey or Dewey Clarridge, and they were doing a really obtuse job of this keeping Congress at arms length. So anytime something like this came out, almost none of Congress knew the full extent of this, and it was always in flagrant violation of whatever Congress wanted or whatever Congress had agreed to."
-        },
-        {
-          "startSeconds": 1535,
-          "text": "Speaker 2: Yeah, and this wasn't like this was sort of the straw that broke it all open, or that broke the camel's back."
-        },
-        {
-          "startSeconds": 1541,
-          "text": "Speaker 1: Broke the camel's back wide open. Oh god, that's correct, or camel."
-        },
-        {
-          "startSeconds": 1546,
-          "text": "Speaker 2: Things have been unraveling for a bit. There was a party in nineteen eighty five in Virginia thrown thrown by Soldier of Fortune magazine. Can you imagine? No, what's that party?"
-        },
-        {
-          "startSeconds": 1558,
-          "text": "Speaker 1: Like? I don't want to know, I can't imagine. I used to read Soldier of Fortune when I was in my ninja training as like a ten year old boy, and even then I was like this, this magazine makes my stomach hurt."
-        },
-        {
-          "startSeconds": 1569,
-          "text": "Speaker 2: And it's in nineteen eighty five, Like, can you imagine the amount of like blow being secretly done in the bathroom at that party."
-        },
-        {
-          "startSeconds": 1576,
-          "text": "Speaker 1: Sure, but also they were making snuff movies in the living room, and there's no telling what was going on. As a soldier of Fortune, we can tell you at the very least, there was a lot of boasting going on openly about this contra operation. And again this is the time when people don't know about this stuff."
-        },
-        {
-          "startSeconds": 1592,
-          "text": "Speaker 2: Yeah, but you know what happens is like you get enough people in enough years, and people start talking, people start bragging. Yeah, and all of a sudden, you have a couple of gen and Tonics at a Soldier of Fortune party. Sure, and you're like, hey, guess what, and that that's what happened."
-        },
-        {
-          "startSeconds": 1608,
-          "text": "Speaker 1: Somebody goes what yeah, there you go here it comes."
-        },
-        {
-          "startSeconds": 1611,
-          "text": "Speaker 2: Yeah, and they drop the you know, they drop the bomb that what's been going on. A concerned citizen hears this. I guess he must have been mistakenly invited the soldier."
-        },
-        {
-          "startSeconds": 1621,
-          "text": "Speaker 1: I don't know how that guy got invited, or they just happened to talk to the wrong guy or whatever, but probably that he was like, I am really fearful of my life for saying something about this, but I feel like somebody should know. So he went to a lawyer, a human rights lawyer named David Shean, and he said, you go tell everybody you put your life on the line."
-        },
-        {
-          "startSeconds": 1641,
-          "text": "Speaker 2: And he did. He submitted an affidavit to federal court, started doing interviews, talking to journalists, drumming up support. White House was like, we don't know what you're talking about. You're a crazy man, Like this is all made up. And finally it took a Lebanese newspaper, Al Shira, that reported on this deal, this arms for hostage deal, like in a legitimate newspaper."
-        },
-        {
-          "startSeconds": 1666,
-          "text": "Speaker 1: Right, so now both stories have been blown open. You've got Eugene Hassenfu was captured and the contra operation is blown open, and now Al Shira is reporting on the Iran arms for hostage deal. And really, crazily enough, these two separate arms of this one scandal came out within a month of each other, which is it's bizarre, but that's what happened. And now it was like there's it's on the table. The America media knows about it, Congress knows about it. Heads are about to roll."
-        },
-        {
-          "startSeconds": 1699,
-          "text": "Speaker 2: All right, we'll take our final break and we'll come back and talk about the aftermath of Iran condra."
-        },
-        {
-          "startSeconds": 1706,
-          "text": "Speaker 3: Well, now we're on the road, driving in your truck. I want to learn a thing or two from Josh."
-        },
-        {
-          "startSeconds": 1713,
-          "text": "Speaker 2: Chuck."
-        },
-        {
-          "startSeconds": 1714,
-          "text": "Speaker 3: It's stuff you should know, all right."
-        },
-        {
-          "startSeconds": 1731,
-          "text": "Speaker 1: All right, Chuck, you promised that after your math."
-        },
-        {
-          "startSeconds": 1733,
-          "text": "Speaker 2: Let's hear it, all right, So everything is exposed. Oliver North was no longer in business doing his thing."
-        },
-        {
-          "startSeconds": 1746,
-          "text": "Speaker 1: No, he shut down shop real quick, he."
-        },
-        {
-          "startSeconds": 1748,
-          "text": "Speaker 2: Did, but not before. Very famously, he and his very eighties haired secretary, Fawn Hall. I forgot. I looked at was like, Fawn Hall. I looked her up, and as soon as I saw it, I was like, right, yeah, Fawn Hall, sure you can forget that hair. She could barely walk through a door."
-        },
-        {
-          "startSeconds": 1765,
-          "text": "Speaker 1: No, it was ginormous, for sure."
-        },
-        {
-          "startSeconds": 1768,
-          "text": "Speaker 2: It's so great. I would be fearful around a shreddervour her, but she was not fearful at all. She and Oliver North spent a day they could. They call it a shredding party. I mean, we will never know the full truth behind this because of all the evidence that they shredded."
-        },
-        {
-          "startSeconds": 1785,
-          "text": "Speaker 1: Yep, as far as anyone knows, Oliver North decided on his own to shred every document he had on it. That's right, and yeah, that's that's it. It's it's now it's the official narrative that has been written into the history book, which you can just guarantee is not anywhere near the full story, right."
-        },
-        {
-          "startSeconds": 1805,
-          "text": "Speaker 2: So it all comes out. The Reagan administration start looking around and they're like, well, who who's going to be the patsy for this one? And Oliver North could not escape it, but they're like, he's small potatoes, he'll go down."
-        },
-        {
-          "startSeconds": 1820,
-          "text": "Speaker 1: Well, I think he was even willing to take the fall, like he knew he was going to be the fall guy and was like, okay, that's part of the job."
-        },
-        {
-          "startSeconds": 1825,
-          "text": "Speaker 2: Right, But they knew that it had to the American public, and certainly Congress wasn't going to be satisfied with just Oliver North, right, So who did they land on?"
-        },
-        {
-          "startSeconds": 1834,
-          "text": "Speaker 1: So the official line became this Poindexter and I guess McFarlane would have started it. Became fully aware of just how badly Reagan wanted to help the Contras and said I'm going to do something about this, and tapped Allie North and said we need to help the Contras out. Go help him out, figure it out. And North went off and basically went rogue on his own and set up this whole operation, created this entire network with Seacord decided to do the Iranian arms deal all this stuff basically on his."
-        },
-        {
-          "startSeconds": 1868,
-          "text": "Speaker 2: Own, right, like Reagan and Bush knew nothing about."
-        },
-        {
-          "startSeconds": 1870,
-          "text": "Speaker 1: It, nothing about it, and that the buck stopped at Poindexter. Ultimately it didn't go any further. William Casey being CIA, he was basically out of the loop. That was the official story they came out with, right, and America when you're kidding, right, this is a joke."
-        },
-        {
-          "startSeconds": 1887,
-          "text": "Speaker 2: Yeah, I mean I remember these hearings even as a little kid, like watching these and then watching the news coverage of it, and like we mentioned all over North strolling in there with his dress uniform and you know, by all accounts being a pretty stand up guy, like he didn't rat anyone out."
-        },
-        {
-          "startSeconds": 1903,
-          "text": "Speaker 1: He didn't. But he also he was like, there's there's no way the president didn't know about this. He said, I don't have any direct evidence that the president did know about it, but it's my understanding that the president was fully aware of what was going on."
-        },
-        {
-          "startSeconds": 1917,
-          "text": "Speaker 2: Yeah, what was the deal with this missile supply shipment? Though, That's the one thing didn't quite get."
-        },
-        {
-          "startSeconds": 1920,
-          "text": "Speaker 1: So there was North got rid of all the documents that he could, right, well, North didn't have any control over CIA documents, and at that first missile resupply where they were resupplying Israel, he had a CIA. He basically said, Hey, CIA, do you know anybody I can use to ship these things. I've got an emergency here. I need to get these to Israel fast. And the CIA, being the CIA is still a bureaucracy, they had to document this event. So there was a document out there now and right that he couldn't get his hands on, that he couldn't shred. And so this led to Reagan taking responsibility for saying, okay, I was aware of this Iran missile deal by backdating an order to William Casey saying I order you not to tell Congress about this, even though you're supposed to. So Reagan basically said, on paper, I know about this Iran, this one missile transfer to Iran. Had no idea about the contrasts, right, okay. And at first they started off denying everything."
-        },
-        {
-          "startSeconds": 1987,
-          "text": "Speaker 2: Oh yeah, like after this, I'll share a story that we talked about. He went on television, Reagan did and denied everything."
-        },
-        {
-          "startSeconds": 1994,
-          "text": "Speaker 1: He said, all this is just total bs, yeah exactly. Now let's stop talking about it."
-        },
-        {
-          "startSeconds": 1999,
-          "text": "Speaker 2: Everybody ten days after that, Reagan had another press conference where he talked about the Iran operation and he acknowledged it, but said, what we're really doing here is just trying to sort of send a signal to Iran that where we want friendlier relations. Right, there were not arms for hostage exactly."
-        },
-        {
-          "startSeconds": 2017,
-          "text": "Speaker 1: And then so that was ten days after the first denial, right, and then four months after that, because the reporting would not stop, he basically said, Okay, yeah, whatever it started out as, I admit that it devolved into an arms for hostage deal. Which even that, even that admission, which is the closest he ever came to admitting, you know, responsibility for it. Yeah, even that's his total b us and fantasy. It was from the outset in arms for hostages deal. Right, The whole thing was set up to get hostages released, and that was it. So there was there was no other way to put it. Yeah, but that's he denied that to his dying day."
-        },
-        {
-          "startSeconds": 2053,
-          "text": "Speaker 2: As far as fallout, Poindexter resign Oliver North was fired, Casey died in a hospital not too long after this whole thing like was exposed, I mean like weeks. Yeah, so the press was all over the president. He appointed the Tower Commission. Yeah, the look into this."
-        },
-        {
-          "startSeconds": 2073,
-          "text": "Speaker 1: The president appointed a commission to investigate, Yeah, the president's own administration's wrongdoing."
-        },
-        {
-          "startSeconds": 2080,
-          "text": "Speaker 2: That's right. And it was determined that Reagan's disengagement from the management of his White House created condition conditions such that it was possible that he did not know about this."
-        },
-        {
-          "startSeconds": 2093,
-          "text": "Speaker 1: Which is the absolute best official finding he could have hoped for, because it basically says rang it didn't. He had a rogue guy working for him, a true believer, a patriot. But Reagan didn't know about this, and yeah, he should have. He should have had a closer watch on his executive branch, but he didn't. What are you going to do? Let's get mister t in here for a photo op with Nancy."
-        },
-        {
-          "startSeconds": 2116,
-          "text": "Speaker 2: There was a criminal investigation, and what they were really honing in on was the eighteen million dollars in profits that were made and what happened to that money where it went. Fourteen people were charged. Oliver North was tried and found guilty on three counts. One of the counts was for getting a sixteen thousand dollars security system installed in his home courtesy of Seacord. With that money."
-        },
-        {
-          "startSeconds": 2144,
-          "text": "Speaker 1: There was a rumor that there was a bounty on his head from terrorists, and she hooked him up. Right Now, that was a big problem for North, because North's whole bag was I was following orders that I assume we're coming from the president ultimately, and I was doing it out of my patriotic duty and a sense of, you know, as a true believer that we need to get rid of communism. And the American public loved it. They were like, great, make this man a saint. Congress started to love it too, and he got off. But that was a real problem because it's saying, well, you took this gift from funds from this illicit arms sales."
-        },
-        {
-          "startSeconds": 2183,
-          "text": "Speaker 2: Right, But it was a gift of a security system to help protect his family, So it's not like, you know, it was a gift of ten pounds a blow."
-        },
-        {
-          "startSeconds": 2190,
-          "text": "Speaker 1: And Nicaraguans sex worker from the Santa and Eastern government exactly."
-        },
-        {
-          "startSeconds": 2195,
-          "text": "Speaker 2: Seacord was convicted of one count of lying to Congress and the investigators. He basically denied that North received any funds from any of this. So it's still kind of hinged on that security system, I guess."
-        },
-        {
-          "startSeconds": 2209,
-          "text": "Speaker 1: And so everybody went to jail forever after that point."
-        },
-        {
-          "startSeconds": 2213,
-          "text": "Speaker 2: Right, No, that's not true at all. Hakeem got two years probation, a five thousand dollars fine."
-        },
-        {
-          "startSeconds": 2218,
-          "text": "Speaker 1: Secord got two years probation."
-        },
-        {
-          "startSeconds": 2221,
-          "text": "Speaker 2: Is that what he got? Two years probation."
-        },
-        {
-          "startSeconds": 2223,
-          "text": "Speaker 1: So the two guys who were actually running the company that ran this whole thing each got two years probation."
-        },
-        {
-          "startSeconds": 2228,
-          "text": "Speaker 2: North's conviction was overturned on a technicality, and President Bush, the senior Bush, on Christmas Eve, this was Christmas Eve as he was leaving office, right, yep, he issued six pardons basically let everyone off the hook, including Casper Weinberger who hadn't even gone to trial yet."
-        },
-        {
-          "startSeconds": 2247,
-          "text": "Speaker 1: No, and neither had Duyne Clarridge. Dewey Clarridge was going to stay on trial too. Both of them received preemptive pardons. And a lot of people are like, that was about the shadiest set of pardons anyone's ever issued, because there's a lot of people out there who say Bush really walked away from this scot free, But there is no way he wasn't even more involved in this than Reagan was."
-        },
-        {
-          "startSeconds": 2269,
-          "text": "Speaker 2: Yeah, I mean George Bush withheld subpoena his subpoena diary entries that basically indicated that he had full knowledge of this the entire time. Eventually, in nineteen ninety two, Independent Counselor Lawrence Walsh asked for these again, and Bush like said, I asked you for these diary entries. And Bush was like, I didn't you did. I didn't fully understand. It was inadvertent, like you asked me for a lot of stuff. I didn't know you asked me for the diary entries. And Walsh was really upset and he said, the Iran contra cover up has now been completed. And George Bush as a president who has such a contempt for honesty and arrogant disregard for the rule of law."
-        },
-        {
-          "startSeconds": 2313,
-          "text": "Speaker 1: Yeah, and I mean the forestalling that the Reagan White House and then later on the Bush White House did in allowing these investigations to go forward and trying to keep Congress at arm's length after everything came out. It worked because there were articles of impeachment introduced in the House against Ronald Reagan, and they managed to stave them off to where it was like, while he's leaving office, anyway, forget about it. This investigation took years and years and years, and then finally when Bush pardoned everybody that was it, there was nothing else to do. Everybody who was involved was implication was off Scott free. And then the fact that Oliver North had shredded all those documents, they were all lost to history, like the actual truth is lost to history."
-        },
-        {
-          "startSeconds": 2358,
-          "text": "Speaker 2: Yeah. Reagan, his reputation took a hit, a temporary hit for a while there. He went from sixty three percent in the span of a couple of months to forty three to forty seven percent depending on which poe you looked at on his approval rating. And he would get it back though, despite in the nineteen ninety deposition, the very very famous deposition where Ronald Reagan said I don't remember or I don't recall eighty eight times. That was very big deal. It was all over the news. Yeah, it was almost as famous, or just as famous as Bill Clinton's very famous. It depends what your definition of is is right exactly, But Reagan bounded."
-        },
-        {
-          "startSeconds": 2400,
-          "text": "Speaker 1: He did, man to the most popular presidency since FDR. Right."
-        },
-        {
-          "startSeconds": 2405,
-          "text": "Speaker 2: Yeah. Upon his exit, his approval rating had bounced all the way back up to the early sixties."
-        },
-        {
-          "startSeconds": 2411,
-          "text": "Speaker 1: Mister t famously carried him out of the White House on his shoulders on his last day in office. Oh man, so that's a wrong Contra. Man, what a story. Heck of a story. Where's this movie? I don't know. Hopefully we'll get some rights to it after this episode."
-        },
-        {
-          "startSeconds": 2426,
-          "text": "Speaker 2: I want to play Fawn Hall."
-        },
-        {
-          "startSeconds": 2428,
-          "text": "Speaker 1: Welso that's great."
-        },
-        {
-          "startSeconds": 2430,
-          "text": "Speaker 2: You get Jerry to play Fawn Hall."
-        },
-        {
-          "startSeconds": 2431,
-          "text": "Speaker 1: That'd be great. Jerry Well. In the meantime, while we find a suitable wig for Jerry, you can find out more about Iran Contra by going and reading contemporary articles on it. I'm telling you it's really awesome. And since I said that it's time for listener mail, I'm."
-        },
-        {
-          "startSeconds": 2449,
-          "text": "Speaker 2: Gonna call this follow up on the moonlanding thing. Hey, guys, in my opinion, the Apollo missions and moonlandings are the most significant events in the history of life on Earth. On the question why the Command Module and Lunar Lander were launched separated, I think the reason was to allow the Command Module to be ejected in case of an emergency. The very top of the Apollo stack was the launch escape system, like an ejector seat on steroids. I imagine they had to keep things as light and nimble as possible for the l S to be effective. I don't think you mentioned something that's really significant. The Apollo eight mission was the very first time humans went to the Moon. On top of being the first time we broke free of Earth's gravity. Like eleven, the stakes were incredibly high. They had to first insert the correct trajectory to make it to the Moon, then do a burn to enter the orbit around the Moon, then perform another burn to break free of the Moon's gravity and head back toward Earth. If any piece was not in place, those astronauts would have spent the rest of their lives either orbiting the Sun or orbiting the Moon. Apollo eight also gave us the Earth Rise photo."
-        },
-        {
-          "startSeconds": 2511,
-          "text": "Speaker 1: Oh yeah, yeah, I've been hearing a lot about Apollo eight lately too, So this person is hats off to you."
-        },
-        {
-          "startSeconds": 2520,
-          "text": "Speaker 2: Level was on both Apollo eight and Apollo thirteen. You travel to the Moon twice but never had the opportunity to land."
-        },
-        {
-          "startSeconds": 2526,
-          "text": "Speaker 1: That is so sad."
-        },
-        {
-          "startSeconds": 2527,
-          "text": "Speaker 2: Signed a space geek Noah Alloi."
-        },
-        {
-          "startSeconds": 2530,
-          "text": "Speaker 1: Nice work, Noah Alloi Alloi LOOI great name too. Thanks a lot for getting in touch with us. We love space geeks. We love to put you guys in headlocks and rub your heads with our knuckles until you go stop."
-        },
-        {
-          "startSeconds": 2543,
-          "text": "Speaker 2: It's called a noggie right here on Earth."
-        },
-        {
-          "startSeconds": 2545,
-          "text": "Speaker 1: That's right. If you want a noggy from me and Chuck, send us a space geeky or any kind of geeky thing. We love that kind of stuff. If you can go on to stuff youshould know dot com and follow our social links and you can send us a good old fashioned email, wrap it up, spank it on the bottom, and send it off to stuff Podcasts at iHeartRadio dot com."
-        },
-        {
-          "startSeconds": 2567,
-          "text": "Speaker 3: Stuff you Should Know is a production of iHeartRadio. For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
-        },
-        {
-          "startSeconds": 2580,
-          "text": "Speaker 1: E"
         }
       ]
     },
