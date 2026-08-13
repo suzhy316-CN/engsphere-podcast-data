@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-13T11:12:58.574Z",
+  "updatedAt": "2026-08-13T15:31:59.576Z",
   "episodes": [
+    {
+      "feedId": 60308,
+      "podcastTitle": "6 Minute English",
+      "episodeId": 58943006211,
+      "title": "Who does the housework?",
+      "description": "Unloading the dishwasher, mopping the floor, cleaning the loo... what is your most hated household chore? We all know there are jobs around the house which have to be done regularly, even if they are sometimes boring or unpleasant. But who tends to do the most amount of jobs in your household? And is there anyone who isn't pulling their weight...? Pippa and Neil discuss this and teach you some new vocabulary. Learn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6...",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4779b.mp3",
+      "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
+      "durationSeconds": 395,
+      "datePublished": 1786609800,
+      "transcript": null
+    },
     {
       "feedId": 60308,
       "podcastTitle": "6 Minute English",
@@ -11,18 +23,6 @@
       "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
       "durationSeconds": 399,
       "datePublished": 1786007460,
-      "transcript": null
-    },
-    {
-      "feedId": 60308,
-      "podcastTitle": "6 Minute English",
-      "episodeId": 58386020226,
-      "title": "The Enhanced Games",
-      "description": "What would the world of athletics look like if athletes were allowed to take drugs? Pippa and Neil discuss the Enhanced Games. Learn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260730 Practise your listening with The Listening Room here: https://www.bbc.co.uk/learningenglish/english/features/the_listening_room Subscribe to our newsletters here: https://www.bbc.co.uk/send/u178220599",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1q8ns.mp3",
-      "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
-      "durationSeconds": 397,
-      "datePublished": 1785420840,
       "transcript": null
     },
     {
