@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:41:21.804Z",
+  "updatedAt": "2026-08-13T22:24:00.342Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -28,6 +28,18 @@
     {
       "feedId": 980370,
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 58956968047,
+      "title": "\"Bridge Over Troubled Water\" — like you've never heard it before | MAS Vocal ",
+      "description": "Your life will be divided into two sections: before and after you heard this choir sing, says music maker Jacob Collier. Listen along as the youth choir MAS Vocal gives a stunning performance of \"Bridge Over Troubled Water,\" with a special arrangement by Collier. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b867fb8e79c154df980c1/media.mp3",
+      "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
+      "durationSeconds": 601,
+      "datePublished": 1786633200,
+      "transcript": null
+    },
+    {
+      "feedId": 980370,
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 58908315927,
       "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
       "description": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
@@ -35,18 +47,6 @@
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
       "durationSeconds": 1117,
       "datePublished": 1786546800,
-      "transcript": null
-    },
-    {
-      "feedId": 980370,
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 58859040764,
-      "title": "How satellites and AI can protect the planet | Robbie Schingler",
-      "description": "Space technologist Robbie Schingler cofounded a satellite company that images the whole planet every day, making visible changes on Earth. He shows how pairing that data with AI creates a \"planetary intelligence\" we can use to spot emerging threats we might not have seen otherwise. Now he asks: Can we close the gap between seeing a crisis coming and actually stopping it? Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b3a301549db32d42f0931/media.mp3",
-      "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
-      "durationSeconds": 997,
-      "datePublished": 1786460719,
       "transcript": null
     },
     {
