@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:00:37.082Z",
+  "updatedAt": "2026-08-14T21:57:23.701Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -11,19 +11,8 @@
       "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
       "durationSeconds": 395,
       "datePublished": 1786609800,
-      "transcript": null
-    },
-    {
-      "feedId": 60308,
-      "podcastTitle": "6 Minute English",
-      "episodeId": 58690124767,
-      "title": "How do climate scientists make predictions?",
-      "description": "Across the world, climate change is already beginning to change the way we live our lives. But how big will that change be and what kinds of change will occur? These are the kinds of questions that scientists have been asking for decades. So, how exactly do they try to find answers to such complex questions about the future? Understanding where we are heading might help humanity prepare for the consequences of climate change. Phil and Pippa discuss this and teach you some new vocabulary. Learn English from authentic BBC programme clips. Get a free worksheet, quiz...",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2ygrc.mp3",
-      "imageUrl": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
-      "durationSeconds": 399,
-      "datePublished": 1786007460,
-      "transcript": null
+      "titleZh": "谁做家务？",
+      "descZh": "卸下洗碗机、拖地、打扫厕所……你最讨厌的家务是什么？我们都知道家里有些工作必须定期完成，即使它们有时很无聊或不愉快。但谁往往在您的家庭中做最多的工作呢？有没有人不尽自己的职责……？皮帕和尼尔讨论这个问题并教你一些新词汇。从真实的BBC节目剪辑中学习英语。获取本期节目的免费工作表、测验和成绩单：https://www.bbc.co.uk/learningenglish/english/features/6."
     },
     {
       "feedId": 980370,
@@ -35,19 +24,8 @@
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
       "durationSeconds": 601,
       "datePublished": 1786633200,
-      "transcript": null
-    },
-    {
-      "feedId": 980370,
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 58908315927,
-      "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
-      "description": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
-      "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
-      "durationSeconds": 1117,
-      "datePublished": 1786546800,
-      "transcript": null
+      "titleZh": "“麻烦水上的桥”--就像你以前从未听过一样|MAS声乐",
+      "descZh": "音乐制作人雅各布·科利尔（Jacob Collier）表示，你的生活将分为两部分：在你听到这个合唱团唱歌之前和之后。一起听青年合唱团MAS Vocal在科利尔的特别编曲下进行了令人惊叹的《Troubled Water上的桥》表演。由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 827592,
@@ -59,761 +37,8 @@
       "imageUrl": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
       "durationSeconds": 2812,
       "datePublished": 1786611600,
-      "transcript": [
-        {
-          "startSeconds": 1,
-          "text": "Speaker 1: Welcome to Stuff you Should Know, a production of iHeartRadio."
-        },
-        {
-          "startSeconds": 11,
-          "text": "Speaker 2: Hey, and welcome to the podcast. I'm Josh, and there's Chuck and Jerry's here too, and this is Stuff you should Know, the great Man version of History edition."
-        },
-        {
-          "startSeconds": 23,
-          "text": "Speaker 1: Yeah, great Man, Except this is an interesting episode because Robert Maxwell was kind of a horrible person in a lot of ways. He achieved a lot of things, he also did a lot of terrible things, so it was interesting. I didn't know much about this guy at all, and I can't remember if I heard about him because he's the father of Glaine."
-        },
-        {
-          "startSeconds": 48,
-          "text": "Speaker 2: Maxwell, but which makes him even worse."
-        },
-        {
-          "startSeconds": 52,
-          "text": "Speaker 1: Well, yeah, I mean yeah, I'm not sure where this came from though, because this one was like a year and a half ago. That we wreck was the article, and it had just been gathering dust, and so we dusted it off and now we're going to talk about this jerk."
-        },
-        {
-          "startSeconds": 67,
-          "text": "Speaker 2: Yeah, great Man. History, by the way, is it's a way of interpreting history through the leader's political and social military Leaders like the people who make history happen, rather than society or individual people. The problem is is that those great men usually are not great people, like personally speaking, And this is a really good example He was revered because he was super rich, but he was also, I have to say, a very interesting person. I think he was a big liar in a lot of ways, but stuff that he claimed that could be proven was still pretty nuts."
-        },
-        {
-          "startSeconds": 109,
-          "text": "Speaker 1: Yeah, for sure. I mean he was just the broadest overview. He was a tycoon, he was a bully, he escaped Nazi German and he's rath. He was a decorated British soldier. He was a member of parliament. He was also a crook who stole from the pensions of companies he started, and a lot of like terrible business dealings. It sounds like it was a pretty awful husband and father at the same time."
-        },
-        {
-          "startSeconds": 137,
-          "text": "Speaker 2: Well there's the episode."
-        },
-        {
-          "startSeconds": 139,
-          "text": "Speaker 1: Well let's talk about him. He was born Jan Ludwig Hoch in nineteen twenty three and Slatvignon, which was Czechoslovaki at the time. It's now Ukraine. But he was from a you know, he was very poor, He was raised very poors from a big family. His father seems like it was a pretty awful guy too, So you know, behind every awful person is usually an awful parent or two."
-        },
-        {
-          "startSeconds": 167,
-          "text": "Speaker 2: You know, it's intergenerational."
-        },
-        {
-          "startSeconds": 169,
-          "text": "Speaker 1: Yeah, that's the way it generally works."
-        },
-        {
-          "startSeconds": 171,
-          "text": "Speaker 2: Yeah. So, and that's why I never had kids."
-        },
-        {
-          "startSeconds": 175,
-          "text": "Speaker 1: Oh no, so yeah, he said at."
-        },
-        {
-          "startSeconds": 178,
-          "text": "Speaker 2: One point, I was never young. I never had that privilege. And it was basically because his family was so poverty stricken and his father was such a jerk that he wasn't He didn't have much of a childhood, but he did remember that he loved his mother like his whole life from childhood on, and he would use her as an example of what his children needed to aspire to. You know, this woman who could handle raising all these kids in these terrible conditions and still you know, be beloved."
-        },
-        {
-          "startSeconds": 209,
-          "text": "Speaker 1: Sure, I mean suffered from hunger as a child and had some disordered eating as an adult and that sort of gorging himself on food. And his wife, his later wife, Betty, would say that, you know, she thinks that all came back from the hunger that he had as a child. Yeah. He was Jewish. He was from a Jewish family, and like I mentioned earlier, he managed to escape the god I think kind of the only member of his family to escape the Nazis in March of nineteen thirty nine when they invaded Czechoslovakia, cutting off his sidelocks and like getting the heck out of there, and for a lot of his adult life, like I don't know if he denied it, but never came forward as being Jewish, like changing his name and everything."
-        },
-        {
-          "startSeconds": 256,
-          "text": "Speaker 2: Yeah, he was low key Jewish for a lot of his life until later on when he was talked into I guess coming out. I don't know what you would call it in that sense. Yeah, but you said that he escaped the Nazi takeover of Czechoslovakia, and he definitely did, but very quickly he turned right around and went back to join the Hungarian underground in Budapest, and he was essentially trying to move, like people escaping like him, further on to safety because Hungary still wasn't you know, safety, It was better than being in Czechoslovakia, but he still needed to keep moving and he was going to help people. And almost immediately he was captured and and tortured as a member of the Czech resistance, which is not what you wanted the Nazis to consider you."
-        },
-        {
-          "startSeconds": 306,
-          "text": "Speaker 1: No, apparently there was going to be no trial at all, and then the French embassy stepped in and because he had a planned execution and arrange what seems to be like a sham of a trial and he ended up escaping, escaping like on the way to prison. So you know, again, a lot of this stuff is from his authorized biography and stories he told, some of which was no doubt like embellished. Probably, so he seems like one of those guys that would like kind of pump up a story about himself."
-        },
-        {
-          "startSeconds": 341,
-          "text": "Speaker 2: Yeah, yeah, no, agreed, He's definitely that type for sure. Yeah, but he escaped, like you said, literally with his life. He escaped with his life because he would almost certainly have been executed, and he joined the Foreign Legion in France and they sent him to England because France was overtaken by the Nazis as well, and in England he basically found a new home. He signed up for the British Army. He was there when Normandy was stormed, and he also displayed like real actual valor, both valor and ruthlessness. Kyle helped us with this, and Kyle really loved to focus on ruthlessness, which in these cases is a synonym for war crimes. Cut and dried war crimes."
-        },
-        {
-          "startSeconds": 392,
-          "text": "Speaker 1: Yeah, for sure, he really tried to remake himself as a British guy like pretty successfully, Like I said, he changed his name a couple of times, eventually landing on Ian Robert Maxwell, and like taught himself English, apparently would listen to churchill speeches, so he would get that sort of that grand English accent that Churchill had. Sure, but yeah, he you know, flat out admitted to he had a real knack for like going undercover and doing like special ops and stuff, but also, like you said, disobeying orders and being pretty ruthless. Like he like admitted to his wife in a letter that he like executed more than one like unarmed German person, including a mayor in Germany."
-        },
-        {
-          "startSeconds": 435,
-          "text": "Speaker 2: Yeah, civilian even Yeah. Yeah, and again that's a war crime, and he would later be investigated for it, but they were not able to find anyone who could corroborate that any witness said yes I saw him shoot that mayor, or yes I saw him shoot those unarmed troops who surrendered, So they had to close the case. So is that a case of him just pumping up his own legend again?"
-        },
-        {
-          "startSeconds": 460,
-          "text": "Speaker 1: Right?"
-        },
-        {
-          "startSeconds": 461,
-          "text": "Speaker 2: Yeah, you know, but again the stuff that can be verified is kind of amazing. Like he did work for the British intelligence after the war. He ended up being recruited by six it's six, right, yeah. Six. He could speak English, German, French, Yiddish, Hungarian, Czech, and Romanian by the end of the war, so he was extremely valuable post war while Europe was being divvied up and being rebuilt and people were having to interact with all these other countries. And he'd also changed his identity four times before then too."
-        },
-        {
-          "startSeconds": 500,
-          "text": "Speaker 1: Yeah, but like you said, he legit achieved in the armed forces. He worked his way up eventually to become a second lieutenant in the Queen's Royal Regiment and had a very apparently daring rescue for a trapped Allied platoon in the Netherlands and received a military cross, like a Distinguished Service Military Cross. So again, it's sort of a conundrum with this guy because he did learn all those languages, and he was a very valuable person for I six and did some spy work. But there was also rumors over the years that he was and we'll get into this a little bit more, but like he spiled he spied for the Soviet Union, or that he spied for Israel's. I don't think that anyone knows the real truth behind that stuff."
-        },
-        {
-          "startSeconds": 543,
-          "text": "Speaker 2: No, but it is the more you know about him, the easier it is to believe that that's quite possible, you know, for sure. So he made it through the war quite successfully. He was stationed in Berlin, I think at the end of it he was interviewing German prisoners of war to get as much intelligence out of them as possible. And so while there he was also in the chaos of all of this, of Europe being devastated and just beginning to rebuild. There's a lot of money to be made. It's like in that Spike Lee movie The Inside Man."
-        },
-        {
-          "startSeconds": 580,
-          "text": "Speaker 1: Yea, that and that's like one of the better later Spike Lee is I know."
-        },
-        {
-          "startSeconds": 585,
-          "text": "Speaker 2: Yeah, it's one of the better, like just suspense movies too. It's really well done. Great movie, please see it. But anyway, in one part, Christopher Plumber says, when there's blood on the street, by real estate, and that was essentially what Europe was like at this time. And Robert Maxwell was exactly the kind of person to buy real estate when there was blood on the street. So he was making all sorts of money on the side, just taking advantage of the desperation of the people who he was interacting with. And in addition, like other business opportunities came up and improbably if you ask me, he ended up in the scientific publishing world, Yeah, and became essentially like a scientific publishing magnate in the coming decades."
-        },
-        {
-          "startSeconds": 629,
-          "text": "Speaker 1: Yeah. So while he was in Berlin, he was working with dere Telegraph and that paper was owned by Springer Verlog to two words with a dash in the middle. I think Verlog was a big academic publisher, which is kind of like you mentioned where we were headed with this. He met the publisher Ferdinand Springer, and he learned that there were like, you know, more than sixty thousand books and journals like stockpiled in a warehouse and they had been you know, like away from public view since nineteen thirty nine, like pre war. And so his wheels started turning on how he can make some money. And then, along with his eventual business partner, this guy named Paul Rosebaud started a company I guess bought his way into a company called Butterworth Springer, which was rebranded Pergamon Press, and they got a deal with Springer Verlog to get these books, like these scientific textbooks out into the world. And he got six to finance this deal."
-        },
-        {
-          "startSeconds": 692,
-          "text": "Speaker 2: Yeah. Yeah, they basically paid for three hundred tons. Yeah, three hundred tons of books and journals to be shipped to London so that they could be translated and then published for money, like you said. And they also he said, I want to buy some shares in the company too, So they gave him twenty five thousand pounds and I did some back of the envelope work."
-        },
-        {
-          "startSeconds": 715,
-          "text": "Speaker 1: Oh boy, you're not gonna call it maths, are you?"
-        },
-        {
-          "startSeconds": 718,
-          "text": "Speaker 2: No? I wouldn't even dare. But that is about eight hundred and eighty five thousand US dollars today."
-        },
-        {
-          "startSeconds": 728,
-          "text": "Speaker 1: Yeah. And if you're wondering, like, well, how did he get I six? Like why would they invest secretly invest in something like this, I think he well, you know everything we're about to say, the guy take a base value. But one thing he was really good at was like he could be very charming. He was kind of a jekyline hide from what I saw, So as awful as he could be, he could also be super charming and like work his way into a room or work his way into a deal. And I think that's what he did with I six, when he basically was like, hey, having all these German scientific research books is good. It's like an asset to US an intelligence asset, maybe a propaganda tool, and m I six bought it."
-        },
-        {
-          "startSeconds": 766,
-          "text": "Speaker 2: Yeah, so we'll put his role in academic publishing to the side, but just suffice to say that the current state of affairs where journals determine what science has conducted, and the scientific community as a whole has kind of shied away or moved away from doing its job the way it should be and instead conducting experiments and studies that will get published. Their eye popping that actually came from Robert Maxwell and the way that he changed the industry."
-        },
-        {
-          "startSeconds": 798,
-          "text": "Speaker 1: Oh interesting."
-        },
-        {
-          "startSeconds": 799,
-          "text": "Speaker 2: There's a really good long form Guardian article from twenty seventeen called is the staggeringly profitable business of scientific publishing Bad for science? And you can guess that the answer is yes. But it talks a lot about this and other stuff too. But it's a good article. I'd say go read that if you're interested."
-        },
-        {
-          "startSeconds": 817,
-          "text": "Speaker 1: All right, we'll check it out. Should we take a break, Yeah, all right, I'll go read the article right now. We'll be back in what twenty minutes or so?"
-        },
-        {
-          "startSeconds": 824,
-          "text": "Speaker 2: Sure?"
-        },
-        {
-          "startSeconds": 825,
-          "text": "Speaker 1: All right, be right back."
-        },
-        {
-          "startSeconds": 848,
-          "text": "Speaker 2: So one of the things about Maxwell was he when he got into scientific publishing, he really went like full bore into it, and his whole jam with business was like buy one thing and then use it to buy buy, buy another thing, start another thing. Like basically get into one industry and just mushroom everywhere. You can't because the more stuff you have, the more money you can soak up in that industry or that sector. Right. So he bought another publisher, Simpkin Marshall, And this is a really good demonstration of his business techniques. He bought it with the loan from a business partner. The business partner came back and was like, Hey, how's Simpkin Marshall doing? And Maxwell was like, no, I'm not, I'm not at liberty to say. The guy found out that the company was severely in debt and he had borrowed. Maxwell had borrowed a ton of money against the company's credit. Yeah, and then sold off all the assets and kept the money for himself. And this publishing house, which had been around for more than a century went under thanks to Robert Maxwell raiding it. And it was essentially proto private equity like move that he did. That's what private equity does, Chuck. Have you been to Dunkin Donuts lately?"
-        },
-        {
-          "startSeconds": 927,
-          "text": "Speaker 1: Uh? No, I don't go there."
-        },
-        {
-          "startSeconds": 929,
-          "text": "Speaker 2: Yeah, I don't normally either, but I went and got a coffee and I walked in and I was like, God, this place is just it's like the like a death march in here. This is awful, like every like the employees hated their life, Like stuff was broken, like a serve your self machine was there next to the cash register. It was just terrible. And I was like, I'll bet private equity owns this now, and sure enough two years ago private equity brow Yep. They do it like anytime you are in like you work with a business or you like a store or something like that, and it suddenly goes downhill. Go online and search that business in private equity, and I guarantee you private equity got involved, and it's just running it into the ground because they don't care."
-        },
-        {
-          "startSeconds": 971,
-          "text": "Speaker 1: So he was doing something like this in the nineteen fifties, which is crazy, and it seemed like, you know, a lot of time. He was definitely not afraid to burn bridges because apparently he didn't even repay that loan to the guy who loaned him the money. For Simpkin Marshall right, there was a rag called the Private Eye, or called Private Eye that called him the bouncing check as in Czechoslovakian. So he definitely had a reputation of you know, just doing what he could by hooker crook to get something done and then like walking away and leaving people penniless behind him. That Springer ver Loog who got him that first deal. They ended up severing contact with him in nineteen fifty eight Pergamon Press he lost control of would eventually take it back, but during a seventy one Board of Trade inquiry they said he was They declared he was unfit to run a public company. So, like his reputation was well known even back then."
-        },
-        {
-          "startSeconds": 1028,
-          "text": "Speaker 2: Yeah, I mean that's a big deal when the government says you you can't be a CEO. Sorry they Yeah, like the board says you can. We're saying you cannot because you are that untrustworthy."
-        },
-        {
-          "startSeconds": 1039,
-          "text": "Speaker 1: Yeah for sure."
-        },
-        {
-          "startSeconds": 1040,
-          "text": "Speaker 2: Uh."
-        },
-        {
-          "startSeconds": 1040,
-          "text": "Speaker 1: And later in life, well not that much later, he would find an enemy, a grave enemy, in the nineteen sixties with a guy, an Australian named Rupert Murdoch. So we talked about Murdoch in our episode on the on News on the news."
-        },
-        {
-          "startSeconds": 1058,
-          "text": "Speaker 2: Cycle twenty four hour cable news."
-        },
-        {
-          "startSeconds": 1060,
-          "text": "Speaker 1: Yeah, twenty four hour cable news. So everyone knows who Rupert Murdoch is if Fox News. He and Maxwell were grave enemies, and it seems like Maxwell was pretty much obsessed with trying to outdo him, Like anytime he would go to buy a newspaper, Murdock seemed to be right there in front of him buying it, and he ended up buying the left wing. Maxwell did the left wing Daily Mirror just to counter Murdoch's right wing buys. Like by all accounts, Maxwell was never even though he would eventually be in Parliament as the Labor Party, like he said that he was conservative, but he wasn't part of the Conservative establishment, so he would just be like, all right, part of the Labor Party, or I'll buy this left wing newspaper."
-        },
-        {
-          "startSeconds": 1103,
-          "text": "Speaker 2: Yeah, I mean it just made sense financially, so you know, he could be whatever whatever he needed to be. I guess in that sense, it kind of demonstrates that to me, I was reading about Rupert Murdoch in him their rivalry, and apparently it was one of those rivalries like where it meant everything to Robert Maxwell and Rupert Murdoch was like who oh, yeah, I remember him whatever, like and that just drove Robert Maxwell crazier and crazier and just made him want to, you know, compete with Rupert Murdoch. Like Rupert Murdoch was really competing and he would just buy paper after paper, like they would be directly competing trying to buy a newspaper. But Murdoch most of the time won. And he said later on that his impression of Robert Maxwell is that he was a total buffoon, really, like he was just this boastful guy who wanted to win but would get in his own way in the process of winning. That was kind of what his personality was like."
-        },
-        {
-          "startSeconds": 1170,
-          "text": "Speaker 1: And by kind of, I mean yeah Murdoch. They talked about the Max factor, a play on the Uh. Was that like a makeup or something."
-        },
-        {
-          "startSeconds": 1181,
-          "text": "Speaker 2: Uh, yeah, I think there's like a makeup line."
-        },
-        {
-          "startSeconds": 1183,
-          "text": "Speaker 1: Yeah, max factor, But they would use that as not a compliment, Like the max factor wasn't like, hey, this guy's great, he can go in and close deals. It was more like he loses out on deals because of the Max factor because no one wants to deal with this guy exactly."
-        },
-        {
-          "startSeconds": 1197,
-          "text": "Speaker 2: Yeah. I mean like people got in bed with him be because they had no choice. He had just bought their company. He was now their boss. People didn't get into bed or business. I guess I should probably say with him because they liked him or they wanted to they they were usually they just found themselves in the unfortunate situation of having to work closely with him."
-        },
-        {
-          "startSeconds": 1218,
-          "text": "Speaker 1: Yeah, for sure. But he bought the Daily Mirror in eighty four, he started the London Daily News in eighty seven. He started another paper that was sort of what I understand is like a European USA today, called European in nineteen ninety. So he's, you know, he's launching all these newspapers and then eventually he says, all right, I need to look toward the States and ends up buying McMillan US and nineteen eighty eight for two point six billion dollars money in nineteen eighty eight, oh totally, and something called the Official Aviation Guide in for seven hundred and fifty million."
-        },
-        {
-          "startSeconds": 1255,
-          "text": "Speaker 2: Dollars, which again that's a crazy amount of money in nineteen eighty eight. So he was this spending spree, especially in the US where he's trying to take on Murdoch again. I think Murdoch had already bought The New York Post by this time. It was a lot like the USSR being driven to extinction by spending, the US spending having to keep up with spending. Yeah, Rupert Murdoch would go do something, and now he was in the United States, so now Robert Maxwell had to do it, and Robert Maxwell had to outdo him. So he started spending money he didn't have and was expanding his empire, and his empire started to lose its foundation, it started to crumble financially because of him trying to keep up."
-        },
-        {
-          "startSeconds": 1299,
-          "text": "Speaker 1: Essentially, Yeah, that's a great analogy. Actually, in February ninety one, he bought the New York Daily News, and that's one where Murdoch kind of rubbed it in his face because as soon as Maxwell bought it, he was like, all right, the publisher needs to call Rupert Murdoch and tell him that Robert Maxwell just bought the New York Daily News. And apparently Murdoch like laughed at this and said, yeah, thank Bob for the courtesy of that, like basically like I didn't want that ate like failing paper anyway."
-        },
-        {
-          "startSeconds": 1327,
-          "text": "Speaker 2: Sure, there's one other thing that he very famously lost out on, and we must have talked about him in our episode on Tetris. The Wild History of Tetris. Oh yeah, two twenty twenty four. I think it's how weird people put it. He owned Mirrorsoft at the time, and mirror Soft had Tetris in their hands and just through a series of miscommunications and bad deals, lost it. And had they had Tetris, who knows what that would be because they were already a powerhouse in video games, especially in the UK, And if they had continued owning Tetris, they might have they might still be around. But because they lost it under Maxwell, it's just another huge black eye on his reputation as a businessman."
-        },
-        {
-          "startSeconds": 1374,
-          "text": "Speaker 1: Yeah, for sure. So I mentioned politics early on in parliament and that he was a conservative of human in his heart, but because he wasn't part of that establishment, he was like, all right, I'll go to the labor parties and that's what he did. He became a Labor Party member of Parliament from sixty four to seventy and he was like, you know, he's one of these politicians kind of say whatever just to get in there. And he was like, you know what, I came from a farm laborer's background and I had no money, so like, I'm basically a socialist. Even though he was the farthest thing from that in reality, and was just they called him the biggest gas bag in the Commons. Like he was not well liked within the House, the walls of Parliament. Apparently no one liked working with him. There were a lot of rumors floating around about various improprieties. There was one rumor that he sold part of the Palace of Westminster's wine cellar to an anonymous buyer for like way less than what it was worth. I didn't see if that was really true. But the point is no."
-        },
-        {
-          "startSeconds": 1439,
-          "text": "Speaker 2: One liked him in Parliament apparently no, And it's believable, like you could, you wouldn't put it past him."
-        },
-        {
-          "startSeconds": 1445,
-          "text": "Speaker 1: That's just his reputation, right, Yeah, but I mean he won election and re election."
-        },
-        {
-          "startSeconds": 1450,
-          "text": "Speaker 2: Yeah. Apparently right before his election he was he was arrested shaving the day before while he was driving ninety miles."
-        },
-        {
-          "startSeconds": 1458,
-          "text": "Speaker 1: An hour, shaving while driving. Yeah, an s UI or no, I guess it would be DUS no, no DWS driving while shaving."
-        },
-        {
-          "startSeconds": 1471,
-          "text": "Speaker 2: Goo. Yeah, there you go."
-        },
-        {
-          "startSeconds": 1472,
-          "text": "Speaker 1: God, it took me a while."
-        },
-        {
-          "startSeconds": 1476,
-          "text": "Speaker 2: Should we take a break and then come back and talk about that max factor?"
-        },
-        {
-          "startSeconds": 1479,
-          "text": "Speaker 1: Yeah, let's do it."
-        },
-        {
-          "startSeconds": 1480,
-          "text": "Speaker 2: Okay, we're going to do that guys."
-        },
-        {
-          "startSeconds": 1503,
-          "text": "Speaker 1: All right, more promise of talking about the max factor, which was not a compliment for this guy. I mentioned early on that he was a bit of a bully. Apparently he was well known for just sort of his atrocious behavior. There was a Daily Mirror editor named Roy Greensdale who said when they were first met at this restaurant, he walked in Maxwell and like just like swept everything off the table, all the cutlery, saying like it wasn't laid out correctly. And apparently he had done that more than once. He would bring his kids into work and like belittle and lecture the staff, like to impress his kids. He would file fire people while they were on vacation. He would leave the door to this bathroom open. Apparently he would urinate off the top of the building. Just real boorish behavior."
-        },
-        {
-          "startSeconds": 1555,
-          "text": "Speaker 2: Yeah. At the same time, though, he's like cultivating this English gentleman persona, which was very much encapsulated by his accent. He didn't sound anything like someone who was born and raised in Czechoslovakia, not at all. No, he was like, I mean, being elected as a member of parliament, it's pretty good for your reputation. So like we know, so much about him now and like what he did throughout his life, his image now is not what his image was when he was, you know, alive and working and working in Parliament and doing all that stuff. I think people who worked closely with them knew what he was like, but I think in general he was just kind of this viewed as this larger than life personality by the public who knew about him."
-        },
-        {
-          "startSeconds": 1608,
-          "text": "Speaker 1: Yeah, I think so. But yeah, he was a blowhart. He would do things like if someone walked into his office, he would say, like, give me the White House on the phone, and then apparently just have like a fake conversation on the telephone to the White House."
-        },
-        {
-          "startSeconds": 1622,
-          "text": "Speaker 2: That's like, that's what insane people do."
-        },
-        {
-          "startSeconds": 1626,
-          "text": "Speaker 1: Yeah, I mean I only do that if I'm trying to avoid somebody in public."
-        },
-        {
-          "startSeconds": 1630,
-          "text": "Speaker 2: Sure, did you even make the dialing sound like pee poop poop poop?"
-        },
-        {
-          "startSeconds": 1634,
-          "text": "Speaker 1: Py? I do? I got a call? Sorry. He was not a good father and husband. Like I mentioned earlier. He lived in this huge mansion called Headington Hill Hall, which was at least from the Oxford City Council and apparently was like he would at dinner time he would assign his children topics that they had to like impress him with and he would judge them. Apparently there was physical abuse. He cheated on his wife like time and time again. His wife described him as as bullying, but would also take up for him at times."
-        },
-        {
-          "startSeconds": 1671,
-          "text": "Speaker 2: You know, yeah, she said the bar pretty low. She said he was he was no degenerate monster, right. He was also famous for he gave her six rules for basically getting along in a lasting partnership. And it depends on how you look at it. And you could look at it like he is a domineering bully, who was you know making his wife adhere to these rules that he was laying down. But if you if you read all the rules, it's actually these are actually pretty good sensible rules for for maintaining a partnership that if both people honor it, then then you've got something good. If you if it's just one person, then you've got a problem."
-        },
-        {
-          "startSeconds": 1714,
-          "text": "Speaker 1: Yeah, I got the impression it was, here are your six rules that you need to do to stay married to me."
-        },
-        {
-          "startSeconds": 1721,
-          "text": "Speaker 2: I wouldn't. I wouldn't put it past him."
-        },
-        {
-          "startSeconds": 1723,
-          "text": "Speaker 1: Yeah, I mean, we'll go over them real quick. But in the context of this is what you need to do and not this is what I pledged to do for you, right. Number one, don't nag because I love that's his number one. Number two, don't criticize unduly. Number three, give honest appreciation. Number four paid little attentions. Sweet to me is what he was saying. Number five, be courteous to me. And then number six had the utmost confidence in yourself in me."
-        },
-        {
-          "startSeconds": 1756,
-          "text": "Speaker 2: Yeah, I mean, really, if two people come at a relationship like that, look observing those six I guess rules or guidelines or whatever. I think that's kind of good. But yes, I'm quite sure you're right that. He was like, here's what you need to do for me."
-        },
-        {
-          "startSeconds": 1772,
-          "text": "Speaker 1: Yeah, for sure."
-        },
-        {
-          "startSeconds": 1773,
-          "text": "Speaker 2: And he used it against her too. He said, like, don't nag me about me doing these rules. That's rule number one."
-        },
-        {
-          "startSeconds": 1779,
-          "text": "Speaker 1: That's right, that's right. You don't talk about fight club."
-        },
-        {
-          "startSeconds": 1782,
-          "text": "Speaker 2: He got her with the legal mumbo jumbo."
-        },
-        {
-          "startSeconds": 1785,
-          "text": "Speaker 1: He had, you know, quite a few kids. He lost, very sadly a couple of them. He lost a daughter, Karein, of leukemia at age three, and they had a son named Michael that died at age twenty one after being in a coma after a car crash. Like the little apple of his eye was young Gallaine. He named his yacht after her Lady Gallaine. And even though she had a hard time impressing him at times, it seems like."
-        },
-        {
-          "startSeconds": 1813,
-          "text": "Speaker 2: Yeah, supposedly she put herself on his radar at age three when she went and presented herself in front of her mom and said, Mommy, I exist, Yeah, as a three year old, And I guess that really captured Robert Maxwell's attention, and from that point on he was She was very clearly his favorite. Yeah. But yeah, even still I don't think like it seems like he was. He would still berate her at the drop of a hat or something like that. He just maybe did it slightly less than he did to others, or maybe he didn't beat her. I'm not sure, but everyone knew that she was the favorite. Although when it came to business, it was his two sons that he brought into business with him, not his daughter, not his wife. And when he died, his philosophy was that you didn't leave your estate to a woman. So he didn't leave anything to Gallen, he didn't leave anything to his wife. He left it all to his sons. In this case, that turned out to be quite yeah, quite a bit of baggage. Not not anything good."
-        },
-        {
-          "startSeconds": 1876,
-          "text": "Speaker 1: Yeah, we'll get to that. So he died under shady circumstances. So we're gonna talk a little bit about his death and then sort of everything that was happening to him at that time, which leads people to speculate like was it suicide, was it murder, or was it an accident? But was on November well, he did have the max factor. On November fifth, nineteen ninety one, when he was sixty eight, he fell to his death from his yacht, his fifteen million pound Lady Gallaine. And he had earlier that year he had sailed into Manhattan to buy the New York Daily News. That's what I mentioned was nineteen ninety one, and then in the fall he sort of splur the moment trip to the Canary Islands, where looking back, crew members were like, it was weird and that he showed it by himself, which was unusual, didn't have like his butler or his like people like his caretakers. And they said he also seemed like in really good spirits, which was sort of unusual. And he didn't work while he was on board, which was super unusual."
-        },
-        {
-          "startSeconds": 1940,
-          "text": "Speaker 2: Yeah, and so he was essentially getting away from his world, collapsing in on him. Yeah, like he said that he needed to go do something, I think, but there was no one who was fooled. Like he was just trying to get away from things. That's especially kind of signaled by the fact that he didn't work. Apparently there was no line between his private life and his business life, so he was always working."
-        },
-        {
-          "startSeconds": 1963,
-          "text": "Speaker 1: Right, Yeah. And you know when you were talking about business collapsing, like you know, financial failures, but also sort of his his schemes, like you know, the walls closing in on his schemes. Like you mentioned, he was basically raiding his companies for profit a lot of the times from the pension funds. I think it ended up being close to close to five hundred million pounds from pension funds."
-        },
-        {
-          "startSeconds": 1987,
-          "text": "Speaker 2: You do not do that, man, No."
-        },
-        {
-          "startSeconds": 1989,
-          "text": "Speaker 1: And he was at the same time he was selling pergamon, he was secretly buying shares in his companies to prop up stock prices, like while he was trying to rid himself of these things."
-        },
-        {
-          "startSeconds": 2003,
-          "text": "Speaker 2: Yeah, he was. He was in a really bad spot because a bunch of factors basically came together to have all of his creditors basically call in all his debts at once, right, Yeah, And he had used those pension funds as collateral, which is that's on Lehman Brothers, that's on Goldman Sachs, like, you should not take pension funds as collateral, even if and he was fully legally in charge of those pension funds, so he legally could do that, but just being a banker like that and knowing the look that the optics of being like, yep, give us those pension fund because we're calling in a debt you can't repay. Of course, that's just a terrible collateral to take. That's neither here nor there as far as Robert Maxwell's concerned. The other bankers though that held shares in his companies. They were threatening to basically say, we're gonna sell these shares that you gave us as collateral. We're gonna dump them on the market all at once, and that's gonna drive your stock prices down even further, which is gonna mean you have even less money to repay us. Yeah, so he's getting it from every which way. And then not to mention, they didn't know about the pension rating until after he was debt, so there was it was not like people were beating the drum that anticipation was hanging over him as well."
-        },
-        {
-          "startSeconds": 2081,
-          "text": "Speaker 1: Yeah, for sure, he you know, seemed to be in a pretty paranoid state. He had his his offices and businesses bugged. Apparently he had his own house bugged, so you could hear what his family was saying about him nuts. And then there was this other sort of wall closing in on him, and that there were allegations that he was a spy for Israel. He had invested at one point, I think about two hundred and fifty million pounds in just various Israeli companies. And in nineteen ninety one there was a guy claiming to be a former intelligence officer for Israel name Ari Ben Minashi who told the News that Maxwell and one of his editors that was working with him at one of his papers were Israeli agents. And apparently in nineteen eighty six there was a nuclear scientist named Mordecai Venunu who went to London, as I guess is like a whistleblower saying that, like, there's a dangerous nuclear arms program happening in Israel, and he was going to blow the lid off of it and sell it to the Sunday Times, and Maxwell convinced him to sell it to him instead to the Mirror. He ends up sending that information to Israel as supposedly like to fact check it and confirm it, but he ended up stiffing Venunu for the money and never ran the story."
-        },
-        {
-          "startSeconds": 2165,
-          "text": "Speaker 2: Yeah, that's a technique that billionaire tyrants who own news organs too. They'll it's like catch and catch and kill, catch and kill. Yeah, or you buy the story, you buy the exclusive rights to the story, and then you don't publish it. You just sit on it to keep the public from knowing about it."
-        },
-        {
-          "startSeconds": 2183,
-          "text": "Speaker 1: Yeah, I mean, that's what happened in this country. Remember, happens a lot."
-        },
-        {
-          "startSeconds": 2187,
-          "text": "Speaker 2: It's really messed up."
-        },
-        {
-          "startSeconds": 2188,
-          "text": "Speaker 1: And as far as Venunu, he was later drugged and kidnapped and jailed for eighteen years in Israel."
-        },
-        {
-          "startSeconds": 2195,
-          "text": "Speaker 2: Right, So Maxwell was like, I'm not an Israeli spy. This is all just bs. And then Seymour Hirsch flew in with a book and in the book it wasn't just about Maxwell, but he's tangentially in the book, and Seymour Hirsch was like, yeah, that's all true. Seymour Hirsch is one of the most indisputable journalists of all time. If he says something is true, he has done so much research on it that he's he'll stand behind it every time, and most of the time it is, if not every time, it's quite true. So he said that, yes, this this guy was in Israeli spy all this time, that he was a businessman too, and it got brought up in parliament. In Great Britain, their libel laws are very heavy against the papers, and for good reason, so the papers tend to kind of stay in line about even talking about rumors like that. But once it was brought up in parliament, now the papers could report on parliament, mentioning it and dig into it, and they could report on it without any fear of libel. So this is going on at the same time too."
-        },
-        {
-          "startSeconds": 2260,
-          "text": "Speaker 1: All right, So yeah, walls are closing in and you know, financially, professionally, politically, I guess, and this you know, whole spy allegation business. So he falls off this yacht. Supposedly his last words at four forty five am were complaining to the bridge crew of out how the temperature in his cabin and apparently this guy like peeing off the things, because apparently he went to pee off the back of the boat, which they said was like a normal thing for him to do, and then fell over a low rail and this, you know, this was a not the yacht where you're falling from like six stories up. It's like a you know, it was a yacht, but it wasn't like he was falling from one hundred feet or something like that, so it was like a low fall. And pathologists, like, no one's ever agreed on what happened to him. Pathologists failed to agree on anything besides he drowned. Some people said he had a heart attack first. Some said that no, he actually tore his arm muscles, so he was clearly trying to hold on, so it wasn't suicide. They ended up finding his naked body floating about fifteen miles away, I think maybe the next in the next day or two, and the whole thing was like, did he fall, did he jump? Or is it possible he was murdered? Has been sort of the question since then."
-        },
-        {
-          "startSeconds": 2341,
-          "text": "Speaker 2: Yeah, And I think the reason why he was he drowned was because the ship was cruising at the time, so without anyone knowing that he'd fallen over, he was in the middle of nowhere by the time that that ship realized that he was gone hours later. Right, Yeah, so let's start with these, Chuck, there's let's start with suicide. You said, I think what kind of convinces most people is he clearly on his way down, tried to grab onto the rail and pulled his his tore the muscles on his side. I can barely say it. It just sounds so painful. So he wanted to live, right, And also it wasn't a high jump in the first place, so suicide probably wasn't it. Some people who who some of his biographies even were like, he would not have done well with all the public attention that was about to be unleashed on him. His reputation was about to be completely ruined. Financially, he was about to be completely ruined. So yes, suicide makes sense. But again, that torn arm muscles basically say now that that's just not what this was."
-        },
-        {
-          "startSeconds": 2406,
-          "text": "Speaker 1: Yeah, I mean, you know, his family has always said it was an accident. Just I think beyond the arm muscles, just I think they're knowing him. I think his wife said it just wasn't in his character. They thought he was just the kind of guy that would never give up, even facing all of this stuff. He would still like try and fight his way or buy his way or get loans to get out of this stuff. Most of his family, I think, in closest people, were convinced it was just an accident. There was one pathologist who argued against suicide because of the arm thing for sure, or the fact that he was naked. That seemed a little strange I think to them as well."
-        },
-        {
-          "startSeconds": 2450,
-          "text": "Speaker 2: So accident seems pretty pretty prominent, right, Yeah, there's also assassination. Remember Israel was supposedly being outed as having used him as a spy for years and years and years. That wasn't enough to fuel that rumor of Israel killing him. What the rumor was is that he had asked Israel for a loan and Israel said no, and he said, well, you know what, I'm going to go tell everybody about me being a spy for you. And they were like, no, not, We're going to rub you out. That's basically what when people say he was murdered, that's usually what they point to."
-        },
-        {
-          "startSeconds": 2491,
-          "text": "Speaker 1: Yeah, and there was some the initial pathologists I think had speculated that his body was dead longer than it was in the water, So that kind of spurred a little bit of speculation about murder, but apparently the crew of the Lady Glaine was like, no one was on board, that wasn't authorized. No one could have climbed aboard that we wouldn't have known about. Ken Lennox was a guy who knew him, said he like saw the corpse and it wasn't you know, it didn't have like any markings of struggle or gunshot or throat cut or anything like that."
-        },
-        {
-          "startSeconds": 2526,
-          "text": "Speaker 2: Right. There's also a theory that he faked his death, which is quite possible, but he was pretty recognizable, so it would have been difficult for him to start a new life somewhere without you know, completely changing his face at least in his voice."
-        },
-        {
-          "startSeconds": 2543,
-          "text": "Speaker 1: Yeah, And I think that's one of those things where, like they said, well he had mentioned it before. I think he was one of those guys that would just like muse about something like that."
-        },
-        {
-          "startSeconds": 2552,
-          "text": "Speaker 2: Yeah. And if you listener were just like fake your death, I'd love to hear more about that. Well, we did an episode on faking your death. You can go look up too."
-        },
-        {
-          "startSeconds": 2560,
-          "text": "Speaker 1: Oh. God, that was early on, wasn't it."
-        },
-        {
-          "startSeconds": 2562,
-          "text": "Speaker 2: No, that was like a year or two ago."
-        },
-        {
-          "startSeconds": 2564,
-          "text": "Speaker 1: Oh, wasn't what am I thinking of? Then?"
-        },
-        {
-          "startSeconds": 2566,
-          "text": "Speaker 2: Going over Niagara Falls in a barrel."
-        },
-        {
-          "startSeconds": 2569,
-          "text": "Speaker 1: Oh man, that was a long time."
-        },
-        {
-          "startSeconds": 2570,
-          "text": "Speaker 2: There was the worst way to die. That's probably what you're thinking of."
-        },
-        {
-          "startSeconds": 2574,
-          "text": "Speaker 1: Oh maybe. So either way, you mentioned earlier that he sort of did his wife and daughter of favor by not leaving them the business because the business was I think it was the largest may still be the largest bankruptcy in Britain's history. Yeah, debts of like well over four hundred million pounds that they were initially on the hook for. They were I think prosecuted for fraud as well in nineteen ninety six, but they both successfully defended themselves and the pensioneers were eventually bailed out by public funds apparently. Yeah, they got their money back."
-        },
-        {
-          "startSeconds": 2612,
-          "text": "Speaker 2: They got like half, like basically fifty cents on the dollar. So they still lost out, but at least they weren't just completely screwed, which is cool the UK to swoop in and do that, you know, it was that means everybody in Great Britain chipped in, so those people wouldn't just completely lose their pension. That's pretty neat."
-        },
-        {
-          "startSeconds": 2630,
-          "text": "Speaker 1: Yeah."
-        },
-        {
-          "startSeconds": 2631,
-          "text": "Speaker 2: So yeah, before before Gallaine Maxwell came along and tarnished her family's reputation, it had already been well tarnished by the time that rolled around, Like her father's death was like this is like his reputation just completely went downhill? How about that? Yeah, totally, Yeah, Gallaine Maxwell, that's a whole other episode if you."
-        },
-        {
-          "startSeconds": 2654,
-          "text": "Speaker 1: Ask me, oh, man, are we gonna do that one day someday?"
-        },
-        {
-          "startSeconds": 2659,
-          "text": "Speaker 2: Okay, okay, if you want to know more about Robert Maxwell. In the meantime, there's all sorts of interesting articles about him too. There's documentaries. The House of Maxwell I think was a good BBC one from a few years ago. And since I ended this like an old school how stuff works episode, it's time for listener mail."
-        },
-        {
-          "startSeconds": 2683,
-          "text": "Speaker 1: This is about the tobacco settlements episode. Hey, guys, I wanted to provide some more info about one of the points of confusion you had. I worked for years doing health policy work for the Minnesota House, and this source of funds was a hot topic as we were discussing other policies to target the rise in youth tobacco use. Josh, you were asked about how the settlements worked with regard to tobacco companies paying in perpetuity while also having a specific settlement amount. For background, Minnesota agreed to about six point five billion in settlement funds. We were not part of the Master settlement. It's actually pretty simple. That six point five billion dollar number was an estimate of the settlement's value at the time of the settlement, not a cap on how much companies would pay."
-        },
-        {
-          "startSeconds": 2722,
-          "text": "Speaker 2: Oh cool."
-        },
-        {
-          "startSeconds": 2723,
-          "text": "Speaker 1: So Minnesota received a series of one time payments targeted at specific tobacco cestation in public health uses, but we also receive an annual payment each year that can be used for basically whatever the state wants. These annual payments are the ongoing payments that are based on a formula around tobacco sales and profitability that you touched on in the episode. In Minnesota, these annual payments are about one hundred and fifty million dollars each year, and when counting everything the state has gotten from the tobacco company so far, we've received something like five point seven billions so far. Hope it provides some clarity. And that is from Jeremiah wingstet Man."
-        },
-        {
-          "startSeconds": 2758,
-          "text": "Speaker 2: That's so awesome. I love hearing from pepeople who are there."
-        },
-        {
-          "startSeconds": 2761,
-          "text": "Speaker 1: Yeah, you know, and who actually know the stuff. Yeah, and we can always count on that all."
-        },
-        {
-          "startSeconds": 2765,
-          "text": "Speaker 2: Yeah, that's so cool. And also big ups to Minnesota because they were the ones who, as part of the settlement, required the tobacco companies to make their documents public."
-        },
-        {
-          "startSeconds": 2774,
-          "text": "Speaker 1: That's right."
-        },
-        {
-          "startSeconds": 2776,
-          "text": "Speaker 2: Thanks a lot, Jeremiah. If you were there, no matter what we were talking about, we want to hear from you. And even if you weren't, that's fine too. We always like to hear a hello from our listeners. You can send us an email, wrap it up, spank it on the bottom, and send it off to Stuff podcast at iHeartRadio dot com."
-        },
-        {
-          "startSeconds": 2796,
-          "text": "Speaker 1: Stuff you Should Know is a production of iHeartRadio. For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
-        }
-      ]
-    },
-    {
-      "feedId": 827592,
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 58902159602,
-      "title": "Short Stuff: Nero and His Fiddle",
-      "description": "Did Nero play his fiddle while Rome burned during the Great Fire of 64 CE? Absolutely not. Find out how we know when Chuck and Josh bust a two thousand year-old myth. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/image.jpg?t=1786478934&size=Large",
-      "durationSeconds": 733,
-      "datePublished": 1786525200,
-      "transcript": [
-        {
-          "startSeconds": 4,
-          "text": "Speaker 1: Hey him, Welcome to short stuff Josh, Chuck, Jerry sitting in for Dave. And this makes this an official short stuff. We have the quorum. Let's go."
-        },
-        {
-          "startSeconds": 13,
-          "text": "Speaker 2: That's right. Do you recognize this article?"
-        },
-        {
-          "startSeconds": 16,
-          "text": "Speaker 1: No? Who wrote it? Did I write? Did you write?"
-        },
-        {
-          "startSeconds": 19,
-          "text": "Speaker 3: Yeah?"
-        },
-        {
-          "startSeconds": 19,
-          "text": "Speaker 2: You wrote it?"
-        },
-        {
-          "startSeconds": 20,
-          "text": "Speaker 1: Did I really?"
-        },
-        {
-          "startSeconds": 21,
-          "text": "Speaker 2: Uh?"
-        },
-        {
-          "startSeconds": 21,
-          "text": "Speaker 1: Huh wow? I was like, this is pretty good."
-        },
-        {
-          "startSeconds": 24,
-          "text": "Speaker 2: I took your name off of it because I was hoping you wouldn't remember this one."
-        },
-        {
-          "startSeconds": 27,
-          "text": "Speaker 1: That's awesome. Yeah, this is not a bad article at all. That's great. Thank you for that, because uh yeah, I like this. I was like, I like the cut of this writer's Jim. Yeah."
-        },
-        {
-          "startSeconds": 38,
-          "text": "Speaker 3: So this is from the old house stuffworks dot com days and this is about the And I was surprised we hadn't done a shorty on this."
-        },
-        {
-          "startSeconds": 44,
-          "text": "Speaker 2: I was."
-        },
-        {
-          "startSeconds": 44,
-          "text": "Speaker 3: I was like, surely we have the story of Nero fiddling while Rome burned. And when I looked it up, there you were, buddy."
-        },
-        {
-          "startSeconds": 53,
-          "text": "Speaker 1: Yeah. I actually searched for an episode too, because it just sounds like we've definitely talked about it at some point, but it just had to have been a part of a larger episode. So let's dig in because I feel like everybody, thanks to my article, has heard that Nero fiddled while Rome burned, and it turns out that that is probably a piece of ancient propaganda that survived almost two thousand years."
-        },
-        {
-          "startSeconds": 80,
-          "text": "Speaker 3: At this point, I feel like you have a little extra wind beneath your wings."
-        },
-        {
-          "startSeconds": 83,
-          "text": "Speaker 2: Nowner, you know this is yours."
-        },
-        {
-          "startSeconds": 85,
-          "text": "Speaker 1: I've never felt more alive than i'd do right now."
-        },
-        {
-          "startSeconds": 88,
-          "text": "Speaker 3: Yeah, we're talking obviously about the Great Fire of Rome. For six days and seven nights, that's when Rome saw and this is eight sixty four, I saw seventy percent of its city destroyed and only four of its fourteen districts intact afterward."
-        },
-        {
-          "startSeconds": 103,
-          "text": "Speaker 1: Wow."
-        },
-        {
-          "startSeconds": 104,
-          "text": "Speaker 3: And the Roman historian Tacitus wrote that out of the about half the people of the million people, which would be by my count, five hundred thousand were rendered without a home because of this great fire."
-        },
-        {
-          "startSeconds": 118,
-          "text": "Speaker 1: I knew that. So this being a massive tragedy which two thousand years, I feel like we can add a joker to you at this point, but sure that it was such a huge tragedy and it was just so out of nowhere. And of course people just have an innate need to blame, to find cause, assign blame. People love doing that even back in the day. And also people back in the day were as susceptible to rumors and urban legends as we are today, and those things started up really quickly. One of the main ones was that somehow the government was involved in this."
-        },
-        {
-          "startSeconds": 159,
-          "text": "Speaker 3: Yeah, for sure, Like, hey, we saw people, we saw men fanning the flames, and when confronted, they said that they were under orders to do so, or you know, maybe somebody actually started this fire on purpose. In Nero, the Emperor Nero was kind of the prime suspect."
-        },
-        {
-          "startSeconds": 177,
-          "text": "Speaker 1: It seems like, yeah, he ordered it, that he set the fire, or some people. He had to rebuild Rome, I mean, you had to rebuild it after so many of the districts were just totally leveled, and he was like, let's build this in I don't know, Nero style, which is surprisingly close to the craftsman style of the nineteen twenties."
-        },
-        {
-          "startSeconds": 198,
-          "text": "Speaker 2: Oh really no. I was like, that's very surprising. But they're gonna say art Deco."
-        },
-        {
-          "startSeconds": 204,
-          "text": "Speaker 1: I was going to at first, and I was like, not, let me come up with something else, right, I should have just said art Deco would have gotten better. Laugh. But he rebuilt it in a manner that he liked. I mean, he was in charge at the time. And people were like, that's why Rome burnt, because this guy wanted to rebuild it more in his image."
-        },
-        {
-          "startSeconds": 223,
-          "text": "Speaker 2: Yeah, exactly."
-        },
-        {
-          "startSeconds": 224,
-          "text": "Speaker 3: So that rumor was going around, and through that rumor, okay, came the story that while the Great Fire was burning, Nero played his fiddle and just sort of watched it happen."
-        },
-        {
-          "startSeconds": 236,
-          "text": "Speaker 2: Should we take a break right there?"
-        },
-        {
-          "startSeconds": 238,
-          "text": "Speaker 1: We should, because I mean, what's coming up next is just eyepopping."
-        },
-        {
-          "startSeconds": 242,
-          "text": "Speaker 3: That's right, more goodness from Josh Clark of fifteen years ago right after this."
-        },
-        {
-          "startSeconds": 267,
-          "text": "Speaker 1: So Nero's like, wait a minute, wait, I wasn't fiddling. We'll find out why. That's definitive in a second. Why are you blaming me? And they're like, we're just blaming you. You got to accept that. He's like, I don't. I'm going to find a scapegoat myself. I'll trot them out publicly and then you can just stop blaming me. And he looked around. He's like, these Christians are new, I'm going to persecute them. And this actually became the first persecution of Christians in history. This was sixty four CE, and I mean Christianity was so new that there was still original apostles around who ended up being executed in this persecution."
-        },
-        {
-          "startSeconds": 307,
-          "text": "Speaker 2: Yeah, Paul, who was the other one."
-        },
-        {
-          "startSeconds": 309,
-          "text": "Speaker 1: Paul and Peter. Paul was beheaded and Peter was crucified upside down."
-        },
-        {
-          "startSeconds": 316,
-          "text": "Speaker 3: Yeah, So like torturous, brutal executions are happening because Nero is looking for a scapegoat because he was blamed for this fire. You know, when you said before we're going to talk about why it's definitive that he definitely didn't fiddle, it's because there was no fiddle at the time. Music historians basically agreed that the vile class of instruments, which is like a violin, didn't come around to the eleventh century, so about fifteen hundred years later, So there literally were no fiddles at the time."
-        },
-        {
-          "startSeconds": 347,
-          "text": "Speaker 1: No, but he did play something called the scythara, yeah, which is like a laptop harp. The top is like for strumming, the bottom is for plucking. You've probably seen something like it before. But he was really into it, so much so that when Rome conquered some new land, he would schedule music festivals in these new lands, and he would schedule them at times that he could go and compete. He would compete, and the Senate was not happy about this. They're like, you're competing against commoners, you're the emperor. And apparently Nero actually was more like than we think he was today, especially among the lower classes of Rome, because he didn't behave nearly as superior toward them as other elites in Rome had and did."
-        },
-        {
-          "startSeconds": 396,
-          "text": "Speaker 3: Oh okay, well, you know one thing he definitely did was in the immediate aftermath of the fire, he did a lot. Actually, he took a lot of measures to provide for the citizenry. He was at his place in Antium on the outskirts of Rome when it broke out. He immediately rushed back to the fire. Tacitus, that historian that I mentioned, was a boy at the time during the blaze, and he provided accounts of like hey, Nero helped coordinate the firefighting himself on the first night. He opened up public buildings for housing, He opened up his own gardens for temporary shelter. Yeah, he imported grain from other cities close by that I guess he sold, but sold like super cheap."
-        },
-        {
-          "startSeconds": 439,
-          "text": "Speaker 1: Yeah, he still sold it, though I thought that was a little hinky, Yeah for sure. But yeah, so he was a lot of the residents of Rome liked him, and Tacitus tells us like he did actually swing into action, and yet he still managed to bear the blame throughout this, like his persecution of Christians did not work. And apparently, like we said, the fiddling thing was not It's not possible that he fiddled. It is possible he was playing the sthara, but because of his responsiveness, it seems like that's probably not the case. So because this was probably largely created by the Senate, like the I think they were working hard to keep the blame on Nero."
-        },
-        {
-          "startSeconds": 483,
-          "text": "Speaker 3: Right."
-        },
-        {
-          "startSeconds": 485,
-          "text": "Speaker 1: There's a nineteen forties historian from the University of North Carolina named Mary Francis Giles Go tar heels, Yeah, and yes, if you're a tar heel, you can be proud of Mary Francis Gilds because she was one of those rare people who managed to see something that everybody knows in a different light, at a different angle. And she's like, you know, fiddling doesn't just mean playing a violin. It can also mean just kind of doing something like with your fingers, like ineffectually, like you're wasting time and energy, you're just fiddling around. Maybe that's what they originally meant."
-        },
-        {
-          "startSeconds": 520,
-          "text": "Speaker 2: I don't know why I never thought of that."
-        },
-        {
-          "startSeconds": 522,
-          "text": "Speaker 1: I definitely hadn't either. Even after writing this, it didn't even look familiar."
-        },
-        {
-          "startSeconds": 528,
-          "text": "Speaker 3: Yeah, she was like, you know, maybe he's just fiddling, as in, like doing something sort of useless. At the time, it sounds like that didn't happen either, But yeah, maybe they viewed it inadequate at the time, like what he was doing. Maybe the truth wasn't getting around that he was actually kind of helping, right."
-        },
-        {
-          "startSeconds": 546,
-          "text": "Speaker 1: And that actually fits with the idea that this was propaganda that the Senate was basically saying Nero's responses were not nearly enough. He was just basically messing around."
-        },
-        {
-          "startSeconds": 557,
-          "text": "Speaker 2: Yeah, for sure."
-        },
-        {
-          "startSeconds": 558,
-          "text": "Speaker 3: But you know, if you're like, man Nero got a bad rap, there's a brilliant writer who took that into consideration. But probably I don't know, fifteen years ago ish and said, hey, don't feel so bad for Nero because Nero ascended to the throne because his mom killed his uncle, and then Nero had his mom killed. Yeah, and then of course the persecution of the Christians, you know, hanging people by their feet and decapitating them, Like, don't feel bad for this guy."
-        },
-        {
-          "startSeconds": 590,
-          "text": "Speaker 2: Now."
-        },
-        {
-          "startSeconds": 591,
-          "text": "Speaker 1: There was also dumb Nascio Abestius, which is sicking wild animals on people for executions."
-        },
-        {
-          "startSeconds": 598,
-          "text": "Speaker 2: Yeah, no good."
-        },
-        {
-          "startSeconds": 600,
-          "text": "Speaker 1: So Nero essentially was on his heels after that great fire. Again, remember, the Senate didn't like him, like him that much. I can't stress that enough. And so the army, which he had been on really good terms with for a while, was like, we're not going to work for you any longer. So there's a potential coup brewing. The Senate declared him a public enemy, which is not something you want levied against you as an emperor. It meant that he was probably going to be executed. So he pushed a dagger into his throat about four years after the fire came and."
-        },
-        {
-          "startSeconds": 634,
-          "text": "Speaker 2: Went, yeah, he said, I sense a cupbrew. That was it. I don't know if you talk like that."
-        },
-        {
-          "startSeconds": 642,
-          "text": "Speaker 3: You know, I'm watching the show right now and it's."
-        },
-        {
-          "startSeconds": 647,
-          "text": "Speaker 2: Oh, Star City, have you heard of this?"
-        },
-        {
-          "startSeconds": 651,
-          "text": "Speaker 3: Star City is a show that is I can't remember the name of the first show, but there was a show about the Space Race, and there was an American version for All Mankind is what that was called from the American perspective, and Star City is the Space Race from the Soviet perspective."
-        },
-        {
-          "startSeconds": 670,
-          "text": "Speaker 2: And it's really good. I think you would like it."
-        },
-        {
-          "startSeconds": 671,
-          "text": "Speaker 3: But they cast all British actors and are doing British accents sort of like they used to just do for all movies back in the day. And it's just I got to wrap my head around every single episode when all these Brits are talking. I try to hear it in like with a Russian accent in my head, and it just kind of drives me nuts."
-        },
-        {
-          "startSeconds": 691,
-          "text": "Speaker 1: Yeah. Yeah, I can get used to that kind of thing, but I think it's also something that if you once you focus in on it, you just can't get past."
-        },
-        {
-          "startSeconds": 700,
-          "text": "Speaker 3: I don't know why in twenty twenty six they just didn't say, like, you know, do a Russian accent."
-        },
-        {
-          "startSeconds": 704,
-          "text": "Speaker 1: I know it's appropriations or Russians. It's very strange, but I guess that's it for the short Stuff, right, That's right, Okay, well everybody. Short Stuff is out."
-        },
-        {
-          "startSeconds": 717,
-          "text": "Speaker 3: Stuff you should know is a production of Iheartrating."
-        },
-        {
-          "startSeconds": 720,
-          "text": "Speaker 2: For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows."
-        }
-      ]
+      "titleZh": "罗伯特·麦克斯韦是谁？L",
+      "descZh": "罗伯特·麦克斯韦是很多人，出版商、大亨、间谍、政治家、骗子。但他从游艇上掉下来时被谋杀了吗？请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 311840,
@@ -825,19 +50,177 @@
       "imageUrl": "https://image.simplecastcdn.com/images/2be48404-a43c-4fa8-a32c-760a3216272e/fab1584e-8ea9-4efa-9650-5e595861b2cd/3000x3000/image.jpg?aid=rss_feed",
       "durationSeconds": 3250,
       "datePublished": 1786701600,
-      "transcript": null
+      "titleZh": "价值400万美元的金棺案（更新）",
+      "descZh": "一件刚刚被掠夺的埃及古物是如何在大都会艺术博物馆结束的？为什么要让金·卡戴珊来破案？你在博物馆里看到的东西有多少是偷来的？(Part 1、“偷艺术品很容易。归还它很难”，首次发表于2023年。）来源：安德里亚·拜耳（Andrea Bayer），大都会艺术博物馆收藏和管理副主任。马修·博格丹诺斯（Matthew Bogdanos），曼哈顿地区检察官办公室助理地区检察官兼文物贩运部门负责人。帕蒂·格斯滕布利斯（Patty Gerstenblith），德保罗大学法学院名誉法学教授。吉姆·马洛."
     },
     {
-      "feedId": 311840,
-      "podcastTitle": "Freakonomics Radio",
-      "episodeId": 58871369366,
-      "title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
-      "description": "Angela Buchdahl was the first Asian American to be ordained as a rabbi, and now she is among the most influential rabbis in the world. She and Stephen Dubner talk about boundary-crossing, the aftermath of October 7, and whether you can be a good Jew without believing in God. If you'd like to see the video version of Better in Person, you can watch it on YouTube or Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
-      "imageUrl": "https://image.simplecastcdn.com/images/f4d14e45-d237-4192-b860-870b125ba8b1/5cdf6df8-bbf8-4a48-8dd8-20c165877200/3000x3000/bipcorepodcastart3000x3000.jpg?aid=rss_feed",
-      "durationSeconds": 2057,
-      "datePublished": 1786492800,
-      "transcript": null
+      "feedId": 1437072,
+      "podcastTitle": "The English We Speak",
+      "episodeId": 58842574578,
+      "title": "The English We Speak: Share your life story",
+      "description": "Think you sometimes over-share unnecessary details? Learn how to use 'share your life story' with Becca and Feifei. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810 For more great language tips and programmes visit bbclearningenglish.com We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
+      "audioUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p3v3m8.mp3?p=rss",
+      "imageUrl": "https://cdn.iono.fm/files/p4/logo_1705818_20260811_113221_1400.jpeg",
+      "durationSeconds": 198,
+      "datePublished": 1786436940,
+      "titleZh": "我们所说的英语：分享您的生活故事",
+      "descZh": "认为你有时会过度分享不必要的细节吗？与贝卡和菲菲了解如何使用“分享你的生活故事”。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
+    },
+    {
+      "feedId": 956179,
+      "podcastTitle": "All Ears English",
+      "episodeId": 58929077959,
+      "title": "What's the Difference Between Older and Elder in English?",
+      "description": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is. Do you love All Ears English? Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes Visit our website here or https://lnk.to/website-sn If you love this podcast, hi...",
+      "audioUrl": "https://traffic.megaphone.fm/ALLE6398497825.mp3",
+      "imageUrl": "https://megaphone.imgix.net/podcasts/88b85f10-a0c0-11ec-9e52-bfcf9441f742/image/All_Ears_English_New_Cover_with_Michelle_Under_500_KB.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "durationSeconds": 1100,
+      "datePublished": 1786597200,
+      "titleZh": "英语中Older和Elder有什么区别？",
+      "descZh": "想知道你的英语水平吗？在这里参加我们的免费英语水平测验，了解您当前的英语水平。你喜欢All Ears English吗？在这里尝试我们的其他播客：商务英语播客：提高您的商务英语与每周3集，具有林赛，米歇尔，和奥布里雅思能源播客：从一个前考官学习雅思和实现您的乐队7或更高，具有林赛麦克马洪和奥布里卡特与杰西卡贝克在以前的情节访问我们的网站在这里或https://lnk.to/website-sn如果你喜欢这个播客，你好."
+    },
+    {
+      "feedId": 494082,
+      "podcastTitle": "Luke's English Podcast",
+      "episodeId": 58890128663,
+      "title": "Episode 1000! 🎉",
+      "description": "Here it is, finally! The long-awaited episode 1000. It has taken me weeks to finish this. If you listen, you will understand why it has taken so long! This is a celebration of this podcast after 17 years and 1000 episodes. It includes a lot of rambling, an interview with my brother, questions from friends and family, and the voices of various guests who have been on this podcast over the last few years. Also, regular interruptions from my daughter and all sorts of other random moments such as the sounds of dogs, woodpeckers, neighbours, and more! Thank you to all the...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/62b0ada25c7ea10012f541cb/e/6a7b3d4fd6c287f9ee7e73b1/media.mp3",
+      "imageUrl": "https://assets.pippa.io/shows/62b0ada25c7ea10012f541cb/1786461411396-b9d78874-d740-47a6-abf8-3f26023ac3a4.jpeg",
+      "durationSeconds": 13023,
+      "datePublished": 1786516200,
+      "titleZh": "第一千集！🎉",
+      "descZh": "终于到了！期待已久的第1000集我花了几个星期才完成。如果你听了，你就会明白为什么花了这么长时间！这是对这个播客17年、1000集的庆祝。其中包括很多漫无边际、对我兄弟的采访、朋友和家人的问题，以及过去几年来参加过这个播客的各种嘉宾的声音。此外，我女儿的定期打断以及各种其他随机时刻，例如狗的声音、啄木鸟的声音、邻居的声音等等！感谢所有."
+    },
+    {
+      "feedId": 407440,
+      "podcastTitle": "Culips Everyday English",
+      "episodeId": 58863730751,
+      "title": "Bonus Episode #179 – One More Try",
+      "description": "In this bonus episode, Andrew picks up the story he started last time and tells you what happened next. He heads out to the edge of the city on a hot summer evening and gets home much later than he planned. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The Study Materials for This Episode Are Free: The interactive transcript, study guide, and quiz for this episode are free for everyone. No membership needed. Become a Culips member to get study materials for every...",
+      "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B179_Regular.mp3",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "durationSeconds": 1881,
+      "datePublished": 1786481455,
+      "titleZh": "奖励第179集-再试一次",
+      "descZh": "在这一集的奖励中，安德鲁拿起他上次开始的故事，并告诉你接下来发生了什么。他在一个炎热的夏夜前往城市边缘，回家的时间比计划晚了很多。继续听，学习一些词汇，这将有助于使您的英语更加自然并提高您的听力流畅性。本期学习材料免费：本期的互动成绩单、学习指南和测验对每个人都免费。不需要会员资格。成为Cullips会员，获取每个人的学习材料."
+    },
+    {
+      "feedId": 1059605,
+      "podcastTitle": "VOA Learning English",
+      "episodeId": 52294132927,
+      "title": "Learning English Podcast - March 23, 2026",
+      "description": "Learning English uses a limited vocabulary and are read at a slower pace than VOA's other English broadcasts. Previously known as Special English.",
+      "audioUrl": "https://voa-audio-ns.akamaized.net/vle/2026/03/23/20260323-003003-vle122-program_hq.mp3",
+      "imageUrl": "https://gdb.voanews.com/0684e143-ca54-4c31-bbc7-c26e19b2fb70.jpg",
+      "durationSeconds": 1796,
+      "datePublished": 1774225803,
+      "titleZh": "Learning English Podcast -2026年3月23日",
+      "descZh": "《学习英语》使用的词汇量有限，阅读速度也比美国之音的其他英语广播慢。以前称为特殊英语。"
+    },
+    {
+      "feedId": 578799,
+      "podcastTitle": "Coffee Break English",
+      "episodeId": 39630635726,
+      "title": "How to use 'get' in English | The Coffee Break English Show 2.10",
+      "description": "How many meanings of the word ‘get’ do you know? In this final episode of The Coffee Break English Show Season 2, Nick and Anabel will help you build your vocabulary with one of the most versatile words in the English language. You will look at 6 essential meanings of the word ‘get’, with plenty of examples and a quick quiz at the end. ➡️ Click here to access the blog article and worksheet that accompany this episode ⬅️ You can watch the video version of this episode here: 👉 How to use 'get' in English Now watch...",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/coffeebreakenglish/e/6864ebea2afa19dc3dff388f/media.mp3",
+      "imageUrl": "https://assets.pippa.io/shows/611ed01b06c05e6cb7f40e59/1751444086640-fb45b4ea-9493-4bc4-b413-1d4e7a622534.jpeg",
+      "durationSeconds": 606,
+      "datePublished": 1751986800,
+      "titleZh": "如何在英语中使用“get”|咖啡休息英语表演2.10",
+      "descZh": "你知道“get”这个词有多少含义？在《咖啡休息英语秀》第二季的最后一集中，尼克和阿纳贝尔将帮助您使用英语中最多才多艺的单词之一来建立词汇量。您将了解“get”一词的6个基本含义，其中有大量例子，最后还有一个快速测验。➡️ Click here to access the blog article and worksheet that accompany this episode ⬅️ You can watch the video version of this episode here:👉How to use 'get' in English Now watch..."
+    },
+    {
+      "feedId": 743404,
+      "podcastTitle": "The Indicator from Planet Money",
+      "episodeId": 58979433143,
+      "title": "Retiree benefits bump, credit repayment slump, and a dating app in the dumps",
+      "description": "It’s Indicators of the Week! On today’s episode: Retirees get a bump in benefits; credit card debt delinquency at a historically high level; and the dating app Bumble on a serious decline — Men first! IRL events! What will work! Fact checking by Cooper Katz McKim and Vito Emanuel. Your Next Listen — Trying to fix the dating app backlash Connect with The Indicator — Sign up for The Indicator’s weekly newsletter! — Buy the Planet Money book — Find our socials, YouTube and more! — For sponsor-free episodes, subscribe to NPR+ Su...",
+      "audioUrl": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e952eea4-4bd3-453d-b288-d90d4de768dd/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e952eea4-4bd3-453d-b288-d90d4de768dd&feed=IFy3imsg&t=podcast&e=nx-s1-5930683&p=510325&d=553&size=8864166",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F18%2Fb66ed776475bb9d3ed091ec8aa6f%2F3351c905-aa74-480c-b72f-01536bfb3f17.png",
+      "durationSeconds": 553,
+      "datePublished": 1786690800,
+      "titleZh": "退休人员福利增加，信用还款下降，约会应用程序陷入困境",
+      "descZh": "这是本周指标！今天的节目：退休人员的福利大幅增加;信用卡债务拖欠率达到历史最高水平;约会应用程序Bumble严重下降-男性优先！IRL事件！什么会起作用！库珀·卡茨·麦金（Cooper Katz McKim）和维托·伊曼纽尔（Vito Emanuel）进行事实核查。您的下一次收听-尝试解决约会应用程序的强烈反对与The Indicator连接-注册The Indicator的每周时事通讯！- 购买Planet Money书籍-查找我们的社交网站、YouTube等！- 如需免费剧集，请订阅NPR+ Su."
+    },
+    {
+      "feedId": 215799,
+      "podcastTitle": "Hidden Brain",
+      "episodeId": 58811983422,
+      "title": "How Feelings Make Us Smarter",
+      "description": "Some people are remarkably good at reading the emotional temperature of a situation. They can pick up on what others are feeling, manage their own emotions, and respond skillfully. What's their secret? This week, we explore the science of emotional intelligence with psychologist Peter Salovey. Emotional intelligence is one of the most popular ideas in psychology. It's also a term that's widely misused and misunderstood. We explore these misconceptions in a bonus conversation with Peter Salovey for Hidden Brain+ subscribers. If you're not yet a subscriber, you can hear it with a free seven-day trial to Hidden B...",
+      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
+      "imageUrl": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed",
+      "durationSeconds": 2887,
+      "datePublished": 1786388400,
+      "titleZh": "感情如何让我们更聪明",
+      "descZh": "有些人非常善于解读一种情况的情绪温度。他们能够理解别人的感受，管理自己的情绪，并巧妙地做出反应。他们的秘诀是什么？本周，我们将与心理学家彼得·萨洛维（Peter Salovey）一起探讨情商科学。情商是心理学中最受欢迎的概念之一。这也是一个被广泛滥用和误解的术语。我们在与Hidden Brain+订阅者Peter Salovey的额外对话中探讨了这些误解。如果您还不是订阅者，您可以通过7天的免费试用Hidden B."
+    },
+    {
+      "feedId": 197123,
+      "podcastTitle": "Radiolab",
+      "episodeId": 58991669490,
+      "title": "Nigel and the Real Gannet",
+      "description": "In 2016, Chris Bell, a ranger with New Zealand’s Department of Conservation, was the sole human inhabitant of a small island off the west coast of the country, called Mana Island. He was there to take care of the island’s fragile and recovering ecosystem, including a colony of Australasian Gannets at the top of a high cliff overlooking the sea. But there was one catch. All but one of these striking seabirds were fake, made of concrete and paint. This week on Radiolab, producer Annie McEwen tells us a love story about a rogue bird and what...",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/0ccc6b22-d811-4685-bc09-7d2b45e3127d/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=0ccc6b22-d811-4685-bc09-7d2b45e3127d&feed=EmVW7VGp",
+      "imageUrl": "https://image.simplecastcdn.com/images/9178a653-4485-47c1-b772-654e4de92766/82aba620-42b1-48f0-84ec-2ec542b4e9d0/3000x3000/nigelimg_3000x3000centered.jpg?aid=rss_feed",
+      "durationSeconds": 1554,
+      "datePublished": 1786716000,
+      "titleZh": "奈杰尔和真正的塘鹅",
+      "descZh": "2016年，新西兰保护部护林员克里斯·贝尔（Chris Bell）是该国西海岸一个名为马纳岛的小岛上唯一的人类居民。他在那里是为了照顾岛上脆弱且正在恢复的生态系统，包括位于俯瞰大海的高悬崖顶部的澳大利亚山毛榉群落。但有一个问题。这些引人注目的海鸟中，除了一只之外，其余都是假的，由混凝土和油漆制成。本周，制片人安妮·麦克尤恩（Annie McEwen）在Radiolab上向我们讲述了一个关于一只流氓鸟的爱情故事，以及……"
+    },
+    {
+      "feedId": 387129,
+      "podcastTitle": "99% Invisible",
+      "episodeId": 58976739980,
+      "title": "100 Objects #13: The Sand Letters",
+      "description": "This episode is sponsored by Claude. For problems worth solving, get started with Claude at Claude.ai. On his deathbed, President Chester Arthur ordered that all of his personal and professional papers be burned. Three barrels of documents went up in flames. But 23 letters survived, initialed only \"J.I.S.\" Comedian Elliott Kalan joins Roman Mars to tell the story of how a politician who owed so much to a corrupt government system became the one to dismantle it, thanks to one woman: Julia Isabella Sand. It’s the story of how a woman no one had ev...",
+      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
+      "imageUrl": "https://image.simplecastcdn.com/images/96792a27-13c3-40ce-b933-36bdb43a299e/fb6352dd-bd26-4d46-ab85-79a9b4ac282b/3000x3000/23507brandedtile3000x3000_v2a_1.jpg?aid=rss_feed",
+      "durationSeconds": 2920,
+      "datePublished": 1786690800,
+      "titleZh": "100件物品#13：沙子信件",
+      "descZh": "本期节目由克劳德赞助。对于值得解决的问题，请从Claude.ai上的Claude开始。切斯特·亚瑟总统临终前下令烧毁他所有的个人和专业文件。三桶文件被烧毁。但有23封信幸存下来，姓名首字母仅为“JIS“喜剧演员埃利奥特·卡兰（Elliott Kalan）与罗曼·马尔斯（Roman Mars）一起讲述了一位对腐败政府系统负有如此多责任的政治家如何成为废除政府系统的人的故事：朱莉娅·伊莎贝拉·桑德（Julia Isabella Sand）。这是一个关于一个没有人拥有的女人的故事."
+    },
+    {
+      "feedId": 714258,
+      "podcastTitle": "How I Built This",
+      "episodeId": 58998991517,
+      "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+      "description": "Today's callers: Bob in Chicago looks to promote his cabbage-based muscle and joint rub beyond the walls of his orthopedic practice. Then Abby in Dallas wonders whether her popular social media livestreams are a sustainable way to market her trendy phone cases. And Henry in Charlotte wants to turn his mouth rinse for coffee drinkers into a mainstream oral care brand. Plus, Bobbi shares what drove her to found her new company—Jones Road—at the age of 62. Thank you to the founders of Cabbage Labs, AbbyRose, and Tannin Oral Care for being a part of o...",
+      "audioUrl": "https://rss.art19.com/episodes/427590c2-11bc-43fa-9c92-d1eccf05842a.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
+      "durationSeconds": 2901,
+      "datePublished": 1786605000,
+      "titleZh": "Jones Road Beauty的Bobbi Brown的咨询热线（2025年9月）",
+      "descZh": "今天的来电者：芝加哥的鲍勃希望在骨科实践之外推广他的卷心菜肌肉和关节按摩。然后达拉斯的艾比想知道她流行的社交媒体直播是否是营销她时尚手机壳的可持续方式。夏洛特的亨利希望将他为咖啡饮用者提供的口腔清洁剂转变为主流口腔护理品牌。此外，博比还分享了她在62岁时创立新公司琼斯路的动力。感谢Cabbage Labs、AbbyRose和Tannin Oral Care的创始人成为."
+    },
+    {
+      "feedId": 743229,
+      "podcastTitle": "The Daily",
+      "episodeId": 58982330261,
+      "title": "The Secret Spy Network Feeding Russia’s War Machine",
+      "description": "Ukraine is running desperately low on interceptor missiles, leaving its cities and people nearly defenseless against Russian missile and drone attacks. How Russia has been able to sustain those attacks has been a mystery — until now. Today, Jane Bradley, a Britain-based investigative reporter for The New York Times, explains her investigation into the spy network that has allowed the Kremlin to keep this war going. Guest: Jane Bradley, a Britain-based investigative reporter for The New York Times. Background reading: A Russian spy who used the Aeroflot office in Tokyo to smuggle high-tech wea...",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d9ce3fff-e646-4ae4-83a3-1b1aea5e0950/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d9ce3fff-e646-4ae4-83a3-1b1aea5e0950&feed=54nAGcIl",
+      "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/554e5ae2-6ec9-4b67-9382-eebf0b25e321/3000x3000/00thedaily_applespotify_43.jpg?aid=rss_feed",
+      "durationSeconds": 1861,
+      "datePublished": 1786701083,
+      "titleZh": "为俄罗斯战争机器提供食物的秘密间谍网络",
+      "descZh": "乌克兰的拦截导弹数量严重不足，导致其城市和人民几乎无法抵御俄罗斯导弹和无人机的袭击。到目前为止，俄罗斯如何能够维持这些袭击一直是一个谜。今天，《纽约时报》驻英国调查记者简·布拉德利解释了她对间谍网络的调查，该网络使克里姆林宫得以继续这场战争。嘉宾：简·布拉德利，《纽约时报》驻英国调查记者。背景阅读：一名俄罗斯间谍利用俄罗斯航空公司东京办事处走私高科技武器."
+    },
+    {
+      "feedId": 501995,
+      "podcastTitle": "The Anthropocene Reviewed",
+      "episodeId": 3635250507,
+      "title": "Orbital Sunrise",
+      "description": "John Green reviews something he's never seen and never will: an orbital sunrise. This episode marks the end of our summer miniseries. You can buy a copy of The Anthropocene Reviewed book online or at your local bookstore: https://anthropocenereviewedbook.com/ Thank you again for your tremendous support. Episode art by Nadim Silverman. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.c...",
+      "audioUrl": "https://s.gum.fm/s-699605ab25f3a4e1852a6e50/rss.art19.com/episodes/56e92cd4-f015-4e9e-80c3-d2f54446ceec.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://content.production.cdn.art19.com/images/d2/7e/ed/ba/d27eedba-925e-46f5-bb62-9a9d14c3a3ab/1d063c6318c5a6384ba7b7137832181e2a85b9f0da67106604771e21cf1c34d502578e3e4d0f18fcfea01d3ef9fbbddda47b4fdd5553826e3360fca6ea725f89.jpeg",
+      "durationSeconds": 1355,
+      "datePublished": 1629976321,
+      "titleZh": "轨道日出",
+      "descZh": "约翰·格林评论了他从未见过、也永远不会见过的东西：轨道日出。这一集标志着我们夏季迷你剧的结束。您可以在线或在当地书店购买一本《人类世评论》一书：https://anthropocenereviewedbook.com/再次感谢您的大力支持。纳迪姆·西尔弗曼（Nadim Silverman）的剧集艺术。由AdsWizz公司Simplecast主办。有关我们收集和使用个人数据进行广告的信息，请参阅pcm.adswizz.com。请参阅https://art19.com/privacy上的隐私政策和https：//art19.c上的加州隐私声明."
     }
   ]
 }
