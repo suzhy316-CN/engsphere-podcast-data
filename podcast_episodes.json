@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:05:59.363Z",
+  "updatedAt": "2026-08-19T17:00:40.612Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -17,15 +17,15 @@
     {
       "feedId": 980370,
       "podcastTitle": "TED Talks Daily",
-      "episodeId": 59187599669,
-      "title": "How AI is breaking the internet (and what to do about it) | Matthew Prince",
-      "description": "For the past 30 years, surviving as an internet business meant getting people to click on your website. But AI is now making that thousands of times harder, says Matthew Prince, CEO of Cloudflare, one of the world’s largest internet networks. He makes the provocative case for a different deal — whereby tech companies actually pay people for creating content that feeds their AI models. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a84725939e73ea8f3dcaaf8/media.mp3",
+      "episodeId": 59221894775,
+      "title": "How I’m helping thousands rebuild their lives after prison | Susan Burton",
+      "description": "Each year, around two million women are released from prisons and jails in the US, many with nowhere to go. Susan Burton knows this firsthand: after cycling in and out of prison for years, she finally found a safe place to land ... and made it her mission to offer others the same. She shares how she's helping thousands rebuild their lives — and changing the way we think about second chances. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8472eb9cb9faa61ae42fe7/media.mp3",
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
-      "durationSeconds": 945,
-      "datePublished": 1787065200,
-      "titleZh": "人工智能如何打破互联网（以及如何应对）|Matthew Prince",
-      "descZh": "在过去的30年里，作为一家互联网企业生存意味着让人们点击您的网站。但全球最大的互联网网络之一Cloudflare的首席执行官马修·普林斯（Matthew Prince）表示，人工智能现在让这一点变得困难数千倍。他提出了一项不同的交易的挑衅性理由--科技公司实际上向人们支付费用，让他们创建为其人工智能模型提供内容的费用。由Acast主持。更多信息请访问acast.com/privacy。"
+      "durationSeconds": 848,
+      "datePublished": 1787151600,
+      "titleZh": "我如何帮助数千人出狱后重建生活|苏珊·伯顿",
+      "descZh": "每年，美国约有200万妇女从监狱和监狱获释，其中许多人无处可去。苏珊·伯顿（Susan Burton）亲身了解这一点：多年来骑自行车进出监狱，她终于找到了一个安全的着陆地点……并将为其他人提供同样的服务作为她的使命。她分享了她如何帮助数千人重建生活，并改变我们对第二次机会的看法。由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 827592,
