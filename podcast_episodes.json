@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:52:36.001Z",
+  "updatedAt": "2026-08-23T03:30:25.889Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -17,15 +17,15 @@
     {
       "feedId": 980370,
       "podcastTitle": "TED Talks Daily",
-      "episodeId": 59328971191,
-      "title": "Is AI turning us all into the same person? | Sandra Matz",
-      "description": "When you need to make a decision, you might turn to AI for advice. But what happens when you let algorithms decide more and more things for you? Computational social scientist Sandra Matz reveals how AI models limit what you see, discover and try, subtly flattening what makes you unique. Hear her tips for how to use AI to fuel your curiosity and expand your world instead. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871606037681afc7c21aa6/media.mp3",
+      "episodeId": 59370952661,
+      "title": "How to make learning impossibly fun | Mark Rober",
+      "description": "What if science class felt less like studying out of a textbook and more like an unforgettable field trip? From viral glitter-bomb traps to backyard engineering marvels, former-NASA-engineer-turned-YouTuber Mark Rober has spent years proving that curiosity is contagious — and that the best way to teach science is to make it impossibly fun. In conversation with TED's Whitney Pennington Rodgers, Rober shares how play, wonder and a healthy dose of mischief can transform the way kids learn ... and gives a peek inside his plan to bring magic to every classroom in America. (This conversation was part of an exclusive TED Me...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871657c71d02aaba4dc70f/media.mp3",
       "imageUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
-      "durationSeconds": 967,
-      "datePublished": 1787324400,
-      "titleZh": "人工智能会把我们都变成同一个人吗？| 桑德拉·马茨",
-      "descZh": "当你需要做出决定时，你可能会向AI寻求建议。但是，当你让算法为你决定越来越多的事情时，会发生什么呢？计算社会科学家桑德拉·马茨（Sandra Matz）揭示了人工智能模型如何限制你所看到、发现和尝试的东西，巧妙地消除了让你独一无二的东西。听听她如何使用人工智能来激发你的好奇心并扩展你的世界的提示。由Acast主持。更多信息请访问acast.com/privacy。"
+      "durationSeconds": 2604,
+      "datePublished": 1787410800,
+      "titleZh": "如何让学习变得极其有趣|马克·罗伯",
+      "descZh": "如果科学课感觉不像是在课本上学习，而更像是一次难忘的实地考察呢？从病毒式闪光弹陷阱到后院工程奇迹，前NASA工程师出身的YouTuber马克·罗伯（Mark Rober）花了多年时间证明好奇心是会传染的，教授科学的最佳方式就是让它变得不可思议的有趣。在与TED的Whitney Pennington Rodgers的对话中，Rober分享了玩耍，好奇和健康剂量的恶作剧如何改变孩子们学习的方式。让我们一窥他将魔法带到美国每一间教室的计划。(This对话是独家TED Me的一部分."
     },
     {
       "feedId": 827592,
@@ -164,7 +164,7 @@
       "title": "Patient Zero",
       "description": "The greatest mysteries have a shadowy figure at the center—someone who sets things in motion and holds the key to how the story unfolds. In epidemiology, this central character is known as Patient Zero—the case at the heart of an outbreak. This hour, Radiolab digs up an episode we first produced in 2011 and hunts for Patient Zeroes from all over the map. We start with the story of perhaps the most iconic Patient Zero of all time: Typhoid Mary. Then, we dive into a molecular detective story to pinpoint the beginning of the AIDS, and we re-imagine the...",
       "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/f646657e-9e57-49d9-b83e-825f0a3e8ebf/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=f646657e-9e57-49d9-b83e-825f0a3e8ebf&feed=EmVW7VGp",
-      "imageUrl": "https://image.simplecastcdn.com/images/9178a653-4485-47c1-b772-654e4de92766/3e1aed83-d9fe-494d-805c-d5c29be32faa/3000x3000/img_3000x3000centered.jpg?aid=rss_feed",
+      "imageUrl": "https://image.simplecastcdn.com/images/9178a653-4485-47c1-b772-654e4de92766/4d9f1c93-8713-49b0-8dd7-2242e560ee73/3000x3000/img_3000x3000centered.jpg?aid=rss_feed",
       "durationSeconds": 3093,
       "datePublished": 1787320800,
       "titleZh": "零号病人",
