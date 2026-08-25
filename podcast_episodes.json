@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:28:01.355Z",
+  "updatedAt": "2026-08-25T17:20:21.759Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -30,15 +30,15 @@
     {
       "feedId": 827592,
       "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59352961741,
-      "title": "Selects: How Narcolepsy Works",
-      "description": "Narcolepsy is one of those amazing rare disorders that everyone thinks they understand – people just fall asleep at random times, even in the middle of doing something. But there’s a lot more to it and – even better – we actually may be able to explain it. Josh and Chuck run it down in this classic episode. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/436385ef-9ea7-427e-8fe8-b4ac00d8e963/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "episodeId": 59492720404,
+      "title": "The Fall of the USSR, Pt I",
+      "description": "It’s rare that the downfall of an empire can be chalked up to the decisions of just one person. It’s even rarer, when the empire falls over the course of a year. That’s pretty much what happened with the Soviet Union when Mikhail Gorbachev dissolved it. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7a18c2b-f347-4149-bc96-b4ad011e5186/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
       "imageUrl": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
-      "durationSeconds": 3162,
-      "datePublished": 1787389200,
-      "titleZh": "警告：嗜睡症是如何起作用的",
-      "descZh": "嗜睡症是令人惊叹的罕见疾病之一，每个人都认为自己理解--人们只是在随机的时间睡着，即使是在做某事的过程中。但事情还有很多，甚至更好的是，我们实际上可能能够解释它。乔什和查克在这一经典剧集中详细说明了这一点。请访问omnystudio.com/listener了解隐私信息。"
+      "durationSeconds": 2482,
+      "datePublished": 1787648400,
+      "titleZh": "苏联的垮台，第一章",
+      "descZh": "一个帝国的垮台很少能归咎于一个人的决定。当帝国在一年内崩溃时，这种情况就更加罕见了。米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）解散苏联时几乎就是这样。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 311840,
@@ -56,15 +56,15 @@
     {
       "feedId": 1437072,
       "podcastTitle": "The English We Speak",
-      "episodeId": 59163058796,
-      "title": "The English We Speak: Say less",
-      "description": "This modern expression is a way of responding enthusiastically to a suggestion. It means something similar to ‘say no more’. Learn when and how to use it with Georgie and Feifei. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260817 For more great language tips and programmes visit bbclearningenglish.com We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
-      "audioUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p52zh1.mp3?p=rss",
-      "imageUrl": "https://cdn.iono.fm/files/p4/logo_1708228_20260818_114850_1400.jpeg",
-      "durationSeconds": 156,
-      "datePublished": 1787043660,
-      "titleZh": "我们所说的英语：少说",
-      "descZh": "这种现代表达是对建议热情回应的一种方式。它的意思类似于“别再说了”。了解何时以及如何与乔吉和菲菲一起使用它。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260817有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
+      "episodeId": 59488969151,
+      "title": "The English We Speak: No notes",
+      "description": "Notes here is about negative feedback, so ‘no notes’ means that something is perfect. Use it when you have nothing negative to say. Learn about this expression and how to use it with Feifei and Georgie. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824 We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
+      "audioUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p65cdp.mp3?p=rss",
+      "imageUrl": "https://cdn.iono.fm/files/p4/logo_1710721_20260825_120105_1400.jpeg",
+      "durationSeconds": 174,
+      "datePublished": 1787649180,
+      "titleZh": "我们所说的英语：没有笔记",
+      "descZh": "这里的注释是关于负面反馈的，所以“没有注释”意味着某事是完美的。当你没有什么负面的话要说时使用它。了解这个表达以及如何将它与菲菲和乔治一起使用。一如既往，请在此处找到免费的文字记录：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
     },
     {
       "feedId": 956179,
