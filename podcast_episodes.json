@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T16:06:49.894Z",
+  "updatedAt": "2026-08-29T20:06:09.903Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -191,7 +191,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -205,7 +205,7 @@
       "title": "Bonus Episode #179 – One More Try",
       "description": "In this bonus episode, Andrew picks up the story he started last time and tells you what happened next. He heads out to the edge of the city on a hot summer evening and gets home much later than he planned. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The Study Materials for This Episode Are Free: The interactive transcript, study guide, and quiz for this episode are free for everyone. No membership needed. Become a Culips member to get study materials for every...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B179_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1881,
       "datePublished": 1786481455,
       "titleZh": "奖励第179集-再试一次",
@@ -684,7 +684,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/103f4b00722b470b.jpg",
       "durationSeconds": 3164,
       "datePublished": 1787216400,
-      "titleZh": null,
+      "titleZh": "汉克·格林：关于算法，没有人告诉你什么",
       "descZh": "汉克·格林是互联网上最受欢迎的科学创造者之一。他制作视频已有近20年的历史，跨越了互联网的很多时代，从YouTube恶作剧视频到TikTok舞蹈挑战，再到人工智能垃圾。在这一集中，温迪和汉克坐下来谈论这段狂野的旅程。他们回忆起他成为YouTube明星的道路，并揭开社交媒体算法的帷幕--它们是如何改变的，以及它们吸引我们的狡猾方式。虽然汉克一直在公开打击互联网巨魔，他也一直在处理他的o..."
     },
     {
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 59679764648,
+      "title": "The art of the novel | Ann Patchett",
+      "description": "Ann Patchett’s newest book “Whistler” is a love story born from grief. In this TED Talks Daily Book Club interview, Patchett tells host Elise Hu about her writing process for the novel, where she finds inspiration and her unlikely second life as a bookstore owner. (This conversation was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.) Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4df46634e0e9bac690e1/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 3322,
+      "datePublished": 1788015600,
+      "titleZh": "小说艺术|安·帕契特",
+      "descZh": "安·帕切特的新书《惠斯勒》是一个源于悲伤的爱情故事。在TED Talks每日读书俱乐部的采访中，帕切特向主持人Elise Hu讲述了她创作这部小说的过程，在那里她找到了灵感，以及她作为书店老板不太可能的第二次生活。(This对话是独家TED会员活动的一部分。TED会员资格是支持和参与您喜爱的TED大创意的最佳方式。要了解更多信息，请访问ted.com/membership。）由Acast主持。更多信息请访问acast.com/privacy。"
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 59638423303,
       "title": "Who controls your city's money? | Trinity Tran",
       "description": "What if your city could borrow money from its own bank instead of private lenders? TED Fellow Trinity Tran is leading the push for public banks — which are owned by the people through their local governments — and shows how this model could ensure your local tax dollars stay in your community. (Following the talk, Lily James Olds, director of the TED Fellows program, interviews Tran on how a public bank works and why it’s an ideal solution to reinvesting funds into local communities.) Hosted on Acast. See acast.com/privacy for mor...",
@@ -1582,20 +1596,6 @@
       "datePublished": 1787842800,
       "titleZh": "手风琴变形的声音|玛丽亚·泰舍娃",
       "descZh": "音乐家玛丽亚·泰舍娃（Maria Telesheva）演奏手风琴就像演奏第二副肺一样，展示了这款强大的乐器及其令人印象深刻的226个按钮--无论她演奏的是巴赫还是披头士乐队。在这次演讲和表演中，她讨论了她如何爱上这位音乐杂技演员并演奏了两首美妙的歌曲。由Acast主持。更多信息请访问acast.com/privacy。"
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 59546639969,
-      "title": "Dolly Parton is burning up, not burning out | from WorkLife with Adam Grant",
-      "description": "Dolly Parton's hit songs — like \"9 to 5,\" \"Jolene\" and \"I Will Always Love You\" — have captured generation after generation. In this episode, recorded around the release of \"Run, Rose, Run\" (her novel co-written with James Patterson and paired with a full-length companion album), host Adam Grant talks with Dolly about her creative process, how she balances getting things right with getting things done and how she manages the hefty cup of ambition she pours herself each morning. (This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8df3a283ae7b3466ca914b/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 1713,
-      "datePublished": 1787756400,
-      "titleZh": "多莉·帕顿是在燃烧，而不是在燃烧|作者：WorkLife with Adam Grant",
-      "descZh": "多莉·帕顿（Dolly Parton）的热门歌曲--如《9 to 5》、《Jolene》和《I Will Always Love You》--俘获了一代又一代人的心。在这一集中，围绕《Run，Rose，Run》（她与James Patterson合写的小说，并搭配了一张完整的配套专辑）的发行录制，主持人Adam Grant与Dolly谈论了她的创作过程，她如何平衡把事情做好和把事情做好，以及她如何管理她每天早上倾注的巨大野心。(This剧集最初于2022年播出。）由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 388141,
