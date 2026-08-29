@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:59:15.559Z",
+  "updatedAt": "2026-08-29T00:06:19.026Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -509,6 +509,20 @@
       "feedId": 197123,
       "category": "science",
       "podcastTitle": "Radiolab",
+      "episodeId": 59643711845,
+      "title": "Dolly Parton's America: Sad Ass Songs",
+      "description": "The world lost a legend recently, and we wanted in some small way to pay tribute to the great Dolly Parton. So we’re playing you an episode from a series we had a small part in back in 2017, Dolly Parton’s America. The series kicked off with a simple question: How did the queen of the boob joke become a feminist icon? Helen Morales, author of “Pilgrimage to Dollywood,” gave us a stern directive – look at the lyrics! So we dive into Dolly’s discography, starting with the early period of what Dolly calls “sad ass songs” to find...",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/3d739fac-22c2-44fa-b2d6-054c8db3cfb7/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=3d739fac-22c2-44fa-b2d6-054c8db3cfb7&feed=EmVW7VGp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/69681b4986aaf623.jpg",
+      "durationSeconds": 3891,
+      "datePublished": 1787925600,
+      "titleZh": "多莉·帕顿的美国：悲伤的屁股之歌",
+      "descZh": "世界最近失去了一位传奇人物，我们想以某种小小的方式向伟大的多莉·帕顿致敬。我们正在为您播放2017年我们曾出演过一个小角色的剧集《多莉·帕顿的美国》中的一集。该剧以一个简单的问题拉开帷幕：胸部笑话女王是如何成为女权主义偶像的？《多莉坞朝圣》的作者海伦·莫拉莱斯给了我们一个严厉的指示--看看歌词！因此，我们深入研究多莉的唱片集，从多莉所说的“悲伤的屁股歌曲”的早期开始寻找."
+    },
+    {
+      "feedId": 197123,
+      "category": "science",
+      "podcastTitle": "Radiolab",
       "episodeId": 59312470484,
       "title": "Patient Zero",
       "description": "The greatest mysteries have a shadowy figure at the center—someone who sets things in motion and holds the key to how the story unfolds. In epidemiology, this central character is known as Patient Zero—the case at the heart of an outbreak. This hour, Radiolab digs up an episode we first produced in 2011 and hunts for Patient Zeroes from all over the map. We start with the story of perhaps the most iconic Patient Zero of all time: Typhoid Mary. Then, we dive into a molecular detective story to pinpoint the beginning of the AIDS, and we re-imagine the...",
@@ -532,20 +546,6 @@
       "datePublished": 1786716000,
       "titleZh": "奈杰尔和真正的塘鹅",
       "descZh": "2016年，新西兰保护部护林员克里斯·贝尔（Chris Bell）是该国西海岸一个名为马纳岛的小岛上唯一的人类居民。他在那里是为了照顾岛上脆弱且正在恢复的生态系统，包括位于俯瞰大海的高悬崖顶部的澳大利亚山毛榉群落。但有一个问题。这些引人注目的海鸟中，除了一只之外，其余都是假的，由混凝土和油漆制成。本周，制片人安妮·麦克尤恩（Annie McEwen）在Radiolab上向我们讲述了一个关于一只流氓鸟的爱情故事，以及……"
-    },
-    {
-      "feedId": 197123,
-      "category": "science",
-      "podcastTitle": "Radiolab",
-      "episodeId": 58680086814,
-      "title": "Red Herring",
-      "description": "It was the early '80s, the height of the Cold War, when something strange began happening off the coast of Sweden. The navy reported a mysterious sound deep below the surface of the ocean. Again, and again, and again they would hear it near their secret military bases, in their harbors, and up and down the Swedish coastline. After thorough analysis the navy was certain. The sound was an invasion into their waters, an act of war, the opening salvos of a possible nuclear annihilation. Or was it? Today, Annie McEwen pulls us down into a deep-sea mystery...",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/ccf08317-1655-47d2-9cfa-f0e375a466fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=ccf08317-1655-47d2-9cfa-f0e375a466fb&feed=EmVW7VGp",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/9a77824bbfe0f6b6.jpg",
-      "durationSeconds": 2164,
-      "datePublished": 1786111200,
-      "titleZh": "红鲱鱼",
-      "descZh": "那是80年代初，冷战的高峰期，瑞典海岸开始发生一些奇怪的事情。海军报告称，海面深处传来神秘的声音。他们一次又一次地在秘密军事基地附近、港口以及瑞典海岸线上听到声音。经过彻底分析，海军确定了这一点。这声音是对他们水域的入侵，是一种战争行为，是可能核毁灭的开场炮。或者是吗？今天，安妮·麦克尤恩将我们带入深海之谜……"
     },
     {
       "feedId": 827592,
