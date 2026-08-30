@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:06:14.148Z",
+  "updatedAt": "2026-08-30T08:06:20.449Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 59697911357,
+      "title": "Sunday Pick: How to quit (and why it matters) with Anthony Klotz | from Fixable",
+      "description": "During the pandemic, Anthony Klotz predicted the “Great Resignation”: a mass exodus of unhappy workers leaving their jobs after COVID epiphanies. Now, he’s seeing a different pattern begin to emerge as people opt to hunker down in their current jobs until they can find a better option. Anthony is an organizational psychologist and professor at the London School of Management. His recent book, Jolted: Why We Quit, When to Stay, and Why It Matters, explores how we make decisions in our jobs and careers. In this episode, he joins Anne and Frances to weigh in on the patterns develo...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4e680c15e359f99673e7/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 2785,
+      "datePublished": 1788069600,
+      "titleZh": "周日精选：如何与安东尼·克洛茨一起退出（以及为什么这很重要）|来自Fixable",
+      "descZh": "在疫情期间，安东尼·克洛茨预测了“大撤退”：在新冠顿悟后，不快乐的工人大规模离开工作岗位。现在，他看到一种不同的模式开始出现，因为人们选择继续从事目前的工作，直到找到更好的选择。安东尼是伦敦管理学院的组织心理学家和教授。他的新书《Jolted：为什么我们辞职、何时留下来以及为什么重要》探讨了我们如何在工作和职业中做出决定。在这一集，他加入安妮和弗朗西斯权衡的模式发展。"
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 59679764648,
       "title": "The art of the novel | Ann Patchett",
       "description": "Ann Patchett’s newest book “Whistler” is a love story born from grief. In this TED Talks Daily Book Club interview, Patchett tells host Elise Hu about her writing process for the novel, where she finds inspiration and her unlikely second life as a bookstore owner. (This conversation was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.) Hosted on Acast. See acast.com/privacy for more information.",
@@ -1582,20 +1596,6 @@
       "datePublished": 1787929200,
       "titleZh": "谁控制着您城市的资金？| Trinity Tran",
       "descZh": "如果您的城市可以从自己的银行而不是私人贷方借钱怎么办？TED研究员Trinity Tran正在领导公共银行的推动--这些银行由人民通过地方政府拥有--并展示了这种模式如何确保您的地方税款留在您的社区。（演讲结束后，TED Fellows项目主任莉莉·詹姆斯·奥尔兹（Lily James Olds）采访了Tran，了解公共银行的运作方式以及为什么它是将资金再投资到当地社区的理想解决方案。）由Acast主持。请参阅acast.com/privacy了解更多."
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 59590813190,
-      "title": "The shape-shifting sounds of the accordion | Maria Telesheva",
-      "description": "Musician Maria Telesheva plays the accordion like a second set of lungs, showcasing this powerhouse instrument and its impressive 226 buttons — whether she’s playing Bach or the Beatles. In this talk and performance, she discusses how she fell in love with this musical acrobat and plays two beautiful songs. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8db8203e4ed0e7c21d42b5/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 802,
-      "datePublished": 1787842800,
-      "titleZh": "手风琴变形的声音|玛丽亚·泰舍娃",
-      "descZh": "音乐家玛丽亚·泰舍娃（Maria Telesheva）演奏手风琴就像演奏第二副肺一样，展示了这款强大的乐器及其令人印象深刻的226个按钮--无论她演奏的是巴赫还是披头士乐队。在这次演讲和表演中，她讨论了她如何爱上这位音乐杂技演员并演奏了两首美妙的歌曲。由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 388141,
