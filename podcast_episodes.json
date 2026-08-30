@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:06:46.292Z",
+  "updatedAt": "2026-08-30T20:06:05.622Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -191,7 +191,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -205,7 +205,7 @@
       "title": "Bonus Episode #179 – One More Try",
       "description": "In this bonus episode, Andrew picks up the story he started last time and tells you what happened next. He heads out to the edge of the city on a hot summer evening and gets home much later than he planned. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The Study Materials for This Episode Are Free: The interactive transcript, study guide, and quiz for this episode are free for everyone. No membership needed. Become a Culips member to get study materials for every...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B179_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1881,
       "datePublished": 1786481455,
       "titleZh": "奖励第179集-再试一次",
@@ -677,6 +677,20 @@
       "feedId": 656979,
       "category": "science",
       "podcastTitle": "Science Vs",
+      "episodeId": 59715752369,
+      "title": "Sunscreen: Could It Be Toxic??",
+      "description": "Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, what can the science tell us here? Should we toss our SPF-filled creams and sprays in the bin?? And could the answer here be different depending on your skin tone? We talk to researchers Dr. Brandon Adler, Prof. Rachel...",
+      "audioUrl": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9864857559.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/150de8f2d033b71c.jpg",
+      "durationSeconds": 3052,
+      "datePublished": 1787821200,
+      "titleZh": "防晒霜：会有毒吗？",
+      "descZh": "防晒霜本应保护我们免受癌症等危险物质的侵害，但在社交媒体上，人们都说我们搞错了。我们被告知，我们的防晒霜充满了有毒化学物质，涂抹它可能会扰乱我们的维生素D水平--即使防晒霜本身实际上会增加我们患皮肤癌的风险。那么，科学能告诉我们什么呢？我们应该把SPF填充的面霜和喷雾剂扔进垃圾箱吗？这里的答案是否会根据您的肤色而有所不同？我们采访了研究人员布兰登·阿德勒博士、雷切尔教授.."
+    },
+    {
+      "feedId": 656979,
+      "category": "science",
+      "podcastTitle": "Science Vs",
       "episodeId": 59275945327,
       "title": "Hank Green: What No One Tells You About the Algorithm",
       "description": "Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, and they’ll pull back the curtain on social media algorithms — how they’ve changed, and the sneaky ways they draw us in. And while Hank has been publicly fighting off internet trolls, he’s also been dealing with his o...",
@@ -700,20 +714,6 @@
       "datePublished": 1786628220,
       "titleZh": "我们解决了49人病毒阴谋论",
       "descZh": "变电站是否导致旧金山49人队受伤？互联网上的很多人似乎都这么认为，声称电磁场波可能是玩家受伤的罪魁祸首。我们与Pablo Torre Finds Out的普利策奖获奖记者合作，查明真相。我们采访了Peter Cowan、Ken Karipouti博士和Zachary Binney博士。在这里找到我们的成绩单：https://tinyurl.com/SVPTFO49ERSEMF观看并订阅巴勃罗·托雷发现在这里：https://www.youtube.com."
-    },
-    {
-      "feedId": 656979,
-      "category": "science",
-      "podcastTitle": "Science Vs",
-      "episodeId": 58622837160,
-      "title": "Weight Loss: Why Won't It Stick?",
-      "description": "If you have ever tried to lose weight only to find the weight crept back on, you’re not alone. In fact, for tons of people, this happens over and over again. This is called “weight cycling,” and a bunch of influencers are saying that this is terrible for us. They say that it can ruin your metabolism forever and that it can lead to stuff like diabetes and scary muscle loss. So could that be true?? And why does this happen at all? We find out with nutritionist Prof. Faidon Magkos, immunologist Prof. Alyssa Hasty, and health policy resear...",
-      "audioUrl": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT1082820867.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/150de8f2d033b71c.jpg",
-      "durationSeconds": 2379,
-      "datePublished": 1786006800,
-      "titleZh": "减肥：为什么不坚持？",
-      "descZh": "如果您曾经尝试减肥，却发现体重又回来了，那么您并不孤单。事实上，对于很多人来说，这种情况一遍又一遍地发生。这被称为“体重循环”，一群有影响力的人说这对我们来说很糟糕。他们说它会永远破坏你的新陈代谢，并可能导致糖尿病和可怕的肌肉损失等疾病。那么这可能是真的吗？为什么会发生这种情况？我们与营养学家Faidon Magkos教授、免疫学家Alyssa Hasty教授以及健康政策研究一起找出答案."
     },
     {
       "feedId": 52651,
@@ -1265,6 +1265,20 @@
       "feedId": 482244,
       "category": "stories",
       "podcastTitle": "Selected Shorts",
+      "episodeId": 59712506473,
+      "title": "Tim Curry Performs \"Ziggurat\" by Stephen O'Connor",
+      "description": "British actor Tim Curry died on August 26th at the age of 80. Celebrated for his infamous portrayal of Frank-N-Furter in the musical The Rocky Horror Picture Show, his decades-long career included many other roles on stage and screen. Among them, Mozart in Amadeus; King Arthur in the Monty Python musical Spamalot; and the evil clown, Pennywise, in a television adaptation of Stephen King’s It. In a generous obituary, the BBC shared tributes from many friends and admirers in the arts. One was from comedienne Carol Burnett, who wrote on social media that \"nobody could play lovable villains bette...",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3/episodes/61e14a58-6739-45d9-92a0-7435f7aff52f/audio/128/default.mp3?aid=rss_feed&awCollectionId=75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3&awEpisodeId=61e14a58-6739-45d9-92a0-7435f7aff52f&feed=ZoGIhfvz",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/83d8cf6a5bd75d13.jpg",
+      "durationSeconds": 2781,
+      "datePublished": 1788105600,
+      "titleZh": "蒂姆·库里（Tim Curry）表演斯蒂芬·奥康纳（Stephen O ' Connor）的《Ziggurat》",
+      "descZh": "英国演员Tim Curry于8月26日去世，享年80岁。他因在音乐剧《洛基恐怖秀》中对弗兰克·N·富特的臭名昭著的描绘而闻名，他长达数十年的职业生涯包括舞台和银幕上的许多其他角色。其中，莫扎特在《阿玛迪斯》中;亚瑟王在《巨蟒》音乐剧《斯皮洛特》中;邪恶的小丑潘尼怀斯在斯蒂芬·金的《It》电视剧中。在一份慷慨的讣告中，英国广播公司分享了许多艺术界朋友和崇拜者的敬意。其中一位来自喜剧演员卡罗尔·伯内特，她在社交媒体上写道：“没有人能扮演可爱的恶棍。"
+    },
+    {
+      "feedId": 482244,
+      "category": "stories",
+      "podcastTitle": "Selected Shorts",
       "episodeId": 59583364463,
       "title": "Building Worlds, with N.K. Jemisin",
       "description": "Host Meg Wolitzer presents three works of speculative fiction curated by best-selling author N.K. Jemisin. In John Scalzi’s “When the Yogurt Took Over” a popular breakfast staple decides it’s good for everyone. The reader in Jin Ha. Chatbots and A.I. can be helpful—but sometimes too helpful--as we hear in Alexandra Chang’s “Me and My Algo,” read by Catherine Cohen. And Jemisin herself reworks a classic by Ursula K. Le Guin in “The Ones Who Stay and Fight,” read by Teagle F. Bougere. Some of Jemisin’s on stage comments are included in this show Hosted by...",
@@ -1288,20 +1302,6 @@
       "datePublished": 1787245200,
       "titleZh": "使用Radiolab在空中",
       "descZh": "精选短裤主持人Meg Wolitzer在我们与WNYC的Radiolab以及主持人Lulu Miller和Latif Nasser的现场晚会中朗读了四部作品。主题是飞行，具有许多富有想象力的表现。兰达·贾拉尔（Randa Jarrar）的《疯子的日食》是一个关于浪漫和星际旅行的神话般的故事，由阿布巴克尔·阿里（Abubakr Ali）朗读。我们的第二个故事是米兰达·七月的《罗伊·斯皮维》，是对名人文化的狡猾而温和的探索。它的作者是莫莉·伯纳德。唐·谢伊（Don Shea）的《Jumper Down》展现了救援人员的脆弱性和韧性。它的作者是贝卡·布莱克威尔。我们最后的."
-    },
-    {
-      "feedId": 482244,
-      "category": "stories",
-      "podcastTitle": "Selected Shorts",
-      "episodeId": 58949933441,
-      "title": "Seeing is Believing",
-      "description": "Host Meg Wolitzer presents two stories about perception and the relationship between what we see and what we believe. In “Heart of a Champion,” T.C. Boyle gives the children’s classic Lassie an affectionately humorous reboot. The reader is Kirsten Vangsness. In Jamel Brinkley’s “The Let-Out,” an unofficial street party provides a young man with an intriguing encounter, and a bit of family history.The reader is Ato Blankson-Wood. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3/episodes/5d99dea5-effc-4015-8ffa-c1a532122263/audio/128/default.mp3?aid=rss_feed&awCollectionId=75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3&awEpisodeId=5d99dea5-effc-4015-8ffa-c1a532122263&feed=ZoGIhfvz",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/83d8cf6a5bd75d13.jpg",
-      "durationSeconds": 3471,
-      "datePublished": 1786640400,
-      "titleZh": "眼见为实",
-      "descZh": "主持人梅格·沃利策（Meg Wolitzer）讲述了两个关于感知以及我们所见与我们所相信之间关系的故事。在《冠军之心》中，TC博伊尔为儿童经典作品《莱西》重新演绎了一部充满深情幽默的电影。读者是克尔斯滕·范斯内斯（Kirsten Vangsness）。在贾梅尔·布林克利的《放走》中，一场非官方的街头派对为一个年轻人提供了一次有趣的邂逅和一点家族历史。读者是阿托·布兰克森-伍德。由AdsWizz公司Simplecast主办。有关我们收集和使用个人数据进行广告的信息，请参阅pcm.adswizz.com。"
     },
     {
       "feedId": 956263,
