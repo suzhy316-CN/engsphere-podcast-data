@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T08:06:42.575Z",
+  "updatedAt": "2026-08-31T12:06:36.577Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -719,6 +719,20 @@
       "feedId": 52651,
       "category": "science",
       "podcastTitle": "Something You Should Know",
+      "episodeId": 59744937017,
+      "title": "How to Get Better Healthcare & The Strange Ways Weather Affects You",
+      "description": "Ever notice that the trip home often seems shorter than the trip there—even when the distance and travel time are exactly the same? It happens so often that researchers have given it a name: the “return trip effect.” And the explanation reveals something fascinating about how your brain experiences time. https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583 You’re told to “take charge of your healthcare.” But how exactly are you supposed to do that when the doctor is the expert, appointments are short, and navigating the healthcare system can be frustrating and confusing? It turns out th...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP5907979832.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
+      "durationSeconds": 3048,
+      "datePublished": 1788159780,
+      "titleZh": "如何获得更好的医疗保健以及天气影响您的奇怪方式",
+      "descZh": "有没有注意到，回家的旅程似乎往往比那里的旅程要短--即使距离和旅行时间完全相同？这种情况经常发生，研究人员给它起了一个名字：“回程效应”。这个解释揭示了大脑如何体验时间的一些有趣的东西。https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583您被告知要“负责您的医疗保健”。但是，当医生是专家、预约时间很短、在医疗保健系统中导航可能会令人沮丧和困惑时，你到底应该如何做到这一点呢？事实证明."
+    },
+    {
+      "feedId": 52651,
+      "category": "science",
+      "podcastTitle": "Something You Should Know",
       "episodeId": 59668971477,
       "title": "How Music Can Actually Heal You & The Skills Technology Is Stealing",
       "description": "You probably know that light, noise, temperature and stress can all interfere with your sleep. But what about the moon? Strange as it sounds, some research suggests people really do sleep differently around the time of a full moon — even when they aren’t outside looking at it. So what could possibly explain that? Listen as I reveal what researchers have discovered. https://www.self.com/story/full-moon-sleep Most of us know instinctively that music can change how we feel. The right song can calm you down, lift your mood or bring back a memory in an inst...",
@@ -742,20 +756,6 @@
       "datePublished": 1787814180,
       "titleZh": "为什么你真的应该与陌生人交谈以及什么实际上会终结世界",
       "descZh": "如果你有一个真正想实现的目标，那么何时开始可能比你想象的更重要。一月一日引起了所有的关注，但还有其他日期和场合可以给你带来令人惊讶的强大动力。https://behavioralscientist.org/new-years-resolutions-failed-be-prepared-to-leverage-other-fresh-starts您多久会与不太了解的人进行一次对话？可能不会像你一样频繁。通常，看手机、避免目光接触并保持自我接触会更容易。然而，你与收银员、邻居、同事或."
-    },
-    {
-      "feedId": 52651,
-      "category": "science",
-      "podcastTitle": "Something You Should Know",
-      "episodeId": 59490458554,
-      "title": "SYSK TRENDING - How to Improve Your Focus",
-      "description": "It seems like paying attention should be easy. Yet for many of us, it has become one of the hardest things to do. We start reading an article and suddenly we're checking email. We pick up our phone to do one thing and, twenty minutes later, we've forgotten why we picked it up in the first place. We often blame ourselves for lacking discipline, but what if that's only part of the story? Is our ability to focus actually being stolen—and if so, by whom? Journalist and bestselling author Johann Hari set out to answer those qu...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP2641016998.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
-      "durationSeconds": 1444,
-      "datePublished": 1787641380,
-      "titleZh": "SYSK趋势-如何提高你的注意力",
-      "descZh": "看来关注应该很容易。然而，对于我们许多人来说，这已成为最难做的事情之一。我们开始阅读一篇文章，突然我们开始检查电子邮件。我们拿起手机去做一件事，二十分钟后，我们忘记了当初为什么拿起它。我们经常责怪自己缺乏纪律，但如果这只是故事的一部分怎么办？我们集中注意力的能力真的被窃取了吗？如果是的话，是谁？记者兼畅销书作家约翰·哈里（Johann Hari）着手回答这些问题."
     },
     {
       "feedId": 215799,
@@ -1433,6 +1433,20 @@
       "feedId": 1365765,
       "category": "history",
       "podcastTitle": "The Rest Is History",
+      "episodeId": 59743033258,
+      "title": "Roman Civil War: Rise of the General (Part 1)",
+      "description": "Who was Gaius Marius, one of the two men who would shape the fate of Rome in the first century BC? Why was his road to fame, fortune, and political greatness, from total obscurity, so dangerous? And, would Marius be the man to face down the existential threat facing the empire during this period? Join Tom and Dominic as they launch into one of the greatest struggles in the history of Rome, as two titanic generals and politicians clash over hegemony of the empire, in an age of tumult. *Th...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT1262857909.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b5a01e54ed443f8a.jpg",
+      "durationSeconds": 4433,
+      "datePublished": 1788131100,
+      "titleZh": "罗马内战：将军的崛起（上）",
+      "descZh": "盖乌斯·马吕斯是谁，他是公元前一世纪决定罗马命运的两个人之一？为什么他从完全默默无闻走向名声、财富和政治伟大的道路如此危险？而且，马吕斯会是应对这一时期帝国面临的生存威胁的人吗？与汤姆和多米尼克一起展开罗马历史上最伟大的斗争之一，在一个动荡的时代，两位巨人般的将军和政客争夺帝国霸权。* 这个."
+    },
+    {
+      "feedId": 1365765,
+      "category": "history",
+      "podcastTitle": "The Rest Is History",
       "episodeId": 59550272860,
       "title": "The Troubles: Bloody Sunday (Part 4)",
       "description": "How did Bloody Sunday erupt on the 30th of January 1972? Why did it follow on the heels of terrible violence? And, what were the consequences of that violent day? Join Tom and Dominic as they discuss the tragic events of Bloody Sunday, and the final attempt at peace in Northern Ireland. *The Rest Is History LIVE: The Ultimate Victorian Adventure* The maddest expedition in history and it’s NEVER been heard before on the show: join Tom Holland & Dominic Sandbrook LIVE at the Southbank as they tell the...",
@@ -1458,18 +1472,18 @@
       "descZh": "什么是临时爱尔兰共和军？为什么他们在北爱尔兰麻烦的最高点重返战斗？包括肖特斯特兰德战役在内的一系列血腥战斗如何残酷加剧了英国军队和天主教社区之间的紧张关系？而且，冲突是如何升级为对平民的袭击的.？与多米尼克和汤姆一起讨论麻烦的暴力升级。* 其余的就是历史直播：维多利亚时代的终极冒险 * 历史上最疯狂的探险，它是NEV."
     },
     {
-      "feedId": 1365765,
+      "feedId": 437685,
       "category": "history",
-      "podcastTitle": "The Rest Is History",
-      "episodeId": 59275834934,
-      "title": "The Troubles: The Brink of Civil War (Part 2)",
-      "description": "Why did the violence of the Troubles escalate as it did in Ulster? How did a series of marches from Belfast to Derry in 1969 result in terrible violence, and heighten the conflict? And, which terrible events saw the British army cross the border to intervene? Join Dominic and Tom as they discuss the next tumultuous stage of The Troubles in Northern Ireland. *The Rest Is History LIVE: The Ultimate Victorian Adventure* The maddest expedition in history and it’s NEVER been heard before on the show: join Tom...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT2308408988.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b5a01e54ed443f8a.jpg",
-      "durationSeconds": 4930,
-      "datePublished": 1787180700,
-      "titleZh": "麻烦：内战的边缘（第二部分）",
-      "descZh": "为什么麻烦的暴力会像阿尔斯特那样升级？1969年从贝尔法斯特到德里的一系列游行如何导致可怕的暴力并加剧冲突？而且，哪些可怕事件导致英国军队越境进行干预？与多米尼克和汤姆一起讨论北爱尔兰麻烦的下一个动荡阶段。* 其余的都是历史直播：维多利亚时代的终极冒险 * 历史上最疯狂的探险，而且以前在节目中从未听说过：加入汤姆."
+      "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 59742808206,
+      "title": "Low Background Steel",
+      "description": "At 11:29:21 GMT on July 16, 1945, the world's first atomic bomb was detonated at the Trinity Test Site in New Mexico. Fast-forward many decades, and today people are illegally stealing pieces of old, sunken ships for big bucks. These two things might not seem like they have anything in common, but they are actually intimately linked. Learn more about low-background steel, what it is and why there is demand for it, on this episode of Everything Everywhere Daily. Shop the store at Shop.Everything-Everywhere.com Sp...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS7499367098.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b2a89e99136cfcf7.jpg",
+      "durationSeconds": 932,
+      "datePublished": 1788166800,
+      "titleZh": "低背景钢",
+      "descZh": "1945年7月16日格林尼治标准时间11：29：21，世界上第一枚原子弹在新墨西哥州三一试验场引爆。快进几十年，今天人们正在非法盗窃旧沉船的残骸，赚取巨额利润。这两件事可能看起来没有任何共同点，但实际上它们是密切相关的。请在本期《Everything Everywhere Daily》节目中了解有关低背景钢铁的更多信息、它是什么以及为什么对它有需求。在Shop.Everything-Everywhere.com Sp..上购物。"
     },
     {
       "feedId": 437685,
@@ -1498,20 +1512,6 @@
       "datePublished": 1787994000,
       "titleZh": "儒学",
       "descZh": "周朝衰落期间，战争和家族暴力升级，威胁着文明的稳定，点燃了春秋时期。从混乱中出现了一位多产的流动教师，他提供了一条远离流血和政治毁灭教义的道路，这条道路将中华文化维持了2，500多年。他的名字叫孔子。请在《Everything Everywhere Daily》的本期节目中了解更多有关儒家哲学持久力量的信息。在Shop.Everything-Everywhere.com上购物赞助商Hexlad获取."
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 59615376928,
-      "title": "The Life of Helen Keller",
-      "description": "As a young child, she lost both her sight and hearing and seemed cut off from the world around her. Then, with the help of an extraordinary teacher, she learned to communicate and went on to become an author, lecturer, and one of the most famous women of the 20th century. Her story became a symbol of perseverance, but the life she lived afterward was far more complex than most people realize. Learn more about the remarkable life of Helen Keller on this episode of Everything Everywhere Daily. Shop the s...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS2566269021.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/337a9b6bdc8dd146.jpg",
-      "durationSeconds": 820,
-      "datePublished": 1787907600,
-      "titleZh": "海伦·凯勒的一生",
-      "descZh": "小时候，她就失去了视力和听力，似乎与周围的世界隔绝了。然后，在一位非凡老师的帮助下，她学会了沟通，并成为一名作家、讲师和20世纪最著名的女性之一。她的故事成为毅力的象征，但她之后的生活比大多数人想象的要复杂得多。在《Everything Everywhere Daily》的本期节目中了解更多有关海伦·凯勒非凡一生的信息。商店s."
     },
     {
       "feedId": 387129,
@@ -1853,6 +1853,20 @@
       "feedId": 743065,
       "category": "sports",
       "podcastTitle": "The Bill Simmons Podcast",
+      "episodeId": 59740463410,
+      "title": "The Annual AFC Over/Unders With Bill Simmons, Cousin Sal, and Joe House",
+      "description": "The Ringer’s Bill Simmons is joined by Cousin Sal and Joe House for Part 2 of their annual NFL over/unders pod. Next up: the AFC! (0:00) Intro (5:44) AFC East (37:11) AFC North (01:09:30) AFC South (01:32:16) AFC West Host: Bill Simmons Guest: Cousin Sal and Joe House Producers: Chia Hao Tat and Eduardo Ocampo The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines ...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6593826011.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/81598bf5a2ed00d6.jpg",
+      "durationSeconds": 7231,
+      "datePublished": 1788129300,
+      "titleZh": "比尔·西蒙斯（Bill Simmons）、萨尔表弟（Cousin Sal）和乔·豪斯（Joe House）的年度AFC结束/结束",
+      "descZh": "The Ringer的比尔·西蒙斯（Bill Simmons）与表弟萨尔（Sal）和乔·豪斯（Joe House）一起参加一年一度的NFL over/unders播客的第二部分。接下来：AFC！（0：00）简介（5：44）AFC East（37：11）AFC North（01：09：30）AFC South（01：32：16）AFC West主持人：Bill Simmons嘉宾：Cousin Sal和Joe House制作人：Chia Hao Tat和Eduardo Ocampo The Ringer致力于负责任的游戏。请访问https://fanduel.com/playwithaplan了解有关资源和帮助热线的更多信息."
+    },
+    {
+      "feedId": 743065,
+      "category": "sports",
+      "podcastTitle": "The Bill Simmons Podcast",
       "episodeId": 59619522101,
       "title": "The Annual NFC Over/Unders With Bill Simmons, Cousin Sal, and Joe House",
       "description": "The Ringer’s Bill Simmons is joined by Cousin Sal and Joe House LIVE on Netflix for Part 1 of their annual NFL over/unders pod. First up: the NFC! (0:00) Intro (1:30) NFC East (37:08) NFC North (01:06:31) NFC South (01:33:57) NFC West Host: Bill Simmons Guests: Cousin Sal and Joe House Producers: Chia Hao Tat, Eduardo Ocampo, and Jonathan Frias NBA 2K27 | Ball Over Everything The Ringer is committed to responsible gaming. Please vis...",
@@ -1876,20 +1890,6 @@
       "datePublished": 1787699760,
       "titleZh": "丹尼·海菲兹、丹尼·凯利和克雷格·霍尔贝克第五届年度“我的家伙”梦幻足球选秀",
       "descZh": "林格的比尔西蒙斯是加入丹尼海菲兹，丹尼凯利，和克雷格霍尔贝克生活在Netflix的年度“我的家伙”幻想足球草案。（0：00）简介（1：26）NFL幻想预备讨论（11：36）“我的家伙”幻想足球选秀主持人：比尔西蒙斯嘉宾：丹尼海菲兹，丹尼凯利和克雷格霍尔贝克制片人：贾浩达，爱德华多奥坎波，克里斯沃勒斯和特雷弗拉伯恩把ChatGPT工作在您最雄心勃勃的想法和项目。在https://ChatGPT.com上选择工作模式开始。阿布拉..."
-    },
-    {
-      "feedId": 743065,
-      "category": "sports",
-      "podcastTitle": "The Bill Simmons Podcast",
-      "episodeId": 59428428234,
-      "title": "Deshaun Vs. Cleveland, and a Mega-Mailbag With Joe House. Plus, UCLA’s Bob Chesney.",
-      "description": "The Ringer’s Bill Simmons is joined by Joe House to answer some mailbag questions. Then, Bill heads out to UCLA to chat with Bruins football coach Bob Chesney about his coaching history, changing the culture at UCLA, and much more! (0:00) Intro (2:43) Mailbag with House (01:27:41) Bob Chesney interview Host: Bill Simmons Guests: Joe House and Bob Chesney Producers: Chia Hao Tat, Eduardo Ocampo, and Jessie Lopez See what boring banking can do for you. <br...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT3061494209.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/81598bf5a2ed00d6.jpg",
-      "durationSeconds": 8298,
-      "datePublished": 1787539020,
-      "titleZh": "德肖恩对阵克利夫兰，以及与乔·豪斯一起的巨型包袋。另外，加州大学洛杉矶分校的鲍勃·切斯尼。",
-      "descZh": "The Ringer的Bill Simmons与Joe House一起回答了一些邮件问题。然后，比尔前往加州大学洛杉矶分校与熊队橄榄球教练鲍勃·切斯尼（Bob Chesney）谈论他的教练历史、改变加州大学洛杉矶分校的文化等等！（0：00）简介（2：43）House的Mailbag（01：27：41）Bob Chesney采访主持人：Bill Simmons嘉宾：Joe House和Bob Chesney制片人：Chia Hao Tat、Eduardo Ocampo和Jessie Lopez看看无聊的银行能为您做什么。<br."
     }
   ]
 }
