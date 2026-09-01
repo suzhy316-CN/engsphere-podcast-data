@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:38:18.489Z",
+  "updatedAt": "2026-09-01T20:08:05.064Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -47,6 +47,20 @@
       "feedId": 1437072,
       "category": "learn-english",
       "podcastTitle": "The English We Speak",
+      "episodeId": 59806729009,
+      "title": "The English We Speak: Non-starter",
+      "description": "Some ideas are just never going to work. Those are what we call 'non-starters'. Learn how to use this expression with Feifei and Phil. As always, get your free transcript for this episode here: https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260831 Sign up to our weekly newsletter! Your favourite presenters write you an email with tips and resources to help you improve your English: https://www.bbc.co.uk/send/u178220599 - also feel free to respond! We read everything, although we don't have time to reply to everyone. Have you...",
+      "audioUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p79x32.mp3?p=rss",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ccabc9e412db47d7.jpg",
+      "durationSeconds": 226,
+      "datePublished": 1788251340,
+      "titleZh": "我们说的英语：Non-starter",
+      "descZh": "有些想法永远不会奏效。这些就是我们所说的“非启动者”。与菲菲和菲尔一起学习如何使用这个表达。一如既往，请在此处获取本期节目的免费成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260831注册我们的每周时事通讯！您最喜欢的演讲者给您写一封电子邮件，其中包含帮助您提高英语水平的技巧和资源：https://www.bbc.co.uk/send/u178220599-也可以随时回复！我们读了所有内容，尽管我们没有时间回复每个人。你们..."
+    },
+    {
+      "feedId": 1437072,
+      "category": "learn-english",
+      "podcastTitle": "The English We Speak",
       "episodeId": 59488969151,
       "title": "The English We Speak: No notes",
       "description": "Notes here is about negative feedback, so ‘no notes’ means that something is perfect. Use it when you have nothing negative to say. Learn about this expression and how to use it with Feifei and Georgie. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824 We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
@@ -70,20 +84,6 @@
       "datePublished": 1787043660,
       "titleZh": "我们所说的英语：少说",
       "descZh": "这种现代表达是对建议热情回应的一种方式。它的意思类似于“别再说了”。了解何时以及如何与乔吉和菲菲一起使用它。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260817有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
-    },
-    {
-      "feedId": 1437072,
-      "category": "learn-english",
-      "podcastTitle": "The English We Speak",
-      "episodeId": 58842574578,
-      "title": "The English We Speak: Share your life story",
-      "description": "Think you sometimes over-share unnecessary details? Learn how to use 'share your life story' with Becca and Feifei. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810 For more great language tips and programmes visit bbclearningenglish.com We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
-      "audioUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0p3v3m8.mp3?p=rss",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ccabc9e412db47d7.jpg",
-      "durationSeconds": 198,
-      "datePublished": 1786436940,
-      "titleZh": "我们所说的英语：分享您的生活故事",
-      "descZh": "认为你有时会过度分享不必要的细节吗？与贝卡和菲菲了解如何使用“分享你的生活故事”。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
     },
     {
       "feedId": 956179,
@@ -972,13 +972,13 @@
       "category": "growth",
       "podcastTitle": "The Mel Robbins Podcast",
       "episodeId": 59732790407,
-      "title": "Heal Your Gut: A Doctor’s 4-Part Protocol to Stop Bloating, Boost Energy, & Feel Better Now",
+      "title": "A Doctor’s Gut Reset: 4-Part Protocol to Stop Bloating, Boost Energy, & Feel Better Now",
       "description": "Why are you bloated all the time? Why can certain foods suddenly make you feel terrible? And what is actually going on inside your gut when nothing you try seems to work? Today, Mel is joined by Dr. Rajsree Nambudripad, MD, a board-certified medical doctor specializing in integrative gut health and integrative medicine, who has spent years helping patients uncover what’s really behind their most stubborn symptoms. This conversation will change the way you understand your gut – and reveal a simple 4-part protocol for getting to the root of what’s making yo...",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/de1b01d7-ef04-4572-8ca5-1c959fa25055/audio/128/default.mp3?aid=rss_feed&awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&awEpisodeId=de1b01d7-ef04-4572-8ca5-1c959fa25055&feed=UCwaTX1J",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/46d31043d0c0bbb4.jpg",
       "durationSeconds": 4211,
       "datePublished": 1788149100,
-      "titleZh": "治愈你的肠道：医生停止腹胀、增强精力和感觉更好的四部分协议",
+      "titleZh": "医生的肠道复位：4部分协议，以停止腹胀，提高能量，现在感觉更好",
       "descZh": "为什么你总是臃肿？为什么某些食物会突然让你感觉很糟糕？当你的尝试似乎都不起作用时，你的内心到底在想什么？如今，医学博士Rajsree Nambudripad博士也加入了梅尔的行列，他是一位经过委员会认证的医生，专门研究肠道综合健康和综合医学，多年来一直帮助患者发现其最顽固症状背后的真正原因。这次对话将改变您理解直觉的方式，并揭示一个简单的4部分协议，用于深入了解导致您."
     },
     {
@@ -986,13 +986,13 @@
       "category": "growth",
       "podcastTitle": "The Mel Robbins Podcast",
       "episodeId": 59558287365,
-      "title": "Stop Wasting Your Energy: How to Deal With People Who Won’t Change & What to Do Instead",
+      "title": "Stop Wasting Your Time: How to Deal With People Who Won’t Change & What to Do Instead",
       "description": "There’s someone in your life you wish would change. You’ve pushed, reminded, and given advice. You’ve had the same conversation over and over. And somehow, you’re still stuck in the same frustrating cycle of fighting, nagging, lecturing, and hoping they’ll finally do something differently. There is a better way. In today’s conversation, Mel sits down with renowned behavioral scientist and award-winning NYU professor Dr. Dolly Chugh to unpack the surprising science of why people resist change and what really works. You’re going to walk away with so...",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/44071e86-59ea-4a07-abe4-5c3cb617a501/audio/128/default.mp3?aid=rss_feed&awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&awEpisodeId=44071e86-59ea-4a07-abe4-5c3cb617a501&feed=UCwaTX1J",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/46d31043d0c0bbb4.jpg",
       "durationSeconds": 4197,
       "datePublished": 1787803500,
-      "titleZh": "停止浪费精力：如何与不愿改变的人打交道以及该怎么做",
+      "titleZh": "停止浪费时间：如何与不愿改变的人打交道以及该做什么",
       "descZh": "你的生活中有一个人你希望改变。你已经推动、提醒并给出了建议。你们已经一遍又一遍地进行同样的对话了。不知何故，你仍然陷入了同样令人沮丧的循环：打架、唠叨、说教，并希望他们最终能做一些不同的事情。有更好的方法。在今天的谈话中，梅尔与著名行为科学家、屡获殊荣的纽约大学教授多莉·丘博士坐下来，揭开人们为何抵制变革以及什么真正有效的令人惊讶的科学。你要带着那么."
     },
     {
@@ -1031,7 +1031,7 @@
       "title": "The Psychology of Financial Freedom",
       "description": "Jay explores why our relationship with money is about so much more than what’s in our bank account. He breaks down five lessons, from how childhood shapes the way we spend and save, to what we’re really buying when we make a purchase, what money can and can’t solve, why simple systems work better than willpower, and how to make money work for you instead of letting it run your life. With Love and Gratitude, Jay Shetty PURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. Head t...",
       "audioUrl": "https://traffic.megaphone.fm/GLT5873351533.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/cad541204bc3b0c9.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/359a969702e2e631.jpg",
       "durationSeconds": 2068,
       "datePublished": 1787900400,
       "titleZh": "财务自由心理学",
@@ -1045,7 +1045,7 @@
       "title": "Ask Jay: How Do I Forgive?",
       "description": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened. With Love and Gratitude, Jay Shetty PURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. Head to https://wayfair.com right now to sho...",
       "audioUrl": "https://traffic.megaphone.fm/GLT6296721087.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/cad541204bc3b0c9.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/359a969702e2e631.jpg",
       "durationSeconds": 2173,
       "datePublished": 1787727600,
       "titleZh": "问杰伊：我该如何原谅？",
