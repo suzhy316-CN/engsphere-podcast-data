@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:09:19.037Z",
+  "updatedAt": "2026-09-01T16:38:18.489Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 59799415974,
+      "title": "Terry Fox: Greatest Canadian Hero",
+      "description": "It is to the great nation of Canada’s lasting credit that it has prized Terry Fox as one of the most beloved and admired citizens for nearly 50 years now. It’s difficult to get across how much he means to Canada. Lucky for us, his story speaks for itself. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 2807,
+      "datePublished": 1788253200,
+      "titleZh": "特里·福克斯：最伟大的加拿大英雄",
+      "descZh": "近50年来，特里·福克斯一直将其视为最受爱戴和钦佩的公民之一，这是为了加拿大这个伟大国家的持久信誉。很难理解他对加拿大有多重要。幸运的是，他的故事不言自明。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 59671027702,
       "title": "Selects: Flagpole Sitting: A Real Fad",
       "description": "The 1920s were just absolutely nuts. People got into weird fads really intensely and one of the strangest of all was flagpole sitting. It’s just what it sounds like – sitting on top of a flagpole for as long as you can. One man sat above them all. Learn all about him and many of these wild fads in this classic episode. See omnystudio.com/listener for privacy information.",
@@ -574,20 +588,6 @@
       "datePublished": 1787821200,
       "titleZh": "苏联的垮台，第二章",
       "descZh": "苏联的解体对于俄罗斯来说是一次艰难的解体，因为俄罗斯是一个被抛弃的共和国。在之后的整整十年里，这个国家陷入了一种受控的混乱，猖獗的腐败盗贼统治取代了被推翻的社会主义社会。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59535952615,
-      "title": "SYSK Tribute: Why does everyone love Dolly Parton?",
-      "description": "Today we dive in to celebrate the international treasure that is Dolly Parton. Why is she nearly universally loved? Listen in to find out. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3e9b6a27-f6f6-4db3-a434-b4b201035410/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 3361,
-      "datePublished": 1787759774,
-      "titleZh": "SYSK致敬：为什么每个人都喜欢多莉·帕顿？",
-      "descZh": "今天我们来庆祝多莉·帕顿的国际宝藏。为什么她几乎受到普遍的喜爱？听听看。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 8820,
@@ -719,6 +719,20 @@
       "feedId": 52651,
       "category": "science",
       "podcastTitle": "Something You Should Know",
+      "episodeId": 59796023423,
+      "title": "SYSK TRENDING - Are The Added Ingredients In Food All That Bad?",
+      "description": "Processed food has gotten a pretty terrible reputation. We’re warned to avoid foods with long ingredient lists, mysterious additives and chemical names we can’t pronounce. “Ultra-processed” has practically become another way of saying “bad for you.” But is that a useful way to judge what we eat? After all, almost everything we eat has been processed in some way, and everything we eat — including perfectly natural food — is made of chemicals. So how can you tell which ingredients are worth worrying about and which ones just sound scary? Why do manufacturers put preservatives, emulsifiers, artificial flavors, stabili...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP1602971341.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
+      "durationSeconds": 1403,
+      "datePublished": 1788246180,
+      "titleZh": "SYSK趋势-食物中添加的成分都那么糟糕吗？",
+      "descZh": "加工食品的名声相当糟糕。我们被警告要避免食用含有冗长成分清单、神秘添加剂和我们无法发音的化学名称的食物。“超加工”实际上已经成为“对你不好”的另一种说法。但这是判断我们吃什么的有用方法吗？毕竟，我们吃的几乎所有东西都经过了某种方式的加工，而且我们吃的一切--包括完全天然的食物--都是由化学物质制成的。那么，如何才能区分哪些成分值得担心，哪些成分听起来很可怕呢？为什么制造商要将防腐剂、乳化剂、人工香精、稳定剂."
+    },
+    {
+      "feedId": 52651,
+      "category": "science",
+      "podcastTitle": "Something You Should Know",
       "episodeId": 59744937017,
       "title": "How to Get Better Healthcare & The Strange Ways Weather Affects You",
       "description": "Ever notice that the trip home often seems shorter than the trip there—even when the distance and travel time are exactly the same? It happens so often that researchers have given it a name: the “return trip effect.” And the explanation reveals something fascinating about how your brain experiences time. https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583 You’re told to “take charge of your healthcare.” But how exactly are you supposed to do that when the doctor is the expert, appointments are short, and navigating the healthcare system can be frustrating and confusing? It turns out th...",
@@ -742,20 +756,6 @@
       "datePublished": 1787986980,
       "titleZh": "音乐如何真正治愈你以及技术正在窃取的技能",
       "descZh": "您可能知道光线、噪音、温度和压力都会干扰您的睡眠。但月球呢？尽管听起来很奇怪，但一些研究表明，人们在满月期间的睡眠确实有所不同--即使他们不在外面看月亮。那么有什么可以解释这一点呢？请听我透露研究人员的发现。https://www.self.com/story/full-moon-sleep我们大多数人本能地知道音乐可以改变我们的感受。合适的歌曲可以让你平静下来，振奋你的心情，或者在Instagram上唤起回忆.."
-    },
-    {
-      "feedId": 52651,
-      "category": "science",
-      "podcastTitle": "Something You Should Know",
-      "episodeId": 59577790514,
-      "title": "Why You Really Should Talk to Strangers & What Could Actually End the World",
-      "description": "If you have a goal you really want to accomplish, when you start may matter more than you think. January 1st gets all the attention, but there are other dates and occasions that can give you a surprisingly powerful motivational boost. https://behavioralscientist.org/new-years-resolutions-failed-be-prepared-to-leverage-other-fresh-starts How often do you strike up a conversation with someone you don’t know very well? Probably not as often as you could. It is usually easier to look at your phone, avoid eye contact and keep to yourself. Yet those little interactions you have with a cashier, a neighbor, a coworker or...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP3192583735.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
-      "durationSeconds": 2807,
-      "datePublished": 1787814180,
-      "titleZh": "为什么你真的应该与陌生人交谈以及什么实际上会终结世界",
-      "descZh": "如果你有一个真正想实现的目标，那么何时开始可能比你想象的更重要。一月一日引起了所有的关注，但还有其他日期和场合可以给你带来令人惊讶的强大动力。https://behavioralscientist.org/new-years-resolutions-failed-be-prepared-to-leverage-other-fresh-starts您多久会与不太了解的人进行一次对话？可能不会像你一样频繁。通常，看手机、避免目光接触并保持自我接触会更容易。然而，你与收银员、邻居、同事或."
     },
     {
       "feedId": 215799,
@@ -1601,6 +1601,20 @@
       "feedId": 388141,
       "category": "ideas",
       "podcastTitle": "TED Health",
+      "episodeId": 59798107961,
+      "title": "The nurse who can smell Parkinson’s | Joy Milne (Senses Miniseries #4)",
+      "description": "What does Parkinson's smell like? Ask nurse Joy Milne. Born with a hypersensitive nose, she spent a lifetime learning to recognize diseases through their scents. When she smelled Parkinson's on her husband years before his diagnosis, she decided to put her gift to the test. Today, her extraordinary nose has been translated into a non-invasive test — helping researchers diagnose what was right under their noses all along. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6a6a394d6043035f8916734b/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/1fc87078112ecfbc.jpg",
+      "durationSeconds": 1254,
+      "datePublished": 1788235200,
+      "titleZh": "能闻到帕金森氏症的护士|乔伊·米尔恩（感官迷你剧#4）",
+      "descZh": "帕金森氏症闻起来像什么？问问护士乔伊·米尔恩。她天生鼻子过敏，一生都在学习通过气味识别疾病。当她在丈夫确诊前几年就闻到了帕金森病的味道时，她决定对她的天赋进行测试。今天，她那非凡的鼻子已经被转化为一种非侵入性的测试--帮助研究人员诊断一直就在他们鼻子下面的东西。由Acast主持。更多信息请访问acast.com/privacy。"
+    },
+    {
+      "feedId": 388141,
+      "category": "ideas",
+      "podcastTitle": "TED Health",
       "episodeId": 59688404434,
       "title": "Living a Meaningful Life (1/5): Aging, menopause, and rethinking fashion for comfort in midlife with Stacy London",
       "description": "“My lens around style doesn’t have anything to do with style anymore — it’s about physicality,” says stylist and fashion consultant Stacy London. “What do I want to be able to do? How do I keep myself strong?” Stacy’s message has resonated for many women, and for this episode, she joins Dr. Shoshana Ungerleider, host of TED Health, at TED2025 for a special live conversation about why women are so embarrassed to talk about aging. For Stacy, aging became a chance to reassess her relationship to her body, and her experience with menopause and spinal surgery s...",
@@ -1624,20 +1638,6 @@
       "datePublished": 1787803380,
       "titleZh": "过上有意义的生活（2/5）：为什么发泄并不能帮助你应对愤怒|詹妮弗·帕拉米斯",
       "descZh": "通风真的可以帮助你降温，还是只是火上浇油？社会心理学家詹妮弗·帕拉米斯打破了有关愤怒的常见神话，展示了好奇心--而不是宣泄--如何让你保持冷静。从一位重新思考弗洛伊德的研究人员那里，探索愤怒管理背后的令人惊讶的科学以及建立更牢固关系的四种实用工具，一次深呼吸。由Acast主持。更多信息请访问acast.com/privacy。"
-    },
-    {
-      "feedId": 388141,
-      "category": "ideas",
-      "podcastTitle": "TED Health",
-      "episodeId": 59688404439,
-      "title": "Living a Meaningful Life (3/5): Your guide to finding a workout that works",
-      "description": "Welcome back to our \"A Healthier You\" series, where TED Health host Shoshana Ungerleider guides you on a journey to your healthiest self. Join her and healthcare experts as they uncover insights that could revolutionize your understanding of health – from your heart to your brain to your gut. Embarking on a fitness journey can be overwhelming, but it doesn't have to be intimidating. In today's episode, Shoshana unveils practical strategies for creating an exercise routine that lasts and explores all kinds of workouts – from weightlifting to walking. She shares motivational fitness tips that will inspire both begi...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6a85d6566701ba1ebb63e435/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/c2ecb252e7931d3d.jpg",
-      "durationSeconds": 944,
-      "datePublished": 1787803320,
-      "titleZh": "过上有意义的生活（3/5）：寻找有效锻炼的指南",
-      "descZh": "欢迎回到我们的“更健康的你”系列节目，TED Health主持人Shoshana Ungerleider将引导您踏上通往最健康自我的旅程。与她和医疗保健专家一起探索见解，这些见解可能会彻底改变您对健康的理解--从您的心脏到大脑再到肠道。踏上健身之旅可能会令人不知所措，但也不一定令人生畏。在今天的节目中，Shoshana揭示了创建持续锻炼习惯的实用策略，并探索了各种锻炼方式--从举重到步行。她分享了激励健身技巧，这些技巧将激励双方开始."
     },
     {
       "feedId": 311840,
