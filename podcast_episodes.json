@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:10:03.937Z",
+  "updatedAt": "2026-09-02T04:08:06.649Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1055,20 +1055,6 @@
       "feedId": 404905,
       "category": "growth",
       "podcastTitle": "The Daily Stoic",
-      "episodeId": 59818236379,
-      "title": "BONUS | 7 Books AI Can't Replace",
-      "description": "In this bonus episode, Ryan shares seven books that will help you think more clearly, use AI wisely, and become harder to replace. 🎥 WATCH THIS EPISODE | https://www.youtube.com/watch?v=AeBuZjNq8u0 📚 Check out the books mentioned in this episode at Ryan's bookstore, The Painted Porch: https://www.thepaintedporch.com/ 👉 Sign up for Ryan’s free monthly reading list newsletter: https://ryanholiday.net/reading-list/ 🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here | https...",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/e3c673dd-704d-4a6f-a0c4-75de9ed41790.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/987654580771de47.jpg",
-      "durationSeconds": 327,
-      "datePublished": 1788246000,
-      "titleZh": "奖金|人工智能无法取代的7本书",
-      "descZh": "在这个奖励节目中，瑞安分享了七本书，这些书将帮助您更清晰地思考、明智地使用人工智能，并变得更难替代。🎥 观看这一集|https://www.youtube.com/watch? v= AeBuZjNq 8 u 0📚在Ryan的书店The Painted Porch查看本集提到的书籍：https://www.thepaintedporch.com/👉注册Ryan的免费每月阅读列表时事通讯：https://ryanholiday.net/reading-list/🎟️每日斯多克直播|瑞安假日即将来到你附近的城市！在这里抢票|https."
-    },
-    {
-      "feedId": 404905,
-      "category": "growth",
-      "podcastTitle": "The Daily Stoic",
       "episodeId": 59818236382,
       "title": "As Above, So Below | How Seeing Earth From Space Changes You (with Astronaut Mark Kelly)",
       "description": "We need to take a step back from problems, arguments, and frustrations. To look at the bigger picture. Watch the full episode with Senator and Astronaut Mark Kelly here: https://www.youtube.com/watch?v=tf-K7cEpuyI Check out Astronaut Terry Virts' full episode on The Daily Stoic Podcast on Apple Podcasts, Spotify, YouTube 🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here | https://www.dailystoiclive.com/ 🎙️ AD-FREE | Support the podcast and go deeper into Stoicism...",
@@ -1078,6 +1064,20 @@
       "datePublished": 1788246000,
       "titleZh": "上如此，下如此|从太空观察地球如何改变你（与宇航员马克·凯利合作）",
       "descZh": "我们需要从问题、争论和挫败中退一步。着眼于更大的图景。在此处观看参议员兼宇航员马克·凯利的完整剧集：https://www.youtube.com/watch? v= tf-K7 cEpuy我在Apple播客、Spotify、YouTube每日斯多克直播上查看宇航员特里·维茨（Terry Virts）在The Daily Stoic播客上的完整剧集🎟️|瑞安假日即将来到你附近的城市！在这里抢票|https://www.dailystoiclive.com/🎙️无广告|支持播客，深入了解斯多葛主义..."
+    },
+    {
+      "feedId": 404905,
+      "category": "growth",
+      "podcastTitle": "The Daily Stoic",
+      "episodeId": 59818236379,
+      "title": "BONUS | 7 Books AI Can't Replace",
+      "description": "In this bonus episode, Ryan shares seven books that will help you think more clearly, use AI wisely, and become harder to replace. 🎥 WATCH THIS EPISODE | https://www.youtube.com/watch?v=AeBuZjNq8u0 📚 Check out the books mentioned in this episode at Ryan's bookstore, The Painted Porch: https://www.thepaintedporch.com/ 👉 Sign up for Ryan’s free monthly reading list newsletter: https://ryanholiday.net/reading-list/ 🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here | https...",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/e3c673dd-704d-4a6f-a0c4-75de9ed41790.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/987654580771de47.jpg",
+      "durationSeconds": 327,
+      "datePublished": 1788246000,
+      "titleZh": "奖金|人工智能无法取代的7本书",
+      "descZh": "在这个奖励节目中，瑞安分享了七本书，这些书将帮助您更清晰地思考、明智地使用人工智能，并变得更难替代。🎥 观看这一集|https://www.youtube.com/watch? v= AeBuZjNq 8 u 0📚在Ryan的书店The Painted Porch查看本集提到的书籍：https://www.thepaintedporch.com/👉注册Ryan的免费每月阅读列表时事通讯：https://ryanholiday.net/reading-list/🎟️每日斯多克直播|瑞安假日即将来到你附近的城市！在这里抢票|https."
     },
     {
       "feedId": 404905,
