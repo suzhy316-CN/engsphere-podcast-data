@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T20:08:02.056Z",
+  "updatedAt": "2026-09-03T00:10:26.789Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -191,7 +191,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -205,7 +205,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 59859376843,
+      "title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
+      "description": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere. (This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 773,
+      "datePublished": 1788361200,
+      "titleZh": "如何挖掘你的意识--以及为什么冥想比你想象的更容易|永吉明久仁波切",
+      "descZh": "冥想要求你进入一种宁静的临在状态。但为什么听起来毫不费力的事情却常常让人感觉如此困难呢？在这份轻松愉快的邀请中，精神领袖Yongey Mingyur Rinpoche分享了三个步骤，帮助您接受情绪的潮起潮落，并学会随时随地冥想。(This剧集最初于2022年播出。）由Acast主持。更多信息请访问acast.com/privacy。"
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 59811837410,
       "title": "The 60 seconds that make or break a conversation | Chris Fenning",
       "description": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1582,20 +1596,6 @@
       "datePublished": 1788188400,
       "titleZh": "这就是宇宙诞生的声音|马克·惠特尔",
       "descZh": "大爆炸之后传来什么声音？天文学家马克·惠特尔带我们回到了婴儿时期的宇宙，在那里，巨大的声波脉冲穿过原始气体，其模式至今仍然可以在整个银河系中追踪。他与声音艺术家安德尔·米卡尔森和作曲家卡罗琳·肖合作，将这些古老的音调变成了一部辉煌、令人惊叹的合唱作品。由Acast主持。更多信息请访问acast.com/privacy。"
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 59697911357,
-      "title": "Sunday Pick: How to quit (and why it matters) with Anthony Klotz | from Fixable",
-      "description": "During the pandemic, Anthony Klotz predicted the “Great Resignation”: a mass exodus of unhappy workers leaving their jobs after COVID epiphanies. Now, he’s seeing a different pattern begin to emerge as people opt to hunker down in their current jobs until they can find a better option. Anthony is an organizational psychologist and professor at the London School of Management. His recent book, Jolted: Why We Quit, When to Stay, and Why It Matters, explores how we make decisions in our jobs and careers. In this episode, he joins Anne and Frances to weigh in on the patterns develo...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4e680c15e359f99673e7/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 2785,
-      "datePublished": 1788069600,
-      "titleZh": "周日精选：如何与安东尼·克洛茨一起退出（以及为什么这很重要）|来自Fixable",
-      "descZh": "在疫情期间，安东尼·克洛茨预测了“大撤退”：在新冠顿悟后，不快乐的工人大规模离开工作岗位。现在，他看到一种不同的模式开始出现，因为人们选择继续从事目前的工作，直到找到更好的选择。安东尼是伦敦管理学院的组织心理学家和教授。他的新书《Jolted：为什么我们辞职、何时留下来以及为什么重要》探讨了我们如何在工作和职业中做出决定。在这一集，他加入安妮和弗朗西斯权衡的模式发展。"
     },
     {
       "feedId": 388141,
@@ -1685,6 +1685,20 @@
       "feedId": 714258,
       "category": "ideas",
       "podcastTitle": "How I Built This",
+      "episodeId": 59860139407,
+      "title": "Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them",
+      "description": "Nicole Bernard Dawes spent much of her childhood hanging out in her dad’s potato chip factory on Cape Cod. She liked his kettle-cooked chips a lot more than the flavorless snacks in her mom’s health food store. But when she started her own business, she wanted the best of both worlds: a snack made with natural, organic ingredients…that still tasted good. Nicole launched Late July Snacks in 2003, when most consumers barely knew what “organic” meant. For years, sales limped along. Then, in a moment of crisis, she made a co...",
+      "audioUrl": "https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/026082d25d48cc32.jpg",
+      "durationSeconds": 4839,
+      "datePublished": 1788160200,
+      "titleZh": "七月下旬零食：妮可·伯纳德·道斯。饼干和饼干失败了……玉米饼片拯救了它们",
+      "descZh": "妮可·伯纳德·道斯（Nicole Bernard Dawes）童年的大部分时间都在她父亲位于科德角的薯片工厂闲逛。她更喜欢他的水壶煮薯条，而不是她妈妈健康食品店里的无味零食。但当她开始自己的生意时，她想要两全其美：一种用天然有机成分制成的零食……味道仍然很好。Nicole于2003年推出了7月下旬零食，当时大多数消费者几乎不知道“有机”是什么意思。多年来，销售一直举步维艰。然后，在危机时刻，她做了一个……"
+    },
+    {
+      "feedId": 714258,
+      "category": "ideas",
+      "podcastTitle": "How I Built This",
       "episodeId": 59576530725,
       "title": "Advice Line with Daymond John of FUBU",
       "description": "Today’s callers: Cristopher from Chicago wants to expand his family’s salsa brand from farmers markets into retail. Next, Darcy in Australia considers adapting his protein bar brand’s messaging to reach beyond his core enthusiasts. Finally, Seema in Canada seeks strategies to increase B2B sales for her ethical kitchen linen company. Plus, Daymond and Guy talk about what makes a great Shark Tank pitch, and why Guy decided to start How I Built This 10 years ago. Thank you to the founders of Sabor a Mexico, Raised Nutrition and Cooks Who Feed for joining...",
@@ -1708,20 +1722,6 @@
       "datePublished": 1787555400,
       "titleZh": "耶蒂：罗伊·塞德斯和瑞安·塞德斯。两兄弟如何将价值400美元的冷却器打造成价值20亿美元的品牌",
       "descZh": "罗伊和瑞安是狂热的户外活动者，他们想要一个不会坏的冷藏箱。所以他们自己建造了一个。结果是YETI：一款高端冷却器，早期零售商认为没有人会购买。但认真的户外运动者做到了--最终YETI摆脱了它的利基市场，成为后挡板、海滩和足球场上的地位象征。在这一集中，Roy和Ryan解释了他们如何创办YETI，在突然失去唯一的制造合作伙伴的情况下幸存下来，然后偶然发现了一款30美元的产品，为业务注入了动力。你会学到什么为什么要解决."
-    },
-    {
-      "feedId": 714258,
-      "category": "ideas",
-      "podcastTitle": "How I Built This",
-      "episodeId": 59261683243,
-      "title": "Advice Line with Carlton Calvin of Razor",
-      "description": "Today’s callers: Shawn from Saskatchewan weighs whether brand-building or licensing is best for his card-based party game. Then Shirin in Texas wants to differentiate her graphic stationery in a crowded Etsy marketplace. And Mark from New Jersey works through refocusing his line of craft spirits. Plus, Carlton’s recent efforts to pass on his trendspottting talent to the next generation. Thank you to the founders of Youlogy, Honey Bespoke Stationery & Paper Goods, and Little Water Distillery for being a part of our show. If you’d like to be featured on a future...",
-      "audioUrl": "https://rss.art19.com/episodes/c0de1a84-3d35-45f3-921c-6144693ad86e.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/026082d25d48cc32.jpg",
-      "durationSeconds": 2578,
-      "datePublished": 1787209800,
-      "titleZh": "作者：Carlton Calvin of Razor",
-      "descZh": "今天的来电者：来自萨斯喀彻温省的肖恩权衡品牌建设或许可是否最适合他的卡牌派对游戏。然后德克萨斯州的Shirin希望在拥挤的Etsy市场中让她的图形文具与众不同。来自新泽西州的马克通过重新定位他的工艺精神来工作。此外，卡尔顿最近还努力将他的时尚才华传授给下一代。感谢Youlogy、Honey Bespoke文具和纸制品和Little Water Distillery的创始人成为我们节目的一部分。如果您想成为未来的主角."
     },
     {
       "feedId": 739525,
