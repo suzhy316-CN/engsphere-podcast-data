@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:09:33.484Z",
+  "updatedAt": "2026-09-03T16:09:28.990Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -191,7 +191,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -205,7 +205,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -299,6 +299,20 @@
       "feedId": 201470,
       "category": "learn-english",
       "podcastTitle": "Espresso English Podcast",
+      "episodeId": 59890285817,
+      "title": "2-Minute Tip: Little or Few?",
+      "description": "Welcome to your 2-Minute Tip - a short, practical English lesson for your busy day. Learn it in two minutes... use it for years! Learn essential English grammar easily: 👉 Download $1 grammar e-books​ 👉 Join the Grammar in Conversation Course​",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/espressoenglish/2-Minute-Tip-Little-Few.mp3?dest-id=212704",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b2ed44944b02fc80.jpg",
+      "durationSeconds": 140,
+      "datePublished": 1788436800,
+      "titleZh": "2-分钟提示：很少还是很少？",
+      "descZh": "欢迎来到您的2分钟提示--一堂简短、实用的英语课，适合您忙碌的一天。两分钟内学会.使用多年！轻松学习基本的英语语法：下载1美元的语法电子书加入语法对话课程"
+    },
+    {
+      "feedId": 201470,
+      "category": "learn-english",
+      "podcastTitle": "Espresso English Podcast",
       "episodeId": 59768964260,
       "title": "Learn 100 natural phrases in the next 10 days",
       "description": "✨ Say This, Not That CHALLENGE: https://courses.espressoenglish.net/say-this-not-that-challenge/ Stop saying \"I'm tired.\" Instead, say: I'm beat. I'm spent. I'm wiped out. I'm running on empty. Today we're going to transform 10 \"basic\" English phrases into the more natural expressions that native English speakers actually use! It's an easy way to \"level up\" your fluency. Let's \"transform\" 100 phrases together! Imagine learning AND practicing 100 \"transformed\" phrases like these - and using them in your own English. That's what we'll do - together - in the NEW \"Say This, No...",
@@ -322,20 +336,6 @@
       "datePublished": 1788091560,
       "titleZh": "10个句子被转化为更流利的短语！",
       "descZh": "下载免费PDF +测验：www.example.com https://courses.espressoenglish.net/say-this-not-that-challenge/https://espresso-english.kit.com/download-10-sentences-transformed“相反，说：我累了。我已经精疲力尽了。我精疲力尽了。我空荡荡的。今天，我们要将10个“基本”英语短语转化为英语母语者实际使用的更自然的表达方式！这是“提高”您的流利度的简单方法。让我们一起“转化”100个短语！想象一下，学习和练习100个像这样的“转换”短语-并将它们用于自己的英语中。那是..."
-    },
-    {
-      "feedId": 201470,
-      "category": "learn-english",
-      "podcastTitle": "Espresso English Podcast",
-      "episodeId": 59667305260,
-      "title": "NEW: \"Say This, Not That\" Challenge!",
-      "description": "✨ Say This, Not That CHALLENGE: https://courses.espressoenglish.net/say-this-not-that-challenge/ Stop saying \"I'm tired.\" Instead, say: I'm beat. I'm spent. I'm wiped out. I'm running on empty. Today we're going to transform 10 \"basic\" English phrases into the more natural expressions that native English speakers actually use! It's an easy way to \"level up\" your fluency. Let's \"transform\" 100 phrases together! Imagine learning AND practicing 100 \"transformed\" phrases like these - and using them in your own English. That's what we'll do - together - in the NEW \"Say This, No...",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/espressoenglish/Say-This-Not-That-Challenge.mp3?dest-id=212704",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b2ed44944b02fc80.jpg",
-      "durationSeconds": 240,
-      "datePublished": 1788004800,
-      "titleZh": "新：“说这个，不说那个”挑战！",
-      "descZh": "说这个，不是那个挑战：https://courses.espressoenglish.net/say-this-not-that-challenge/停止说“我累了。“相反，说：我累了。我已经精疲力尽了。我精疲力尽了。我空荡荡的。今天，我们要将10个“基本”英语短语转化为英语母语者实际使用的更自然的表达方式！这是“提高”您的流利度的简单方法。让我们一起“转化”100个短语！想象一下，学习和练习100个像这样的“转换”短语-并将它们用于自己的英语中。这就是我们要做的-一起-在新的“说这个，不..."
     },
     {
       "feedId": 745256,
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 59895688302,
+      "title": "Social Identity Theory: Your Group Rules, Others Drool",
+      "description": "In the 80s, a pair of psychologists theorized why being part of a group can change people’s thoughts and feelings, both about themselves and other people. It sounds dry, but SIT explains everything from how people justify genocide to football rivalries. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f8a763f-daa1-4efd-9d11-b4b80164422f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 2852,
+      "datePublished": 1788426000,
+      "titleZh": "社会认同理论：你的群体规则，其他人流口水",
+      "descZh": "80年代，一对心理学家提出了为什么成为一个群体的一员可以改变人们对自己和他人的想法和感受的理论。这听起来很枯燥，但SIT解释了一切，从人们如何为种族灭绝辩护到足球竞争。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 59847364620,
       "title": "Short Stuff: Hisashi Ouchi",
       "description": "Japanese nuclear worker Hisashi Ouchi is often called on the internet “the world’s most radioactive man.” That’s not exactly true, but it gets the point across about how severe the fatal dose of radiation he received was. See omnystudio.com/listener for privacy information.",
@@ -574,20 +588,6 @@
       "datePublished": 1788253200,
       "titleZh": "特里·福克斯：最伟大的加拿大英雄",
       "descZh": "近50年来，特里·福克斯一直将其视为最受爱戴和钦佩的公民之一，这是为了加拿大这个伟大国家的持久信誉。很难理解他对加拿大有多重要。幸运的是，他的故事不言自明。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59671027702,
-      "title": "Selects: Flagpole Sitting: A Real Fad",
-      "description": "The 1920s were just absolutely nuts. People got into weird fads really intensely and one of the strangest of all was flagpole sitting. It’s just what it sounds like – sitting on top of a flagpole for as long as you can. One man sat above them all. Learn all about him and many of these wild fads in this classic episode. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ed221fa-bab3-4359-a416-b4b300e368c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 3018,
-      "datePublished": 1787994000,
-      "titleZh": "收件箱：坐旗杆：真正的时尚",
-      "descZh": "20世纪20年代真是疯狂。人们非常强烈地陷入了奇怪的时尚之中，其中最奇怪的就是坐旗杆。这就是听起来的那样--尽可能长时间地坐在旗杆上。一个人坐在他们所有人的上方。了解所有关于他和许多这些野生时尚在这个经典的插曲。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 8820,
@@ -719,6 +719,20 @@
       "feedId": 52651,
       "category": "science",
       "podcastTitle": "Something You Should Know",
+      "episodeId": 59892215661,
+      "title": "The Surprising Power of Swearing & How to Build Confidence Fast",
+      "description": "Want to significantly improve your chances of getting a good night’s sleep? There is one surprisingly simple thing you can do during the day that may actually help you sleep better that night. And no, it doesn’t involve exercise, meditation or giving up your phone. This episode begins with what it is and why it may work. https://sleepopolis.com/news/make-bed-better-sleep/ Every language and every culture has swear words. We’re taught as children not to say them, yet somehow we all learn exactly what they are. So why does swearing exist in the first...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP5449743254.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
+      "durationSeconds": 2974,
+      "datePublished": 1788418980,
+      "titleZh": "咒骂的惊人力量以及如何快速建立信心",
+      "descZh": "想要显着提高您睡个好觉的机会吗？白天你可以做一件令人惊讶的简单事情，实际上可能会帮助你晚上睡得更好。不，这不涉及锻炼、冥想或放弃手机。这一集从它是什么以及为什么它可能有效开始。https://sleepopolis.com/news/make-bed-better-sleep/每种语言和每种文化都有脏话。我们小时候就被教导不要说这些话，但不知何故，我们都确切地了解了它们是什么。那么为什么脏话会存在于第一个."
+    },
+    {
+      "feedId": 52651,
+      "category": "science",
+      "podcastTitle": "Something You Should Know",
       "episodeId": 59796023423,
       "title": "SYSK TRENDING - Are The Added Ingredients In Food All That Bad?",
       "description": "Processed food has gotten a pretty terrible reputation. We’re warned to avoid foods with long ingredient lists, mysterious additives and chemical names we can’t pronounce. “Ultra-processed” has practically become another way of saying “bad for you.” But is that a useful way to judge what we eat? After all, almost everything we eat has been processed in some way, and everything we eat — including perfectly natural food — is made of chemicals. So how can you tell which ingredients are worth worrying about and which ones just sound scary? Why do manufacturers put preservatives, emulsifiers, artificial flavors, stabili...",
@@ -742,20 +756,6 @@
       "datePublished": 1788159780,
       "titleZh": "如何获得更好的医疗保健以及天气影响您的奇怪方式",
       "descZh": "有没有注意到，回家的旅程似乎往往比那里的旅程要短--即使距离和旅行时间完全相同？这种情况经常发生，研究人员给它起了一个名字：“回程效应”。这个解释揭示了大脑如何体验时间的一些有趣的东西。https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583您被告知要“负责您的医疗保健”。但是，当医生是专家、预约时间很短、在医疗保健系统中导航可能会令人沮丧和困惑时，你到底应该如何做到这一点呢？事实证明."
-    },
-    {
-      "feedId": 52651,
-      "category": "science",
-      "podcastTitle": "Something You Should Know",
-      "episodeId": 59668971477,
-      "title": "How Music Can Actually Heal You & The Skills Technology Is Stealing",
-      "description": "You probably know that light, noise, temperature and stress can all interfere with your sleep. But what about the moon? Strange as it sounds, some research suggests people really do sleep differently around the time of a full moon — even when they aren’t outside looking at it. So what could possibly explain that? Listen as I reveal what researchers have discovered. https://www.self.com/story/full-moon-sleep Most of us know instinctively that music can change how we feel. The right song can calm you down, lift your mood or bring back a memory in an inst...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP5981682886.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
-      "durationSeconds": 2953,
-      "datePublished": 1787986980,
-      "titleZh": "音乐如何真正治愈你以及技术正在窃取的技能",
-      "descZh": "您可能知道光线、噪音、温度和压力都会干扰您的睡眠。但月球呢？尽管听起来很奇怪，但一些研究表明，人们在满月期间的睡眠确实有所不同--即使他们不在外面看月亮。那么有什么可以解释这一点呢？请听我透露研究人员的发现。https://www.self.com/story/full-moon-sleep我们大多数人本能地知道音乐可以改变我们的感受。合适的歌曲可以让你平静下来，振奋你的心情，或者在Instagram上唤起回忆.."
     },
     {
       "feedId": 215799,
@@ -1076,7 +1076,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/987654580771de47.jpg",
       "durationSeconds": 327,
       "datePublished": 1788246000,
-      "titleZh": "奖金|人工智能无法取代的7本书",
+      "titleZh": "奖金|7本AI无法取代的书",
       "descZh": "在这个奖励节目中，瑞安分享了七本书，这些书将帮助您更清晰地思考、明智地使用人工智能，并变得更难替代。🎥 观看这一集|https://www.youtube.com/watch? v= AeBuZjNq 8 u 0📚在Ryan的书店The Painted Porch查看本集提到的书籍：https://www.thepaintedporch.com/👉注册Ryan的免费每月阅读列表时事通讯：https://ryanholiday.net/reading-list/🎟️每日斯多克直播|瑞安假日即将来到你附近的城市！在这里抢票|https."
     },
     {
@@ -1223,6 +1223,20 @@
       "feedId": 727637,
       "category": "stories",
       "podcastTitle": "Snap Judgment",
+      "episodeId": 59891516448,
+      "title": "Vote for El Hottie - Snap Classic",
+      "description": "In sweet home Alabama, from the heart of Libya, comes a renegade candidate with a boombox and a head scarf. The cheerleaders, the geeks, the dweebs and the freaks are about to send a message the country needs right after 9/11. A very big thank you to Yasmin! Yasmin is a comedian and storyteller. You can follow her on Instagram @yasminelhahahady or TikTok @yasmin_elhady. She first told a version of this story at Story District in Washington, DC. Produced by Justin Kramon, original score by Renzo Gorrio, artwork by Teo Ducot. Snap Classic...",
+      "audioUrl": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/2e4000eb-3298-4b45-b7ae-d51ea4fbcb09/1519_RBCST_Vote_for_El_Hottie_Podcast_MST.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/7b8ab67d6bbfe35a.jpg",
+      "durationSeconds": 2744,
+      "datePublished": 1788440400,
+      "titleZh": "投票给El Hottie - Snap Classic",
+      "descZh": "在来自利比亚中心地带的阿拉巴马州甜蜜的家乡，来了一位戴着音响、戴着头巾的叛逆候选人。9/11之后，啦啦队员、极客、傻瓜和怪胎即将发出国家需要的信息。非常感谢Yasmin！亚斯明是一位喜剧演员和讲故事的人。您可以在Instagram @yasminelhahahady或TikTok @yasmin_elhady上关注她。她首先在华盛顿特区的故事区讲述了这个故事的一个版本。贾斯汀·克拉蒙（Justin Krmon）制作，伦佐·戈里奥（Renzo Gorrio）原创配乐，特奥·杜科特（Teo Ducot）艺术作品。Snap Classic."
+    },
+    {
+      "feedId": 727637,
+      "category": "stories",
+      "podcastTitle": "Snap Judgment",
       "episodeId": 59575797567,
       "title": "Campfire Tales: Hot Wheels",
       "description": "There’s a jumbie in a jalopy and the spirits are flowing during happy hour on St. Thomas. Plus, everybody kicks butt in Lee’s Los Gatos Spin Class but Cycle 23 is out of this world. Snap Judgment presents this year's Campfire Tales... \"Hot Wheels.” A supernatural summer tradition that features stories from our evil twin Spooked. Spooked drops weekly, you can listen on any podcast platform. Tune in and be afraid... STORIES Joyride There’s a jumbie in a jalopy and the spirits are flowing during happy hour on St. Thomas.<...",
@@ -1246,20 +1260,6 @@
       "datePublished": 1787230800,
       "titleZh": "Fejeleelia：One Hit Wonder？Snap Classic",
       "descZh": "抓住你的鲻鱼！英国鼓手尼克·墨菲和他的乐队在1984年与昆西·琼斯签署唱片协议后欣喜若狂。也就是说，直到偶然遇到世界上最伟大的明星之一改变一切。这是一位才华横溢的雪橇手的故事，他需要一场艰苦的战斗来让观众和媒体站在他一边。故事Feelengeelia：One Hit Wonder？抓住你的鲻鱼！英国鼓手尼克·墨菲和他的乐队在1984年与昆西·琼斯签署唱片协议后欣喜若狂。也就是说，直到."
-    },
-    {
-      "feedId": 727637,
-      "category": "stories",
-      "podcastTitle": "Snap Judgment",
-      "episodeId": 58942484564,
-      "title": "Super Pizza Man",
-      "description": "A pizza delivery guy goes full superhero out on the job. And a husband trying to bring joy to his pregnant wife pays a high price to satisfy her sweet tooth. Super Pizza Man A pizza delivery guy goes full superhero out on the job. A huge thank you to Nicholas Bostic for sharing your story! Nick would go on to be awarded the prestigious Carnegie Medal of Honor; the highest civilian honor for heroism. He currently runs his own lawn care business in Lafayette, Indiana. Produced by Bo Wal...",
-      "audioUrl": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/0f6b0476-149f-4644-978f-3b7a3b48b5f5/1737_SuperPizzaMan_Podcast_MST_Final.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/e16f44e6697e8c49.jpg",
-      "durationSeconds": 2977,
-      "datePublished": 1786626000,
-      "titleZh": "超级披萨人",
-      "descZh": "一名披萨送货员在工作中扮演了十足的超级英雄。一个试图给怀孕的妻子带来欢乐的丈夫付出了高昂的代价来满足她对甜食的喜爱。超级披萨侠一名披萨送货员在工作中展现出十足的超级英雄形象。非常感谢尼古拉斯·博斯蒂克分享您的故事！尼克将继续被授予著名的卡内基荣誉勋章;最高的平民荣誉的英雄主义。他目前在印第安纳州拉斐特经营自己的草坪护理业务。由Bo Wal制作…"
     },
     {
       "feedId": 482244,
