@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:08:11.765Z",
+  "updatedAt": "2026-09-04T08:09:18.291Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -191,7 +191,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -205,7 +205,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -257,6 +257,20 @@
       "feedId": 467906,
       "category": "learn-english",
       "podcastTitle": "Learning English Conversations",
+      "episodeId": 59924813429,
+      "title": "The English We Speak: Non-starter",
+      "description": "Some ideas are just never going to work. Those are what we call 'non-starters'. Learn how to use this expression with Feifei and Phil. As always, get your free transcript for this episode here: https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260831 Sign up to our weekly newsletter! Your favourite presenters write you an email with tips and resources to help you improve your English: https://www.bbc.co.uk/send/u178220599 - also feel free to respond! We read everything, although we don't have time to reply to everyone. Have...",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p79x32.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/32144ab173fcdb3e.jpg",
+      "durationSeconds": 176,
+      "datePublished": 1788251340,
+      "titleZh": "我们说的英语：Non-starter",
+      "descZh": "有些想法永远不会奏效。这些就是我们所说的“非启动者”。与菲菲和菲尔一起学习如何使用这个表达。一如既往，请在此处获取本期节目的免费成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260831注册我们的每周时事通讯！您最喜欢的演讲者给您写一封电子邮件，其中包含帮助您提高英语水平的技巧和资源：https://www.bbc.co.uk/send/u178220599-也可以随时回复！我们读了所有内容，尽管我们没有时间回复每个人。有..."
+    },
+    {
+      "feedId": 467906,
+      "category": "learn-english",
+      "podcastTitle": "Learning English Conversations",
       "episodeId": 59548810703,
       "title": "The English We Speak: No notes",
       "description": "Notes here is about negative feedback, so ‘no notes’ means that something is perfect. Use it when you have nothing negative to say. Learn about this expression and how to use it with Feifei and Georgie. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824 We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
@@ -280,20 +294,6 @@
       "datePublished": 1787043660,
       "titleZh": "我们所说的英语：少说",
       "descZh": "这种现代表达是对建议热情回应的一种方式。它的意思类似于“别再说了”。了解何时以及如何与乔吉和菲菲一起使用它。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260817有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
-    },
-    {
-      "feedId": 467906,
-      "category": "learn-english",
-      "podcastTitle": "Learning English Conversations",
-      "episodeId": 58907871783,
-      "title": "The English We Speak: Share your life story",
-      "description": "Think you sometimes over-share unnecessary details? Learn how to use 'share your life story' with Becca and Feifei. As always, find a free transcript here: ✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810 For more great language tips and programmes visit bbclearningenglish.com We send a newsletter with our weekly highlights - subscribe here: ✔️ https://www.bbc.co.uk/learningenglish/newsletters",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3v3m8.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/32144ab173fcdb3e.jpg",
-      "durationSeconds": 198,
-      "datePublished": 1786436940,
-      "titleZh": "我们所说的英语：分享您的生活故事",
-      "descZh": "认为你有时会过度分享不必要的细节吗？与贝卡和菲菲了解如何使用“分享你的生活故事”。与往常一样，请在此处找到免费的成绩单：https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260810有关更多精彩的语言技巧和节目，请访问bbclearningenglish.com我们发送包含每周亮点的时事通讯-在此处订阅：https://www.bbc.co.uk/learningenglish/newsletters️️"
     },
     {
       "feedId": 201470,
@@ -635,6 +635,20 @@
       "feedId": 771813,
       "category": "science",
       "podcastTitle": "StarTalk Radio",
+      "episodeId": 59922893302,
+      "title": "This Is Your Brain on Psychedelics",
+      "description": "What if you could reopen your childhood brain? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore the cutting edge of psychedelic science, critical periods, and what a high octopus can teach us about the human mind with neuroscientist and psychedelics expert Gül Dölen. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/this-is-your-brain-on-psychedelics/ Thanks to our Patrons Edward Tuten, CJP, David Williamson, Shelsea Evans, Curious1, brittanivstheworld, Mark Huth, Annmarie Pine, Austin Wiggins, John Sprot, T.C. Polk, David Rossi, Murat Tahtali, Levi Jackson, Jeff L Kel...",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d40e954f-9950-40e7-b9c9-b9ef4c386189/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d40e954f-9950-40e7-b9c9-b9ef4c386189&feed=4T39_jAj",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a36c9833c0d1071b.jpg",
+      "durationSeconds": 4456,
+      "datePublished": 1788498000,
+      "titleZh": "这是你在迷幻药上的大脑",
+      "descZh": "如果你可以重新打开童年的大脑会怎样？尼尔·德格拉斯·泰森（Neil deGrasse Tyson）、查克·尼斯（Chuck Nice）和加里·奥莱利（Gary O ' Reilly）与神经科学家和迷幻学专家古尔·多伦（Gül Dölen）一起探索迷幻科学的前沿、关键时期以及高章鱼可以教给我们关于人类思想的知识。注：StarTalk+的赞助者可以在此收听整集，无需商业广告：https://startalkmedia.com/show/this-is-your-brain-on-psychedelics/感谢我们的赞助者Edward Tuten、CJP、David Williamson、Shelsea Evans、Curious 1、brittanivstheworld、Mark Huth、Annmarie Pine、Austin Wiggins、John Sprot、TC波尔克、大卫·罗西、穆拉特·塔赫塔利、利维·杰克逊、杰夫·L·凯尔."
+    },
+    {
+      "feedId": 771813,
+      "category": "science",
+      "podcastTitle": "StarTalk Radio",
       "episodeId": 59781523054,
       "title": "Rogue Planets & Exomoons with David Kipping",
       "description": "Did we discover an exomoon? Neil deGrasse Tyson and Chuck Nice learn about the search for exoplanets with biosignatures, super Earths & mini Neptunes, and whether rogue planets outside of a solar system could harbor life with astrophysicist David Kipping. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/rogue-planets-exomoons-with-david-kipping/ Thanks to our Patrons Eric Solomon, Jakob Jegge, william northup, Mariam Fischer, Beirne, Sean Fox, xKansasxCowBoyx, xoydev, David Ostrow, Daniel Ramsey,Jessie Caldwell, Tyrone P, Matt, Ajari T, David,Luis Molina, jamescory, Albert Maneri, Zachary Samuel, Ken Kaneda, Nicole W...",
@@ -658,20 +672,6 @@
       "datePublished": 1787893200,
       "titleZh": "与凯瑟琳·赫夫一起解决人工智能的能源问题",
       "descZh": "核电是可持续发展的关键吗？数据中心消耗大量能源，我们能跟上吗？Neil deGrasse Tyson、Gary O ' Reilly和Paul Mecurio与核工程师Kathryn Huff讨论了在电力需求不断增加的世界中核反应堆的物理、安全和未来。最初于2025年2月21日发布。注：StarTalk+赞助者可以在此处收听整集无广告内容：https://startalkmedia.com/show/solving-ais-energy-problem-with-kathryn-huff/订阅CLARusXM播客+，收听StarTalk Radio的新剧集，无需广告，提前一周收听。立即开始免费试用."
-    },
-    {
-      "feedId": 771813,
-      "category": "science",
-      "podcastTitle": "StarTalk Radio",
-      "episodeId": 59484210267,
-      "title": "The Hunt for Dark Energy with Jason Rhodes",
-      "description": "How do you build a telescope to study something you can't see? Neil deGrasse Tyson and Paul Mecurio sit down with Jason Rhodes, senior research scientist at JPL, to explore the Nancy Grace Roman Space Telescope and its search for answers on dark energy and dark matter. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-hunt-for-dark-energy-with-jason-rhodes/ Thanks to our Patrons Bullseye, Steve Klein, Mr. G, Rachel Cecil, James Langfels, Amanda Dalton, Mark Robinson, Heyyo, Joshua Clark, Ava, Oliver Thomas, Daniel Treherne, Adam, David Fulps, Hanspeter, Derelict Doug, M...",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/dc8c4a65-cc44-45ab-85c5-1f150f7e8ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=dc8c4a65-cc44-45ab-85c5-1f150f7e8ac8&feed=4T39_jAj",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a36c9833c0d1071b.jpg",
-      "durationSeconds": 3022,
-      "datePublished": 1787634000,
-      "titleZh": "杰森·罗兹（Jason Rhodes）寻找暗能量",
-      "descZh": "如何建造望远镜来研究你看不到的东西？尼尔·德格拉斯·泰森（Neil deGrasse Tyson）和保罗·梅库里奥（Paul Mecurio）与喷气推进实验室高级研究科学家杰森·罗兹（Jason Rhodes）坐下来探索南希·格蕾丝·罗马太空望远镜及其寻找暗能量和暗物质的答案。注：StarTalk+赞助者可以在此处收听整集无广告内容：https://startalkmedia.com/show/the-hunt-for-dark-energy-with-jason-rhodes/感谢我们的赞助者Bullseye、Steve Klein、G先生、Rachel Cecil、James Langfels、Amanda Dalton、Mark Robinson、Heyyo、Joshua Clark、Ava、Oliver Thomas、Daniel Treherne、Adam、David Fulps、Hanspeter、Derelit Doug、M."
     },
     {
       "feedId": 656979,
@@ -972,13 +972,13 @@
       "category": "growth",
       "podcastTitle": "The Mel Robbins Podcast",
       "episodeId": 59873868074,
-      "title": "How to Eliminate Self-Doubt, Overcome Failure, & Reset Your Mind for Success",
+      "title": "Give Me 60 Minutes and I'll Eliminate Your Self-Doubt Forever with Benny Blanco",
       "description": "In this episode, you’ll learn how to stop doubting yourself and get anything you want in life. Mel is thrilled to introduce you to her incredible guest today – someone she’s admired and followed for years, and who is here today for YOU. Benny Blanco is one of the most successful and sought-after music producers and songwriters in the world and one of the defining hitmakers of the 21st century. Benny is a 12-time Grammy-nominated songwriter and producer with 29 #1 hits and 19 songs that have over a billion st...",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/23ba7c96-a7d7-4edb-a8c7-af2194cec1f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&awEpisodeId=23ba7c96-a7d7-4edb-a8c7-af2194cec1f2&feed=UCwaTX1J",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/46d31043d0c0bbb4.jpg",
       "durationSeconds": 3675,
       "datePublished": 1788408300,
-      "titleZh": "如何消除自我怀疑、克服失败并重新调整头脑以取得成功",
+      "titleZh": "给我60分钟，我将永远消除你与本尼·布兰科的自我怀疑",
       "descZh": "在这一集里，你将学会如何停止怀疑自己，并在生活中得到你想要的任何东西。梅尔很高兴向你介绍她今天令人难以置信的客人-一个她钦佩和追随多年的人，今天谁在这里为你。Benny Blanco是世界上最成功和最受欢迎的音乐制作人和词曲作者之一，也是21世纪最具影响力的音乐制作人之一。Benny是一位12次格莱美提名的词曲作者和制作人，拥有29首排名第一的热门歌曲和19首歌曲，这些歌曲的销量超过10亿美元。"
     },
     {
@@ -1076,7 +1076,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/987654580771de47.jpg",
       "durationSeconds": 327,
       "datePublished": 1788246000,
-      "titleZh": "奖金|7本AI无法取代的书",
+      "titleZh": "奖金|人工智能无法取代的7本书",
       "descZh": "在这个奖励节目中，瑞安分享了七本书，这些书将帮助您更清晰地思考、明智地使用人工智能，并变得更难替代。🎥 观看这一集|https://www.youtube.com/watch? v= AeBuZjNq 8 u 0📚在Ryan的书店The Painted Porch查看本集提到的书籍：https://www.thepaintedporch.com/👉注册Ryan的免费每月阅读列表时事通讯：https://ryanholiday.net/reading-list/🎟️每日斯多克直播|瑞安假日即将来到你附近的城市！在这里抢票|https."
     },
     {
@@ -1517,6 +1517,20 @@
       "feedId": 387129,
       "category": "history",
       "podcastTitle": "99% Invisible",
+      "episodeId": 59927030041,
+      "title": "100 Objects #16: Wheel of Fortune Dalmatian",
+      "description": "This episode is sponsored by Claude. For problems worth solving, get started with Claude at Claude.ai. If you watched Wheel of Fortune in the 1980s, you probably remember one prize more than all the others: the ceramic Dalmatian. For a brief moment, that prize—perhaps the ultimate useless object—became the mascot for one of America's most popular game shows, appearing on tens of millions of TV screens, night after night, all across the country. But…why? Game show historian Adam Nedeff and ceramic Dalmatian owner Terry Eldrige join Roman Mars to tell the story o...",
+      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/31ca0fe3aea7bd38.jpg",
+      "durationSeconds": 2812,
+      "datePublished": 1788505200,
+      "titleZh": "100件物品#16：财富之轮达尔马提亚犬",
+      "descZh": "本期节目由克劳德赞助。对于值得解决的问题，请从Claude.ai上的Claude开始。如果您在20世纪80年代观看了《财富之轮》，您可能会比所有其他奖项更记得一个奖项：陶瓷斑点狗。在一瞬间，这个奖品--也许是最终无用的物品--成为了美国最受欢迎的游戏节目之一的吉祥物，夜复一夜地出现在全国各地数千万个电视屏幕上。但是……为什么？游戏节目历史学家Adam Nedeff和达尔马提亚陶瓷老板Terry Eldrige与Roman Mars一起讲述."
+    },
+    {
+      "feedId": 387129,
+      "category": "history",
+      "podcastTitle": "99% Invisible",
       "episodeId": 59787189292,
       "title": "1-800-PODCAST",
       "description": "This week, two stories about the strange power of the 1-800 number. Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1540,20 +1554,6 @@
       "datePublished": 1787900400,
       "titleZh": "100件物品#15：邦迪时钟",
       "descZh": "1888年，威拉德·邦迪（Willard Bundy）创造了第一个员工“时钟”--本质上是一个增强版的落地钟，可以首次准确地记录工人到达和离开的时间。尽管邦迪的目标很简单，但他的发明很快引发了美国人生活的变化，其范围远远超出了他的预期。罗曼·马尔斯（Roman Mars）和记者埃莉·莱特富特（Ellie Lightfoot）追踪了时间时钟不仅引发了工作场所效率和监控的革命，而且改变了我们与时间本身的关系。《100件物品中的美国历史》是由99% Invisible和BBC Studios制作的。替补."
-    },
-    {
-      "feedId": 387129,
-      "category": "history",
-      "podcastTitle": "99% Invisible",
-      "episodeId": 59475752293,
-      "title": "Spolia",
-      "description": "Spolia, from a Liverpool neighborhood to ancient Rome. Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bd660e4c6cfe8882.jpg",
-      "durationSeconds": 1687,
-      "datePublished": 1787644800,
-      "titleZh": "斯波利亚",
-      "descZh": "斯波利亚，从利物浦街区到古罗马。订阅CLARusXM播客+，提前一周收听99% Invisible无广告的新剧集。立即在Apple播客上或访问siriusxm.com/podcastsplus开始免费试用。由AdsWizz公司Simplecast主办。有关我们收集和使用个人数据进行广告的信息，请参阅pcm.adswizz.com。"
     },
     {
       "feedId": 980370,
@@ -1769,6 +1769,20 @@
       "feedId": 6559880,
       "category": "sports",
       "podcastTitle": "The Rest Is Football",
+      "episodeId": 59925342924,
+      "title": "Fabian Hürzeler: The Youngest Ever Premier League Manager",
+      "description": "What were the biggest difficulties of taking charge of a Premier League club at the age of 31? Why are Brighton so successful, despite regularly having to sell some of their best players? How important is the style of football your team play? Gary Lineker meets up with Brighton boss Fabian Hürzeler to discuss his rapid journey to being a Premier League manager and the philosophies and man-management style that have underpinned that adventure. For more Goalhanger Podcasts, head to www.goalhanger.com Learn more ab...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT9534733224.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4c5b0d9292635627.jpg",
+      "durationSeconds": 3291,
+      "datePublished": 1788487200,
+      "titleZh": "法比安·胡尔泽勒：有史以来最年轻的英超主教练",
+      "descZh": "31岁执掌英超俱乐部最大的困难是什么？为什么布莱顿如此成功，尽管他们经常不得不出售一些最好的球员？您的球队的足球风格有多重要？加里·莱因克尔（Gary Lineker）会见了布莱顿主帅法比安·胡泽勒（Fabian Hürzeler），讨论了他快速成为英超主帅的历程，以及支撑这一冒险的理念和人员管理风格。欲了解更多Goalhanger播客，请访问www.goalhanger.com了解更多信息."
+    },
+    {
+      "feedId": 6559880,
+      "category": "sports",
+      "podcastTitle": "The Rest Is Football",
       "episodeId": 59828627840,
       "title": "The 2026/27 Premier League Draft",
       "description": "New season, new Premier League draft. Gary, Alan, Micah, and Rob Jones, compete to build the best team possible. Will anyone other than Erling Haaland go first? Will Alan load up on Newcastle players? Will Micah learn his lessons from last season when he blew his first pick on Fulham's Antonee Robinson? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -1792,20 +1806,6 @@
       "datePublished": 1788189300,
       "titleZh": "阿隆索的切尔西蓬勃发展，3亿英镑的热刺垫底",
       "descZh": "加里、艾伦和米卡陷入了英超周末，哈维·阿隆索的切尔西继续以4-3战胜布莱顿，若昂·佩德罗和科尔·帕尔默在观看者卡洛·安切洛蒂和托马斯·图赫尔的带领下领衔主演。热刺在夏天可能花费了超过3亿英镑，但他们继续苦苦挣扎，因为马蒂亚斯·贾斯勒的纽卡斯尔周六对他们造成了巨大的打击，再加上我们看到曼城在水晶宫确实发挥了作用，人们对利物浦的担忧在2-2战平森林队后仍然一无所获。</p."
-    },
-    {
-      "feedId": 6559880,
-      "category": "sports",
-      "podcastTitle": "The Rest Is Football",
-      "episodeId": 59608374620,
-      "title": "All 20 PL Clubs Predicted 26/27",
-      "description": "Who will be top four? Who’s heading for the drop? Which teams will surprise and which will disappoint? In this special episode, Gary, Alan, and Micah look ahead to the new Premier League Season. They evaluate every one of the twenty Premier League clubs, predicting where they will finish. r Buy tickets to watch the Rest is Football live show at: therestisfootball.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT2916977610.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4c5b0d9292635627.jpg",
-      "durationSeconds": 3122,
-      "datePublished": 1787882400,
-      "titleZh": "所有20家PL俱乐部预测26/27",
-      "descZh": "谁将成为前四名？谁要去空投？哪些球队会令人惊讶，哪些球队会令人失望？在这一特别节目中，加里、艾伦和米卡展望了新的英超赛季。他们评估了二十家英超俱乐部中的每一家，预测他们的结局。r购买门票观看Rest is Football现场表演：therestisfootball.com了解有关您的广告选择的更多信息。访问podcastchoices.com/adchoices"
     },
     {
       "feedId": 171816,
