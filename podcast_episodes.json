@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:52:14.967Z",
+  "updatedAt": "2026-09-05T21:52:06.446Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 59999593378,
+      "title": "What's the biggest barrier to thriving? A philosopher and a space architect answer | Ariel Ekblaw and Meghan Sullivan",
+      "description": "Philosopher Meghan Sullivan and space architect Ariel Ekblaw don't usually work at the same altitude ... but put them in a room together, and they'll answer the big questions. Drawing on wisdom from Aristotle to astronauts, they discuss what humans inherently owe each other, what it takes to live a good life and what a rulebook for a better world might look like. (This conversation is part of “TED Intersections,” a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.) Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c8e809ae7c2f4fbb7b8/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 916,
+      "datePublished": 1788620400,
+      "titleZh": "繁荣的最大障碍是什么？哲学家和太空建筑师的回答|阿里尔·埃克布劳和梅根·沙利文",
+      "descZh": "哲学家Meghan Sullivan和太空建筑师Ariel Ekblaw通常不在同一个高度工作。但是把他们放在一个房间里，他们会回答一些大问题。从亚里士多德到宇航员的智慧，他们讨论了人类固有的相互亏欠，过上美好生活需要什么，以及一个更美好世界的规则手册可能是什么样子。(This对话是“TED交叉路口”的一部分，这是一系列专家之间的发人深省的对话，引导我们的世界形成思想。由Acast主持。更多信息请访问acast.com/privacy。"
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 59958683180,
       "title": "Meet the youngest-ever mayor in Japan's history | Ryosuke Takashima",
       "description": "TED Fellow Ryosuke Takashima is the youngest-ever mayor in Japan's history — but he doesn't consider himself a politician. His approach to leadership is simple: listen to as many voices as possible (from students to elders) in order to figure out what needs fixing. Hear why he thinks inviting citizens to participate in reforming their own communities is the best way to get things done. Following his story, pulled from a short film he made for TED, Ryosuke speaks with Lily James Olds, director of the TED Fellows program, on the unexpected benefits of being a young ci...",
@@ -1582,20 +1596,6 @@
       "datePublished": 1788447600,
       "titleZh": "音乐史上缺失的那一半|加布里埃拉·迪·拉乔",
       "descZh": "谁来决定哪些声音可以存活？这是一个古典歌手Gabriella Di Laccio从未想过要问的问题，直到她发现了一本百科全书，列出了历史上成千上万的女性作曲家。几乎不认识他们她重新发现这些才华横溢的音乐家的旅程揭示了有多少歌曲没有被听到-并引发了一个任务，记录什么是沉默成为永久之前失踪。由Acast主持。更多信息请访问acast.com/privacy。"
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 59859376843,
-      "title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
-      "description": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere. (This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 773,
-      "datePublished": 1788361200,
-      "titleZh": "如何挖掘你的意识--以及为什么冥想比你想象的更容易|永吉明久仁波切",
-      "descZh": "冥想要求你进入一种宁静的临在状态。但为什么听起来毫不费力的事情却常常让人感觉如此困难呢？在这份轻松愉快的邀请中，精神领袖Yongey Mingyur Rinpoche分享了三个步骤，帮助您接受情绪的潮起潮落，并学会随时随地冥想。(This剧集最初于2022年播出。）由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 388141,
@@ -1811,6 +1811,34 @@
       "feedId": 171816,
       "category": "sports",
       "podcastTitle": "Men In Blazers",
+      "episodeId": 59994939376,
+      "title": "Arsenal & Chelsea Battle to Stay Perfect, Everton’s Transfer Woes Continue & Can Barcola Fix Liverpool? | Big Weekend Preview 09/03/26",
+      "description": "Big Weekend Preview returns as Rog, Rory Smith and Humphrey Ker break down a massive Premier League weekend. They start with Arsenal and Chelsea’s battle of perfect starts before turning to Liverpool’s blockbuster Bradley Barcola signing and the holes still left in Andoni Iraola’s squad. Then they dig into Everton’s failed Balogun move and frustrating end to the transfer window ahead of Manchester United, before asking whether Spurs can get their first win of the season against Nottingham Forest. Plus, full score predictions for the weekend ahead. Watch our interview with Xabi Alonso here: ht...",
+      "audioUrl": "https://rss.art19.com/episodes/d8f64515-9461-4063-8b4a-735bf3c6f25d.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/274dfcda5a002001.jpg",
+      "durationSeconds": 2034,
+      "datePublished": 1788469200,
+      "titleZh": "阿森纳和切尔西争夺完美，埃弗顿的转会困境仍在继续，巴科拉能否修复利物浦？| 大周末预览09/03/26",
+      "descZh": "随着罗格、罗里·史密斯和汉弗莱·克尔打破了一个盛大的英超周末，大周末预览回归。他们从阿森纳和切尔西的完美开局之战开始，然后转向利物浦的重磅签约布拉德利·巴科拉，以及安多尼·西莫拉的球队仍然存在漏洞。然后，他们深入研究了埃弗顿失败的巴洛根转会以及曼联之前转会窗口的令人沮丧的结束，然后询问热刺是否能在对阵诺丁汉森林的比赛中取得本赛季的首场胜利。此外，还有未来周末的满分预测。观看我们对Xabi Alonso的采访：ht..."
+    },
+    {
+      "feedId": 171816,
+      "category": "sports",
+      "podcastTitle": "Men In Blazers",
+      "episodeId": 59994939382,
+      "title": "Arsenal CEO Richard Garlick on Life as Premier League Champions, Mikel Arteta’s Relentless Drive, and Building a Dynasty: Running the Game 09/01/26",
+      "description": "On the latest episode of Running the Game, Rog sits down with Arsenal CEO Richard Garlick to discuss why last season’s Premier League title could be the start of a dynasty, what his role as CEO looks like across Arsenal’s football and business operations, and the relentless approach Mikel Arteta brings to building a winning team. Plus, Garlick reflects on Arsenal’s unique connection with supporters from North London to around the world. Check out the Men in Blazers Shop: https://mibcourage.co/4qIb2L1 Sign up for our newsletters: https://mibcourage.co/4rA5fGz...",
+      "audioUrl": "https://rss.art19.com/episodes/90a17cc6-90e4-4bf3-a64b-27aa3d1814dd.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/2cc34a96b3093b67.jpg",
+      "durationSeconds": 1008,
+      "datePublished": 1788256800,
+      "titleZh": "阿森纳首席执行官理查德·加利克谈英超冠军的生活，米克尔·阿尔特塔的不懈努力，以及建立一个王朝：运行游戏09/01/26",
+      "descZh": "在最新一集的《奔跑游戏》中，罗格与阿森纳首席执行官理查德·加利克坐下来讨论为什么上赛季的英超冠军可能是一个王朝的开始，他作为阿森纳足球和商业运营中的首席执行官的角色是什么样子，以及米克尔·阿尔特塔为建立一支获胜球队所带来的不懈的方法。此外，加利克还反思了阿森纳与从北伦敦到世界各地的支持者的独特联系。查看Blazers Men Shop：https://mibcourage.co/4qIb2L1注册我们的时事通讯：https://mibcourage.co/4rA5fGz."
+    },
+    {
+      "feedId": 171816,
+      "category": "sports",
+      "podcastTitle": "Men In Blazers",
       "episodeId": 59781268543,
       "title": "Liverpool's Dysfunction, Chelsea's Firepower, and Rayan Cherki Magic: Men In Blazers 08/31/26",
       "description": "Rog and Rory are back to break down all of the Premier League action from Matchweek 2, including Cole Palmer and Chelsea firing on all cylinders under Xabi Alonso—but just how concerning is their leaky defense with their showdown against Arsenal looming next week? Meanwhile, Liverpool's situation remains increasingly muddled after another draw, this time against Nottingham Forest. Does the dysfunction stem from Andoni Iraola, the system, the players, ownership, or all of the above? Plus, Rayan Cherki and Bruno Fernandes take their wizardry to another level, while Tottenham welcome fresh faces only to endure the same misery. Plus, Ro...",
@@ -1820,34 +1848,6 @@
       "datePublished": 1788204600,
       "titleZh": "利物浦的功能失调，切尔西的火力，和雷恩切尔基魔术：男子在开拓者08/31/26",
       "descZh": "罗格和罗里回来打破了第二场比赛的所有英超比赛，包括科尔·帕尔默和切尔西在哈维·阿隆索的带领下全力以赴--但随着下周对阵阿森纳的对决，他们的防守漏洞有多令人担忧？与此同时，利物浦在再次战平诺丁汉森林后的处境仍然越来越混乱。这种功能障碍是源于安多尼·莫拉、体系、球员、所有权还是上述所有因素？此外，拉扬·切尔基和布鲁诺·费尔南德斯将他们的魔法提升到了另一个高度，而托特纳姆热刺队则欢迎新面孔，但却遭受了同样的痛苦。另外，罗."
-    },
-    {
-      "feedId": 171816,
-      "category": "sports",
-      "podcastTitle": "Men In Blazers",
-      "episodeId": 59542689988,
-      "title": "Cole Palmer on Returning to Form Under Xabi Alonso and Playing Alongside Morgan Rogers: Men In Blazers 08/26/26",
-      "description": "Rog is joined by Chelsea midfield star Cole Palmer to talk about his fast start against Fulham and what it’s been like linking up with his friend and new attacking partner, Morgan Rogers. He opens up about dealing with injuries and getting back to playing freely again under new manager Xabi Alonso. Cole also talks about launching his new ice brand and shares his reaction to Caleb Williams copying his trademark celebration. Check out the Men in Blazers Shop: https://mibcourage.co/4qIb2L1 Sign up for our newsletters: https://mibcourage.co/4rA5fGz ...",
-      "audioUrl": "https://rss.art19.com/episodes/978631dd-886b-444c-8c91-449db2101f15.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/2cc34a96b3093b67.jpg",
-      "durationSeconds": 391,
-      "datePublished": 1787751000,
-      "titleZh": "科尔·帕尔默（Cole Palmer）在哈维·阿隆索（Xabi Alonso）的带领下恢复状态并与摩根·罗杰斯（Morgan Rogers）并肩作战：开拓者队男子08/26",
-      "descZh": "罗格与切尔西中场球星科尔·帕尔默一起谈论了他在对阵富勒姆的比赛中的快速开局，以及与他的朋友兼新进攻搭档摩根·罗杰斯合作的感觉。他敞开心扉谈论如何应对伤病，并在新主帅哈维·阿隆索的带领下再次恢复自由踢球。科尔还谈到了推出他的新冰品牌，并分享了他对凯莱布·威廉姆斯抄袭他标志性庆祝活动的反应。查看Blazers Men Shop：https://mibcourage.co/4qIb2L1注册我们的时事通讯：https://mibcourage.co/4rA5fGz."
-    },
-    {
-      "feedId": 171816,
-      "category": "sports",
-      "podcastTitle": "Men In Blazers",
-      "episodeId": 59479366132,
-      "title": "Bruno Fernandes on Manchester United's New Era, Breaking the Assist Record, and Michael Carrick, Presented by YETI: Men in Blazers 08/25/26",
-      "description": "Rog sits down with Manchester United midfielder Bruno Fernandes to talk through a new season at Old Trafford, what the secret was to breaking the Premier League assist record last season, and the impact playing under Michael Carrick has had on himself and the club. Plus, Bruno breaks down the growth of young phenom Shea Lacey, what new signings Youri Tielemans and Andrey Santos will bring to the squad, and why he hates English tea. Check out the Men in Blazers Shop: https://mibcourage.co/4qIb2L1 Sign up for our newsletters: https://mibcourage.co/4...",
-      "audioUrl": "https://rss.art19.com/episodes/38f7b7b1-f3a3-4555-a019-d0fd03b212b0.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/56f09a01271d9440.jpg",
-      "durationSeconds": 728,
-      "datePublished": 1787652000,
-      "titleZh": "布鲁诺·费尔南德斯（Bruno Fernandes）谈曼联的新时代，打破助攻纪录，迈克尔·卡里克（Michael Carrick），由YETI呈现：开拓者队的男子08/25/26",
-      "descZh": "罗格与曼联中场球员布鲁诺·费尔南德斯坐下来谈论在老特拉福德的新赛季，打破上赛季英超助攻记录的秘诀是什么，以及迈克尔·卡里克执教对他自己和俱乐部的影响。此外，布鲁诺还详细介绍了年轻新星谢伊·莱西的成长、新签约尤里·蒂勒曼斯和安德烈·桑托斯将为球队带来什么，以及他为什么讨厌英国茶。查看Blazers Men Shop：https://mibcourage.co/4qIb2L1注册我们的时事通讯：https：//mibcourge.co/4."
     },
     {
       "feedId": 743065,
