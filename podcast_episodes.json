@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:00:43.962Z",
+  "updatedAt": "2026-09-05T11:36:40.896Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -191,7 +191,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -205,7 +205,7 @@
       "title": "Chatterbox #352 – Hot hot summer",
       "description": "What does a heat wave actually do to your day? Andrew and Anna compare their summers from opposite sides of the world. Anna is in Madrid, where a hot day reaches 40 degrees and the blinds stay closed until evening. Andrew is in Seoul, where the rainy season just ended but the humidity stayed. They talk about air conditioning, lost sleep, cold showers, and the wildfires that burned west of Madrid this summer. Keep an ear out for these phrases during the episode: Not so fast Respite Bar none To do one’s business Bone dry To bu...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/CB352_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2222,
       "datePublished": 1787021952,
       "titleZh": "Chatterbox #352 -炎热的夏天",
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 59978549337,
+      "title": "Mosquitoes",
+      "description": "Throughout human history, a tiny insect has influenced wars, shaped settlement patterns, halted major engineering projects, and caused more deaths than almost any other animal. For most of history, no one understood why these creatures were so dangerous, or even that they were responsible for spreading disease. Eventually, we learned how to fight back, but our efforts were middling at best. Learn more about mosquitoes, how they became one of humanity’s greatest biological enemies, and how we learned to fight them, on this episode of Everything Everywhere Daily. ...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS2249507016.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/1c7518f4444dadfa.jpg",
+      "durationSeconds": 963,
+      "datePublished": 1788598800,
+      "titleZh": "蚊子",
+      "descZh": "纵观人类历史，一种微小的昆虫影响了战争，塑造了定居模式，停止了重大工程项目，并造成了比几乎任何其他动物都多的死亡。在历史的大部分时间里，没有人明白为什么这些生物如此危险，甚至没有人明白它们是传播疾病的罪魁祸首。最终，我们学会了如何反击，但我们的努力充其量也只是中等。在《Everything Everywhere Daily》的本期节目中，了解更多有关蚊子的信息，了解它们如何成为人类最大的生物敌人之一，以及我们如何学会对抗它们。..."
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 59931787092,
       "title": "The 1920 Wall Street Bombing",
       "description": "At 12:01 PM on Thursday, September 16, 1920, a large explosion went off in the heart of America’s financial industry. 30 people were killed instantly, another eight people died later from wounds, and 150 others were seriously injured. No one was ever brought to justice for this attack, leading people to wonder who the culprit or culprits are to this day. Learn about the 1920 Wall Street bombing on this episode of Everything Everywhere Daily. Shop the store at Shop.Everything-Everywhere.com Sponsors Hexclad Get 10% off...",
@@ -1498,20 +1512,6 @@
       "datePublished": 1788426000,
       "titleZh": "伊斯帕尼奥拉岛分裂",
       "descZh": "在加勒比海，两个国家共用一个岛屿，但他们的历史、语言、经济和政治制度却沿着截然不同的道路发展。他们的边界不仅仅是地图上的一条线。它实际上可以从太空看到。它反映了几个世纪的殖民化、革命、外国干预和相互竞争的民族认同，这些认同以截然不同的方式塑造了双方。了解更多关于伊斯帕尼奥拉岛的信息，以及它是如何在这一集的Everything Everywhere Daily中分裂的。在Shop.Everything-Everywhere.com </p."
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 59837289891,
-      "title": "Watergate",
-      "description": "On June 17, 1972, a seemingly minor burglary at a Washington, D.C. office building set off a chain of events that would shake the American political system to its core. What began with five arrests soon revealed secret campaign operations, illegal surveillance, hush money, destroyed evidence, and an expanding effort to conceal the truth. The investigation would consume the country, test the limits of presidential power, and ultimately bring down a president. Learn more about Watergate and the scandal that forever changed American politics on this episode of Everything Everywhere Daily. ...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS9607816934.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/e67438e7da901c9c.jpg",
-      "durationSeconds": 899,
-      "datePublished": 1788339600,
-      "titleZh": "水门",
-      "descZh": "1972年6月17日，华盛顿特区一栋办公楼发生了一起看似轻微的入室盗窃案，引发了一系列事件，彻底动摇了美国政治体系。从五人被捕开始的事情很快就揭露了秘密竞选行动、非法监视、封口费、销毁证据以及不断扩大的掩盖真相的努力。这项调查将吞噬整个国家，考验总统权力的极限，并最终推翻总统。请在《Everything Everywhere Daily》的本期节目中了解更多有关水门事件和永远改变美国政治的丑闻的信息。..."
     },
     {
       "feedId": 387129,
