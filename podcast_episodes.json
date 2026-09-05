@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T14:19:38.761Z",
+  "updatedAt": "2026-09-05T17:52:14.967Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 59992050349,
+      "title": "Selects: Blacksmiths? You got that right!",
+      "description": "Blacksmiths? You got that right. Learn all about this age old occupation in this classic episode. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bf0e1069-4fc9-452d-b033-b4ba00f31ce1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 3019,
+      "datePublished": 1788598800,
+      "titleZh": "收件箱：铁匠？你说得对！",
+      "descZh": "铁匠？你说得对。在这一经典剧集中了解有关这个古老职业的所有信息。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 59895688302,
       "title": "Social Identity Theory: Your Group Rules, Others Drool",
       "description": "In the 80s, a pair of psychologists theorized why being part of a group can change people’s thoughts and feelings, both about themselves and other people. It sounds dry, but SIT explains everything from how people justify genocide to football rivalries. See omnystudio.com/listener for privacy information.",
@@ -559,7 +573,7 @@
       "durationSeconds": 2852,
       "datePublished": 1788426000,
       "titleZh": "社会认同理论：你的群体规则，其他人流口水",
-      "descZh": null
+      "descZh": "80年代，一对心理学家提出了为什么成为一个群体的一员可以改变人们对自己和他人的想法和感受的理论。这听起来很枯燥，但SIT解释了一切，从人们如何为种族灭绝辩护到足球竞争。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 827592,
@@ -574,20 +588,6 @@
       "datePublished": 1788339600,
       "titleZh": "短篇小说：大内久",
       "descZh": "日本核工作者大内恒经常在互联网上被称为“世界上放射性最强的人”。这并不完全正确，但它传达了他所接受的致命辐射剂量有多严重。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59799415974,
-      "title": "Terry Fox: Greatest Canadian Hero",
-      "description": "It is to the great nation of Canada’s lasting credit that it has prized Terry Fox as one of the most beloved and admired citizens for nearly 50 years now. It’s difficult to get across how much he means to Canada. Lucky for us, his story speaks for itself. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 2807,
-      "datePublished": 1788253200,
-      "titleZh": "特里·福克斯：最伟大的加拿大英雄",
-      "descZh": "近50年来，特里·福克斯一直将其视为最受爱戴和钦佩的公民之一，这是为了加拿大这个伟大国家的持久信誉。很难理解他对加拿大有多重要。幸运的是，他的故事不言自明。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 8820,
@@ -719,6 +719,20 @@
       "feedId": 52651,
       "category": "science",
       "podcastTitle": "Something You Should Know",
+      "episodeId": 59989522472,
+      "title": "Why Secrets Are So Hard to Keep & The Curious Quirks of Language - SYSK Choice",
+      "description": "Eye contact can be tricky. Too little can make you seem bored or distracted. Too much can get uncomfortable fast. So what is the right amount? This episode begins with some fascinating research on eye contact and the subtle signals you send with your eyes. http://www.spring.org.uk/2013/07/how-eye-contact-works.php Someone tells you a secret and makes you promise not to tell. You intend to keep that promise — so why can the urge to tell someone else become so strong? Secrets can weigh on us, yet revealing one can damage relationships and destroy trust. So wh...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP4205751153.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
+      "durationSeconds": 2913,
+      "datePublished": 1788591780,
+      "titleZh": "为什么秘密如此难以保守'语言的奇怪之处- SYSK Choice",
+      "descZh": "眼神交流可能很棘手。太少会让你看起来无聊或心烦意乱。太多会很快变得不舒服。那么正确的金额是多少呢？这一集从一些关于眼神交流和你用眼睛发出的微妙信号的有趣研究开始。http://www.spring.org.uk/2013/07/how-eye-contact-works.php有人告诉你一个秘密，并让你保证不告诉。你打算信守这个承诺--那么为什么告诉别人的冲动会变得如此强烈呢？秘密可能会给我们带来压力，但泄露秘密可能会损害关系并破坏信任。所以..."
+    },
+    {
+      "feedId": 52651,
+      "category": "science",
+      "podcastTitle": "Something You Should Know",
       "episodeId": 59892215661,
       "title": "The Surprising Power of Swearing & How to Build Confidence Fast",
       "description": "Want to significantly improve your chances of getting a good night’s sleep? There is one surprisingly simple thing you can do during the day that may actually help you sleep better that night. And no, it doesn’t involve exercise, meditation or giving up your phone. This episode begins with what it is and why it may work. https://sleepopolis.com/news/make-bed-better-sleep/ Every language and every culture has swear words. We’re taught as children not to say them, yet somehow we all learn exactly what they are. So why does swearing exist in the first...",
@@ -742,20 +756,6 @@
       "datePublished": 1788246180,
       "titleZh": "SYSK趋势-食物中添加的成分都那么糟糕吗？",
       "descZh": "加工食品的名声相当糟糕。我们被警告要避免食用含有冗长成分清单、神秘添加剂和我们无法发音的化学名称的食物。“超加工”实际上已经成为“对你不好”的另一种说法。但这是判断我们吃什么的有用方法吗？毕竟，我们吃的几乎所有东西都经过了某种方式的加工，而且我们吃的一切--包括完全天然的食物--都是由化学物质制成的。那么，如何才能区分哪些成分值得担心，哪些成分听起来很可怕呢？为什么制造商要将防腐剂、乳化剂、人工香精、稳定剂."
-    },
-    {
-      "feedId": 52651,
-      "category": "science",
-      "podcastTitle": "Something You Should Know",
-      "episodeId": 59744937017,
-      "title": "How to Get Better Healthcare & The Strange Ways Weather Affects You",
-      "description": "Ever notice that the trip home often seems shorter than the trip there—even when the distance and travel time are exactly the same? It happens so often that researchers have given it a name: the “return trip effect.” And the explanation reveals something fascinating about how your brain experiences time. https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583 You’re told to “take charge of your healthcare.” But how exactly are you supposed to do that when the doctor is the expert, appointments are short, and navigating the healthcare system can be frustrating and confusing? It turns out th...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP5907979832.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
-      "durationSeconds": 3048,
-      "datePublished": 1788159780,
-      "titleZh": "如何获得更好的医疗保健以及天气影响您的奇怪方式",
-      "descZh": "有没有注意到，回家的旅程似乎往往比那里的旅程要短--即使距离和旅行时间完全相同？这种情况经常发生，研究人员给它起了一个名字：“回程效应”。这个解释揭示了大脑如何体验时间的一些有趣的东西。https://pmc.ncbi.nlm.nih.gov/articles/PMC3179583您被告知要“负责您的医疗保健”。但是，当医生是专家、预约时间很短、在医疗保健系统中导航可能会令人沮丧和困惑时，你到底应该如何做到这一点呢？事实证明."
     },
     {
       "feedId": 215799,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 59989303259,
+      "title": "SYMHC Classics: Olympe de Gouges",
+      "description": "This 2021 episode covers Olympe de Gouges, known primarily for her 1791 pamphlet “Declaration of the Rights of Woman and the Citizen.” But her writing and political activity went far beyond that one pamphlet. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/e3d8ae25-16b1-447f-beda-b4ba012f0781/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2209,
+      "datePublished": 1788613200,
+      "titleZh": "SYMHC经典：古日奥林匹克",
+      "descZh": "2021年的这一集讲述了奥林普·德·古热（Olympe de Gouges），她主要因1791年的小册子《妇女和公民权利宣言》而闻名。但她的写作和政治活动远远超出了那本小册子的范围。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 59942250343,
       "title": "Behind the Scenes Minis: Percy Theories",
       "description": "Holly shares additional details of Percy Fawcett's life, including theories about his interest in spiritualism leading him to some odd conclusions. See omnystudio.com/listener for privacy information.",
@@ -1414,20 +1428,6 @@
       "datePublished": 1788354000,
       "titleZh": "珀西·福塞特（Percy Fawcett），手稿512，以及亚马逊地区失落的城市。2",
       "descZh": "珀西·福塞特故事的第二部分探讨了他对一份名为《手稿512》的文件的迷恋，以及它如何影响他的生活。他的痴迷导致了他的失踪;关于到底发生了什么，人们一直在猜测。研究：Biello，David.“古代亚马逊实际上是高度城市化的。科学美国人。2008年8月28日。“巴西原住民。”生存国际。https://www.survivalinternational.org/peoples/brazilian大英百科全书编辑。“马托格罗索”。大英百科全书，2026年1月10日，https://www.britannica.com/place/Mato-Grosso Canal-Soler，Jordi。“为了寻找失落的Z之城而牺牲的人。”国家地理。二零二四年六月十三日https://www.nationalgeographic.com/history/article/percy-fawcett..."
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 59770485359,
-      "title": "Percy Fawcett, Manuscript 512, and a Lost City in the Amazon, Pt. 1",
-      "description": "Fawcett’s life has invited controversy and speculation, because he was a man who did a mix of great and shady things. Part one covers his early life, marriage, military service, and early visits to South America. Research: Biello, David. “Ancient Amazon Actually Highly Urbanized.” Scientific American. August 28, 2008. “The Brazilian Indigenous People.” Survival International. https://www.survivalinternational.org/peoples/brazilian Britannica Editors. \"Mato Grosso\". Encyclopedia Britannica, 10 Jan. 2026, https://www.britannica.com/place/Mato-Grosso Canal-Soler, Jordi. “The man who died searching for the Lost City of Z.” National geographic. June 13, 2024. https://www.nationalgeographic.com/history/article/percy-fawcett-search-lost-city-of-z Fawcett, Lt-Col...",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/9f2834cd-2294-44b2-a0e7-b4b300fb7953/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 2046,
-      "datePublished": 1788181200,
-      "titleZh": "珀西·福塞特（Percy Fawcett），手稿512，以及亚马逊地区失落的城市。1",
-      "descZh": "福塞特的一生引起了争议和猜测，因为他是一个做了伟大和阴暗事情的人。第一部分介绍了他的早年生活、婚姻、服兵役和早期访问南美洲。研究：Biello，David.“古代亚马逊实际上是高度城市化的。科学美国人。2008年8月28日。“巴西原住民。”生存国际。https://www.survivalinternational.org/peoples/brazilian大英百科全书编辑。“马托格罗索”。大英百科全书，2026年1月10日，https://www.britannica.com/place/Mato-Grosso Canal-Soler，Jordi。“为了寻找失落的Z之城而牺牲的人。”国家地理。二零二四年六月十三日https://www.nationalgeographic.com/history/article/percy-fawcett-search-lost-city-of-z Fawcett，Lt-Col."
     },
     {
       "feedId": 1365765,
