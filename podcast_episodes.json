@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:00:55.737Z",
+  "updatedAt": "2026-09-05T02:08:46.841Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -593,6 +593,20 @@
       "feedId": 8820,
       "category": "science",
       "podcastTitle": "Ologies with Alie Ward",
+      "episodeId": 59963455574,
+      "title": "Party Psychology (WHY WE CELEBRATE) with Danielle Brick & Kelley Gullo-Wight",
+      "description": "Rituals. Gatherings. Celebrations. Surprise parties. Weekend getaways. Campfires and birthday candles are in our DNA, and colleagues/social psychologists Dr. Danielle Brick & Dr. Kelley Gullo-Wight explain why. This conversation was like if you got seated at a dinner party next to two friends who study why we have dinner parties. We cover the neuroscience of anticipation, how much is too much for the ‘gram, a time machine to the middle ages, and how enjoying the good times together helps us weather our storms. Follow Dr. Brick on Google Scholar Visit Dr. Gullo-Wight’s website and foll...",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/56ad2d07-1068-480e-b152-8ffc20b29678/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=56ad2d07-1068-480e-b152-8ffc20b29678&feed=FO6kxYGj",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ec97fbf821092fc6.jpg",
+      "durationSeconds": 2675,
+      "datePublished": 1788570000,
+      "titleZh": "丹尼尔·布里克和凯利·古洛-怀特的派对心理学（为什么我们庆祝）",
+      "descZh": "仪式。聚会。庆祝活动。惊喜派对。周末度假。营火和生日蜡烛是我们的DNA，同事/社会心理学家Danielle Brick博士和Kelley Gullo-Wight博士解释了原因。这次对话就像你在晚宴上坐在两个朋友旁边，他们研究我们为什么举办晚宴。我们涵盖了预期的神经科学、对于“克”来说多少才算太多、中世纪的时间机器，以及如何共同享受美好时光帮助我们度过难关。在Google Scholar上关注Brick博士访问Gullo-Wight博士的网站并关注..."
+    },
+    {
+      "feedId": 8820,
+      "category": "science",
+      "podcastTitle": "Ologies with Alie Ward",
       "episodeId": 59832471737,
       "title": "Deep Sea Microbiology (UNSEEN OCEAN CRITTERS) with Peter Girguis",
       "description": "Creatures in inky trenches. Exploring the sea floor. Mud medicine. Tube worms. Harvard professor and Deep Sea Microbiology legend Dr. Peter Girguis tells tales of ocean expeditions and answers questions about extremophiles, life on other planets, Atlantis, shark encounters, methane munching, hydronauts, Trekkie trivia, the safety of submersibles, deep sea simulations, and how ocean organisms may just save your life. Visit the Girguis Laboratory and follow Dr. Girguis on Google Scholar A donation went to the National Immigration Law Center More episode sources and links Other episodes you may enjoy: Oceanology (O...",
@@ -616,20 +630,6 @@
       "datePublished": 1787733000,
       "titleZh": "Metaphitology（SKUNKS）第2部分，Jerry Dragoo",
       "descZh": "当你的脸被臭鼬喷了九次时，会发生什么？第二部分，Mephitologist Jerry Dragoo博士回答了这个问题。议程上还有：宠物臭鼬、熏衣草臭鼬、臭鼬计划生育、佩佩·勒皮尤受审、为什么我们中的一些人喜欢恶臭、如何处理臭鼬的方法、臭鼬是否能闻到自己的味道，以及这位客人第一次成名于国际臭鼬的非常奇怪的情况。还有：观看臭鼬的正确方法。查看Dragoo改善臭鼬和臭鼬声誉研究所捐赠."
-    },
-    {
-      "feedId": 8820,
-      "category": "science",
-      "podcastTitle": "Ologies with Alie Ward",
-      "episodeId": 59201872493,
-      "title": "Mephitology (SKUNKS) Part 1 with Jerry Dragoo",
-      "description": "It’s here. SKUNKS. My dream guest, Dr. Jerry Dragoo of the Institute for the Betterment of Skunks and Skunk Reputations is finally on Ologies, and I can barely contain myself. Come to Albuquerque to meet this Mephitological legend. In this very special and precious 2-part series, we’ll explore tiny baby skunks, spotted ones, cartoon skunks, skunk spray remedies, skunks and astronauts, how to get sprayed by a skunk, how *not* to get sprayed, what skunk spray tastes like, how much it costs to purchase, how their populations are doing, skunks vs. snakes, who eats skunks, island skunks, reha...",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/40095c95-e211-4248-94a0-0b993044776e/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=40095c95-e211-4248-94a0-0b993044776e&feed=FO6kxYGj",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ec97fbf821092fc6.jpg",
-      "durationSeconds": 3651,
-      "datePublished": 1787122800,
-      "titleZh": "Metaphitology（SKUNKS）第一部分，Jerry Dragoo",
-      "descZh": "它在这里。臭鼬。我的梦中嘉宾、臭鼬和臭鼬声誉改善研究所的杰里·德拉古博士终于来到了Ologies，我几乎无法控制自己。来阿尔伯克基认识这位Metaphitology传奇人物。在这个非常特别而珍贵的两部分系列中，我们将探索小臭鼬、斑点臭鼬、卡通臭鼬、臭鼬喷雾剂、臭鼬和宇航员、如何被臭鼬喷雾、如何 * 不 * 被喷雾、臭鼬喷雾剂的味道是什么、购买费用多少、它们的种群状况如何、臭鼬与蛇、谁吃臭鼬、岛屿臭鼬、雷哈."
     },
     {
       "feedId": 771813,
@@ -937,7 +937,7 @@
       "durationSeconds": 1865,
       "datePublished": 1788408000,
       "titleZh": "新事物（安可）",
-      "descZh": "最初作为第十二季第14集（2023年9月4日）我们今晚的故事被称为《新事物》，这是一个关于夏末骑自行车时偶然发现一个美丽地方的故事。它还涉及睡莲、地图上标记的X，以及看着朋友步入生活新季节的乐趣。感谢您成为高级订阅者。💙    加入      没事村应用程序！订购凯瑟琳的新书      On the Street Where You Live           NMH Merch、亲笔签名书籍等！      收听我们的日间节目      来自诺蒂村的故事."
+      "descZh": "最初作为第十二季第14集（2023年9月4日）我们今晚的故事被称为《新事物》，这是一个关于夏末骑自行车时偶然发现一个美丽地方的故事。它还涉及睡莲、地图上标记的X，以及看着朋友步入生活新季节的乐趣。感谢您成为高级订阅者。💙    加入      没事村应用程序！订购凯瑟琳的新书      On the Street Where You Live           NMH Merch，签名书籍和更多！      收听我们的日间节目      来自诺蒂村的故事."
     },
     {
       "feedId": 178448,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 59958683180,
+      "title": "Meet the youngest-ever mayor in Japan's history | Ryosuke Takashima",
+      "description": "TED Fellow Ryosuke Takashima is the youngest-ever mayor in Japan's history — but he doesn't consider himself a politician. His approach to leadership is simple: listen to as many voices as possible (from students to elders) in order to figure out what needs fixing. Hear why he thinks inviting citizens to participate in reforming their own communities is the best way to get things done. Following his story, pulled from a short film he made for TED, Ryosuke speaks with Lily James Olds, director of the TED Fellows program, on the unexpected benefits of being a young ci...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c24054653259a9743b3/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 2084,
+      "datePublished": 1788534000,
+      "titleZh": "来认识一下日本历史上最年轻的市长|高岛良介",
+      "descZh": "TED研究员高岛良介是日本历史上最年轻的市长，但他并不认为自己是政治家。他的领导方法很简单：倾听尽可能多的声音（从学生到长辈），以找出哪些需要解决的问题。听听为什么他认为邀请公民参与改革自己的社区是完成任务的最佳方式。继他为TED制作的一部短片中摘录的故事之后，Ryosuke与TED Fellows项目总监Lily James Olds谈论了成为一名年轻人的意想不到的好处."
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 59907391122,
       "title": "The missing half of music history | Gabriella Di Laccio",
       "description": "Who decides which voices survive? It's a question classical singer Gabriella Di Laccio never thought to ask until she found an encyclopedia listing thousands of women composers from across history ... and knew almost none of them. Her journey to rediscover these brilliant musicians revealed how many songs have gone unheard — and sparked a mission to record what's missing before the silence becomes permanent. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1582,20 +1596,6 @@
       "datePublished": 1788361200,
       "titleZh": "如何挖掘你的意识--以及为什么冥想比你想象的更容易|永吉明久仁波切",
       "descZh": "冥想要求你进入一种宁静的临在状态。但为什么听起来毫不费力的事情却常常让人感觉如此困难呢？在这份轻松愉快的邀请中，精神领袖Yongey Mingyur Rinpoche分享了三个步骤，帮助您接受情绪的潮起潮落，并学会随时随地冥想。(This剧集最初于2022年播出。）由Acast主持。更多信息请访问acast.com/privacy。"
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 59811837410,
-      "title": "The 60 seconds that make or break a conversation | Chris Fenning",
-      "description": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a95c9a13255edf604afbe65/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 793,
-      "datePublished": 1788274800,
-      "titleZh": "对话开始或结束的60秒|克里斯·芬宁",
-      "descZh": "你的观点是什么？沟通专家克里斯·芬宁（Chris Fenning）揭示了前60秒如何促成或破坏工作场所对话，并分享了一个三步框架来帮助您做好对话。由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 388141,
@@ -1727,6 +1727,20 @@
       "feedId": 739525,
       "category": "ideas",
       "podcastTitle": "The Tim Ferriss Show",
+      "episodeId": 59962540814,
+      "title": "#881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More",
+      "description": "This is a special episode about overcoming mistakes and failure. What do you do when your work is rejected, when the big bet fails, or when the path ahead suddenly disappears? As you’ll hear in this episode, setbacks can often present opportunities, if you know how to look for them. This episode is brought to you by: Helix Sleep premium mattresses: HelixSleep.com/Tim (20% off any purchase)Gusto simple and easy payroll, HR, and benefits platform used by 400,000+ businesses: Gusto.com/TimIncogni, which removes your personal data from the web, helping shield you from fraud, sc...",
+      "audioUrl": "https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a15b043633f12ddc.jpg",
+      "durationSeconds": 3923,
+      "datePublished": 1788516000,
+      "titleZh": "#881：克服困难的故事，以及如何将损失转化为胜利-蒂姆·麦格劳、特里·克鲁斯、达克斯·谢泼德等",
+      "descZh": "这是一个关于克服错误和失败的特别剧集。当你的工作被拒绝时，当大赌注失败时，或者当前方的道路突然消失时，你会怎么办？正如您在这一集中听到的那样，如果您知道如何寻找机会，挫折通常会带来机会。本期节目由：Helix Sleep高级床垫：HelixSleep.com/Tim（任何购买均可享受20%的折扣）Gusto简单便捷的薪资、人力资源和福利平台，被400，000多家企业使用：Gusto.com/TimIngogni，它从网络上删除您的个人数据，帮助您免受欺诈、欺诈、."
+    },
+    {
+      "feedId": 739525,
+      "category": "ideas",
+      "podcastTitle": "The Tim Ferriss Show",
       "episodeId": 59287725209,
       "title": "#880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love",
       "description": "This episode is devoted to one deceptively simple question: How do you stay close to your partner over time through the inevitable exhaustion, misunderstanding, conflict, disappointment, and change? This episode is brought to you by: Eight Sleep Pod Cover 5 with dual-zone temperature control, so each partner sleeps at their perfect temperature In this episode: Esther Perel begins with the basics: appreciation, affection, and replacing chronic complaints with clear requests.Brené Brown explains why marriage is never 50/50 and how she and her husband create what Brené calls a “plan of kindness.” Brad Feld describes the monthly...",
@@ -1750,20 +1764,6 @@
       "datePublished": 1786528800,
       "titleZh": "#879：如何重塑自己并采取大胆行动-马修·麦康纳、史蒂夫·杨、萨敏·诺斯拉特等人的果断故事",
       "descZh": "这是一本致力于重塑的特殊汇编：如何摆脱不再合适的身份、决定新的篇章、应对不确定性并致力于下一步。本集由以下机构为您带来：Shopify全球商务平台，提供启动、发展、营销和管理零售业务的工具大量高质量的肌酸用于认知和肌肉支持在本集：马修·麦康纳解释了为什么他停止制作浪漫喜剧，拒绝了1500万美元，并等待了近两年才让好莱坞以不同的方式看待他。史蒂夫·杨谈到了失去身份的问题。"
-    },
-    {
-      "feedId": 739525,
-      "category": "ideas",
-      "podcastTitle": "The Tim Ferriss Show",
-      "episodeId": 58641421975,
-      "title": "#878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More",
-      "description": "This is a special compilation devoted to a subject very close to my heart and currently consuming a large percentage of my waking hours: writing. Over the years, I’ve asked some of the writers I admire most questions like: How do you choose a project and stay with it? How do you begin when inspiration refuses to show up? How do you build a practice that reliably produces pages? And how do you keep going when you fear your pages are terrible? Listen in to some of my favorite authors answer these and other questions. Please enjoy this sp...",
-      "audioUrl": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a15b043633f12ddc.jpg",
-      "durationSeconds": 3530,
-      "datePublished": 1785949200,
-      "titleZh": "#878：如何在陷入困境时开始，完成你开始的事情，并停止等待灵感-伊丽莎白·吉尔伯特、塞斯·戈丁、乔伊斯·卡罗尔·奥茨、安妮·拉莫特等人的创意建议",
-      "descZh": "这是一本特别的合辑，致力于探讨我非常关心的一个主题，目前占据了我醒着的很大一部分时间：写作。多年来，我问过一些我最钦佩的作家这样的问题：你如何选择一个项目并坚持下去？当灵感拒绝出现时，你该如何开始？如何建立可靠生成页面的实践？当你担心你的页面很糟糕时，你如何继续前进呢？听听我最喜欢的一些作家对这些和其他问题的回答。请享受这个水疗."
     },
     {
       "feedId": 6559880,
