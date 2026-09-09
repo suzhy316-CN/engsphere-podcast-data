@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:17:18.346Z",
+  "updatedAt": "2026-09-09T08:32:57.269Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Bonus Episode #181 – Summer’s Last Hurrah",
       "description": "In this bonus episode, Andrew takes one day off at the end of the summer and heads to the beach with his wife. They are only away for 24 hours, but they fit a lot into it. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Study Materials for This Episode The interactive transcript and vocabulary glossary are...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B181_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2227,
       "datePublished": 1788806139,
       "titleZh": "奖金第181集-夏日最后的欢呼",
@@ -191,7 +191,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -205,7 +205,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -593,6 +593,20 @@
       "feedId": 8820,
       "category": "science",
       "podcastTitle": "Ologies with Alie Ward",
+      "episodeId": 60145870807,
+      "title": "Meteorology (WEATHER & CLIMATE) Encore with Marshall Shepherd",
+      "description": "Bomb cyclones! Polar vortices! Atmospheric rivers! And rained out barbecues. One of the world’s leading Meteorologists, Dr. Marshall Shepherd – a former NASA scientist and current Professor of Geography and Atmospheric Sciences at the University of Georgia – is here to field a downpour of questions. We chat about percentages in forecasts, hail, sleet, storm chasing, heatwaves, fluid dynamics, TV weather people, climate change delayism and his favorite weather-themed movies. Also: what not to do with a weather balloon. Follow Dr. Shepherd on Bluesky, Instagram or TikTok His website: www.drmarshallshepherd.com His podcast: Weather...",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/fde27456-5d75-4fae-aaef-1bf053ca0550/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=fde27456-5d75-4fae-aaef-1bf053ca0550&feed=FO6kxYGj",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ec97fbf821092fc6.jpg",
+      "durationSeconds": 4567,
+      "datePublished": 1788937200,
+      "titleZh": "气象（天气与气候）马歇尔·谢泼德（Marshall Shepherd）安可",
+      "descZh": "炸弹旋风！极地漩涡！大气河流！烧烤因雨而停止。世界领先的气象学家之一马歇尔·谢泼德博士--前美国宇航局科学家、现任佐治亚大学地理和大气科学教授--在这里提出大量问题。我们谈论预测、冰雹、雨夹雪、风暴追逐、热浪、流体动力学、电视天气人物、气候变化延迟论和他最喜欢的天气主题电影的百分比。还有：不要用气象气球做什么。在Bluesky、Instagram或TikTok上关注谢泼德博士他的网站：www.drmarshallshepherd.com他的播客：天气."
+    },
+    {
+      "feedId": 8820,
+      "category": "science",
+      "podcastTitle": "Ologies with Alie Ward",
       "episodeId": 59963455574,
       "title": "Party Psychology (WHY WE CELEBRATE) with Danielle Brick & Kelley Gullo-Wight",
       "description": "Rituals. Gatherings. Celebrations. Surprise parties. Weekend getaways. Campfires and birthday candles are in our DNA, and colleagues/social psychologists Dr. Danielle Brick & Dr. Kelley Gullo-Wight explain why. This conversation was like if you got seated at a dinner party next to two friends who study why we have dinner parties. We cover the neuroscience of anticipation, how much is too much for the ‘gram, a time machine to the middle ages, and how enjoying the good times together helps us weather our storms. Follow Dr. Brick on Google Scholar Visit Dr. Gullo-Wight’s website and foll...",
@@ -616,20 +630,6 @@
       "datePublished": 1788332400,
       "titleZh": "彼得·吉吉斯（Peter Girguis）的深海微生物学（未见海洋准则）",
       "descZh": "漆黑战壕中的生物。探索海底。泥浆药。管蠕虫。哈佛大学教授、深海微生物学传奇人物彼得·吉吉斯博士讲述了海洋探险的故事，并回答了有关极端微生物、其他行星上的生命、亚特兰蒂斯、鲨鱼遭遇、咀嚼甲烷、水力飞行员、Trekkie琐事、潜水器的安全性、深海模拟以及海洋生物如何拯救你的生命。访问Girguis实验室并在Google Scholar上关注Girguis博士一笔捐款捐赠给国家移民法律中心更多剧集来源和链接您可能喜欢的其他剧集：海洋学（O."
-    },
-    {
-      "feedId": 8820,
-      "category": "science",
-      "podcastTitle": "Ologies with Alie Ward",
-      "episodeId": 59520392726,
-      "title": "Mephitology (SKUNKS) Part 2 with Jerry Dragoo",
-      "description": "What happens when you've been sprayed nine times in the face by a skunk? Part 2 with Mephitologist Dr. Jerry Dragoo answers that question. Also on the agenda: pet skunks, lavender skunks, skunk family planning, Pepe Le Pew on trial, why some of us enjoy the stench, how to handle a skunk approach, if skunks can smell themselves, and the very bizarre circumstances by which this guest first rose to international skunk fame. Also: the proper way to watch a skunk. Check out the Dragoo Institute for the Betterment of Skunks and Skunk Reputations A donation...",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/1e5b73fd-d010-497d-8c3b-3bfd0f160b9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=1e5b73fd-d010-497d-8c3b-3bfd0f160b9f&feed=FO6kxYGj",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ec97fbf821092fc6.jpg",
-      "durationSeconds": 4064,
-      "datePublished": 1787733000,
-      "titleZh": "Metaphitology（SKUNKS）第2部分，Jerry Dragoo",
-      "descZh": "当你的脸被臭鼬喷了九次时，会发生什么？第二部分，Mephitologist Jerry Dragoo博士回答了这个问题。议程上还有：宠物臭鼬、熏衣草臭鼬、臭鼬计划生育、佩佩·勒皮尤受审、为什么我们中的一些人喜欢恶臭、如何处理臭鼬的方法、臭鼬是否能闻到自己的味道，以及这位客人第一次成名于国际臭鼬的非常奇怪的情况。还有：观看臭鼬的正确方法。查看Dragoo改善臭鼬和臭鼬声誉研究所捐赠."
     },
     {
       "feedId": 771813,
@@ -929,6 +929,20 @@
       "feedId": 178448,
       "category": "mind",
       "podcastTitle": "Nothing Much Happens",
+      "episodeId": 60137712958,
+      "title": "Moving In",
+      "description": "Our story tonight is called Moving In, and it’s a story about a long drive in a packed car at the beginning of freshman year. It’s also about paper cups of coffee, new towels and beloved memories, turning leaves on the commons and the tender adventure of growing up and letting go. We give to a different charity each week, and this week we are giving the True and Faithful Pet Rescue Mission. Making a difference in the lives of these resilient, loving, and devoted senior dogs and giving them the forever home...",
+      "audioUrl": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/clrtpod.com/m/traffic.megaphone.fm/SSM1820821501.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/fd09978d226bedec.jpg",
+      "durationSeconds": 2091,
+      "datePublished": 1788753600,
+      "titleZh": "搬进来",
+      "descZh": "今晚我们的故事叫做《搬进来》，讲述了一个关于大一开始时坐着拥挤的汽车长途车程的故事。它还涉及纸杯咖啡、新毛巾和心爱的回忆、告别公共场所以及成长和放手的温柔冒险。我们每周都会向不同的慈善机构捐款，本周我们将举办“真实而忠实的宠物救援任务”。改变这些有韧性、充满爱心、忠诚的高级狗的生活，并为它们提供永远的家.."
+    },
+    {
+      "feedId": 178448,
+      "category": "mind",
+      "podcastTitle": "Nothing Much Happens",
       "episodeId": 59900201051,
       "title": "Something New (Encore)",
       "description": "Originally presented as Episode 14 of Season 12 (September 4, 2023) Our story tonight is called Something New, and it’s a story about stumbling upon a beautiful place on a late summer bike ride. It’s also about lily pads, an X marked on a map, and the joy of watching a friend step into a new season of their life. Thank You for being a Premium Subscriber. 💙 ⁠⁠⁠Join⁠⁠⁠⁠⁠ the Village of Nothing Much App! Order Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠⁠⁠ Listen to our daytime show ⁠⁠⁠⁠⁠Stories from the Village of Nothi...",
@@ -952,20 +966,6 @@
       "datePublished": 1788148800,
       "titleZh": "学习用品",
       "descZh": "今晚我们的故事叫做《学校用品》，这是一个关于纪念温暖天气结束和晴朗日子开始的故事。它还涉及规划者和纸制品、小剪刀和数学用的颜色文件夹，以及让自己享受一些新的东西，只是因为它能让你微笑。每天升级。下载Quince应用程序以获取应用程序独家优惠，或访问quince.com/nothingmuch。订单免费送货并365天退货。现已在加拿大和英国上市。订阅我们     收费频道    .第一个月就在你身上."
-    },
-    {
-      "feedId": 178448,
-      "category": "mind",
-      "podcastTitle": "Nothing Much Happens",
-      "episodeId": 59703875553,
-      "title": "Something Old (Encore)",
-      "description": "Originally presented as Episode 13 of Season 12 (August 28, 2023) Our story tonight is called Something Old, and it’s a story about a gift found on a treasure hunt. It’s also about taking the time to do something well, an embroidery hoop and an orange ribbon, and seeing magic in every day objects that can tell stories from the past. Upgrade your everyday. Download the Quince app for app-exclusive offers, or go to quince.com/nothingmuch. Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Subsc...",
-      "audioUrl": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/clrtpod.com/m/traffic.megaphone.fm/SSM3132180438.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/fd09978d226bedec.jpg",
-      "durationSeconds": 1859,
-      "datePublished": 1787803200,
-      "titleZh": "旧东西（安可）",
-      "descZh": "最初作为第十二季第13集（2023年8月28日）我们今晚的故事名为《古老的东西》，这是一个关于寻宝时发现的礼物的故事。这也意味着花时间做好一些事情，刺绣环和橙色丝带，并在每天可以讲述过去故事的物品中看到魔法。每天升级。下载Quince应用程序以获取应用程序独家优惠，或访问quince.com/nothingmuch。订单免费送货并365天退货。现已在加拿大和英国上市。Subsch."
     },
     {
       "feedId": 5698881,
@@ -1091,7 +1091,7 @@
       "durationSeconds": 455,
       "datePublished": 1788764400,
       "titleZh": "你很匆忙却不知道为什么|艰苦的冬季训练",
-      "descZh": "慢点说停顿深呼吸因为总有一天，你会意识到你匆匆走过了太多的生活，太多你所爱的人的生活。🎟️ 每日坚忍生活|瑞安假日即将来到你附近的城市！在这里抢票|https://www.dailystoiclive.com/🎙️无广告|支持播客并通过订阅The Daily Stoic Premium深入了解斯多葛主义-解锁无广告收听、抢先体验和奖励内容：https://dailystoic.supercast.com/ FREE️ STOIC WIS多姆|想要每天将斯多葛式的智慧发送到您的收件箱吗？注册免费D."
+      "descZh": "慢点说停顿深呼吸。因为有一天，你会意识到你匆忙度过了太多的生活，太多的亲人的生活。🎟️ 每日坚忍生活|瑞安假日即将来到你附近的城市！在这里抢票|https://www.dailystoiclive.com/🎙️无广告|支持播客并通过订阅The Daily Stoic Premium深入了解斯多葛主义-解锁无广告收听、抢先体验和奖励内容：https://dailystoic.supercast.com/ FREE️ STOIC WIS多姆|想要每天将斯多葛式的智慧发送到您的收件箱吗？注册免费D."
     },
     {
       "feedId": 366334,
@@ -1601,6 +1601,20 @@
       "feedId": 388141,
       "category": "ideas",
       "podcastTitle": "TED Health",
+      "episodeId": 60145641127,
+      "title": "What listening to live concerts do to your ears with Jim Hudspeth (Senses Miniseries #5)",
+      "description": "When attending live music events, it’s tempting to want to immerse in the full experience—standing by the stereo, head banging near the stage, singing at the top of your lungs. But in maximizing your concert experience, are you harming your body? In this final episode of the Senses Miniseries, Shoshana shares talks that touch on the consequences of loud noise exposure and a surprising benefit of ear protection. Talks featured The beautiful, mysterious science of how you hear | Jim Hudspeth What is earwax — and should you get rid of it? | TED Ed...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6a8c96f46d62278f83a3d1ed/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/1fc87078112ecfbc.jpg",
+      "durationSeconds": 2171,
+      "datePublished": 1788840000,
+      "titleZh": "吉姆·哈德斯佩斯（Senses Miniseries #5）听现场音乐会对您的耳朵有何影响",
+      "descZh": "当参加现场音乐活动时，很容易想要沉浸在完整的体验中--站在音响旁，在舞台附近敲头，拼命唱歌。但在最大限度地提高音乐会体验的过程中，你是否在伤害自己的身体？在Senses Miniseries的最后一集中，Shoshana分享了涉及噪音暴露的后果和耳朵保护令人惊讶的好处的谈话。讲座精选关于如何聆听的美丽而神秘的科学|吉姆·哈德斯佩思什么是耳垢-你应该除掉它吗？| TED Ed."
+    },
+    {
+      "feedId": 388141,
+      "category": "ideas",
+      "podcastTitle": "TED Health",
       "episodeId": 59798107961,
       "title": "The nurse who can smell Parkinson’s | Joy Milne (Senses Miniseries #4)",
       "description": "What does Parkinson's smell like? Ask nurse Joy Milne. Born with a hypersensitive nose, she spent a lifetime learning to recognize diseases through their scents. When she smelled Parkinson's on her husband years before his diagnosis, she decided to put her gift to the test. Today, her extraordinary nose has been translated into a non-invasive test — helping researchers diagnose what was right under their noses all along. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1624,20 +1638,6 @@
       "datePublished": 1787803440,
       "titleZh": "过上有意义的生活（1/5）：衰老、更年期和与史黛西·伦敦一起重新思考中年舒适的时尚",
       "descZh": "造型师兼时尚顾问史黛西·伦敦（Stacy London）表示：“我对风格的看法不再与风格有关，而是与身体有关。”“我想做什么？我如何保持自己的坚强？”史黛西的信息引起了许多女性的共鸣，在本期节目中，她与TED Health主持人Shoshana Ungerleider博士一起在TED 2025上进行了一场特别的现场对话，讨论为什么女性如此尴尬谈论衰老。对于史黛西来说，衰老成为重新评估她与身体关系的机会，以及她更年期和脊柱手术的经历."
-    },
-    {
-      "feedId": 388141,
-      "category": "ideas",
-      "podcastTitle": "TED Health",
-      "episodeId": 59688404437,
-      "title": "Living a Meaningful Life (2/5): Why venting doesn’t help you deal with anger | Jennifer Parlamis",
-      "description": "Does venting actually help you cool off, or does it just add fuel to the fire? Social psychologist Jennifer Parlamis busts common myths about anger, showing how curiosity — not catharsis — can keep you calm. Discover the surprising science behind anger management and four practical tools for building stronger relationships from a researcher who’s rethinking Freud, one deep breath at a time. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6a85d4638b730c47c14deaa3/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/c2ecb252e7931d3d.jpg",
-      "durationSeconds": 1419,
-      "datePublished": 1787803380,
-      "titleZh": "过上有意义的生活（2/5）：为什么发泄并不能帮助你应对愤怒|詹妮弗·帕拉米斯",
-      "descZh": "通风真的可以帮助你降温，还是只是火上浇油？社会心理学家詹妮弗·帕拉米斯打破了有关愤怒的常见神话，展示了好奇心--而不是宣泄--如何让你保持冷静。从一位重新思考弗洛伊德的研究人员那里，探索愤怒管理背后的令人惊讶的科学以及建立更牢固关系的四种实用工具，一次深呼吸。由Acast主持。更多信息请访问acast.com/privacy。"
     },
     {
       "feedId": 311840,
