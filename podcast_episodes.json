@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T18:59:55.233Z",
+  "updatedAt": "2026-09-09T22:10:30.670Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 60173671090,
+      "title": "Ashurbanipal",
+      "description": "Ashurbanipal was the ruler of the Assyrian empire in the 7th century BCE. His 38-year reign was marked by both scholarship and a terrifying brutality. Research: \"Babylon.\" Britannica Library, Encyclopædia Britannica, 18 Mar. 2025. libraries.state.ma.us/login?eburl=https%3A%2F%2Flibrary.eb.com&ebtarget=%2Flevels%2Freferencecenter%2Farticle%2FBabylon%2F11618&ebboatid=9265928. Accessed 19 Aug. 2026. Ashurbanipal Library Project. https://oracc.museum.upenn.edu/asbp/index.html \" Encyclopedia of World Biography Online, Gale, 1998. Gale In Context: Opposing Viewpoints, link.gale.com/apps/doc/K1631000306/GPS?u=mlin_n_melpub&sid=bookmark-GPS&xid=f497ef8d. Accessed 14 Aug. 2026. Bonatz, D...",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/a973b4c3-8c45-436d-a1a3-b4bc013edd1b/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2250,
+      "datePublished": 1788958800,
+      "titleZh": "亚述巴尼拔",
+      "descZh": "亚述巴尼拔是公元前7世纪亚述帝国的统治者。他38年的统治既以学术为标志，也以可怕的暴行为标志。研究：“巴比伦。大英图书馆，大英百科全书，2025年3月18日。libraries.state.ma.us/login? eburl=https%3A%2F%2Flibrary.eb.com&ebTarget=%2Flevels%2Freferencecent%2Farticle%2FBabylon%2F11618&ebboatid =9265928。访问日期：2026年8月19日。阿什哈尼帕尔图书馆项目。https://oracc.museum.upenn.edu/asbp/index.html“在线世界传记百科全书，盖尔，1998年。背景下的大风：反对观点，link.gale.com/apps/doc/K1631000306/GPS? u=mlin_n_melpub & sid=bookmark-GPS & xid=f497ef8d。访问日期：2026年8月14日。博纳茨，D."
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 60066919930,
       "title": "Six Impossible Episodes: Back-to-Court",
       "description": "This episode takes a quick look at six U.S. Supreme Court cases that all have to do with the rights of children in public primary and secondary schools. Abington School District v. Schempp, 374 U.S. 203 (1963). https://supreme.justia.com/cases/federal/us/374/203 Bowman, Kristine. “West Virginia State Board of Education v. Barnette (1943).” Free Speech Center at Middle Tennessee State University. https://firstamendment.mtsu.edu/article/west-virginia-state-board-of-education-v-barnette/ Cornell Law School. “Engel v. Vitale (1962).) https://www.law.cornell.edu/wex/engel_v._vitale_(1962) Dynia, Philip A. “Rights of Students.” Free Speech Center at Middle Tennessee State University. 8/11/2023, updated 5/27/2026. https://firstamendm...",
@@ -1414,20 +1428,6 @@
       "datePublished": 1788613200,
       "titleZh": "SYMHC经典：古日奥林匹克",
       "descZh": "2021年的这一集讲述了奥林普·德·古热（Olympe de Gouges），她主要因1791年的小册子《妇女和公民权利宣言》而闻名。但她的写作和政治活动远远超出了那本小册子的范围。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 59942250343,
-      "title": "Behind the Scenes Minis: Percy Theories",
-      "description": "Holly shares additional details of Percy Fawcett's life, including theories about his interest in spiritualism leading him to some odd conclusions. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/d09e6c24-c92d-4829-b965-b4ba00efb3b1/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 1003,
-      "datePublished": 1788526800,
-      "titleZh": "幕后迷你剧：珀西理论",
-      "descZh": "霍莉分享了珀西·福塞特生活的更多细节，包括有关他对唯灵论兴趣的理论，这些理论导致他得出了一些奇怪的结论。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 1365765,
