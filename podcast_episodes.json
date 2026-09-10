@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:35:15.596Z",
+  "updatedAt": "2026-09-10T18:53:21.479Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -177,7 +177,7 @@
       "title": "Bonus Episode #181 – Summer’s Last Hurrah",
       "description": "In this bonus episode, Andrew takes one day off at the end of the summer and heads to the beach with his wife. They are only away for 24 hours, but they fit a lot into it. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Study Materials for This Episode The interactive transcript and vocabulary glossary are...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B181_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2227,
       "datePublished": 1788806139,
       "titleZh": "奖金第181集-夏日最后的欢呼",
@@ -191,7 +191,7 @@
       "title": "Simplified Speech #252 – Bikes, gardens, art, and AI coaches",
       "description": "Hang out with your English-speaking friends, Andrew and Indiana, for a catch-up! Indiana has been growing tomatillos on her patio, and she rode 40 miles along New York’s Empire State Trail on a very hot day, though the ride did not go the way she planned. Andrew went to see a Damien Hirst exhibition at the National Museum of Modern and Contemporary Art in Seoul, and he has been letting an AI design his marathon training plan. The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open th...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/SS252_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 2220,
       "datePublished": 1788208017,
       "titleZh": "简化语音#252 -自行车、花园、艺术和人工智能教练",
@@ -205,7 +205,7 @@
       "title": "Bonus Episode #180 – Fall Between the Cracks",
       "description": "In this bonus episode, Andrew tells the story of the most stressful morning he’s had in a long time, and it all started with something small that ended up in a place he couldn’t reach. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Tell us about your own terrible morning! Record a two-minute audio story and...",
       "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B180_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/884b35c1d4fbdd1f.jpg",
+      "imageUrl": "https://esl.culips.com/wp-content/uploads/2023/09/culipsart2-1-1-1.jpg",
       "durationSeconds": 1761,
       "datePublished": 1787704185,
       "titleZh": "奖金第180集-坠落在裂缝之间",
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 60210578844,
+      "title": "The Odyssey Episode",
+      "description": "Why does the story of The Odyssey endure this many years after it was first spoken? Listen in to find out. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 2994,
+      "datePublished": 1789030800,
+      "titleZh": "奥德赛插曲",
+      "descZh": "为什么《奥德赛》的故事在第一次讲述后还持续了这么多年？听听看。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 60178252865,
       "title": "Short Stuff: Flappers",
       "description": "In the 1920s, a certain set of women wanted to loosen up and have a good time. Today, we get into it with the flappers. See omnystudio.com/listener for privacy information.",
@@ -574,20 +588,6 @@
       "datePublished": 1788858000,
       "titleZh": "首页>外文书>青少年文学>小说> Nickelodeon：The Best of Slimes",
       "descZh": "今天，我们讲述改变这一切的儿童电视网络Nickelodeon的故事。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59992050349,
-      "title": "Selects: Blacksmiths? You got that right!",
-      "description": "Blacksmiths? You got that right. Learn all about this age old occupation in this classic episode. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bf0e1069-4fc9-452d-b033-b4ba00f31ce1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 3019,
-      "datePublished": 1788598800,
-      "titleZh": "收件箱：铁匠？你说得对！",
-      "descZh": "铁匠？你说得对。在这一经典剧集中了解有关这个古老职业的所有信息。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 8820,
@@ -719,6 +719,20 @@
       "feedId": 52651,
       "category": "science",
       "podcastTitle": "Something You Should Know",
+      "episodeId": 60205948521,
+      "title": "The Bizarre World of Product Testing & Understanding Highly Sensitive People",
+      "description": "When the power goes out, how long will food in your refrigerator and freezer stay safe? And how bad is it to open the door and check? Consumer Reports has some useful answers that could save you from throwing out perfectly good food—or eating something you shouldn’t. https://www.consumerreports.org/home-garden/emergency-preparedness/what-to-feed-your-family-when-the-power-is-out-a4425760304/ Before you trust an airplane, a child’s toy or just about anything else, it has probably been subjected to some serious testing—and some of those tests get wonderfully weird. Engineers have fired chickens into jet engines and enlisted real bears to...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP9425864902.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
+      "durationSeconds": 2888,
+      "datePublished": 1789023780,
+      "titleZh": "产品测试和理解高度敏感人群的奇异世界",
+      "descZh": "当停电时，冰箱和冰柜里的食物能安全多久？开门检查有多糟糕？《消费者报告》提供了一些有用的答案，可以帮助你避免扔掉完美的食物或吃一些你不应该吃的东西。https://www.consumerreports.org/home-garden/emergency-preparedness/what-to-feed-your-family-when-the-power-is-out-a4425760304/在你信任一架飞机、一个孩子的玩具或其他任何东西之前，它可能已经接受了一些严格的测试，其中一些测试变得非常奇怪。工程师们已经将鸡扔进了喷气发动机，并招募了真正的熊.."
+    },
+    {
+      "feedId": 52651,
+      "category": "science",
+      "podcastTitle": "Something You Should Know",
       "episodeId": 60116959860,
       "title": "SYSK TRENDING - What Makes Someone Credible",
       "description": "Why do you believe some people almost immediately, while others make you skeptical? You might assume credibility comes down to expertise, experience and having the facts on your side. But there is much more going on. Research shows that we respond to subtle signals that can make someone seem more believable — sometimes before we’ve really considered what they’re saying. Even more surprising, some of the things people do to appear credible can actually make them less convincing. And many of the signals that influence us have little to do with the actual message. Unders...",
@@ -741,21 +755,7 @@
       "durationSeconds": 2919,
       "datePublished": 1788764580,
       "titleZh": "诺西博效应：安慰剂的邪恶双胞胎和你不知道的奇怪事实",
-      "descZh": "你有没有试着解决一个问题或想出一个新主意时完全被卡住了？有一件非常简单的事情你可以做，研究表明可以让你的创造性果汁流动。而且效果出奇的好。https://news.stanford.edu/stories/2014/04/walking-vs-sitting-042414你真的认为自己生病了吗？当然了这被称为“反安慰剂效应”--本质上是安慰剂效应的邪恶双胞胎。如果医生警告你某种药物可能会引起某些副作用，仅仅是听到这一点就可能使这些症状更容易发生。同样的事情也可能发生当."
-    },
-    {
-      "feedId": 52651,
-      "category": "science",
-      "podcastTitle": "Something You Should Know",
-      "episodeId": 59989522472,
-      "title": "Why Secrets Are So Hard to Keep & The Curious Quirks of Language - SYSK Choice",
-      "description": "Eye contact can be tricky. Too little can make you seem bored or distracted. Too much can get uncomfortable fast. So what is the right amount? This episode begins with some fascinating research on eye contact and the subtle signals you send with your eyes. http://www.spring.org.uk/2013/07/how-eye-contact-works.php Someone tells you a secret and makes you promise not to tell. You intend to keep that promise — so why can the urge to tell someone else become so strong? Secrets can weigh on us, yet revealing one can damage relationships and destroy trust. So wh...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pdrl.fm/60a606/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP4205751153.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/62ddb20de9dd525a.jpg",
-      "durationSeconds": 2913,
-      "datePublished": 1788591780,
-      "titleZh": "为什么秘密如此难以保守'语言的奇怪之处- SYSK Choice",
-      "descZh": "眼神交流可能很棘手。太少会让你看起来无聊或心烦意乱。太多会很快变得不舒服。那么正确的金额是多少呢？这一集从一些关于眼神交流和你用眼睛发出的微妙信号的有趣研究开始。http://www.spring.org.uk/2013/07/how-eye-contact-works.php有人告诉你一个秘密，并让你保证不告诉。你打算信守这个承诺--那么为什么告诉别人的冲动会变得如此强烈呢？秘密可能会给我们带来压力，但泄露秘密可能会损害关系并破坏信任。所以..."
+      "descZh": "你有没有试着解决一个问题或想出一个新主意时完全被卡住了？有一件非常简单的事情你可以做，研究表明可以让你的创造性果汁流动。而且效果出奇的好。https://news.stanford.edu/stories/2014/04/walking-vs-sitting-042414你真的认为自己生病了吗？当然了它被称为反安慰剂效应-本质上是安慰剂效应的邪恶孪生子。如果医生警告你某种药物可能会引起某些副作用，仅仅是听到这一点就可能使这些症状更容易发生。同样的事情也会发生在..."
     },
     {
       "feedId": 215799,
@@ -845,12 +845,26 @@
       "feedId": 1365758,
       "category": "mind",
       "podcastTitle": "Huberman Lab",
+      "episodeId": 60208650029,
+      "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can transmit antiviral resistance and influence behavior across generations, what these findings might mean for mammals and humans, and potential future applications for reproductive health and diagnostics. Thank you to our sponsors<...",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM1624813352.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/befe6bf599c2c715.jpg",
+      "durationSeconds": 2138,
+      "datePublished": 1789027200,
+      "titleZh": "要点：基因与代际记忆的继承|Oded Rechavi博士",
+      "descZh": "在Huberman Lab Essentials这一集中，我的嘉宾是特拉维夫大学的Oded Rechavi博士，他研究遗传学，表观遗传学和后天特征的遗传。我们讨论了DNA、RNA和表观遗传机制如何决定哪些信息可以在两代人之间传递，以及为什么后天获得的性状通常不被认为是遗传的。我们还解释了C中的研究。展示了小RNA如何传播抗病毒耐药性并影响几代人的行为，这些发现对哺乳动物和人类可能意味着什么，以及未来在生殖健康和诊断方面的潜在应用。感谢我们的赞助商<."
+    },
+    {
+      "feedId": 1365758,
+      "category": "mind",
+      "podcastTitle": "Huberman Lab",
       "episodeId": 60069220268,
       "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
       "description": "Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to aging, cancer, and other diseases. Our conversation explores your metabolism as the composite of trillions of individual cells and points to new ways to improve health, avoid, and treat diseases. Show notes: https://go.hubermanlab...",
       "audioUrl": "https://traffic.megaphone.fm/SCIM5888935664.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ce50e8420eaf649.jpg",
-      "durationSeconds": 7426,
+      "durationSeconds": 7441,
       "datePublished": 1788768000,
       "titleZh": "线粒体如何控制新陈代谢|贾里德·鲁特博士",
       "descZh": "Jared Rutter博士是犹他大学生物化学教授、霍华德休斯医学研究所研究员，是线粒体和代谢领域的领先专家。他解释了线粒体如何为细胞产生工作能量，以及它们如何调节细胞生长和复制，从而促进健康和疾病。我们还讨论了线粒体如何与衰老、癌症和其他疾病有关。我们的对话探讨了由数万亿个单个细胞组成的新陈代谢，并指出了改善健康、避免和治疗疾病的新方法。显示注释：https://go.hubermanlab."
@@ -868,20 +882,6 @@
       "datePublished": 1788422400,
       "titleZh": "要点：利用睡眠增强学习、记忆和情绪状态|吉娜·坡博士",
       "descZh": "在Huberman Lab Essentials的本期节目中，我的嘉宾是加州大学洛杉矶分校（UCLA）综合生物学和生理学教授Gina Poe博士。我们讨论了睡眠的结构以及每个阶段如何支持不同的功能，包括记忆巩固、创造力、大脑恢复和情绪处理。我们还解释了用于改善睡眠质量、支持认知表现和激素平衡的科学支持工具。演出笔记：https://go.hubermanlab.com/Y6JKgFE感谢我们的赞助商AG 1：https://drinkag1.com/huberman LMNT：https://drinklmnt.com/huberman八.."
-    },
-    {
-      "feedId": 1365758,
-      "category": "mind",
-      "podcastTitle": "Huberman Lab",
-      "episodeId": 59970276451,
-      "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
-      "description": "My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators can use today, and Joe’s vision for how AI could transform education and human potential. Show notes: https://go.hubermanlab.com/296-joe-liemandt Pre-order Protocols: https://protocolsbook.com Huberman Lab live even...",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM7393383815.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ce50e8420eaf649.jpg",
-      "durationSeconds": 9237,
-      "datePublished": 1788163200,
-      "titleZh": "如何加速学习和改善教育|乔·利曼特",
-      "descZh": "我的嘉宾是科技企业家兼Alpha School校长Joe Liemandt，这是一个K-12模式，使用人工智能和个性化学习帮助学生每天只需两个小时就能掌握学术知识，从而腾出剩余的时间来建立企业，进行实验，与社区互动，并发展实用的生活技能。我们讨论了Alpha的可喜成果，家长和教育工作者今天可以使用的工具，以及Joe对人工智能如何改变教育和人类潜力的愿景。显示注释：https://go.hubermanlab.com/296-joe-liemandt预购协议：https://protocolsbook.com Huberman Lab live even."
     },
     {
       "feedId": 884186,
@@ -1231,7 +1231,7 @@
       "durationSeconds": 2950,
       "datePublished": 1789045200,
       "titleZh": "鲸鱼",
-      "descZh": "在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。这是犯罪现场、宝藏还是梦想成真？在特立尼达镇，小学的海洋之旅即将变得美丽、原始和狂野。鲸鱼在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。它是犯罪现场，宝藏还是梦想成真？非常感谢Paula Alonso和Antonio Fernandez博士与Snap分享您的故事！制作人：Erick Yáñez"
+      "descZh": "在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。它是犯罪现场，宝藏还是梦想成真？在特立尼达镇，小学的海洋之旅即将变得美丽、原始和狂野。鲸鱼在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。它是犯罪现场，宝藏还是梦想成真？非常感谢Paula Alonso和Antonio Fernandez博士与Snap分享您的故事！制作人：Erick Yáñez"
     },
     {
       "feedId": 727637,
@@ -1265,6 +1265,20 @@
       "feedId": 482244,
       "category": "stories",
       "podcastTitle": "Selected Shorts",
+      "episodeId": 60207689442,
+      "title": "A Full Plate",
+      "description": "Meg Wolitzer presents two favorite Selected Shorts works in which food and nourishment figure both literally and symbolically. The narrator of Haruki Murakami’s “The Year of Spaghetti” seems to be just sharing pasta recipes, but it’s the recipe for assuaging loneliness that may elude him. The reader is Sopranos alum Michael Imperioli. And unusual family dynamics shape Amy Bloom’s “Love is Not a Pie,” performed by Hope Davis. We also share a discussion of this work by the mother and daughter book club organized by our frequent reader Rita Wolf and her daughter Anjeli. Hosted by Simple...",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3/episodes/80c311bf-4597-4dcd-955e-e72537b5b103/audio/128/default.mp3?aid=rss_feed&awCollectionId=75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3&awEpisodeId=80c311bf-4597-4dcd-955e-e72537b5b103&feed=ZoGIhfvz",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/83d8cf6a5bd75d13.jpg",
+      "durationSeconds": 3775,
+      "datePublished": 1789059600,
+      "titleZh": "一整盘",
+      "descZh": "梅格·沃利策（Meg Wolitzer）展示了两部最受欢迎的《精选短片》作品，其中食物和营养既有字面意义，又有象征意义。村上春树《意大利面之年》的叙述者似乎只是在分享意大利面食谱，但他可能无法找到缓解孤独感的秘诀。读者是黑道家族校友迈克尔·伊佩里奥利（Michael Imperioli）。不寻常的家庭动态塑造了艾米·布鲁姆（Amy Bloom）的《Love is Not a Pie》，由霍普·戴维斯（Hope Davis）表演。我们还分享了由我们的常客丽塔·沃尔夫和她的女儿安杰利组织的母女读书俱乐部对这部作品的讨论。由Simple主持."
+    },
+    {
+      "feedId": 482244,
+      "category": "stories",
+      "podcastTitle": "Selected Shorts",
       "episodeId": 59899240135,
       "title": "Forsaking All Others",
       "description": "Host Meg Wolitzer presents two works about love and marriage. In Amy Silverberg’s “Have You Met Husband?” two men and a dog vie for this title. The reader is Molly Bernard. And Mary Gordon’s “The Magician’s Wife” is a touching portrait of life-long devotion—a kind of magic itself. The reader is Jane Curtin. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1288,20 +1302,6 @@
       "datePublished": 1788105600,
       "titleZh": "蒂姆·库里（Tim Curry）表演斯蒂芬·奥康纳（Stephen O ' Connor）的《Ziggurat》",
       "descZh": "英国演员Tim Curry于8月26日去世，享年80岁。他因在音乐剧《洛基恐怖秀》中对弗兰克·N·富特的臭名昭著的描绘而闻名，他长达数十年的职业生涯包括舞台和银幕上的许多其他角色。其中，莫扎特在《阿玛迪斯》中;亚瑟王在《巨蟒》音乐剧《斯皮洛特》中;邪恶的小丑潘尼怀斯在斯蒂芬·金的《It》电视剧中。在一份慷慨的讣告中，英国广播公司分享了许多艺术界朋友和崇拜者的敬意。其中一位来自喜剧演员卡罗尔·伯内特，她在社交媒体上写道：“没有人能扮演可爱的恶棍。"
-    },
-    {
-      "feedId": 482244,
-      "category": "stories",
-      "podcastTitle": "Selected Shorts",
-      "episodeId": 59583364463,
-      "title": "Building Worlds, with N.K. Jemisin",
-      "description": "Host Meg Wolitzer presents three works of speculative fiction curated by best-selling author N.K. Jemisin. In John Scalzi’s “When the Yogurt Took Over” a popular breakfast staple decides it’s good for everyone. The reader in Jin Ha. Chatbots and A.I. can be helpful—but sometimes too helpful--as we hear in Alexandra Chang’s “Me and My Algo,” read by Catherine Cohen. And Jemisin herself reworks a classic by Ursula K. Le Guin in “The Ones Who Stay and Fight,” read by Teagle F. Bougere. Some of Jemisin’s on stage comments are included in this show Hosted by...",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3/episodes/a353fe78-dab9-4503-b1c1-fad7de220b2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=75a4e46c-42d3-41f9-b88b-b8b58c8f1ac3&awEpisodeId=a353fe78-dab9-4503-b1c1-fad7de220b2f&feed=ZoGIhfvz",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/83d8cf6a5bd75d13.jpg",
-      "durationSeconds": 3603,
-      "datePublished": 1787850000,
-      "titleZh": "与N.K.一起建造世界杰米辛",
-      "descZh": "主持人梅格·沃利泽（Meg Wolitzer）展示了由畅销书作家NK策划的三部推理小说作品杰米辛。在约翰·斯卡尔齐（John Scalzi）的《当酸奶接管》（When the Yogurt Took Over）中，一种流行的早餐主食认为它对每个人都有好处。金哈的读者。聊天机器人和人工智能可以很有帮助，但有时太有帮助了--正如我们在凯瑟琳·科恩（Catherine Cohen）朗读的亚历山德拉·张（Alexandra Chang）的《我和我的算法》（Me and My Algo）中听到的那样。杰米辛本人重新创作了乌苏拉·K的经典作品。勒·吉恩（Le Guin）在《留下来并战斗的人》（The Ones Who Stay and Fight）中朗读。布吉尔。杰米辛在舞台上的一些评论包含在这个由.主持的节目中"
     },
     {
       "feedId": 956263,
