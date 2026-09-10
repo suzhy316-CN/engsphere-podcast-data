@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T08:34:26.270Z",
+  "updatedAt": "2026-09-10T15:35:15.596Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -89,6 +89,20 @@
       "feedId": 956179,
       "category": "learn-english",
       "podcastTitle": "All Ears English",
+      "episodeId": 60195133722,
+      "title": "In Our Heart of Hearts, We Love These Idioms",
+      "description": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is. Do you love All Ears English? Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes Visit our website here or https://lnk.to/website-sn If you love this podcast, hi...",
+      "audioUrl": "https://traffic.megaphone.fm/ALLE1357945355.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
+      "durationSeconds": 1003,
+      "datePublished": 1789016400,
+      "titleZh": "在我们的心中，我们喜欢这些成语",
+      "descZh": "想知道你的英语水平吗？在这里参加我们的免费英语水平测验，了解您当前的英语水平。你喜欢All Ears English吗？在这里尝试我们的其他播客：商务英语播客：提高您的商务英语与每周3集，具有林赛，米歇尔，和奥布里雅思能源播客：从一个前考官学习雅思和实现您的乐队7或更高，具有林赛麦克马洪和奥布里卡特与杰西卡贝克在以前的情节访问我们的网站在这里或https://lnk.to/website-sn如果你喜欢这个播客，你好."
+    },
+    {
+      "feedId": 956179,
+      "category": "learn-english",
+      "podcastTitle": "All Ears English",
       "episodeId": 60164452828,
       "title": "Intimidated by Classic Literature? 3 Tips to Overcome It With Rebecca Schinsky",
       "description": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is. Do you love All Ears English? Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes Visit our website here or https://lnk.to/website-sn If you love this podcast, hi...",
@@ -112,20 +126,6 @@
       "datePublished": 1788886800,
       "titleZh": "让我们清理储藏室！描述古老腐烂食物的方法",
       "descZh": "想知道你的英语水平吗？在这里参加我们的免费英语水平测验，了解您当前的英语水平。你喜欢All Ears English吗？在这里尝试我们的其他播客：商务英语播客：提高您的商务英语与每周3集，具有林赛，米歇尔，和奥布里雅思能源播客：从一个前考官学习雅思和实现您的乐队7或更高，具有林赛麦克马洪和奥布里卡特与杰西卡贝克在以前的情节访问我们的网站在这里或https://lnk.to/website-sn如果你喜欢这个播客，你好."
-    },
-    {
-      "feedId": 956179,
-      "category": "learn-english",
-      "podcastTitle": "All Ears English",
-      "episodeId": 60108447878,
-      "title": "Socializing in English Part 1 - Are You a Coconut or a Peach?",
-      "description": "Want to understand the Invisible Social Layer of English that your classrooms and textbooks never taught you? Join the early-interest list for our new Socializing in English method and be the first to hear when it opens later this month. -Read social signals and understand what people really mean -Join and keep up with group conversations -Handle sarcasm, banter, and humor naturally -Share stories and opinions without oversharing -Change the subject, say no, or leave a conversation gracefully Go here to get on the early invite list now <...",
-      "audioUrl": "https://traffic.megaphone.fm/ALLE2850130486.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
-      "durationSeconds": 1118,
-      "datePublished": 1788843600,
-      "titleZh": "英语社交第1部分-你是椰子还是桃子？",
-      "descZh": "想要了解您的课堂和教科书从未教过您的英语隐形社交层吗？加入我们新的英语社交方法的早期兴趣列表，并在本月晚些时候开放时成为第一个听到的人。- 阅读社交信号并了解人们的真正含义-加入并跟上小组对话-自然处理讽刺、玩笑和幽默-分享故事和观点而不过度分享-改变话题、说不，或优雅地离开对话立即前往此处进入早期邀请名单<."
     },
     {
       "feedId": 494082,
@@ -467,6 +467,20 @@
       "feedId": 159700,
       "category": "learn-english",
       "podcastTitle": "Grammar Girl",
+      "episodeId": 60194762968,
+      "title": "Stray Russian words and made-up style rules, with Daniel Heuman and Chris Ryder",
+      "description": "1219. This week, we talk to Daniel Heuman and Chris Ryder from Intelligent Editing about the errors hiding in AI writing that looks flawless. We look at why it invents its own rules when you ask for Chicago or AP style, why it goes wrong in the middle of a document rather than at the ends, and why an AI that over-edits is harder to clean up than one that under-edits. Find Daniel and Chris on LinkedIn, and more about their projects at Perfectit.com. Save the date for Grammarpalooza — The Game Show: Thursday, Se...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/69c1476c007cdcf83fc0964b/e/6a9ddedef8f4d42589a95b50/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b90bb15a3fa8f5bc.jpg",
+      "durationSeconds": 1489,
+      "datePublished": 1789030800,
+      "titleZh": "与丹尼尔·休曼和克里斯·赖德一起学习俄语单词和虚构的风格规则",
+      "descZh": "1219.本周，我们与智能编辑的丹尼尔·休曼（Daniel Heuman）和克里斯·莱德（Chris Ryder）谈论了人工智能写作中隐藏的看似完美的错误。我们来看看为什么当你要求芝加哥或美联社风格时，它会发明自己的规则，为什么它会在文档中间而不是结尾出错，以及为什么过度编辑的人工智能比编辑不足的人工智能更难清理。在LinkedIn上查找Daniel和Chris，并在Perfectit.com上查找有关他们项目的更多信息。保存Grammarpalooza的日期-游戏展：星期四，西."
+    },
+    {
+      "feedId": 159700,
+      "category": "learn-english",
+      "podcastTitle": "Grammar Girl",
       "episodeId": 60104990525,
       "title": "Who's a good boy? The science behind 'dog voice.' Is it 'bated breath' or 'baited breath'?",
       "description": "1218. This week, we look at \"dog-directed speech\" — the high-pitched, sing-songy register people love to use with dogs — and what the research says about whether dogs actually like it. Then we look at why it's \"bated breath\" and not \"baited breath,\" and how Shakespeare used the phrase in \"The Merchant of Venice.\" Plus, we have a familect about \"spicy water.\" The dog segment was by Karen Lunde, a career writer and editor. She writes I'll Go First, a newsletter where she shares her story, and then hands you a writing prompt and a metaphorical pen. Find her at i...",
@@ -490,20 +504,6 @@
       "datePublished": 1788426000,
       "titleZh": "弗洛伦斯·哈兹拉特（Florence Hazrat）与弗洛伦斯·哈兹拉特（Florence Hazrat）一起，我们如何从词语之间没有空位到相互干扰",
       "descZh": "1217.本周，我们采访了《On the Mark》一书的作者弗洛伦斯·哈兹拉特（Florence Hazrat），讲述了标点符号在2,000年来是如何演变的。我们来看看为什么古希腊和罗马的文字之间没有空位，亚历山大的一位图书馆员如何引入第一批标记来帮助读者，以及为什么文艺复兴时期带来了一系列新标点符号，但后来大部分都停止了。然后我们来看看为什么一段时期会让短短信感觉具有攻击性，表情符号是否算作标点符号，以及像interrobang这样失败的发明如何试图加入这一行列。在Instagram上找到Florence Hazrat或她的."
-    },
-    {
-      "feedId": 159700,
-      "category": "learn-english",
-      "podcastTitle": "Grammar Girl",
-      "episodeId": 59790567182,
-      "title": "Why do so many last names sound like jobs?",
-      "description": "1216. In honor of Labor Day, we look at occupational surnames — why Baker, Cooper, and Fletcher sound like jobs, and why Wainwright, Chandler, and Fuller were jobs too, even though they don't sound like it anymore. We also look at how names like Webster and Baxter preserve an Old English suffix for women's work. The jobs segment was by Karen Lunde, a career writer and editor. She writes I'll Go First, a newsletter where she shares her story, and then hands you a writing prompt and a metaphorical pen. Find her at igofirst.org. Sa...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/69c1476c007cdcf83fc0964b/e/6a8ca8e0dfad1fa03ca11181/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/30797d23e1152ffb.jpg",
-      "durationSeconds": 591,
-      "datePublished": 1788253200,
-      "titleZh": "为什么这么多姓氏听起来像工作？",
-      "descZh": "1216.为了纪念劳动节，我们来看看职业姓氏--为什么贝克、库珀和弗莱彻听起来像工作，以及为什么温赖特、钱德勒和富勒也是工作，尽管它们听起来不再像了。我们还研究了韦伯斯特和巴克斯特等名字如何保留女性工作的古英语后缀。就业部分由职业作家兼编辑凯伦·伦德（Karen Lunde）撰写。她写了一份时事通讯《I ' ll Go First》，分享了她的故事，然后递给你一个写作提示和一支隐喻笔。请在igofirst.org上找到她。Sa."
     },
     {
       "feedId": 197123,
@@ -1139,6 +1139,20 @@
       "feedId": 561991,
       "category": "growth",
       "podcastTitle": "A Bit of Optimism",
+      "episodeId": 60199213754,
+      "title": "Why Trying to “Sound Smart” is Losing You the Room with Strategic Story Producer Rob Willis",
+      "description": "Have you ever sat through a presentation and felt your attention just start to…drift? Chances are, it wasn't the content. It was the delivery. A year ago, Rob Willis was a corporate trainer with years of experience and a sharp eye for what makes people listen. He wondered if what he taught in workshops would resonate with a larger audience. So he started making short videos that break down what makes great speakers great: from their word choice, to structure, to the energy they brought to any room or conversation. Rob...",
+      "audioUrl": "https://episode.flightcast.com/01M1Q5GV3W08ZJ3BZZNKYJYPVK.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/377d0d3777e75869.jpg",
+      "durationSeconds": 2833,
+      "datePublished": 1788850800,
+      "titleZh": "为什么试图“听起来聪明”会让你失去战略故事制片人罗布·威利斯的空间",
+      "descZh": "您是否曾经坐着看完演讲，感觉自己的注意力开始……漂移？很可能，这不是内容。这是送货。一年前，罗布·威利斯（Rob Willis）是一名企业培训师，拥有多年经验，对什么让人们倾听有着敏锐的洞察力。他想知道他在研讨会上教授的内容是否会引起更多观众的共鸣。因此，他开始制作短视频，分析伟大的演讲者之所以伟大：从他们的词语选择、结构，再到他们为任何房间或对话带来的能量。罗布."
+    },
+    {
+      "feedId": 561991,
+      "category": "growth",
+      "podcastTitle": "A Bit of Optimism",
       "episodeId": 59848984174,
       "title": "Your Limits Are Learned (And They Can Be Unlearned) with Brain Coach Jim Kwik",
       "description": "This might sound familiar: you read a full page, get to the bottom, and realize you absorbed none of it. There's a stack of books beside your bed you fully intend to finish. And the only phone number you can remember is your own. Jim Kwik says none of that means something is wrong with our brains. It’s that we were taught what to learn, but rarely ever taught how to learn. Jim would know. A well-meaning teacher called him \"the boy with the broken brain\" when he was nine, an...",
@@ -1162,20 +1176,6 @@
       "datePublished": 1787641200,
       "titleZh": "当每个人都对爱有看法时如何相信自己你的纳德的玛丽·霍兰德·纳德",
       "descZh": "也许这听起来很熟悉：你终于得到了你一直在等待的机会，你脑海中的声音说：“我还没有准备好，我不属于这里。“现在想象一下，在数百万人的注视下听到那个声音。玛丽·霍兰德·纳德（Mary Holland Nader）经历过这一切。她从未梦想过成名，但当Hulu的真人秀节目《爱你·纳德》（Love Thy Nader）来袭时，她放弃了稳定的华尔街工作，转而成为聚光灯下的焦点，并将她的新平台投入使用。这使她能够推出Mary & Pip，这是一家以目的为导向的金融科技公司，采用健康的方法来..."
-    },
-    {
-      "feedId": 561991,
-      "category": "growth",
-      "podcastTitle": "A Bit of Optimism",
-      "episodeId": 59259888443,
-      "title": "What Happens When You Bet on Yourself with Ted Lasso’s Brendan Hunt",
-      "description": "Maybe you know the feeling: everyone around you seems to be getting ahead, and every hour you spend on something \"frivolous\" — the hobby, the detour, the game on a Sunday afternoon — feels like falling behind. Brendan Hunt's career is proof those hours are never wasted. The detour turned out to be the path all along. Most of us know Brendan as Coach Beard and as the Emmy Award-winning co-creator of Ted Lasso. But before any of that, he was an unknown Chicago improv actor when the Amsterdam comedy institution Boom Chicago offered him somet...",
-      "audioUrl": "https://episode.flightcast.com/01M08BJ9SSBZ5R872VPYFRGE86.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/dbaa70cd3d24a0d0.jpg",
-      "durationSeconds": 3667,
-      "datePublished": 1787036400,
-      "titleZh": "当你用特德·拉索的布伦丹·亨特打赌自己时会发生什么",
-      "descZh": "也许你知道这种感觉：你周围的每个人似乎都在进步，而你花在一些“无聊”的事情上的每一个小时--爱好、绕道、周日下午的游戏--感觉就像落后了。布伦丹·亨特的职业生涯证明了这些时间永远不会浪费。原来绕道就是一条路。我们大多数人都知道布兰登是比尔德教练，也是艾美奖得主泰德·拉索的共同创作者。但在此之前，他是一个不知名的芝加哥即兴演员时，阿姆斯特丹喜剧机构繁荣芝加哥提供了他一些..."
     },
     {
       "feedId": 533288,
@@ -1223,6 +1223,20 @@
       "feedId": 727637,
       "category": "stories",
       "podcastTitle": "Snap Judgment",
+      "episodeId": 60199953086,
+      "title": "The Whale",
+      "description": "On the volcanic island of La Palma biologists unravel a massive mystery. Is it a crime scene, a treasure or a dream come true? And in the town of Trinidad a grade school trip to the ocean is about to get beautiful, raw, and wild. Whalecano On the volcanic island of La Palma biologists unravel a massive mystery. Is it a crime scene, a treasure or a dream come true? A huge thank you to Paula Alonso, and Dr. Antonio Fernandez for sharing your story with Snap! Produced by Erick Yáñez...",
+      "audioUrl": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/fa53c0ba-6b63-4922-9974-249db41b21e5/1741_TheWhale_Podcast_MST.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/744a7dc33b3751a1.jpg",
+      "durationSeconds": 2950,
+      "datePublished": 1789045200,
+      "titleZh": "鲸鱼",
+      "descZh": "在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。这是犯罪现场、宝藏还是梦想成真？在特立尼达镇，小学的海洋之旅即将变得美丽、原始和狂野。鲸鱼在拉帕尔马火山岛上，生物学家揭开了一个巨大的谜团。它是犯罪现场，宝藏还是梦想成真？非常感谢Paula Alonso和Antonio Fernandez博士与Snap分享您的故事！制作人：Erick Yáñez"
+    },
+    {
+      "feedId": 727637,
+      "category": "stories",
+      "podcastTitle": "Snap Judgment",
       "episodeId": 59891516448,
       "title": "Vote for El Hottie - Snap Classic",
       "description": "In sweet home Alabama, from the heart of Libya, comes a renegade candidate with a boombox and a head scarf. The cheerleaders, the geeks, the dweebs and the freaks are about to send a message the country needs right after 9/11. A very big thank you to Yasmin! Yasmin is a comedian and storyteller. You can follow her on Instagram @yasminelhahahady or TikTok @yasmin_elhady. She first told a version of this story at Story District in Washington, DC. Produced by Justin Kramon, original score by Renzo Gorrio, artwork by Teo Ducot. Snap Classic...",
@@ -1246,20 +1260,6 @@
       "datePublished": 1787835600,
       "titleZh": "营火故事：风火轮",
       "descZh": "圣托马斯岛的欢乐时光里，有一个开着老爷车的傻瓜，精神都在流淌。此外，每个人都在Lee的Los Gatos Spin Class中表现出色，但第23周期简直是天方夜谭。Snap Judgment呈现今年的营火故事.“风火轮。”这是一个超自然的夏季传统，讲述了我们邪恶的双胞胎《吓坏了》的故事。每周都会出现惊吓，您可以在任何播客平台上收听。收听并害怕.故事欢乐之旅圣托马斯岛的欢乐时光里，有一个开着老爷车的小丑，气氛热烈。<..."
-    },
-    {
-      "feedId": 727637,
-      "category": "stories",
-      "podcastTitle": "Snap Judgment",
-      "episodeId": 59261094142,
-      "title": "Feelabeelia: One-Hit Wonder? Snap Classic",
-      "description": "Hold onto your mullets! British drummer Nick Murphy and his band are overjoyed after signing a record deal with THE Quincy Jones in 1984. That is, until a chance encounter with one of the biggest stars in the world changes everything. And the story of a talented luchador who has an uphill battle to get the crowd and the press on his side. STORIES Feelabeelia: One-Hit Wonder? Hold onto your mullets! British drummer Nick Murphy and his band are overjoyed after signing a record deal with THE Quincy Jones in 1984. That is, until a...",
-      "audioUrl": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/2c2ae9db-71ff-4b0a-b84a-b071e6d9e0aa/1533_RBCST_Feelabelia_Podcast_MST.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/9b6e746524171e0b.jpg",
-      "durationSeconds": 2986,
-      "datePublished": 1787230800,
-      "titleZh": "Fejeleelia：One Hit Wonder？Snap Classic",
-      "descZh": "抓住你的鲻鱼！英国鼓手尼克·墨菲和他的乐队在1984年与昆西·琼斯签署唱片协议后欣喜若狂。也就是说，直到偶然遇到世界上最伟大的明星之一改变一切。这是一位才华横溢的雪橇手的故事，他需要一场艰苦的战斗来让观众和媒体站在他一边。故事Feelengeelia：One Hit Wonder？抓住你的鲻鱼！英国鼓手尼克·墨菲和他的乐队在1984年与昆西·琼斯签署唱片协议后欣喜若狂。也就是说，直到."
     },
     {
       "feedId": 482244,
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 60193928062,
+      "title": "The Srivijaya Empire",
+      "description": "For centuries, one of Asia's most powerful empires controlled the vital sea lanes connecting China, India, and the Middle East. It grew fabulously wealthy from trade, became a major center of Buddhism, and dominated much of maritime Southeast Asia. Then its power faded, its cities declined, and eventually the empire itself was almost completely forgotten. Centuries later, historians pieced together scattered inscriptions and foreign records and realized what had been lost. Learn more about the rise, fall, and rediscovery of the Srivijaya Empire on this episode of Everything Everywhere Daily. <...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS1823653392.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/decd75364444d673.jpg",
+      "durationSeconds": 967,
+      "datePublished": 1789030800,
+      "titleZh": "三佛齐帝国",
+      "descZh": "几个世纪以来，亚洲最强大的帝国之一控制着连接中国、印度和中东的重要海道。它因贸易而变得极其富有，成为佛教的主要中心，并统治了东南亚大部分海上地区。然后它的力量逐渐衰落，它的城市衰落，最终帝国本身几乎被完全遗忘。几个世纪后，历史学家拼凑了零散的铭文和外国记录，并意识到了丢失的东西。在《Everything Everywhere Daily》这一集中了解更多有关三佛齐帝国的兴起、衰落和重新发现的信息。<..."
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 60150194370,
       "title": "A History of Looney Tunes",
       "description": "For decades, audiences around the world have watched a collection of characters survive explosions, outwit hunters, fall from cliffs, and repeatedly bend the laws of physics. What began as inexpensive theatrical shorts became one of animation's most influential forces, creating characters that are still recognized almost a century later. Along the way, a remarkable group of writers, directors, animators, musicians, and voice actors changed cartoons forever. Learn more about the history of Looney Tunes on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everything-Everywhere.com⁠ <b...",
@@ -1498,20 +1512,6 @@
       "datePublished": 1788858000,
       "titleZh": "器官移植",
       "descZh": "在人类历史的大部分时间里，当身体的一个重要部位出现故障时，医生几乎无能为力。然后，手术、免疫学和药物方面的一系列进步使得曾经被认为不可能的事情变得越来越常规。它需要解决兼容性、排斥、保存问题，甚至死亡本身的定义问题。如今，数万人的生命归功于这一突破。了解更多关于器官移植的历史，以及他们如何在这一集的一切无处不在的日常工作。 在商店购物   Shop.Everything-Everywhere.com.."
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 60058576707,
-      "title": "The Pirahã People",
-      "description": "Deep in the Amazon rainforest lives a small society that has challenged some of our most basic assumptions about language, numbers, time, memory, and even how human beings organize their lives. For decades, researchers studying them have found features so unusual that they have sparked major debates in linguistics and anthropology. They may offer important clues about which parts of human thought are universal and which are created by culture. Learn more about the remarkable Pirahã people on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Ev...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS6614124831.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/113ebbc25dfcbce3.jpg",
-      "durationSeconds": 944,
-      "datePublished": 1788771600,
-      "titleZh": "皮拉罕人",
-      "descZh": "亚马逊雨林深处生活着一个小社会，这个社会挑战了我们关于语言、数字、时间、记忆，甚至人类如何组织生活的一些最基本的假设。几十年来，研究它们的研究人员发现了如此不寻常的特征，以至于引发了语言学和人类学领域的重大争论。它们可能会提供重要线索，了解人类思想的哪些部分是普遍的，哪些是由文化创造的。请在《Everything Everywhere Daily》这一集中了解更多有关非凡的皮拉罕人的信息。 在商店购物   商店. Ev.."
     },
     {
       "feedId": 387129,
@@ -1853,6 +1853,20 @@
       "feedId": 743065,
       "category": "sports",
       "podcastTitle": "The Bill Simmons Podcast",
+      "episodeId": 60200393856,
+      "title": "An Absolutely Horrific Patriots Loss, the Rams-49ers Travel Bowl, and Hottest Takes With Craig Horlbeck, Danny Heifetz, and Danny Kelly",
+      "description": "The Ringer’s Bill Simmons is joined by Craig Horlbeck, Danny Heifetz, and Danny Kelly to react to the NFL season opener between the Patriots and the Seahawks. Then, they preview 49ers-Rams in Australia before giving some hot takes. (0:00) Intro (1:07) Patriots-Seahawks reactions (30:51) 49ers-Rams preview and hot takes Host: Bill Simmons Guests: Craig Horlbeck, Danny Heifetz, and Danny Kelly Producers: Chia Hao Tat, Eduardo Ocampo, and Chris Wohlers The Ringer is committed to responsible gaming. Please visit ht...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6118072849.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/327568ff00dce02f.jpg",
+      "durationSeconds": 4338,
+      "datePublished": 1789021260,
+      "titleZh": "爱国者队绝对可怕的失利、公羊队49人队旅行碗以及克雷格·霍尔贝克、丹尼·海菲茨和丹尼·凯利的最热门比赛",
+      "descZh": "林格的比尔西蒙斯是加入克雷格霍尔贝克，丹尼海菲兹，和丹尼凯利作出反应的NFL赛季揭幕战之间的爱国者和海鹰。然后，他们预览49人公羊在澳大利亚之前，给一些热需要。（UNK请访问HT…"
+    },
+    {
+      "feedId": 743065,
+      "category": "sports",
+      "podcastTitle": "The Bill Simmons Podcast",
       "episodeId": 60112065503,
       "title": "Mahomes or Allen (Again???) and a Clippers-Heavy Mailbag With Nick Wright",
       "description": "The Ringer’s Bill Simmons is joined by Nick Wright to debate whether Josh Allen is the best QB in the league and the Chiefs’ ceiling this season before diving into a Clippers-heavy mailbag. (0:00) Intro (2:26) A Josh Allen and Chiefs discussion (36:24) Mailbag Host: Bill Simmons Guest: Nick Wright Producers: Chia Hao Tat and Eduardo Ocampo Download Uber Eats and order now. http://ubereats.com The Ringer is committed to responsible gaming. Plea...",
@@ -1876,20 +1890,6 @@
       "datePublished": 1788753360,
       "titleZh": "第一周猜线，加上表弟萨尔最喜欢的NFL未来",
       "descZh": "在NFL未来选秀之前，《指环王》的比尔·西蒙斯（Bill Simmons）与萨尔表弟一起参加了第一周的猜测线路。（0：00）简介（1：08）猜猜线第一周（55：33）NFL期货选秀主持人：比尔·西蒙斯嘉宾：萨尔表弟制作人：Chia Hao Tat、Eduardo Ocampo和Chris Wohlers参加https://michelobultra.com/SuperiorAccess上赢得优质足球、篮球和高尔夫奖品的机会 The Ringer致力于负责任的游戏。请访问https://fanduel.co.."
-    },
-    {
-      "feedId": 743065,
-      "category": "sports",
-      "podcastTitle": "The Bill Simmons Podcast",
-      "episodeId": 59912623410,
-      "title": "Clippers Rock Bottom 9.0, Plus Charles Barkley on the Clips, 76ers, Lakers, ESPN, and Why He Loves Josh Allen",
-      "description": "The Ringer’s Bill Simmons starts the pod by giving his thoughts on the NBA punishing the Clippers. Then, Charles Barkley joins to discuss the Clippers news, Jaylen in Philly, LeBron leaving the Lakers, and much more! (0:00) Intro (2:50) The Clippers get punished (22:57) Charles Barkley on the Clippers, ESPN, and more! Host: Bill Simmons Guest: Charles Barkley Producers: Chia Hao Tat and Eduardo Ocampo The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6936140442.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/327568ff00dce02f.jpg",
-      "durationSeconds": 6033,
-      "datePublished": 1788475860,
-      "titleZh": "快船垫底9.0，加上快船队的查尔斯·巴克利、76人队、湖人队、ESPN，以及他为什么爱乔什·艾伦",
-      "descZh": "边锋队的比尔·西蒙斯首先表达了他对NBA惩罚快船队的看法。然后，查尔斯·巴克利加入讨论快船的新闻、杰伦在费城、勒布朗离开湖人等等！（0：00）简介（2：50）快船队受到惩罚（22：57）查尔斯·巴克利（Charles Barkley）谈快船队、ESPN等！主持人：Bill Simmons嘉宾：Charles Barkley制作人：Chia Hao Tat和Eduardo Ocampo The Ringer致力于负责任的游戏。请访问https://fanduel.com/playwithaplan.."
     }
   ]
 }
