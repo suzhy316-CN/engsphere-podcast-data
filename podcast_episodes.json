@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:10:30.670Z",
+  "updatedAt": "2026-09-10T02:14:51.392Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 60178252865,
+      "title": "Short Stuff: Flappers",
+      "description": "In the 1920s, a certain set of women wanted to loosen up and have a good time. Today, we get into it with the flappers. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0809be36-a919-4170-9fe2-b4bb00d131c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8f76355f04408d26.jpg",
+      "durationSeconds": 683,
+      "datePublished": 1788944400,
+      "titleZh": "短小的东西：襟翼",
+      "descZh": "20世纪20年代，某些女性想要放松一下，享受美好时光。今天，我们来谈谈Flappers。请访问omnystudio.com/listener了解隐私信息。"
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 60120729447,
       "title": "Nickelodeon:The Best of Slimes",
       "description": "Today we tell the story of the kids TV network that changed it all, Nickelodeon. See omnystudio.com/listener for privacy information.",
@@ -574,20 +588,6 @@
       "datePublished": 1788598800,
       "titleZh": "收件箱：铁匠？你说得对！",
       "descZh": "铁匠？你说得对。在这一经典剧集中了解有关这个古老职业的所有信息。请访问omnystudio.com/listener了解隐私信息。"
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 59895688302,
-      "title": "Social Identity Theory: Your Group Rules, Others Drool",
-      "description": "In the 80s, a pair of psychologists theorized why being part of a group can change people’s thoughts and feelings, both about themselves and other people. It sounds dry, but SIT explains everything from how people justify genocide to football rivalries. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f8a763f-daa1-4efd-9d11-b4b80164422f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 2852,
-      "datePublished": 1788426000,
-      "titleZh": "社会认同理论：你的群体规则，其他人流口水",
-      "descZh": "80年代，一对心理学家提出了为什么成为一个群体的一员可以改变人们对自己和他人的想法和感受的理论。这听起来很枯燥，但SIT解释了一切，从人们如何为种族灭绝辩护到足球竞争。请访问omnystudio.com/listener了解隐私信息。"
     },
     {
       "feedId": 8820,
@@ -951,7 +951,7 @@
       "durationSeconds": 1865,
       "datePublished": 1788408000,
       "titleZh": "新事物（安可）",
-      "descZh": "最初作为第十二季第14集（2023年9月4日）我们今晚的故事被称为《新事物》，这是一个关于夏末骑自行车时偶然发现一个美丽地方的故事。它还涉及睡莲、地图上标记的X，以及看着朋友步入生活新季节的乐趣。感谢您成为高级订阅者。💙    加入      没事村应用程序！订购凯瑟琳的新书      On the Street Where You Live           NMH Merch、亲笔签名书籍等！      收听我们的日间节目      来自诺蒂村的故事."
+      "descZh": "最初作为第十二季第14集（2023年9月4日）我们今晚的故事被称为《新事物》，这是一个关于夏末骑自行车时偶然发现一个美丽地方的故事。它还涉及睡莲、地图上标记的X，以及看着朋友步入生活新季节的乐趣。感谢您成为高级订阅者。💙    加入      没事村应用程序！订购凯瑟琳的新书      On the Street Where You Live           NMH Merch，签名书籍和更多！      收听我们的日间节目      来自诺蒂村的故事."
     },
     {
       "feedId": 178448,
