@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:37:18.804Z",
+  "updatedAt": "2026-09-11T18:56:17.184Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 60252776187,
+      "title": "The gravity-defying future of manufacturing | Schendy Kernizan",
+      "description": "3D printing promised to reinvent how we make things, but it's mostly stuck producing prototypes with a high level of waste. Designer and TED Fellow Schendy Kernizan found a different way — by printing objects directly into a tub of gel. He explains how this technique eliminates the constraints of gravity, pushing the limits of how we can manufacture objects across medicine, fashion, space travel and more. Following his story, pulled from a short film he made for TED, Kernizan speaks with Lily James Olds, director of the TED Fellows program, on where this fascination with making th...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bc70b520126fa0edfe70/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 1594,
+      "datePublished": 1789138800,
+      "titleZh": "制造业的逆重力未来|申迪·科尼赞",
+      "descZh": "3D打印有望重塑我们制造事物的方式，但它主要停留在生产原型上，造成大量浪费。设计师兼TED研究员Schendy Kernizan找到了一种不同的方法--将物体直接打印到凝胶桶中。他解释了这项技术如何消除重力的限制，突破我们在医学、时尚、太空旅行等领域制造物体的极限。Kernizan从他为TED制作的一部短片中摘录了他的故事，随后与TED研究员项目总监莉莉·詹姆斯·奥尔兹（Lily James Olds）进行了交谈，探讨了这种对制作这些东西的迷恋。."
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 60223586621,
       "title": "News tells you what happened. Drawing shows you how it felt | George Butler",
       "description": "What does a war look like when you sit still long enough to draw it? Reportage artist and TED Fellow George Butler sketches the people that the news passes by: a 99-year-old survivor of the Holodomor famine in Ukraine, a man gathering books blasted into a rose garden, an architect whose home was hit by a Russian missile. Urging us to slow down in the age of immediate news, Butler shows how a drawing reveals what a headline can't. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1582,20 +1596,6 @@
       "datePublished": 1788966000,
       "titleZh": "欺凌如何传播-以及社会勇气如何阻止它|Amy Cuddy",
       "descZh": "欺凌行为如何根深蒂固？社会心理学家艾米·卡迪（Amy Cuddy）成为一场抹黑她的协调运动的目标后，对这个问题有了深入的看法。她根据自己的经验和多年的研究，对欺凌如何重塑我们的文化以及我们每个人如何练习社会勇敢--为彼此挺身而出的日常行为--以结束它。（注：这次演讲包含关于自杀的讨论。）由Acast主持。请访问acast.com/privacy了解更多信息。"
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 60132654631,
-      "title": "How the wealth gap is reshaping politics | Xochitl Gonzalez",
-      "description": "Wealth inequality gets talked about as an economic problem. Writer Xochitl Gonzalez makes the case that it's a civic one, too — a slow, quiet threat to democracy. Drawing on her research into the psychology of social class, she shows how growing up with (or without) money changes how we experience politics, community and society. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa02305e25cb7d39e91b630/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 800,
-      "datePublished": 1788879658,
-      "titleZh": "贫富差距如何重塑政治|索奇特尔·冈萨雷斯",
-      "descZh": "财富不平等被视为一个经济问题。作家Xochitl Gonzalez指出，这也是一个公民问题--对民主的缓慢、无声的威胁。她利用对社会阶级心理学的研究，展示了在有（或没有）金钱的情况下成长如何改变我们对政治、社区和社会的体验。由Acast主持。请访问acast.com/privacy了解更多信息。"
     },
     {
       "feedId": 388141,
@@ -1643,6 +1643,20 @@
       "feedId": 311840,
       "category": "ideas",
       "podcastTitle": "Freakonomics Radio",
+      "episodeId": 60254056633,
+      "title": "686. Why Is It So Hard to Find an NFL Quarterback?",
+      "description": "For decades, teams have tried (and mostly failed) to predict which college quarterbacks will thrive in the pros. Is the science finally catching up? Stephen Dubner speaks with a scout, a psychologist, a data warrior, and a Hall of Fame quarterback who nobody wanted. SOURCES:Scott Goldman, sports psychologist, owner of the Athletic Intelligence Quotient.Dan Hatman, director of scouting development at the Scouting Academy.Stephen Smith, founder and C.E.O. of Kitman Labs.Kurt Warner, Hall-of-Fame quarterback, N.F.L. Network analyst. RESOURCES:\"Head in the game: the impact of cognitive abilities on perf...",
+      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8355e5e6035eec3d.jpg",
+      "durationSeconds": 3500,
+      "datePublished": 1789120800,
+      "titleZh": "686.为什么很难找到NFL四分卫？",
+      "descZh": "几十年来，球队一直试图（但大多失败了）预测哪些大学四分卫将在职业球员中茁壮成长。科学终于赶上了吗？斯蒂芬·杜布纳（Stephen Dubner）与一名球探、一名心理学家、一名数据战士和一名没有人想要的名人堂四分卫进行了交谈。来源：斯科特·戈德曼，运动心理学家，运动智力商数的所有者。丹·哈特曼，童子军学院童子军发展总监。斯蒂芬·史密斯，创始人兼首席执行官基特曼实验室。库尔特·华纳，NFL名人堂四分卫网络分析师。资源：“进入游戏：认知能力对绩效的影响."
+    },
+    {
+      "feedId": 311840,
+      "category": "ideas",
+      "podcastTitle": "Freakonomics Radio",
       "episodeId": 60133563700,
       "title": "Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person",
       "description": "He started with one small shop in London. He has since resuscitated both Barnes & Noble and Waterstones. He tells Stephen Dubner exactly how he does it. If you'd like to see the video version of Better in Person, you can watch it on YouTube or Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1666,20 +1680,6 @@
       "datePublished": 1788516000,
       "titleZh": "685.如何在AI中生存休克",
       "descZh": "前商务部长兼州长吉娜·雷蒙多（Gina Raimondo）认为人工智能从长远来看将创造大量就业机会。她还认为，管理不善的过渡可能会让这个国家分裂。于是她想出了一个计划。来源：Gina Raimondo，联合主席兼首席执行官提升我们。资源：“是什么让新工作不同于更多的工作？作者：David Autor，Caroline Chin，Anna Salomons，and Bryan Seegmiller（NBER，2026）. Christine Mui（PolitICO，2026）的“5亿美元人工智能就业机会在两党支持下推动启动。”“吉娜·雷蒙多（Gina Raimondo）和埃里克·霍尔科姆（Eric Holcomb）发起RAISE US，团结全国领先的企业."
-    },
-    {
-      "feedId": 311840,
-      "category": "ideas",
-      "podcastTitle": "Freakonomics Radio",
-      "episodeId": 59819166782,
-      "title": "How to Run an Institution in an Anti-Institution Era | Better in Person",
-      "description": "Anne Pasternak (Brooklyn Museum) and Michael Roth (Wesleyan University) tell Stephen Dubner how they keep the peace in the middle of a culture war. If you'd like to see the video version of Better in Person, you can watch it on YouTube or Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/210e3f76-5a94-48a3-b4ff-5fcef7b75b1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=210e3f76-5a94-48a3-b4ff-5fcef7b75b1c&feed=Y8lFbOT4",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/e73f32ed12723170.jpg",
-      "durationSeconds": 2255,
-      "datePublished": 1788307200,
-      "titleZh": "如何在反制度时代管理一个制度|在人更好",
-      "descZh": "安妮·帕斯捷尔纳克（布鲁克林博物馆）和迈克尔·罗斯（卫斯理大学）告诉斯蒂芬·杜布纳他们如何在文化战争中维持和平。如果您想观看《Better in Person》的视频版本，可以在YouTube或Apple播客上观看。由AdsWizz公司Simplecast主办。有关我们收集和使用个人数据进行广告的信息，请参阅pcm.adswizz.com。"
     },
     {
       "feedId": 714258,
