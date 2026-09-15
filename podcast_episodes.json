@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T15:58:56.371Z",
+  "updatedAt": "2026-09-15T19:26:05.051Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -635,6 +635,20 @@
       "feedId": 771813,
       "category": "science",
       "podcastTitle": "StarTalk Radio",
+      "episodeId": 60418375007,
+      "title": "Why Do We Exist with Hakeem Oluseyi",
+      "description": "What is fundamental in the universe? Neil deGrasse Tyson and comic co-host Chuck Nice welcome back Hakeem Oluseyi to dive deep into cosmology, plasma physics, the origins of life, and some of the most provocative ideas in modern astrophysics. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/why-do-we-exist-with-hakeem-oluseyi/ Thanks to our Patrons Elias Clarke, Alex Carrion, Pwp4853, Terry Emmel, Laura Belter, Daniel Cossette, Bechamel, Enrique Gracia, Troy Plewe, Kyle Knoche, Dr. Tom, Brian Hatwell, Andrew Parziale, Brian O'Brien, Billy Behman, Abhimat Subedi, Sarah, Joseph Gates, Cnidarian, Raja T...",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/836914ad-72b0-44c6-b1b4-77d8af443778/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=836914ad-72b0-44c6-b1b4-77d8af443778&feed=4T39_jAj",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a36c9833c0d1071b.jpg",
+      "durationSeconds": 2862,
+      "datePublished": 1789448400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 771813,
+      "category": "science",
+      "podcastTitle": "StarTalk Radio",
       "episodeId": 60095652951,
       "title": "Why Craters Are Round, Size of Life, The Real Length of Day – TYTYK",
       "description": "Is there a limit to how small life can be? Or how big? Neil deGrasse Tyson and Chuck Nice break down why all craters on the moon are round, the scale to life, and why the length of the day isn’t 24 hours. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/why-craters-are-round-size-of-life-the-real-length-of-day-tytyk/ Thanks to our Patrons THOMAS, Peter Woolridge, Bill deRome, Andrew Agee, Scott, Ronald French, Honey Bunches of Oats, Adam Tucker, Theo Packer, Suhas Thobbi, Mixtape Romeo, Mykel North, Phillips Booker, LeeAnn, Michael Maguire, Michael King, Barb...",
@@ -656,20 +670,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a36c9833c0d1071b.jpg",
       "durationSeconds": 4456,
       "datePublished": 1788498000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 771813,
-      "category": "science",
-      "podcastTitle": "StarTalk Radio",
-      "episodeId": 59781523054,
-      "title": "Rogue Planets & Exomoons with David Kipping",
-      "description": "Did we discover an exomoon? Neil deGrasse Tyson and Chuck Nice learn about the search for exoplanets with biosignatures, super Earths & mini Neptunes, and whether rogue planets outside of a solar system could harbor life with astrophysicist David Kipping. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/rogue-planets-exomoons-with-david-kipping/ Thanks to our Patrons Eric Solomon, Jakob Jegge, william northup, Mariam Fischer, Beirne, Sean Fox, xKansasxCowBoyx, xoydev, David Ostrow, Daniel Ramsey,Jessie Caldwell, Tyrone P, Matt, Ajari T, David,Luis Molina, jamescory, Albert Maneri, Zachary Samuel, Ken Kaneda, Nicole W...",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/43a14db9-4b53-49ee-a7e7-ab30ad5fbabe/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=43a14db9-4b53-49ee-a7e7-ab30ad5fbabe&feed=4T39_jAj",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a36c9833c0d1071b.jpg",
-      "durationSeconds": 3212,
-      "datePublished": 1788238800,
       "titleZh": null,
       "descZh": null
     },
