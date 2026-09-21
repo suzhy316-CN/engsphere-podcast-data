@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:30:52.190Z",
+  "updatedAt": "2026-09-21T22:58:45.463Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 60675204676,
+      "title": "How to clean up the world's dirtiest industry | Joojin Kim",
+      "description": "Climate strategist Joojin Kim spent years convincing banks across South Korea to stop funding coal, and it worked. Now he's aiming that same playbook at a new target: maritime shipping, a hidden engine of the global economy — and one of the world's dirtiest industries. He breaks down how the whole system converges in one place and why redirecting finance could transform it into a driver of a clean economy worldwide. (This ambitious idea is part of The Audacious Project, TED's initiative to inspire and fund global change.) Hosted on Acast. See acast.com/privacy fo...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab144561faf37ef045db6c9/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 800,
+      "datePublished": 1790002800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 60639149509,
       "title": "The secret to mastering life's biggest transitions | Bruce Feiler",
       "description": "How do you navigate life's growing number of transitions with meaning, purpose and skill? Writer Bruce Feiler offers a powerful way to handle uncertain, painful and confusing times -- or \"lifequakes\", as he calls them. Learn how to equip yourself with the essential tools and mindset to ride out (and rewrite) the toughest chapters of your life story, and turn unease and upheaval into growth and renewal. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 1740,
       "datePublished": 1789830000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 60567924798,
-      "title": "How to make AI companies pay your energy bill | Ari Matusiak",
-      "description": "Climate expert Ari Matusiak spends his days working to rewire America's energy system, and he has an idea: instead of tech companies building new power plants for their AI data centers, they should invest in energy-efficient upgrades to your home. He lays out how this swap could lower your power bill, reduce the strain on the grid and help communities reclaim control over the thing tech companies need most — power. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aabff67fa2bb1bafe272880/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 910,
-      "datePublished": 1789743600,
       "titleZh": null,
       "descZh": null
     },
