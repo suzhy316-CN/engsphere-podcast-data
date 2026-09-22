@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:58:45.463Z",
+  "updatedAt": "2026-09-22T02:32:22.640Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1853,6 +1853,20 @@
       "feedId": 743065,
       "category": "sports",
       "podcastTitle": "The Bill Simmons Podcast",
+      "episodeId": 60685184677,
+      "title": "The Broken Chargers, Mahomes 3.0, Zombie Deshaun, the Masked Backup, First Coach Fired, and Guess the Lines With Cousin Sal",
+      "description": "The Ringer’s Bill Simmons is joined by Cousin Sal to react to the Chiefs winning in OT against the Colts, before recapping the rest of the Week 2 matchups. Then, they guess the lines for Week 3 before ending with Parent Corner. (0:00) Intro (1:08) NFL Week 2 recap (01:07:04) Guess the Lines Week 3 (01:31:48) Parent Corner Host: Bill Simmons Guest: Cousin Sal Producers: Chia Hao Tat, Eduardo Ocampo, and Chris Wohlers Enter for a chance to win superior soccer, ba...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT8315252184.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/327568ff00dce02f.jpg",
+      "durationSeconds": 6672,
+      "datePublished": 1789980840,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 743065,
+      "category": "sports",
+      "podcastTitle": "The Bill Simmons Podcast",
       "episodeId": 60545266120,
       "title": "Apex Josh Allen, the Goofy NFC North, Week 2 Picks, and Bill’s Breakup Letter to the Clippers | With Tom Pelissero and Joe House",
       "description": "The Ringer’s Bill Simmons is joined by Tom Pelissero to react to the Bills defeating the Lions in a Week 2 'TNF' matchup. Then, Joe House joins to listen to Bill’s letter to the Clippers, answer some mailbag questions, and make their Ringer 107 picks for Week 2. (0:00) Intro (1:07) Lions-Bills reactions and more with Tom Pelissero (42:57) Bill’s letter to the Clippers (51:18) Mailbag (01:07:43) Ringer 107 picks Host: Bill Simmons Guests: Tom Pelissero and Joe House Producers: Chia Hao Tat, Eduard...",
@@ -1874,20 +1888,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/327568ff00dce02f.jpg",
       "durationSeconds": 7888,
       "datePublished": 1789520580,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 743065,
-      "category": "sports",
-      "podcastTitle": "The Bill Simmons Podcast",
-      "episodeId": 60376404220,
-      "title": "The Smashmouth Giants, Bumbling Chargers, Stumbling Packers, Week 1 Overreactions, and Guess the Lines With Cousin Sal",
-      "description": "The Ringer’s Bill Simmons and Cousin Sal react to Week 1 of the NFL season before looking at some of the futures they already regret. Then, they Guess the Lines for Week 2 before ending with Parent Corner. (0:00) Intro (1:08) Week 1 reactions (01:07:33) GTL Week 2 (01:28:13) Parent Corner Host: Bill Simmons Guest: Cousin Sal Producers: Chia Hao Tat, Jessie Lopez, Chris Wohlers, and Trevor Rabone Enter for a chance to win superior soccer, basketball, and golf prizes at ht...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT8508103867.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/327568ff00dce02f.jpg",
-      "durationSeconds": 6340,
-      "datePublished": 1789369500,
       "titleZh": null,
       "descZh": null
     }
