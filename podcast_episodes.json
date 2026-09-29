@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T19:01:15.685Z",
+  "updatedAt": "2026-09-29T00:06:09.655Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -845,12 +845,26 @@
       "feedId": 1365758,
       "category": "mind",
       "podcastTitle": "Huberman Lab",
+      "episodeId": 60980105030,
+      "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+      "description": "Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experience. We discuss psychedelics, the microbiome, caffeine, and how the unconscious dialogue between our body and brain impacts our thoughts and feelings. Pollan offers a hopeful perspective on how our relationship with plants an...",
+      "audioUrl": "https://traffic.megaphone.fm/SCIM4063268713.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ce50e8420eaf649.jpg",
+      "durationSeconds": 7353,
+      "datePublished": 1790582400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 1365758,
+      "category": "mind",
+      "podcastTitle": "Huberman Lab",
       "episodeId": 60782100365,
       "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
       "description": "In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule. Read the full episode show...",
       "audioUrl": "https://traffic.megaphone.fm/SCIM8443296592.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/befe6bf599c2c715.jpg",
-      "durationSeconds": 2271,
+      "durationSeconds": 2286,
       "datePublished": 1790236800,
       "titleZh": null,
       "descZh": null
@@ -866,20 +880,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ce50e8420eaf649.jpg",
       "durationSeconds": 8888,
       "datePublished": 1789977600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 1365758,
-      "category": "mind",
-      "podcastTitle": "Huberman Lab",
-      "episodeId": 60558625937,
-      "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
-      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance. Read the episode show notes at hubermanlab.com. ...",
-      "audioUrl": "https://traffic.megaphone.fm/SCIM5641095924.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/befe6bf599c2c715.jpg",
-      "durationSeconds": 2141,
-      "datePublished": 1789632000,
       "titleZh": null,
       "descZh": null
     },
