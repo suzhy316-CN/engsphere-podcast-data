@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:08:21.784Z",
+  "updatedAt": "2026-10-11T03:01:52.260Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1097,6 +1097,20 @@
       "feedId": 366334,
       "category": "growth",
       "podcastTitle": "No Stupid Questions",
+      "episodeId": 61557200812,
+      "title": "96. Why is Chick-fil-A Such a Big Deal?",
+      "description": "How did Chick-fil-A become the third-largest restaurant chain in the U.S.? Why does it serve salad? And can Angie’s moral compass override her craving for a chicken sandwich? This episode originally aired on April 24th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/5bca68af-2f10-4a7b-9e4a-8892414b02ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=5bca68af-2f10-4a7b-9e4a-8892414b02ab&feed=dfh_verV",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
+      "durationSeconds": 1670,
+      "datePublished": 1791676800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 366334,
+      "category": "growth",
+      "podcastTitle": "No Stupid Questions",
       "episodeId": 61231706575,
       "title": "95. What’s So Bad About Denial?",
       "description": "Can denial be a healthy way of dealing with the death of a loved one? What do the five stages of grief misrepresent about mourning? And why does Angie cover her eyes when she watches the Rocky movies? This episode originally aired on April 17th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1118,20 +1132,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
       "durationSeconds": 1903,
       "datePublished": 1790467200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 366334,
-      "category": "growth",
-      "podcastTitle": "No Stupid Questions",
-      "episodeId": 60617092963,
-      "title": "93. Does the Early Bird Really Catch the Worm? Or Could the Night Owl Get There First?",
-      "description": "How have Angie’s views on sleep changed since she wrote her Harvard application essay? Would starting high school later in the day be worth $8.6 billion? And what should you do if your chronotype doesn’t fit the way society is structured? This episode originally aired on April 3rd, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/4d60be06-13b1-4855-aff1-add65ee7a158/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=4d60be06-13b1-4855-aff1-add65ee7a158&feed=dfh_verV",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
-      "durationSeconds": 1803,
-      "datePublished": 1789862400,
       "titleZh": null,
       "descZh": null
     },
