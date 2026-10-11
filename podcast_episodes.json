@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:01:52.260Z",
+  "updatedAt": "2026-10-11T10:29:06.407Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 61571511196,
+      "title": "Ytterby: The Swedish Village That Completed the Periodic Table",
+      "description": "Throughout history, scientists have made great discoveries in laboratories, universities, and research institutions. However, some of chemistry’s most important discoveries can be traced to a single rock quarry in a small Swedish village. Over more than a century, scientists studying minerals from this one quarry identified a remarkable number of previously unknown elements. Without this one quarry, our knowledge of the Periodic Table would be incomplete. Learn more about Ytterby, the village that helped fill the periodic table, on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everythi...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS5952177932.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/47bc19be6540b44e.jpg",
+      "durationSeconds": 965,
+      "datePublished": 1791709200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 61531992803,
       "title": "The History of Helicopters",
       "description": "For centuries, inventors dreamed of creating a flying machine that could rise straight into the air, hover in place, and move in any direction. While airplanes conquered the skies in the early twentieth century, achieving this seemingly simple feat proved far more difficult. It required breakthroughs in aerodynamics, engineering, and flight control before the dream finally became reality. The result was an aircraft that would revolutionize warfare, transportation, and emergency rescue. Learn more about the helicopter's history and development in this episode of Everything Everywhere Daily. ⁠Sh...",
@@ -1496,20 +1510,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4bfbf1174318342a.jpg",
       "durationSeconds": 872,
       "datePublished": 1791536400,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 61430677165,
-      "title": "Queen Ranavalona I of Madagascar",
-      "description": "European powers, missionaries, and foreign merchants seeking influence over her kingdom. She responded by closing much of her country to outsiders, strengthening royal authority, and using methods that made her one of the most feared and controversial monarchs of her age. Her reign would later be remembered as both brutal and fiercely independent. Learn more about Queen Ranavalona I, on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everything-Everywhere.com⁠ Sponsors Hexclad Get 10% off your order at hexclad.co...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS1969875111.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/078cb8f2318082f9.jpg",
-      "durationSeconds": 926,
-      "datePublished": 1791450000,
       "titleZh": null,
       "descZh": null
     },
