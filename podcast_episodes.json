@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:28:09.572Z",
+  "updatedAt": "2026-10-13T20:56:30.995Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1139,6 +1139,20 @@
       "feedId": 561991,
       "category": "growth",
       "podcastTitle": "A Bit of Optimism",
+      "episodeId": 61685435773,
+      "title": "Revisited: Why Relationships Are the Secret to a Long, Happy Life with Psychotherapist Esther Perel",
+      "description": "Hello from Team Simon! We’re taking a few weeks off and will be back with brand-new episodes of A Bit of Optimism on Tuesday, October 27. Until then, we’re revisiting some of our favorite conversations, including this one with a longtime friend of Simon’s: Esther Perel. For most of history, we stayed in marriages and jobs because we had to. Happiness was a nice bonus. Today we get to choose who we love and where we work, so happiness has become the glue that holds it all together. ...",
+      "audioUrl": "https://episode.flightcast.com/01M4SMRSPMHEFJXQ8D7H68R8N8.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/dbaa70cd3d24a0d0.jpg",
+      "durationSeconds": 3744,
+      "datePublished": 1791874800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 561991,
+      "category": "growth",
+      "podcastTitle": "A Bit of Optimism",
       "episodeId": 61349816092,
       "title": "Revisited: Your Instincts Know What You Want with Happiness Expert Arthur Brooks",
       "description": "Team Simon here! A Bit of Optimism is on a short break, and brand-new episodes return October 27. Until then, we're revisiting a few conversations we keep coming back to. This week it's Arthur Brooks, a longtime friend of Simon's and one of his favorite people to talk to. Have you ever felt like you're falling behind? Everyone else seems to have a plan, a timeline and the next rung on the ladder lined up. Any detour, like a gap year, a pivot or a job that isn't quite right, feels like losing ground. <...",
@@ -1160,20 +1174,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/dbaa70cd3d24a0d0.jpg",
       "durationSeconds": 3742,
       "datePublished": 1790665200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 561991,
-      "category": "growth",
-      "podcastTitle": "A Bit of Optimism",
-      "episodeId": 60734716796,
-      "title": "What Mentally Strong People Do on Their Worst Days with Psychotherapist Amy Morin",
-      "description": "Be honest: you've taken a mental health day that made you feel worse. You stayed in bed, you avoided the thing, and by evening it was still waiting for you—with less of the day left to face it. Amy Morin thinks the problem starts with the word. We treat mental health as something you either have or you don't… and framed that way, there's nothing to actually do on a bad day. Her work runs on the opposite premise: mental strength is a practice, and you build it like you'd build anything else. <...",
-      "audioUrl": "https://episode.flightcast.com/01M330K9Y4A28T2M9YPXJSSGKE.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/dbaa70cd3d24a0d0.jpg",
-      "durationSeconds": 3705,
-      "datePublished": 1790060400,
       "titleZh": null,
       "descZh": null
     },
