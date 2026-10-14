@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:14:42.442Z",
+  "updatedAt": "2026-10-14T22:54:07.205Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 61731857800,
+      "title": "Short Stuff: Currency Symbols",
+      "description": "In today's shorty, Josh and Chuck go over the stories behind some of the world's currency symbols. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8f76355f04408d26.jpg",
+      "durationSeconds": 785,
+      "datePublished": 1791968400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 61670424744,
       "title": "Asteroooooid De-FENSE!",
       "description": "There’s no question that millions of asteroids are circling the Earth at incredible speed and every one of them is just dying to get a chance to smoosh our planet and wipe out life in the universe once and for all. But Earth has an ace up its sleeve: Us! See omnystudio.com/listener for privacy information.",
@@ -572,20 +586,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
       "durationSeconds": 2865,
       "datePublished": 1791622800,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 61433681806,
-      "title": "Stand-Up Pt II",
-      "description": "The SYSK boys continue the episode on stand-up comedy in part two, placing it in the rarefied company of other two-parters like Evel Knievel, the Hoover Dam, and the Trail of Tears. In this ep: should anything be off limits for stand-up? Consensus: no. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165c6213-d25c-418d-89f3-b4d601257f1e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 2904,
-      "datePublished": 1791450000,
       "titleZh": null,
       "descZh": null
     },
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 61738712610,
+      "title": "AI brain fry is real. Here’s what’s causing it | Julie Bedard",
+      "description": "Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix. She shares new research on three areas for leaders to focus on — including how to avoid \"AI brain fry\" — and why we need to shape this change rather than let it happen to us. Vote for our show in the Signal Awards for Most Inspirational podcast! Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 685,
+      "datePublished": 1791990020,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 61693692769,
       "title": "Why it's so hard to listen when you disagree | Emily Kasriel",
       "description": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out. She explains why engaging with ideas that bother you is one of the most powerful things you can do — and presents her framework for “deep listening” that can help you form relationships across generations, cultures and political divides. Vote for our show in the Signal Awards for Most Inspirational podcast! Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 1226,
       "datePublished": 1791817200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 61576129743,
-      "title": "Sunday Pick: Can AI really teach your kids? with Leah Belsky | from WorkLife with Molly Graham",
-      "description": "Technology has been promising to revolutionize education for a long time. Online learning, smartphones, and even asynchronous classes during COVID seemed for a while like they might finally transform what learning can look like, but all we really learned was that changing education is slower and harder than anyone wants it to be. Could AI finally be the unlock we’ve been looking for? Leah Belsky has spent nearly 20 years at the intersection of education and technology. She helped lead Coursera during the rise of online learning, and is now the head of education at OpenAI. In this episode, Mo...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7b033e2a72faefc1e8d13/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/cf5dda532180490d.jpg",
-      "durationSeconds": 3069,
-      "datePublished": 1791698400,
       "titleZh": null,
       "descZh": null
     },
