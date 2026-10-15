@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:47:48.250Z",
+  "updatedAt": "2026-10-15T22:49:44.754Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1811,6 +1811,20 @@
       "feedId": 171816,
       "category": "sports",
       "podcastTitle": "Men In Blazers",
+      "episodeId": 61794038556,
+      "title": "Ipswich Look to Spoil Man City’s Perfect Start, Arsenal’s Attacking Evolution & Man United’s Crisis Deepens | Big Weekend Preview 10/15/26",
+      "description": "Big Weekend Preview is back as Rog, Rory Smith and Humphrey Ker break down a massive Premier League weekend ahead. They start with Manchester City against Ipswich and whether the visitors can disrupt a City side that has won all six league matches so far. Arsenal travel to Nottingham Forest with greater attacking variety and depth, while Manchester United head to Leeds after Lisandro Martinez’s explosive comments put even more pressure on a struggling club. Liverpool travel to Brentford hoping their six-goal Champions League win in Austria can provide a spark, even as injuries continue to mount. Plus, fu...",
+      "audioUrl": "https://rss.art19.com/episodes/6d9075e7-e6ba-440b-b040-dd699bc8b950.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/274dfcda5a002001.jpg",
+      "durationSeconds": 2345,
+      "datePublished": 1792091700,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 171816,
+      "category": "sports",
+      "podcastTitle": "Men In Blazers",
       "episodeId": 61763354437,
       "title": "PSG Humble Man City, Liverpool Find Their Spark & Arsenal Keep Rolling in Europe: European Nights 10/14/26",
       "description": "European Nights is back! Rog is joined by James Horncastle to break down a wild week of Champions League action, starting with PSG’s ruthless 4-2 win over Manchester City and the growing contrast between two clubs heading in very different directions. Liverpool rediscover some attacking joy in Austria as Bradley Barcola grabs a hat trick, while Arsenal comfortably dispatch Lille and continue their strong start. Plus, Manchester United’s crisis deepens after defeat to Atletico Madrid, Jose Mourinho’s Real Madrid survive a seven goal thriller in Rome, and Lamine Yamal delivers another incredible moment for Barcelona. Chec...",
@@ -1832,20 +1846,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/3d8e8f51523fc4cb.jpg",
       "durationSeconds": 2141,
       "datePublished": 1791972000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 171816,
-      "category": "sports",
-      "podcastTitle": "Men In Blazers",
-      "episodeId": 61644244325,
-      "title": "Man City Revel as Victorious Villains at Anfield, Arsenal and Brighton Keep Pace: Men in Blazers 10/12/26",
-      "description": "On this week’s Men in Blazers podcast, Rog and Rory unpack all the mayhem from Premier League Matchweek 6. In their first match since the verdict in their 115-charge financial case, Manchester City take control against 10-man Liverpool at Anfield to maintain their perfect start. With the financial case still looming over the club, have City and their fans fully embraced the villain role? Arsenal bounce back from their Brighton disappointment to rally against Leeds, while Brighton pick up right where they left off before the international break. Chelsea steamroll Bournemouth, but amid their wealth of attacking talent, is Mo...",
-      "audioUrl": "https://rss.art19.com/episodes/acde2dc7-e979-4773-964c-3f12836bf459.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/f48fd6c74006ed59.jpg",
-      "durationSeconds": 5330,
-      "datePublished": 1791835200,
       "titleZh": null,
       "descZh": null
     },
