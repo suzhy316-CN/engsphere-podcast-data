@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:50:30.758Z",
+  "updatedAt": "2026-10-16T19:10:56.127Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 61835248153,
+      "title": "Behind the Scenes Minis: Pistols and Candy Corn",
+      "description": "Holly shares an odd detail about the red barn murder case. She and Tracy also discuss the way Forrest Mars may have affected the way his father's life is described. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/6f8c31cf-fa83-49a9-bc48-b4e20026f7cc/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 1147,
+      "datePublished": 1792155600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 61729071289,
       "title": "Eponymous Foods: Full Bars",
       "description": "This installment of the eponymous foods series covers candy bars, including Snickers, Mars Bars, Reese's Peanut Butter Cups, and some side mentions of other candies. Research: “Behind the Bar.” Snickers. https://www.snickers.com/our-story Brenner, Joel Glenn. “Life on Mars: The Mars family saga has all the classic elements.” Independent. July 25, 1992. https://www.the-independent.com/arts-entertainment/life-on-mars-the-mars-family-saga-has-all-the-classic-elements-1535722.html “Forrest Mars Sr., Candy Bar Titan Famed for Snickers.” The Plain Dealer. July 3, 1999. https://www.newspapers.com/image/1071308390/?match=1&terms=%22Forrest%20Mars%2C%20sr.%22&search-id=695f29a8-5f65-43f4-8445-637d2758eb9e&search-rank=1 “Frank C. Mars...",
@@ -1412,20 +1426,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
       "durationSeconds": 2140,
       "datePublished": 1791810000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 61546766882,
-      "title": "SYMHC Classics: Giordano Bruno",
-      "description": "This 2022 episode covers Giordano Bruno, a mathematician, philosopher, astronomer, occultist, and according to the Catholic church of 16th-century Italy, a heretic. He met a bad end because of his views, but he started out as a friar. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/f3950813-f366-4acd-b9ca-b4dd010920c3/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 2115,
-      "datePublished": 1791637200,
       "titleZh": null,
       "descZh": null
     },
@@ -1643,6 +1643,20 @@
       "feedId": 311840,
       "category": "ideas",
       "podcastTitle": "Freakonomics Radio",
+      "episodeId": 61833156949,
+      "title": "691. Is This What a “Good Billionaire” Looks Like?",
+      "description": "David Rubenstein, a product of the old bipartisan D.C., made his fortune in private equity. He’s been spending it on “patriotic philanthropy” and institutions like the Kennedy Center, where Trump fired him as chairman. Now he wonders if the center can hold. SOURCES:David Rubenstein, co-founder and co-chairman of the Carlyle Group, principal owner of the Baltimore Orioles. RESOURCES:Inside the Owner's Box: Conversations on Power and Leadership in Sports, by David M. Rubenstein (2026).The American Experiment: Dialogues on a Dream, by David M. Rubenstein (2021).The American Story: Conversations With Master Historians, by David...",
+      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8355e5e6035eec3d.jpg",
+      "durationSeconds": 2603,
+      "datePublished": 1792144800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 311840,
+      "category": "ideas",
+      "podcastTitle": "Freakonomics Radio",
       "episodeId": 61483374825,
       "title": "690. It’s Show Business, Baby!",
       "description": "Podcasting started as a niche-nerd pursuit. Now it’s a $9 billion industry. Is that a lot? The strange economics of this thing we do. SOURCES:Jim Bankoff, chairman and C.E.O. of Vox Media.Ben Davis, head of digital at WME.Will Page, former chief economist at Spotify and author of Pivot.Jenna Weiss-Berman, head of Paper Kite Audio and executive producer of Good Hang with Amy Poehler.Jeanine Wright, co-founder and C.E.O. of Liquid Studios (Inception Point AI). RESOURCES:\"U.S. AI infrastructure buildout is surpassing every prior investment in Amer...",
@@ -1664,20 +1678,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8355e5e6035eec3d.jpg",
       "durationSeconds": 2965,
       "datePublished": 1790935200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 311840,
-      "category": "ideas",
-      "podcastTitle": "Freakonomics Radio",
-      "episodeId": 60846403397,
-      "title": "688. When Is a Bet Not a Bet?",
-      "description": "That’s the question at the heart of a battle between Kalshi and state gambling regulators. As prediction markets boom, there are other questions, too — about insider trading, market manipulation, and whether the public has turned against them. (Part two of a two-part series.) SOURCES:Gary Gensler, former chair of the S.E.C. and the C.F.T.C.Robin Hanson, professor of economics at George Mason University.Nicole Kagan, head of research at Kalshi.Tarek Mansour, co-founder and C.E.O. of Kalshi. RESOURCES:\"Shall We Vote on Values, But Bet on Beliefs...",
-      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7cc6e44c-25e8-43a6-907e-778ba898d728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7cc6e44c-25e8-43a6-907e-778ba898d728&feed=Y8lFbOT4",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8355e5e6035eec3d.jpg",
-      "durationSeconds": 3032,
-      "datePublished": 1790330400,
       "titleZh": null,
       "descZh": null
     },
