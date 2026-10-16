@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:10:56.127Z",
+  "updatedAt": "2026-10-16T22:22:17.292Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -89,6 +89,20 @@
       "feedId": 956179,
       "category": "learn-english",
       "podcastTitle": "All Ears English",
+      "episodeId": 61841945449,
+      "title": "Could Have, Should Have or Must Have?",
+      "description": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is. Do you love All Ears English? Try our other podcasts here: Business English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey IELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes Visit our website here or https://lnk.to/website-sn If you love this podcast, hi...",
+      "audioUrl": "https://traffic.megaphone.fm/ALLE5084205021.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
+      "durationSeconds": 1083,
+      "datePublished": 1792161300,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 956179,
+      "category": "learn-english",
+      "podcastTitle": "All Ears English",
       "episodeId": 61719843515,
       "title": "Are You Giving Fluency?",
       "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -110,20 +124,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
       "durationSeconds": 866,
       "datePublished": 1791867600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 956179,
-      "category": "learn-english",
-      "podcastTitle": "All Ears English",
-      "episodeId": 61612710223,
-      "title": "Have the Last Laugh With These English Idioms",
-      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "audioUrl": "https://traffic.megaphone.fm/ALLE2494556127.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
-      "durationSeconds": 1076,
-      "datePublished": 1791781200,
       "titleZh": null,
       "descZh": null
     },
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 61845105643,
+      "title": "Is your body language working against you? | Cara Hale Alter",
+      "description": "What does confidence look like? Public speaking expert Cara Hale Alter studies how to project confidence and credibility — and she's pinpointed two key behaviors that shape how others see you. In this actionable talk, she explains how to make sure you're showing your true potential at work and beyond. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa672b3381b9dbb7c315d/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 1122,
+      "datePublished": 1792162800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 61781993390,
       "title": "How to stop homelessness before it starts | Jen Loving",
       "description": "Homelessness can feel like an issue that’s too big and complicated to fix, something we've learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must stop waiting until someone is pushed outside before intervening — and introduces Right at Home, a proven model helping communities across the US keep people from becoming homeless in the first place. (This ambitious idea is part of The Audacious Project, TED's initiative to inspire and fund global change.) Vote for our show in the Sign...",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 685,
       "datePublished": 1791990020,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 61693692769,
-      "title": "Why it's so hard to listen when you disagree | Emily Kasriel",
-      "description": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out. She explains why engaging with ideas that bother you is one of the most powerful things you can do — and presents her framework for “deep listening” that can help you form relationships across generations, cultures and political divides. Vote for our show in the Signal Awards for Most Inspirational podcast! Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acd4daa1882f45a244792a2/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 812,
-      "datePublished": 1791903600,
       "titleZh": null,
       "descZh": null
     },
