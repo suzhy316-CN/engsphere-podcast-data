@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:43:55.501Z",
+  "updatedAt": "2026-10-20T09:02:59.874Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -131,6 +131,20 @@
       "feedId": 494082,
       "category": "learn-english",
       "podcastTitle": "Luke's English Podcast",
+      "episodeId": 61999307861,
+      "title": "A Big Talk about Small Talk 🗣️ (with Ray Addam) Improve your Speaking Skills in English [1007]",
+      "description": "Small talk is not just a pointless way to fill silence in social situations, it is also an opportunity to make great social connections, build your network and just have an interesting conversation with someone new, but how do we do it successfully? How can you deal with your shyness and awkwardness about small talk moments, particularly in English? How can you develop your confidence, and take the right approach to making good connections with people you meet? That's what this episode is all about, as I am joined again by Ray Addam, who has plenty of good advice...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/62b0ada25c7ea10012f541cb/e/6ad08241e53019e890ba53ef/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/02518d599e3b059c.jpg",
+      "durationSeconds": 8033,
+      "datePublished": 1792477800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 494082,
+      "category": "learn-english",
+      "podcastTitle": "Luke's English Podcast",
       "episodeId": 61675265430,
       "title": "9 True Ghost Stories & Unexplained Mysteries from Listeners 👀🕯️ LEPster Writing Competition [1006]",
       "description": "Listen to a selection of 9 fascinating stories written by listeners, one of which will win the competition which I launched earlier this year. Finally, the wait is over and the creepy story competition episode is here. I had to work very hard to narrow down the entries from 74 to only 9. Anna Brooke and I chose our favourite, as you will hear. These are extremely mysterious and extraordinary stories sent in by my listeners. They describe very bizarre and spooky experiences, often involving the sad loss of a family member, spirits from the past searching for peace, or...",
@@ -152,20 +166,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0ee48bf4de97d056.jpg",
       "durationSeconds": 5748,
       "datePublished": 1791381903,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 494082,
-      "category": "learn-english",
-      "podcastTitle": "Luke's English Podcast",
-      "episodeId": 60963167517,
-      "title": "Luke’s Improvised Storytelling: Jurassic Park 🦖 [1004] Listen & Learn English",
-      "description": "Retelling the story of your favourite film, or book, can be a great way to practise your speaking skills in English. It can help you focus on narrative tenses, vocabulary recall and spoken fluency, while having fun reliving some great moments from cinema or literature. In this episode I demonstrate this, while giving you an entertaining re-telling of Steven Spielberg's classic dinosaur adventure, Jurassic Park (the original and best in the franchise). Listen as I tell the story from the point of view of one of the main characters. Notice the phrases and descriptive words I use...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/62b0ada25c7ea10012f541cb/e/6ab6dcb759a98735e1a88b00/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/842f50b8d8b4516f.jpg",
-      "durationSeconds": 7563,
-      "datePublished": 1790578800,
       "titleZh": null,
       "descZh": null
     },
@@ -1517,6 +1517,20 @@
       "feedId": 387129,
       "category": "history",
       "podcastTitle": "99% Invisible",
+      "episodeId": 62001453054,
+      "title": "Tony Hawk's Real-Life Willy Wonka",
+      "description": "A desert train built for Tony Hawk leads into the strange and thoughtful world of N.D. Austin, a designer of real-life experiences. Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bd660e4c6cfe8882.jpg",
+      "durationSeconds": 3136,
+      "datePublished": 1792483200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 387129,
+      "category": "history",
+      "podcastTitle": "99% Invisible",
       "episodeId": 61663366460,
       "title": "The Problem With Football Helmets",
       "description": "Football helmets can prevent devastating injuries, but they may also help make an inherently violent game feel safer than it really is. Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1538,20 +1552,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bd660e4c6cfe8882.jpg",
       "durationSeconds": 1698,
       "datePublished": 1791273600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 387129,
-      "category": "history",
-      "podcastTitle": "99% Invisible",
-      "episodeId": 61144142639,
-      "title": "100 Objects #20: AA Sobriety Chip",
-      "description": "Comedian, writer, and podcaster Jamie Loftus has always known about Alcoholics Anonymous. As a kid, she loved the album where her dad kept all his AA chips — that little piece of plastic that marks a day, a month, a year of sobriety. Now as an adult, Jamie wanted to understand where that little chip came from. What she found is that imbued in that little chip is a hidden history — from Prohibition to women’s suffrage — of America’s relationship to gender, religion, and morality. A History of the United States in 100 Objects is a production of 99% Invisible...",
-      "audioUrl": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a11fdd8beada5fc7.jpg",
-      "durationSeconds": 3177,
-      "datePublished": 1790924400,
       "titleZh": null,
       "descZh": null
     },
