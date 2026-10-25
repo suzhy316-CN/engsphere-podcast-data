@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:51:58.185Z",
+  "updatedAt": "2026-10-25T15:20:05.121Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 62244318090,
+      "title": "The Fastball",
+      "description": "In baseball, milliseconds can mean the difference between a home run and a strikeout. For over a century, pitchers have pushed the limits of human performance, throwing baseballs at speeds once thought physically impossible. Behind these extraordinary feats is a combination of biomechanics, physics, and a long history of innovation that has transformed the game. Learn more about the history and science of the fastball, and the legendary pitchers who perfected it, on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everything-Everywhere.com⁠ ...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS8642865258.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0887093e3104be2b.jpg",
+      "durationSeconds": 927,
+      "datePublished": 1792918800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 62205714343,
       "title": "The Fibonacci Sequence and the Golden Ratio (Encore)",
       "description": "Two of the most important concepts that can be found in the world of mathematics and nature are the Fibonacci Sequence and the Golden Ratio. These two concepts seem separate, but they are actually tightly intertwined. While they have been known since the ancient world, they are still highly relevant today and can be found almost everywhere. Best of all, despite being important mathematical concepts, they are also among the easiest to understand. Learn more about the Fibonacci Sequence and the Golden Ratio, what they are, and how they were discovered on...",
@@ -1496,20 +1510,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0e5a541747fa7ad9.jpg",
       "durationSeconds": 911,
       "datePublished": 1792746000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 62104465125,
-      "title": "The World Series",
-      "description": "Every October, baseball fans turn their attention to the sport's biggest event. However, the championship we know today wasn't always part of baseball. In fact, for much of the sport's early history, the idea of a single national champion was highly controversial. Rival leagues, bitter disputes, and a surprising agreement helped establish what would become one of America's greatest sporting traditions. Learn more about the origins of baseball's World Series on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everything-Everywhere.com⁠ Sponsors<...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS3188633696.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/89954ea72941942e.jpg",
-      "durationSeconds": 954,
-      "datePublished": 1792659600,
       "titleZh": null,
       "descZh": null
     },
