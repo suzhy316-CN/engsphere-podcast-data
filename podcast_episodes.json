@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T02:25:05.575Z",
+  "updatedAt": "2026-10-25T08:51:58.185Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 62241305817,
+      "title": "Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable",
+      "description": "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it. In this new series on Unlocking Your Power at Work, Anne and Frances dig into how to discover, build, and use your power, explore common power dynamics in the workplace, and learn from people who use their full power with honesty and swagger. Kara Swisher is one of the most influential voices in media and has built a career holding the powerful accountable. In this episode, she reflects with Anne and Frances on her own path to...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b556520425f98e7c.jpg",
+      "durationSeconds": 2143,
+      "datePublished": 1792908000,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 62218430316,
       "title": "The pursuit of happiness requires free time | Danielle Roberts",
       "description": "Do you feel short on time? Writer and work expert Danielle Roberts would like to help you with that. In this quick talk, she makes the case that free time isn't a reward you earn but a civil right you're owed. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 870,
       "datePublished": 1792767600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 62126991564,
-      "title": "I can't speak. Here's how I get people to listen | Jessica Irwin",
-      "description": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she gives a sharp, funny and urgent reminder that being unable to speak has nothing to do with intelligence — and shares a few easy ways anyone can better communicate with nonverbal people. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 542,
-      "datePublished": 1792681200,
       "titleZh": null,
       "descZh": null
     },
