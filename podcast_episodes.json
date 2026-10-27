@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:30:32.293Z",
+  "updatedAt": "2026-10-27T03:01:15.359Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1811,6 +1811,20 @@
       "feedId": 171816,
       "category": "sports",
       "podcastTitle": "Men In Blazers",
+      "episodeId": 62325047720,
+      "title": "Manchester United in Absolute Crisis, Aston Villa End Man City's Perfect Run, Liverpool Cruise Past Brighton: Men in Blazers 10/26/26",
+      "description": "Rog and Rory Smith break down all the mayhem from an action-packed Premier League Matchweek 8. With Michael Carrick seemingly heading toward the end of his Manchester United tenure, who's really to blame for the club's disunity? Rory lays out exactly what United need to get back on track. Aston Villa bring Manchester City's perfect run to an end, while former Chelsea scapegoat Nicolas Jackson is finding his feet with the Villans. Liverpool go full Isak to take down Brighton, Arsenal move level with City at the top of the table after beating Everton, Bournemouth are Bournemouth-ing again, and Chelsea...",
+      "audioUrl": "https://rss.art19.com/episodes/2c7dfddb-697c-42db-ba7c-f5ec46bfc4e2.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/f48fd6c74006ed59.jpg",
+      "durationSeconds": 5298,
+      "datePublished": 1793055600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 171816,
+      "category": "sports",
+      "podcastTitle": "Men In Blazers",
       "episodeId": 62169326068,
       "title": "Men in Blazers Live! From Toronto Featuring Daniel Kaluuya on His Love of Arsenal, Confidence in Arteta, and Admiration for Saka",
       "description": "In a special live episode from Toronto, Rog sits down with actor and diehard Arsenal supporter Daniel Kaluuya to discuss his unwavering love for the Gunners, his confidence in Mikel Arteta, and why rival fans love to hate Arsenal. Kaluuya shares what it's like to watch a match with him, reflects on Arsenal's global popularity, and discusses his experience narrating the club's All or Nothing documentary. Plus, Daniel relives the excitement of Arsenal's title-winning season and explains why he admires Jurriën Timber's game. Sponsored by the Premier League & Fubo. Check out the Men in Blazers Shop: h...",
@@ -1832,20 +1846,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/274dfcda5a002001.jpg",
       "durationSeconds": 2360,
       "datePublished": 1792687500,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 171816,
-      "category": "sports",
-      "podcastTitle": "Men In Blazers",
-      "episodeId": 62093039044,
-      "title": "Man United Humiliated by Como, Arsenal Battle Bayern & PSG Take Down Barcelona: European Nights 10/21/26",
-      "description": "Rog is joined by James Horncastle to break down another wild week of Champions League action, starting with Arsenal's thrilling 2-2 draw against Bayern Munich as Declan Rice's late equalizer preserves the Gunners' unbeaten run in Europe. Manchester United's crisis reaches new lows after a humiliating 4-1 defeat to Cesc Fàbregas' Como, leaving Michael Carrick's future in serious doubt. Meanwhile, PSG outlast Barcelona in a European heavyweight clash, but a devastating injury to Khvicha Kvaratskhelia threatens their Champions League ambitions. Plus, Liverpool's young star Rio Ngumoha shines in a dramatic comeback against Villarreal, Aston Villa remain perfect in E...",
-      "audioUrl": "https://rss.art19.com/episodes/6bc13638-c4e8-40f6-9cb1-1e1e68f3fa34.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/a15533355a4de442.jpg",
-      "durationSeconds": 2717,
-      "datePublished": 1792634100,
       "titleZh": null,
       "descZh": null
     },
