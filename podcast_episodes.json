@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:42:52.254Z",
+  "updatedAt": "2026-10-28T23:46:09.649Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 62412541146,
+      "title": "Bealings Bells",
+      "description": "Major Edward Moor reported strange bell ringing at his home in Great Bealings in 1834. Was it a poltergeist, a hoax, or something else? Research: Briggs, Stacia, and Siofra Connor. “Weird Suffolk: Poltergeist activity at Great Bealings.” East Anglia Daily Times. Feb. 1, 2019. https://www.eadt.co.uk/news/21445662.weird-suffolk-poltergeist-activity-great-bealings/ Britannica Editors. \"Mysore Wars\". Encyclopedia Britannica, 20 Feb. 2025, https://www.britannica.com/event/Mysore-Wars Cohen, Daniel. “In Search of Ghosts.” Dodd, Mead. 1972. https://openlibrary.org/books/OL5708323M/In_search_of_ghosts. Hall, Trevor Henry. “New Light on Old Ghosts.” London. Gerald Duckworth & Co. 1965. Moor, Edward. “Hindu Infanticide.” London. J. Johnson. 1811...",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/a2bf10c3-75c3-4716-a967-b4ef011bcbd7/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2099,
+      "datePublished": 1793192400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 62302643770,
       "title": "Montague Summers",
       "description": "Montague Summers wrote numerous books on witches, werewolves, vampires, black magic, and ghosts, and he edited and published numerous works and claimed to be a clergyman. But who was he, really? Research: \"(Alphonsus) (Joseph-Mary Augustus) Montague Summers.\" Merriam Webster's Biographical Dictionary, Merriam-Webster, 1995. Gale OneFile: Fine Arts, link.gale.com/apps/doc/K1680086368/GPS?u=mlin_n_melpub&sid=bookmark-GPS&xid=03e855eb. Accessed 7 Oct. 2026. Babcock, R.W. “The Reverend Montague Summers as Editor of Otway.” PMLA, Vol. 48, No. 3 (Sep., 1933). Via JSTOR. https://www.jstor.org/stable/458356 Batley, Rebecca. “A Sacred Order for Sexual Outsiders.” G&LR. March-Apri...",
@@ -1412,20 +1426,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
       "durationSeconds": 2047,
       "datePublished": 1792846800,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 62163493175,
-      "title": "Behind the Scenes Minis: Delayed News",
-      "description": "Tracy talks about the frequency of news from research institutions getting reported years after the fact. She also clears up a misunderstanding Holly had about a painting that was discussed this week. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/7a08c2f8-8824-49fe-b4d5-b4e90143aa67/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 807,
-      "datePublished": 1792760400,
       "titleZh": null,
       "descZh": null
     },
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 62415690718,
+      "title": "How people are using AI to grieve, love and connect | Jennifer Cearns",
+      "description": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn to AI for grief, love, friendship and more, she pokes holes in this familiar fear — and hints at what these strange new relationships can teach us about ourselves. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 1020,
+      "datePublished": 1793199600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 62352743395,
       "title": "How video games can power up your parenting | Hannah Boquet (re-release)",
       "description": "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection? Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills. Dive deeper into how you can strengthen family bonds, support your child’s development — and maybe even be considered “cool” by your kid. (This episode originally aired in 2025.) Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 724,
       "datePublished": 1793028310,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 62241305817,
-      "title": "Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable",
-      "description": "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it. In this new series on Unlocking Your Power at Work, Anne and Frances dig into how to discover, build, and use your power, explore common power dynamics in the workplace, and learn from people who use their full power with honesty and swagger. Kara Swisher is one of the most influential voices in media and has built a career holding the powerful accountable. In this episode, she reflects with Anne and Frances on her own path to...",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b556520425f98e7c.jpg",
-      "durationSeconds": 2143,
-      "datePublished": 1792908000,
       "titleZh": null,
       "descZh": null
     },
