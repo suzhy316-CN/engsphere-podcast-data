@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:46:09.649Z",
+  "updatedAt": "2026-10-29T03:36:47.895Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1433,6 +1433,20 @@
       "feedId": 1365765,
       "category": "history",
       "podcastTitle": "The Rest Is History",
+      "episodeId": 62426384163,
+      "title": "The Suez Crisis: Britain's Shattered Empire (Part 2)",
+      "description": "What role did France, Russia, America and Israel play in the Suez Crisis of 1956? Did the Egyptian leader, President Gamal Abdel Nasser, respond to the foreign invasion with military force? And, how did the debacle unfold? Join Dominic and Tom as they embark upon the final, dramatic leg of the Suez Crisis, and explain the outcome of the scandal. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newslet...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT7704784668.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/80bd840df7b68910.jpg",
+      "durationSeconds": 4591,
+      "datePublished": 1793232300,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 1365765,
+      "category": "history",
+      "podcastTitle": "The Rest Is History",
       "episodeId": 62280186896,
       "title": "The Suez Crisis: Anarchy in the Middle East (Part 1)",
       "description": "Why did the Suez Crisis break out in 1956? Who were Anthony Eden, the British Prime Minister at the heart of the scandal, and Gamal Abdel Nasser, the Egyptian President? And, would the crisis be the death knell to the British Empire? Join Dominic and Tom as they begin their journey into one of the greatest international scandals of all time, in the dying days of the British Empire. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to ever...",
@@ -1454,20 +1468,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/61c29a971b8aa9f1.jpg",
       "durationSeconds": 3974,
       "datePublished": 1792623900,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 1365765,
-      "category": "history",
-      "podcastTitle": "The Rest Is History",
-      "episodeId": 61967165432,
-      "title": "King Arthur: The Mysteries of Merlin (Part 3)",
-      "description": "What are the origins of Merlin, the powerful wizard and King Arthur’s advisor? Who was Geoffrey of Monmouth, and what role did he play in evolving the tales of Arthur and the Round Table? And, was Merlin based on a real historical figure from the Saxon invasion of Britain in the 5th century, and the totemic battle of Badon…? Join Tom and Dominic as they delve into the true origins of history’s greatest wizard: Merlin…. Join The Rest Is History Club: Unlock the full experience of the show – wi...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT4769841872.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4b5929092025e629.jpg",
-      "durationSeconds": 3881,
-      "datePublished": 1792364700,
       "titleZh": null,
       "descZh": null
     },
