@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:24:14.385Z",
+  "updatedAt": "2026-10-31T10:05:58.633Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -89,6 +89,20 @@
       "feedId": 956179,
       "category": "learn-english",
       "podcastTitle": "All Ears English",
+      "episodeId": 62539370665,
+      "title": "Are You Making This Common Native Speaker Error?",
+      "description": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A. Every buyer also gets a live kickoff workshop with Lindsay and Aubrey to start strong. You’ll have lifetime access and a 30-day money-back guarantee. Go here to enroll now. Of...",
+      "audioUrl": "https://traffic.megaphone.fm/ALLE5890308423.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
+      "durationSeconds": 1526,
+      "datePublished": 1793422800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 956179,
+      "category": "learn-english",
+      "podcastTitle": "All Ears English",
       "episodeId": 62446894183,
       "title": "Take a Crack at These English Phrases",
       "description": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A. Every buyer also gets a live kickoff workshop with Lindsay and Aubrey to start strong. You’ll have lifetime access and a 30-day money-back guarantee. Go here to enroll now. Of...",
@@ -110,20 +124,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
       "durationSeconds": 1300,
       "datePublished": 1793163600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 956179,
-      "category": "learn-english",
-      "podcastTitle": "All Ears English",
-      "episodeId": 62372666087,
-      "title": "Should You Say “B as in Bravo” or “B as in Boy?”",
-      "description": "The Business English Course is available for a special price this week only! Speak up with confidence in meetings, impress your colleagues on your next conference call, and build real connections at the office in English. For a limited time, get the course for $199 (regularly $249), or choose Personal Coach for $299 (regularly $399) to get teacher feedback on 12 exercises plus our Live Weekly Q+A. Every buyer also gets a live kickoff workshop with Lindsay and Aubrey to start strong. You’ll have lifetime access and a 30-day money-back guarantee. Go here to enroll now. Of...",
-      "audioUrl": "https://traffic.megaphone.fm/ALLE3729011241.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bf6266da34c7a950.jpg",
-      "durationSeconds": 1466,
-      "datePublished": 1793120400,
       "titleZh": null,
       "descZh": null
     },
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 62543014162,
+      "title": "The Headless Horseman",
+      "description": "For centuries, travelers have told terrifying stories of mysterious riders appearing on lonely roads in the dead of night. Some were omens of death; others were restless spirits seeking justice or condemned to wander the earth forever. These legends emerged across Europe, taking different forms but sharing one particularly gruesome characteristic. One of these stories eventually became an American Halloween classic. Learn more about the origins and legends of the Headless Horseman on this episode of Everything Everywhere Daily. ⁠Shop the store at ⁠⁠Shop.Everything-Everywhere.com⁠ Sp...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS6933452256.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b8923d1c17ad6657.jpg",
+      "durationSeconds": 830,
+      "datePublished": 1793437200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 62493047344,
       "title": "Ghost Ships",
       "description": "For centuries, sailors have told stories of mysterious vessels emerging from the fog and drifting aimlessly across the ocean. Some ships were actually discovered perfectly intact, with their cargo and personal belongings still aboard, but with no sign of their crews. Others were found thousands of miles from where they were supposed to be, with no explanation for what happened to the people on board. Many of these mysteries remain unsolved. Learn more about the strange, sometimes disturbing history of ghost ships in this episode of Everything Everywhere Daily. <...",
@@ -1496,20 +1510,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/90c03ef8c96ecc78.jpg",
       "durationSeconds": 898,
       "datePublished": 1793264400,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 62390616835,
-      "title": "Rubber",
-      "description": "For thousands of years, humanity has relied on a remarkable material whose properties seem inexplicable. It can stretch several times its original length, absorb enormous amounts of energy, and return to its original shape. Its discovery led to scientific breakthroughs, enormous fortunes, brutal colonial exploitation, and even influenced the outcome of wars. Today, it is found in everything from automobile tires to medical equipment, yet its origins are surprisingly ancient. Learn more about the fascinating history and science of rubber on this episode of Everything Everywhere Daily. <...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS7825422089.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/73ea45fb68bf1331.jpg",
-      "durationSeconds": 903,
-      "datePublished": 1793178000,
       "titleZh": null,
       "descZh": null
     },
