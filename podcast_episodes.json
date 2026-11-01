@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:58:30.569Z",
+  "updatedAt": "2026-11-01T03:23:30.879Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1097,6 +1097,20 @@
       "feedId": 366334,
       "category": "growth",
       "podcastTitle": "No Stupid Questions",
+      "episodeId": 62568159554,
+      "title": "99. Do You Mind if I Borrow Your Personality?",
+      "description": "Are there downsides to “personality plagiarism”? Why did no one buy the Crayola Crayon Carver? And should Stephen feel bad for copying Angela’s email signature? This episode originally aired on May 15th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/99044c33-88de-4b1f-bd16-af13c44d303b/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=99044c33-88de-4b1f-bd16-af13c44d303b&feed=dfh_verV",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
+      "durationSeconds": 2080,
+      "datePublished": 1793491200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 366334,
+      "category": "growth",
+      "podcastTitle": "No Stupid Questions",
       "episodeId": 62372040354,
       "title": "All the Lonely People | Corner Piece",
       "description": "From group chats to video calls, technology should make social connection easier than ever. So, why is everyone so lonely? In this episode, Sabrina sets out to investigate the \"loneliness epidemic\" that is sweeping the globe and impacting her friends and cohosts. She interviews Professor Fay Bound-Alberti, author of \"A Biography of Loneliness: The History of an Emotion\" to understand what loneliness is, where it comes from, and whether there is a \"cure\". In the process, Taha and Melissa challenge Sabrina to tackle her own loneliness through a sidequest that reveals just how hard connection can be in modern...",
@@ -1118,20 +1132,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
       "durationSeconds": 2222,
       "datePublished": 1792886400,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 366334,
-      "category": "growth",
-      "podcastTitle": "No Stupid Questions",
-      "episodeId": 61893924184,
-      "title": "97. Are Women Really Less Happy Than Men?",
-      "description": "Why are women unhappier than men? What can we do to move the needle? And is it better to be happy or to be good? This episode originally aired on May 1st, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/b136f1c1-eb0b-4577-bdb2-5fed162a9040/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=b136f1c1-eb0b-4577-bdb2-5fed162a9040&feed=dfh_verV",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/ab83b33a296369c8.jpg",
-      "durationSeconds": 2186,
-      "datePublished": 1792281600,
       "titleZh": null,
       "descZh": null
     },
