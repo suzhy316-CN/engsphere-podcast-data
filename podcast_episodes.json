@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:09:01.108Z",
+  "updatedAt": "2026-11-05T00:41:18.338Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 62746957511,
+      "title": "Bernhard von Gudden: Ludwig II’s Psychiatrist",
+      "description": "Bernhard von Gudden was renowned as a reformer of asylums in Germany. But that legacy has been eclipsed by his part in getting King Ludwig II of Bavaria deposed. Research: Bhattacharyya, Kalyan B. “Johann Bernhard Aloys von Gudden and the Mad King of Bavaria.” Annals of Indian Academy of Neurology vol. 20,4 (2017): 348-351. doi:10.4103/aian.AIAN_489_16 Crossland, David. “Suicide of Mad Ludwig was murder, says film‑maker.” The Times of London. June 29, 2018. https://www.thetimes.com/world/article/suicide-of-mad-ludwig-was-murder-says-film-maker-2x9s8hnkl Danek, A et al. “The dream king's psychiatrist Bernhard von Gudden (1824-1886). A life committed to rationali...",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/604f25f1-c877-4f9e-846c-b4f701815b6e/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2155,
+      "datePublished": 1793800800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 62637528026,
       "title": "Onion Futures Act",
       "description": "In the 1950s, two men tried to corner the market on onions on the Chicago Mercantile Exchange and manipulate futures contracts. Then Congress took up legislation to expressly forbid contracts for the sale of onion futures. Research: Butz, Earl L. “VINCENT W KOSUGA, SAM S. SIEGEL, AND NATIONAL PRODUCE DISTRIBUTORS, INC.” Docket 73. Commodity Futures Trading Commission. CEA Cases. 6/18/1956. https://www.cftc.gov/sites/default/files/idc/groups/public/@lrceacases/documents/ceacases/kosuga-jun1956-644.pdf Chicago Tribune. “Chicago Onion Dealer Named for Price Fix.” 6/22/1956. Page 43. Chicago Tribune. “Siegel Denies Manipulating Onion Futures.” 6/22/1956. Page 43. Commodity Exchange Authority. “Futures Trading in Onio...",
@@ -1416,16 +1430,16 @@
       "descZh": null
     },
     {
-      "feedId": 395635,
+      "feedId": 1365765,
       "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 62503638500,
-      "title": "Behind the Scenes Minis: I Keep No Monkey",
-      "description": "Tracy shares her surprise at discovering some of the details of Montague Summers's life. Holly talks about bickering within the Society for Psychical Research. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/c7ea19aa-06ee-434c-97d0-b4f201543142/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 1274,
-      "datePublished": 1793365200,
+      "podcastTitle": "The Rest Is History",
+      "episodeId": 62756674541,
+      "title": "Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+      "description": "Three days into the Hungarian Uprising against the Soviet Union, had the revolution escalated nationwide? How did the Soviet leader Nikita Khrushchev respond? And, with the threat of a Red Army invasion, would Hungary abandon the Soviet Pact? Join Dominic and Tom as they reach the violent denouement of the Hungarian Revolution of 1956, and explain its bloody outcome. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discou...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6037632826.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/2152c24ac66e743b.jpg",
+      "durationSeconds": 4268,
+      "datePublished": 1793837100,
       "titleZh": null,
       "descZh": null
     },
@@ -1438,7 +1452,7 @@
       "description": "What triggered the Hungarian Revolution in 1956? Was Stalinism still the major political force in Hungary, even after the paranoid dictator’s death? And, how did the revolution almost bring down the Soviet Empire during the peak of the Cold War? Join Dominic and Tom as they delve into the tragic, dramatic story of the Hungarian Revolution, which brought the seemingly indomitable USSR to the brink of disaster… Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every ser...",
       "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT4398850202.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b75d41fd1d6d726c.jpg",
-      "durationSeconds": 5131,
+      "durationSeconds": 5191,
       "datePublished": 1793577900,
       "titleZh": null,
       "descZh": null
@@ -1454,20 +1468,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/80bd840df7b68910.jpg",
       "durationSeconds": 4591,
       "datePublished": 1793232300,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 1365765,
-      "category": "history",
-      "podcastTitle": "The Rest Is History",
-      "episodeId": 62280186896,
-      "title": "The Suez Crisis: Anarchy in the Middle East (Part 1)",
-      "description": "Why did the Suez Crisis break out in 1956? Who were Anthony Eden, the British Prime Minister at the heart of the scandal, and Gamal Abdel Nasser, the Egyptian President? And, would the crisis be the death knell to the British Empire? Join Dominic and Tom as they begin their journey into one of the greatest international scandals of all time, in the dying days of the British Empire. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to ever...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT9181892981.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/b28378d88f5a3e51.jpg",
-      "durationSeconds": 5173,
-      "datePublished": 1792973100,
       "titleZh": null,
       "descZh": null
     },
