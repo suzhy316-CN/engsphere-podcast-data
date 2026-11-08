@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:18:08.254Z",
+  "updatedAt": "2026-11-08T03:31:33.074Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1097,6 +1097,20 @@
       "feedId": 366334,
       "category": "growth",
       "podcastTitle": "No Stupid Questions",
+      "episodeId": 62900144500,
+      "title": "100. Is It Weird for Adults to Have Imaginary Friends?",
+      "description": "Why does listening to No Stupid Questions feel like you’re hanging out with your best friends? Why did the whole world take it personally when Princess Diana died? And how do “parasocial relationships” affect your mental health? This episode originally aired on May 22nd, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/2ec7a8b5-3f1b-4cfc-98ff-6f700b4e7f16/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=2ec7a8b5-3f1b-4cfc-98ff-6f700b4e7f16&feed=dfh_verV",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
+      "durationSeconds": 2096,
+      "datePublished": 1794099600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 366334,
+      "category": "growth",
+      "podcastTitle": "No Stupid Questions",
       "episodeId": 62568159554,
       "title": "99. Do You Mind if I Borrow Your Personality?",
       "description": "Are there downsides to “personality plagiarism”? Why did no one buy the Crayola Crayon Carver? And should Stephen feel bad for copying Angela’s email signature? This episode originally aired on May 15th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1118,20 +1132,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
       "durationSeconds": 2000,
       "datePublished": 1793145600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 366334,
-      "category": "growth",
-      "podcastTitle": "No Stupid Questions",
-      "episodeId": 62230342301,
-      "title": "98. Is Having Children Worth It?",
-      "description": "Why have fertility rates dropped so dramatically? Do fathers or mothers get more happiness from parenting? And how does birth order affect a child’s future? This episode originally aired on May 8th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/d862f708-c5c4-43e8-9629-41d713320479/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=d862f708-c5c4-43e8-9629-41d713320479&feed=dfh_verV",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
-      "durationSeconds": 2222,
-      "datePublished": 1792886400,
       "titleZh": null,
       "descZh": null
     },
