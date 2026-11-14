@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:08:19.173Z",
+  "updatedAt": "2026-11-14T17:31:24.051Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -299,6 +299,20 @@
       "feedId": 201470,
       "category": "learn-english",
       "podcastTitle": "Espresso English Podcast",
+      "episodeId": 63210485624,
+      "title": "How to pronounce -STS at the end of words?",
+      "description": "🎁 Download Free PDF 💻 Espresso English Courses 📖 $1 Grammar E-Books ✨ 70% off ALL courses & e-books!",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/espressoenglish/pronounce-STS.mp3?dest-id=212704",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/5e958c1a24072ec0.jpg",
+      "durationSeconds": 97,
+      "datePublished": 1794661200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 201470,
+      "category": "learn-english",
+      "podcastTitle": "Espresso English Podcast",
       "episodeId": 63164299465,
       "title": "Difference between smart, clever, and wise?",
       "description": "🎁 Download Free PDF 💻 Espresso English Courses 📖 $1 Grammar E-Books ✨ 70% off ALL courses & e-books!",
@@ -320,20 +334,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/5e958c1a24072ec0.jpg",
       "durationSeconds": 97,
       "datePublished": 1794502800,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 201470,
-      "category": "learn-english",
-      "podcastTitle": "Espresso English Podcast",
-      "episodeId": 63109696016,
-      "title": "2-Minute Tip: Surprising Collocations With \"Go\"",
-      "description": "Welcome to your 2-Minute Tip - a short, practical English lesson for your busy day. Learn it in two minutes... use it for years! Want to learn LOTS of natural English word combinations? ​👉 1000 Collocations E-Book​ ​(pre-intermediate - intermediate) ​👉 Advanced Vocabulary & Collocations Course​ ​(upper-intermediate - advanced)",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/espressoenglish/2-Minute-Tip-Surprising-GO-Collocations-2.mp3?dest-id=212704",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/5e958c1a24072ec0.jpg",
-      "durationSeconds": 149,
-      "datePublished": 1794484800,
       "titleZh": null,
       "descZh": null
     },
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 63216770762,
+      "title": "Selects: Gobble Gobble: Turkeys!",
+      "description": "Turkeys are a very interesting bird as it turns out. Which may be why many people are leaving it off their Thanksgiving table this year. Learn all about them right now in this classic episode! See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d06ef82-8118-45c1-810d-b4f7014ea62f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 2814,
+      "datePublished": 1794650400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 63107295937,
       "title": "The World Needs More Manatees",
       "description": "Are there any cuddlier amphibious mammals than manatees in the heavyweight class? No, there aren’t. And what makes manatees even better is that their demeanor and approach to life exactly match how they appear - gentle, lazy, caring, and friend to all. See omnystudio.com/listener for privacy information.",
@@ -572,20 +586,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8f76355f04408d26.jpg",
       "durationSeconds": 690,
       "datePublished": 1794391200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 63013527012,
-      "title": "Zorro! That guy with the sword!",
-      "description": "All Chuck knew of Zorro was from a couple of movies. So today the guys dive deeper on the legendary figure cutting so many Zs into so many things. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/698e37d6-6070-476f-a28c-b4f801606d28/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 2618,
-      "datePublished": 1794304800,
       "titleZh": null,
       "descZh": null
     },
