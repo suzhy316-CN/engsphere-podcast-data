@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:31:24.051Z",
+  "updatedAt": "2026-11-14T23:33:16.411Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 63218137237,
+      "title": "SYMHC Classics: Princes in the Tower",
+      "description": "This 2021 episode unpacks the theories of what happened to the sons of Edward IV. The conflict between the House of York and the House of Lancaster has many layers, and any account is colored by the alliances of who gave it. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/5b2f9c7a-bf76-485b-8b0f-b4fe010383c4/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2469,
+      "datePublished": 1794664800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 63174339754,
       "title": "Behind the Scenes Minis: Knuckle Buster",
       "description": "Tracy discusses horse- and tennis-related deaths in history. Holly talks about cash being supplanted by credit and debit cards as a preferred method of transaction. See omnystudio.com/listener for privacy information.",
@@ -1412,20 +1426,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
       "durationSeconds": 2461,
       "datePublished": 1794405600,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 62966602252,
-      "title": "Anne of Brittany",
-      "description": "Anne of Brittany experienced a lot of loss from the time she was very young. As she aged and became more and more central to political events of her day, she remained dedicated to protecting the autonomy of the duchy of Brittany. Research: Britannica Editors. \"Anne of Brittany\". Encyclopedia Britannica, 22 Jan. 2026, https://www.britannica.com/biography/Anne-of-Brittany Abernethy, Susan. “Anne of Brittany.” Medievalists.net. https://www.medievalists.net/2016/05/anne-of-brittany-queen-of-france/ The History Blog. “Anne of Brittany’s heart reliquary returns to Blois.” 3/24/2014. https://www.thehistoryblog.com/archives/29750 Colleter R, Bataille CP, Dabernat H, Pichot D, Hamon P, Duchesne S...",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/6cb6533c-4d2a-4252-aa94-b4fc016eddb9/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 2393,
-      "datePublished": 1794232800,
       "titleZh": null,
       "descZh": null
     },
@@ -1465,7 +1465,7 @@
       "title": "Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
       "description": "Three days into the Hungarian Uprising against the Soviet Union, had the revolution escalated nationwide? How did the Soviet leader Nikita Khrushchev respond? And, with the threat of a Red Army invasion, would Hungary abandon the Soviet Pact? Join Dominic and Tom as they reach the violent denouement of the Hungarian Revolution of 1956, and explain its bloody outcome. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discou...",
       "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6037632826.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/e4349dae91f13dbe.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/2152c24ac66e743b.jpg",
       "durationSeconds": 4268,
       "datePublished": 1793837100,
       "titleZh": null,
