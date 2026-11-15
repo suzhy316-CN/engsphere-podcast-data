@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:56:29.293Z",
+  "updatedAt": "2026-11-15T11:42:44.587Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1475,6 +1475,20 @@
       "feedId": 437685,
       "category": "history",
       "podcastTitle": "Everything Everywhere Daily",
+      "episodeId": 63244795097,
+      "title": "The Moons of Jupiter (Encore)",
+      "description": "In 1610, Galileo Gallieli used a new invention called the telescope to observe the planet Jupiter. What he found revolutionized the science of astronomy and our entire understanding of the universe. He discovered four moons in orbit around the planet, the first objects in the solar system to have been discovered since antiquity. Today, astronomers are hoping that some of these moons of Jupiter might have the best hope of harboring life outside of Earth in our Solar System. Learn more about the moons of Jupiter, their discovery and why they are so important o...",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS6177564278.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/324d2fb804e2e7ac.jpg",
+      "durationSeconds": 975,
+      "datePublished": 1794736800,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 437685,
+      "category": "history",
+      "podcastTitle": "Everything Everywhere Daily",
       "episodeId": 63204784657,
       "title": "The Great Hedge of India",
       "description": "During the 19th century, the British Empire undertook one of the most unusual construction projects in history. It stretched for thousands of miles across India, required thousands of workers to maintain, and was designed to prevent ordinary people from obtaining one of life's most basic necessities without paying a tax. Despite its enormous size and the resources devoted to it, almost all traces of it have disappeared, and few people today even know it existed. Learn more about the Great Hedge of India and why it was built on this episode of Everything...",
@@ -1496,20 +1510,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d7c43d55b2cd60e2.jpg",
       "durationSeconds": 912,
       "datePublished": 1794564000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 437685,
-      "category": "history",
-      "podcastTitle": "Everything Everywhere Daily",
-      "episodeId": 63105433001,
-      "title": "The Odyssey of the Amistad",
-      "description": "In 1839, a group of Africans from the Mende Tribe was forcibly taken from their homeland and transported across the Atlantic to be sold into slavery. However, their captors hadn’t anticipated that the people they had enslaved would fight back. What began as a desperate struggle for freedom aboard a small sailing ship became an international diplomatic incident, reached the highest court in the United States, and involved a former American president. Learn more about the remarkable story of the Amistad on this episode of Everything Everywhere Daily. ⁠Shop...",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/op3.dev/e/pscrb.fm/rss/p/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/prefix.up.audio/s/traffic.megaphone.fm/GLSS8145496583.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/5be1c8fa1ec3a282.jpg",
-      "durationSeconds": 889,
-      "datePublished": 1794477600,
       "titleZh": null,
       "descZh": null
     },
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 63240442042,
+      "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+      "description": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success. As a positive psychology evangelist, Shawn Achor has spent his career studying how to challenge and change the core beliefs that might be holding you back, and shares his insights in his new book, The Power of Beliefs. In this episode, Shawn and Adam dive into the surprising connections between happiness and success, and discuss the science of optimism and pessimism. Shawn also describes seven key important beliefs that underlie happiness, breaks down strategies for shifting beliefs, and asks Adam to...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/3e67e39bbcbc480b.jpg",
+      "durationSeconds": 2447,
+      "datePublished": 1794726000,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 63201939257,
       "title": "The digital detectives preserving the truth of war | Hadi Al Khatib",
       "description": "A lot of today’s war footage is shot on phones and posted to platforms that were never meant to permanently store it. Digital archivist and TED Fellow Hadi Al Khatib founded Mnemonic to save these photos and videos before they vanish. Learn how his team is turning people’s social media posts into evidence of crimes that holds up in court — and building an archive that ensures the truth outlasts the war. (Note: this film contains disturbing footage of war.) Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
       "durationSeconds": 729,
       "datePublished": 1794585591,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 63121655062,
-      "title": "How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich",
-      "description": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again. Using a four-line spreadsheet model of the global energy system, he shows why fossil fuels will inevitably get squeezed out over time — with no bans required. The shift is well underway, he explains: it just looks different than many of us expected. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 875,
-      "datePublished": 1794502636,
       "titleZh": null,
       "descZh": null
     },
