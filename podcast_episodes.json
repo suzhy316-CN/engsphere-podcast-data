@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:33:16.411Z",
+  "updatedAt": "2026-11-15T03:56:29.293Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1097,6 +1097,20 @@
       "feedId": 366334,
       "category": "growth",
       "podcastTitle": "No Stupid Questions",
+      "episodeId": 63230242264,
+      "title": "101. Are You Really \"Addicted\" to Diet Coke?",
+      "description": "Where’s the line between an addiction and a bad habit? Why do definitions of mental illnesses change over time? And what’s the most addictive thing in the world? This episode originally aired on May 29th, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/e4920c58-971d-4434-bc32-c0c48c60a1e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=e4920c58-971d-4434-bc32-c0c48c60a1e8&feed=dfh_verV",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
+      "durationSeconds": 2236,
+      "datePublished": 1794704400,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 366334,
+      "category": "growth",
+      "podcastTitle": "No Stupid Questions",
       "episodeId": 62900144500,
       "title": "100. Is It Weird for Adults to Have Imaginary Friends?",
       "description": "Why does listening to No Stupid Questions feel like you’re hanging out with your best friends? Why did the whole world take it personally when Princess Diana died? And how do “parasocial relationships” affect your mental health? This episode originally aired on May 22nd, 2022. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -1118,20 +1132,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
       "durationSeconds": 2080,
       "datePublished": 1793491200,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 366334,
-      "category": "growth",
-      "podcastTitle": "No Stupid Questions",
-      "episodeId": 62372040354,
-      "title": "All the Lonely People | Corner Piece",
-      "description": "From group chats to video calls, technology should make social connection easier than ever. So, why is everyone so lonely? In this episode, Sabrina sets out to investigate the \"loneliness epidemic\" that is sweeping the globe and impacting her friends and cohosts. She interviews Professor Fay Bound-Alberti, author of \"A Biography of Loneliness: The History of an Emotion\" to understand what loneliness is, where it comes from, and whether there is a \"cure\". In the process, Taha and Melissa challenge Sabrina to tackle her own loneliness through a sidequest that reveals just how hard connection can be in modern...",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/a5c80a37-c9c4-4d45-9403-c64b25c2a5a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=a5c80a37-c9c4-4d45-9403-c64b25c2a5a3&feed=dfh_verV",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/129e64379c8f49be.jpg",
-      "durationSeconds": 2000,
-      "datePublished": 1793145600,
       "titleZh": null,
       "descZh": null
     },
@@ -1465,7 +1465,7 @@
       "title": "Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
       "description": "Three days into the Hungarian Uprising against the Soviet Union, had the revolution escalated nationwide? How did the Soviet leader Nikita Khrushchev respond? And, with the threat of a Red Army invasion, would Hungary abandon the Soviet Pact? Join Dominic and Tom as they reach the violent denouement of the Hungarian Revolution of 1956, and explain its bloody outcome. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discou...",
       "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6037632826.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/2152c24ac66e743b.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/e4349dae91f13dbe.jpg",
       "durationSeconds": 4268,
       "datePublished": 1793837100,
       "titleZh": null,
