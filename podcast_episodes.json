@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:57:15.037Z",
+  "updatedAt": "2026-11-17T05:48:58.652Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1601,6 +1601,20 @@
       "feedId": 388141,
       "category": "ideas",
       "podcastTitle": "TED Health",
+      "episodeId": 63329376314,
+      "title": "Can exercise erase the effect of sitting all day? with Manoush Zomorodi and Murat Dalkilinç",
+      "description": "How many hours a day do you spend sitting? Is it 8 hours in the office, 2 hours commute, plus however long it takes to watch a movie or binge a new show? Many of us spend most of our time sitting. But is conventional wisdom of an hour of exercise enough to remedy the negative effects of sitting most of the day? In this episode, Manoush Zomorodi shares what you can do as an alternative to sitting all day. Then a TED Ed lesson by Murat Dalkilinç on exactly why sitting is bad for you. Talks featured</p...",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6aee4ef736841fe014447dc9/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/1fc87078112ecfbc.jpg",
+      "durationSeconds": 1232,
+      "datePublished": 1794891600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 388141,
+      "category": "ideas",
+      "podcastTitle": "TED Health",
       "episodeId": 63014427789,
       "title": "Dr. Mike on how to be alert, not anxious, about your health",
       "description": "Dr. Mikhail Varshavski, better known online as Dr. Mike, is a board-certified family medicine physician and YouTuber who uses social media to educate the public on healthcare. In this special episode recorded at the Aspen Ideas: Health conference, Dr. Mike and Shoshana discuss the current shortage of primary care physicians and how to think critically about health influencers, tech wearables, and AI. Then Shoshana shares a counterexample from genome researcher Michael Snyder. Michael wears 8 tech devices—smart watches, rings, and glucose monitors—and makes the case for his vision of healthcare where tech can help you be more proactive abou...",
@@ -1622,20 +1636,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/1fc87078112ecfbc.jpg",
       "durationSeconds": 1168,
       "datePublished": 1793682000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 388141,
-      "category": "ideas",
-      "podcastTitle": "TED Health",
-      "episodeId": 62453587537,
-      "title": "On Memories (1/5): Can we edit memories? | Amy Milton",
-      "description": "Trauma and PTSD rewire your brain -- especially your memory -- and can unearth destructive emotional responses when stirred. Could we eliminate these triggers without erasing the memories themselves? Enter neurologist Amy Milton's mind-blowing, memory-editing clinical research poised to defuse the damaging effects of painful remembered experiences and offer a potential path toward better mental health. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67585b08102e6d4448d360b1/e/6adfb8acb50147298bd12fe2/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/de8804090a7a9219.jpg",
-      "durationSeconds": 1180,
-      "datePublished": 1793246640,
       "titleZh": null,
       "descZh": null
     },
