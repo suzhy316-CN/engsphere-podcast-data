@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T17:16:19.495Z",
+  "updatedAt": "2026-11-18T02:00:05.718Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -1853,6 +1853,20 @@
       "feedId": 743065,
       "category": "sports",
       "podcastTitle": "The Bill Simmons Podcast",
+      "episodeId": 63368987746,
+      "title": "NBA Contender Questions, James Bond and Early Oscars Talk With Matt Belloni, and Amazon CEO Andy Jassy Stops By",
+      "description": "The Ringer’s Bill Simmons asks six burning questions about the NBA contenders. Then, Matt Belloni comes on to react to Robert Pattinson being cast as the new James Bond before discussing the Oscars. Finally, Amazon CEO Andy Jassy comes on to talk about his career, the future, and being a Giants fan. (0:00) Intro (2:11) NBA contender questions (27:43) Robert Pattinson is James Bond (35:08) Oscars and Hollywood talk (49:41) Andy Jassy interview Host: Bill Simmons Guests: Matt Belloni and Andy Jassy ...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT1869825667.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ab3666287c3a430.jpg",
+      "durationSeconds": 7012,
+      "datePublished": 1794958860,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 743065,
+      "category": "sports",
+      "podcastTitle": "The Bill Simmons Podcast",
       "episodeId": 63284947752,
       "title": "Bill and Sal’s Pity Party, Burrow’s MVP Party, President Cousins, and Guess the Lines With Cousin Sal",
       "description": "The Ringer’s Bill Simmons is joined by Cousin Sal after Steelers-Bengals to recap the Week 10 games. Then, they Guess the Lines for Week 11 before ending with Parent Corner. (0:00) Intro (0:59) Steelers-Bengals, Texans-Browns (24:44) Patriots-Lions, 49ers-Cowboys (44:00) Vikings-Packers, Seahawks-Raiders (52:30) Bills-Jets, Panthers-Saints (56:39) Chiefs-Falcons, Jaguars-Titans (01:00:05) Rams-Cardinals (01:07:36) Guess the Lines, Week 11 (01:25:43) Parent Corner Host: Bill Simmons Guest: Cousin Sal Producers: Chia Hao Tat, Eduardo Ocampo, and Chris Wohlers This episode is...",
@@ -1874,20 +1888,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ab3666287c3a430.jpg",
       "durationSeconds": 9128,
       "datePublished": 1794547500,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 743065,
-      "category": "sports",
-      "podcastTitle": "The Bill Simmons Podcast",
-      "episodeId": 63064536030,
-      "title": "An Icy Tatum-Brown Reunion, Plus Most Screwed NBA Teams With Rob Mahoney",
-      "description": "The Ringer’s Bill Simmons reacts to the Celtics’ dominant win against the 76ers before discussing Tuesday’s NFL trade deadline. Then, Rob Mahoney joins to talk about the dregs of the NBA this season. (0:00) Intro (2:13) Celtics-76ers reactions (20:08) NFL trade deadline (25:49) Most screwed NBA teams (26:17) Cavaliers and the second apron (40:53) Kings, Bucks (01:00:19) Nets, Jazz (01:16:24) Bulls, Clippers (01:26:08) Magic, Hornets Host: Bill Simmons Guest: Rob Mahoney Producers: Chia Hao Tat and Ed...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT4573292153.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/6ab3666287c3a430.jpg",
-      "durationSeconds": 6578,
-      "datePublished": 1794376680,
       "titleZh": null,
       "descZh": null
     }
