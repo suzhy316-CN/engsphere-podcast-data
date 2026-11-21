@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:50:42.047Z",
+  "updatedAt": "2026-11-21T21:23:12.443Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -173,6 +173,20 @@
       "feedId": 407440,
       "category": "learn-english",
       "podcastTitle": "Culips Everyday English",
+      "episodeId": 63543698935,
+      "title": "Bonus Episode #184 – Misery loves company",
+      "description": "In this bonus episode, Andrew and Indiana open the Culips Hotline for the first time. Listeners from around the world sent in stories about stressful mornings. Andrew and Indiana react to each one, and Indiana shares a bad morning of her own. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Want to be on the next Culips...",
+      "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B184_Regular.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4884f06374b60bae.jpg",
+      "durationSeconds": 1906,
+      "datePublished": 1795284746,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 407440,
+      "category": "learn-english",
+      "podcastTitle": "Culips Everyday English",
       "episodeId": 63182982392,
       "title": "Chatterbox #355 – Hobbyamory",
       "description": "Andrew and Anna talk about a New York Times article on “hobbyamory,” a new trend where young single people stop using dating apps and fill their lives with hobbies instead. They also ask whether the trend is good news, or a sign that many young people are lonely and struggling with money. Along the way, you’ll learn useful English vocabulary like “to have reservations,” “mutually exclusive,” “cope,” “to not fit the mold,” “underpinnings,” and “to keep afloat.” The brand-new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips...",
@@ -194,20 +208,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4884f06374b60bae.jpg",
       "durationSeconds": 790,
       "datePublished": 1793729257,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 407440,
-      "category": "learn-english",
-      "podcastTitle": "Culips Everyday English",
-      "episodeId": 62521927140,
-      "title": "Bonus Episode #183 – Chestnut Hunter",
-      "description": "Have you ever been so focused on one goal that you forgot to slow down? In this bonus episode, Andrew spends a holiday afternoon trying something new with his family, and it makes him rethink how he spends his free time. Listen along to learn some vocabulary that will help make your English more natural and to improve your listening fluency. The brand new Culips app is live! Study this episode with an interactive transcript and vocabulary glossary: Open this lesson in the Culips app. Study materials for this episode The interactive...",
-      "audioUrl": "https://media.blubrry.com/culips/content.blubrry.com/culips/B183_Regular.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4884f06374b60bae.jpg",
-      "durationSeconds": 1558,
-      "datePublished": 1793397149,
       "titleZh": null,
       "descZh": null
     },
@@ -551,6 +551,20 @@
       "feedId": 827592,
       "category": "science",
       "podcastTitle": "Stuff You Should Know",
+      "episodeId": 63545778812,
+      "title": "Selects: How Buffets Work",
+      "description": "Buffets are every kid’s dream – until they grow up enough to realize how gross communal spreads of food shared with strangers actually are. Then the dream is dashed, for most of us at least. Learn about the golden age of buffets and more in this classic episode! See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fba36340-c6cf-4b3b-91fa-b505013fef8a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
+      "durationSeconds": 3455,
+      "datePublished": 1795255200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 827592,
+      "category": "science",
+      "podcastTitle": "Stuff You Should Know",
       "episodeId": 63439186181,
       "title": "Sign Language Interpreters: Coolest Job?",
       "description": "Today Josh and Chuck get into the super cool job of sign language interpreting. See omnystudio.com/listener for privacy information.",
@@ -572,20 +586,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/8f76355f04408d26.jpg",
       "durationSeconds": 632,
       "datePublished": 1794996000,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 827592,
-      "category": "science",
-      "podcastTitle": "Stuff You Should Know",
-      "episodeId": 63340659942,
-      "title": "The Story of Chester Weger",
-      "description": "Is the story of Chester Weger a case of wrongful incarceration? It appears to be. Listen in to his story today. See omnystudio.com/listener for privacy information.",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/d5d62e00852138e9.jpg",
-      "durationSeconds": 2961,
-      "datePublished": 1794909600,
       "titleZh": null,
       "descZh": null
     },
