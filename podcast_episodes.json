@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:23:12.443Z",
+  "updatedAt": "2026-11-22T04:10:52.560Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -510,8 +510,8 @@
       "category": "science",
       "podcastTitle": "Radiolab",
       "episodeId": 63498448992,
-      "title": "Terminial Delirium",
-      "description": "When producer Alan Goffinski's dad called him and said he only had a few months left to live, Alan rushed home to spend one last Christmas with him. What happened when he got there shocked him, completely upended what he thinks about how people die, and sent him on a reporting journey into the depths of the human mind and soul. Special thanks to Pam and Curtis Goffinski, Travis Thatcher, Sam Brudner and Elizabeth Deerhake. EPISODE CREDITS: Reported by - Alan Goffinski Produced by - Annie McEwen, Sindhu Gnanasambandan and Pat Walters S...",
+      "title": "Terminal Delirium",
+      "description": "When producer Alan Goffinski's dad called him and said he only had a few months left to live, Alan rushed home to spend one last Christmas with him. What happened when he got there shocked him, completely upended what he thinks about how people die, and sent him on a reporting journey into the depths of the human mind and soul. Special thanks to Pam and Curtis Goffinski, Travis Thatcher, Sam Brudner and Elizabeth Deerhake. EPISODE CREDITS: Reported by - Alan Goffinski Produced by - Annie McEwen, Sindhu Gnanasambandan and Pat Walters w...",
       "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/6d428554-0d66-49f8-89e4-014b9bf1a3e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=6d428554-0d66-49f8-89e4-014b9bf1a3e4&feed=EmVW7VGp",
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/3dbfb4bc55fc366d.jpg",
       "durationSeconds": 2325,
@@ -1391,6 +1391,20 @@
       "feedId": 395635,
       "category": "history",
       "podcastTitle": "Stuff You Missed in History Class",
+      "episodeId": 63553401710,
+      "title": "SYMHC Classics: Unicorns",
+      "description": "This 2022 episode covers the ways descriptions and depictions of unicorns have shifted over the millennia. Some lore has roots in sightings of real animals that people have found difficult to describe, or that have been misinterpreted. See omnystudio.com/listener for privacy information.",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/27c85fbc-99b7-4723-b58d-b5060128d627/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
+      "durationSeconds": 2123,
+      "datePublished": 1795269600,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 395635,
+      "category": "history",
+      "podcastTitle": "Stuff You Missed in History Class",
       "episodeId": 63514270783,
       "title": "Behind the Scenes Minis: Gossip and Fire",
       "description": "Holly shares her dismay at the depressing history of credit scores. There is then a discussion of a theory about Louise Michel and Victor Hugo. See omnystudio.com/listener for privacy information.",
@@ -1412,20 +1426,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
       "durationSeconds": 2611,
       "datePublished": 1795010400,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 395635,
-      "category": "history",
-      "podcastTitle": "Stuff You Missed in History Class",
-      "episodeId": 63300747577,
-      "title": "Credit Scores",
-      "description": "Where did credit reporting start and how did it evolve to become such an important part of our finances? Well into the 20th century, credit reporting often involved a lot of unverified and gossipy information. Research: “1837: The Hard Times.” Harvard Business School Historical Collections. https://www.library.hbs.edu/hc/crises/1837.html Amir, Amir R. and Weiss, Stanley I. \"TRW Inc..\" Encyclopedia Britannica, 6 Jun. 2023, https://www.britannica.com/money/TRW-Inc. “The Amistad Case, 1839.” U.S. Department of State. Office of the Historian. https://history.state.gov/milestones/1830-1860/amistad “Arthur and Lewis Tappan.” Philanthropic Roundtable. https://www.philanthr...",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/17308a96-60eb-4fb4-b652-b503001efa13/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/0663842e9afdf84d.jpg",
-      "durationSeconds": 2093,
-      "datePublished": 1794837600,
       "titleZh": null,
       "descZh": null
     },
