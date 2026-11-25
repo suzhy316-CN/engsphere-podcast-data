@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:15:28.010Z",
+  "updatedAt": "2026-11-25T03:17:55.668Z",
   "episodes": [
     {
       "feedId": 60308,
@@ -383,6 +383,20 @@
       "feedId": 208331,
       "category": "learn-english",
       "podcastTitle": "English Learning for Curious Minds",
+      "episodeId": 63691201710,
+      "title": "[Black Friday Freebie #3] The Daylight Assassination of Kim Jong-nam",
+      "description": "Part of our \"Black Friday Freebie\" series, unlocked for free. Follow the link below to listen and learn (for free) with the interactive transcript, vocabulary definitions and PDF study pack. --- ⚡️⚡️⚡️ Black Friday Sale ⚡️⚡️⚡️ Special link: www.leonardoenglish.com/black-friday-2026 💰 12 months for the price of 4 ⏱ Ends at 23:59, Sunday, November 29th 2026. --- In 2017, Kim Jong-nam, the half-brother of North Korea’s leader, was killed in a busy Malaysian airport. Two young women wiped a deadly nerve agent on his face, believing they were taking part in a harmless television pran...",
+      "audioUrl": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/79bb228c/7892332c.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/bfed02e089dc45df.jpg",
+      "durationSeconds": 1651,
+      "datePublished": 1795561200,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 208331,
+      "category": "learn-english",
+      "podcastTitle": "English Learning for Curious Minds",
       "episodeId": 63641078734,
       "title": "[Black Friday Freebie #2] The Extraordinary Life of Charlie Chaplin",
       "description": "Part of our \"Black Friday Freebie\" series, unlocked for free. Follow the link below to listen and learn (for free) with the interactive transcript, vocabulary definitions and PDF study pack. --- ⚡️⚡️⚡️ Black Friday Sale ⚡️⚡️⚡️ Special link: www.leonardoenglish.com/black-friday-2026 💰 12 months for the price of 4 ⏱ Ends at 23:59, Sunday, November 29th 2026. --- He rose from the brutal workhouses of Victorian London to become the most famous film star in the world. This is the remarkable story of Charlie Chaplin: creator of the Little Tramp, fearless criti...",
@@ -404,20 +418,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/07b6e879473a82ba.jpg",
       "durationSeconds": 1399,
       "datePublished": 1795388400,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 208331,
-      "category": "learn-english",
-      "podcastTitle": "English Learning for Curious Minds",
-      "episodeId": 63465407191,
-      "title": "#644 | The Science of Memory",
-      "description": "⚡️⚡️⚡️ Black Friday Sale ⚡️⚡️⚡️ Special link: www.leonardoenglish.com/black-friday-2026 💰 12 months for the price of 4 ⏱ Ends at 23:59, Sunday, November 29th 2026. --- Forgetting feels like a failure, yet it may be one of the brain’s most useful abilities. This is the story of how memory works, why recollections can change, and what really helps information stay in your mind. Henry Molaison’s surgery removes both hippocampi H.M. loses the ability to form new memories Mirror tracing reveals separate skill memory The hippocampus stores experiences during sleep London taxi drivers’ brai...",
-      "audioUrl": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/4827f65b/82a6f947.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/c6cb8e5f666e03ba.jpg",
-      "durationSeconds": 1750,
-      "datePublished": 1795129200,
       "titleZh": null,
       "descZh": null
     },
@@ -1559,6 +1559,20 @@
       "feedId": 980370,
       "category": "ideas",
       "podcastTitle": "TED Talks Daily",
+      "episodeId": 63690766167,
+      "title": "The skilled workers that the economy is overlooking | Tonya Hicks",
+      "description": "Union electrician Tonya Hicks is one of very few women in her trade, and for years she had to fight people’s assumptions just to do her job. Then one day at a steel mill, her crew put their own work on the line for her. Drawing on more than two decades running her own contracting company, she shows how today’s skilled-labor shortage opens a crucial window to decide who gets trained and hired to build the future of the economy. Hosted on Acast. See acast.com/privacy for more information.",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b0461613ec60db8fc5cfeba/media.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
+      "durationSeconds": 868,
+      "datePublished": 1795535844,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 980370,
+      "category": "ideas",
+      "podcastTitle": "TED Talks Daily",
       "episodeId": 63639217456,
       "title": "Why government is slow — and how to fix it | Li Hongyi",
       "description": "Government is slow at solving problems — and technologist Li Hongyi wants to fix that. In a quick talk, he introduces his experimental team in the Singaporean government, which visits schools, hospitals, fire stations and communities with one goal: to find problems and prototype solutions. Check out some real-world examples that prove government can be faster, cheaper and more effective. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1580,20 +1594,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/3d02559c3e622685.jpg",
       "durationSeconds": 2629,
       "datePublished": 1795330800,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 980370,
-      "category": "ideas",
-      "podcastTitle": "TED Talks Daily",
-      "episodeId": 63533563522,
-      "title": "Why intuition is the heart of music | Fabiola Reyna",
-      "description": "For guitarist and TED Fellow Fabiola Reyna, music is first and foremost a way of connecting — to ourselves, our ancestors and each other. They take us inside their creative process, discussing why great music starts with intuition, how they turned love and grief into an album and how they’re building space for people who feel stuck between cultures. Hosted on Acast. See acast.com/privacy for more information.",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/4d9ff8cd1acf8d75.jpg",
-      "durationSeconds": 2185,
-      "datePublished": 1795258800,
       "titleZh": null,
       "descZh": null
     },
@@ -1853,6 +1853,20 @@
       "feedId": 743065,
       "category": "sports",
       "podcastTitle": "The Bill Simmons Podcast",
+      "episodeId": 63693251312,
+      "title": "Wemby vs. Kareem, Miami’s Heat, Celts Panic, a Food Mailbag, and NFL Holiday Picks With Doc Rivers and Joe House",
+      "description": "The Ringer’s Bill Simmons is joined by Doc Rivers to discuss a variety of NBA topics, including Wemby’s dominance, Boston’s rough stretch, and much more. Then, Joe House joins Bill to dive into a food-filled mailbag before they make their Ringer 107 picks! (00:00) Intro (03:00) Wemby’s dominance this season (22:18) Damian Lillard and the Trail Blazers (28:00) Doc on the Lakers, Rockets, and Timberwolves (38:00) 76ers, V.J. Edgecombe, and LeBron (42:28) Boston’s rough slide (55:17) What should OKC do? (59:05) The Hawks (1:01:50) Miami’s heating up (1:09:43) Eddie Johnson-Draymond Green back and for...",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT8966580035.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/f004ba2bd5f686de.jpg",
+      "durationSeconds": 8432,
+      "datePublished": 1795558620,
+      "titleZh": null,
+      "descZh": null
+    },
+    {
+      "feedId": 743065,
+      "category": "sports",
+      "podcastTitle": "The Bill Simmons Podcast",
       "episodeId": 63624112059,
       "title": "A Purdy Special, Giants Among Us, RIP Teej, the ‘Madden’ Movie, and Guess the Lines With Cousin Sal",
       "description": "The Ringer’s Bill Simmons is joined by Cousin Sal after Vikings-49ers to recap the Week 11 games. Then, they Guess the Lines for Week 12 and review the new ‘Madden’ movie, before ending with Parent Corner. (00:00) Intro (01:40) Vikings-49ers (11:50) Remembering Tom Jackson (22:35) Jaguars-Giants (36:40) Bucs-Lions (40:30) Bears-Saints (44:05) Ravens-Panthers (46:30) Steelers-Eagles, Jets-Chargers (52:10) Raiders-Broncos, Dolphins-Bills, Titans-Cowboys (57:15) Guess the Lines (1:13:35) ‘Madden’ review (1:26:52) Parent Corner Host: Bill Simmons Guest: Cousin Sal Producers: Eduardo Ocampo, Chris Wohlers, and Tucker Tashjian This episode is brought to you by Stat...",
@@ -1874,20 +1888,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/f004ba2bd5f686de.jpg",
       "durationSeconds": 7291,
       "datePublished": 1795143960,
-      "titleZh": null,
-      "descZh": null
-    },
-    {
-      "feedId": 743065,
-      "category": "sports",
-      "podcastTitle": "The Bill Simmons Podcast",
-      "episodeId": 63368987746,
-      "title": "NBA Contender Questions, James Bond and Early Oscars Talk With Matt Belloni, and Amazon CEO Andy Jassy Stops By",
-      "description": "The Ringer’s Bill Simmons asks six burning questions about the NBA contenders. Then, Matt Belloni comes on to react to Robert Pattinson being cast as the new James Bond before discussing the Oscars. Finally, Amazon CEO Andy Jassy comes on to talk about his career, the future, and being a Giants fan. (0:00) Intro (2:11) NBA contender questions (27:43) Robert Pattinson is James Bond (35:08) Oscars and Hollywood talk (49:41) Andy Jassy interview Host: Bill Simmons Guests: Matt Belloni and Andy Jassy ...",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT1869825667.mp3",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/suzhy316-CN/engsphere-podcast-data@main/covers/f004ba2bd5f686de.jpg",
-      "durationSeconds": 7012,
-      "datePublished": 1794958860,
       "titleZh": null,
       "descZh": null
     }
